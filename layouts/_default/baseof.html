@@ -4,8 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="light">
-  <title>{{ .Title }} | {{ .Site.Title }}</title>
-  <meta name="description" content="{{ .Description }}">
+  <title>{{ if .IsPage }}{{ .Title | truncate 55 }}{{ else }}{{ .Site.Title | truncate 55 }}{{ end }}</title>
+  <meta name="description" content="{{ .Description | truncate 155 }}">
+  <link rel="canonical" href="{{ .Permalink }}">
   
   <!-- Open Graph for Google Discover -->
   <meta property="og:title" content="{{ .Title }}">
