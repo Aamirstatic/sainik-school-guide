@@ -1,116 +1,240 @@
 {{ define "main" }}
 <style>
-  /* Cracku.in Style Article Layout */
+  /* Cracku.in Exact Article Layout */
+  :root {
+    --primary: #00BCD4;
+    --primary-100: #E6F3FA;
+    --primary-800: #0097A7;
+    --dark-900: #111928;
+    --dark-500: #6B7280;
+    --border: #DEDEDE;
+    --bg-body: #F7F9FB;
+  }
   
   /* Hero Section */
   .article-hero {
-    background: #E6F3FA;
+    background: var(--primary-100);
     padding: 40px 20px;
   }
+  @media (min-width: 1024px) { .article-hero { padding: 64px 20px; } }
   .article-hero-inner {
     max-width: 1200px;
     margin: 0 auto;
+    text-align: left;
   }
+  .article-hero-inner > * + * { margin-top: 16px; }
+  @media (min-width: 768px) { .article-hero-inner > * + * { margin-top: 20px; } }
   
   /* Breadcrumb */
   .breadcrumb {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 4px;
-    margin-bottom: 16px;
-    font-size: 13px;
-    color: #6B7280;
+    font-size: 14px;
+    color: var(--dark-500);
   }
   .breadcrumb a {
-    color: #6B7280;
+    color: var(--dark-500);
     text-decoration: none;
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    gap: 4px;
   }
-  .breadcrumb a:hover { color: #0097A7; }
-  .breadcrumb .separator { color: #9CA3AF; margin: 0 4px; }
-  .breadcrumb .current { color: #6B7280; }
+  .breadcrumb a:hover { color: var(--primary-800); }
+  .breadcrumb svg { width: 10px; height: 10px; color: #9CA3AF; margin: 0 4px; }
+  .breadcrumb .home-icon { width: 12px; height: 12px; margin-right: 10px; }
+  .breadcrumb .current { 
+    color: var(--dark-500); 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 300px;
+  }
   
-  /* Article Title */
+  /* Title */
   .article-title {
     font-size: 28px;
     font-weight: 700;
-    color: #111928;
+    color: #000;
     line-height: 1.3;
-    margin-bottom: 16px;
   }
+  @media (min-width: 768px) { .article-title { font-size: 36px; } }
   
-  /* Meta Info - Cracku Style */
+  /* Meta Info */
   .article-meta {
     display: flex;
-    align-items: center;
     flex-wrap: wrap;
-    gap: 8px;
+    align-items: center;
+    gap: 4px;
     font-size: 14px;
-    color: #6B7280;
+    color: var(--dark-500);
   }
-  .article-meta .meta-item {
+  @media (min-width: 768px) { .article-meta { font-size: 18px; } }
+  .meta-avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--primary);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: 700;
+    margin-left: 4px;
+  }
+  .meta-author {
+    color: var(--primary);
+    text-decoration: none;
+    padding-right: 8px;
+    border-right: 1px solid var(--dark-500);
+  }
+  .meta-author:hover { color: var(--primary-800); }
+  .meta-item {
     display: flex;
     align-items: center;
     gap: 4px;
-    padding-right: 8px;
-    border-right: 1px solid #6B7280;
   }
-  .article-meta .meta-item:last-child { border-right: none; }
-  .article-meta .meta-item svg { width: 16px; height: 16px; }
-  .article-meta .author-link { color: #00BCD4; text-decoration: none; }
-  .article-meta .author-link:hover { color: #0097A7; }
+  .meta-item svg { width: 24px; height: 24px; color: var(--dark-900); }
+  .meta-item .meta-value {
+    padding-right: 8px;
+    border-right: 1px solid var(--dark-500);
+  }
+  .meta-share {
+    color: var(--primary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .meta-share:hover { color: var(--primary-800); }
   
   /* CTA Buttons */
   .article-ctas {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-top: 16px;
   }
   .article-ctas a {
-    padding: 8px 16px;
-    border-radius: 4px;
-    font-size: 13px;
+    padding: 8px 12px;
+    font-size: 14px;
     font-weight: 500;
-    text-decoration: none;
+    border-radius: 4px;
     color: white;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
   }
-  .cta-blue { background: #0288D1; }
-  .cta-primary { background: #00BCD4; }
-  .cta-green { background: #16B364; }
+  .article-ctas a:hover { opacity: 0.9; }
+  .cta-info { background: #0288D1; }
+  .cta-primary { background: var(--primary); }
+  .cta-success { background: #16B364; }
   
-  /* Content Layout - Cracku Grid */
+  /* Hero Nav - Sticky Sub-Nav */
+  .hero-nav {
+    background: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    max-height: 50px;
+    overflow: hidden;
+    position: sticky;
+    top: 64px;
+    z-index: 10;
+  }
+  @media (min-width: 1024px) { .hero-nav { top: 104px; } }
+  .hero-nav-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .hero-nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .hero-nav-list li {
+    position: relative;
+  }
+  .hero-nav-list li::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: -1000%;
+    right: -1000%;
+    height: 1px;
+    background: var(--border);
+  }
+  .hero-nav-list a {
+    display: block;
+    padding: 12px 16px;
+    font-size: 14px;
+    color: var(--dark-900);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .hero-nav-list a:hover { color: var(--primary); }
+  
+  /* Content Grid */
   .article-grid {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 30px 20px;
+    padding: 28px 20px;
     display: grid;
-    grid-template-columns: 1fr 270px;
+    grid-template-columns: 1fr;
     gap: 32px;
+  }
+  @media (min-width: 1024px) { 
+    .article-grid { 
+      grid-template-columns: auto 270px; 
+      padding: 40px 20px;
+    } 
+  }
+  @media (min-width: 1280px) { .article-grid { grid-template-columns: auto 326px; } }
+  
+  /* Latest Updates Banner */
+  .updates-banner {
+    background: var(--primary-100);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 20px;
+    color: var(--dark-900);
+    font-size: 14px;
+  }
+  .updates-banner strong { color: #0288D1; }
+  .updates-banner a { color: var(--primary); font-weight: 500; }
+  
+  /* Featured Image */
+  .article-featured-img {
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    width: 100%;
+    margin-bottom: 20px;
   }
   
   /* TOC - Cracku Style */
   .toc-wrapper {
-    background: #E6F3FA;
+    background: var(--primary-100);
     border-radius: 8px;
     margin-bottom: 24px;
   }
   .toc-toggle {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    gap: 4px;
     width: 100%;
-    padding: 12px 16px;
-    background: none;
+    padding: 8px 12px;
+    background: var(--primary-100);
     border: none;
+    border-radius: 8px;
     cursor: pointer;
     font-size: 14px;
     font-weight: 600;
-    color: #111928;
+    color: var(--dark-900);
   }
+  @media (min-width: 640px) { .toc-toggle { font-size: 16px; width: auto; } }
   .toc-toggle svg { width: 16px; height: 16px; }
   .toc-list {
     list-style: disc;
@@ -120,150 +244,155 @@
   .toc-list.open { display: block; }
   .toc-list li { margin-bottom: 8px; }
   .toc-list a {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
-    color: #374151;
+    color: var(--dark-900);
     text-decoration: none;
+    cursor: pointer;
   }
-  .toc-list a:hover { color: #0097A7; }
+  .toc-list a:hover { color: var(--primary-800); }
   
-  /* Latest Updates Banner */
-  .updates-banner {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    background: #F0F8FF;
-    border: 1px solid #B3D9F2;
-    border-radius: 8px;
-    padding: 10px 14px;
-    margin-bottom: 20px;
-    font-size: 12px;
-  }
-  .updates-label {
-    font-weight: 600;
-    color: #0288D1;
-    white-space: nowrap;
-  }
-  .updates-text { color: #111928; }
-  .updates-text a { color: #00BCD4; font-weight: 500; }
-  
-  /* Article Content */
-  .article-content {
+  /* Blog Content */
+  .blog-content {
+    margin-top: 16px;
     font-size: 15px;
     line-height: 1.7;
     color: #374151;
   }
-  .article-content h2 {
+  .blog-content h2 {
     font-size: 22px;
     font-weight: 600;
-    color: #00BCD4;
+    color: var(--primary);
     margin: 32px 0 16px;
-    scroll-margin-top: 100px;
+    scroll-margin-top: 120px;
   }
-  .article-content h3 {
+  @media (max-width: 640px) { .blog-content h2 { scroll-margin-top: 110px; } }
+  .blog-content h3 {
     font-size: 18px;
     font-weight: 600;
-    color: #111928;
+    color: var(--dark-900);
     margin: 24px 0 12px;
-    scroll-margin-top: 100px;
+    scroll-margin-top: 120px;
   }
-  .article-content p { margin-bottom: 16px; }
-  .article-content ul, .article-content ol {
+  .blog-content p { margin-bottom: 16px; }
+  .blog-content ul, .blog-content ol {
     margin-bottom: 16px;
     padding-left: 24px;
   }
-  .article-content li { margin-bottom: 8px; }
-  .article-content strong { color: #111928; }
-  .article-content a { color: #00BCD4; text-decoration: none; }
-  .article-content a:hover { text-decoration: underline; }
-  .article-content blockquote {
-    border-left: 4px solid #00BCD4;
-    padding: 12px 16px;
-    margin: 16px 0;
-    background: #F0F8FF;
-    border-radius: 0 8px 8px 0;
-  }
+  .blog-content li { margin-bottom: 8px; }
+  .blog-content strong { color: var(--dark-900); }
+  .blog-content a { color: var(--primary); text-decoration: none; }
+  .blog-content a:hover { text-decoration: underline; }
   
   /* Tables - Cracku Style */
-  .article-content table {
+  .table-responsive {
+    overflow-x: auto;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  .data-table {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
     font-size: 14px;
-    border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    overflow: hidden;
+    text-align: center;
+    border: 1px solid var(--border);
   }
-  .article-content thead tr,
-  .article-content tr:first-child {
-    background: #00BCD4;
+  .data-table tr:first-child {
+    background: var(--primary);
     color: white;
   }
-  .article-content th {
-    font-weight: 600;
+  .data-table td {
     padding: 12px 16px;
-    text-align: center;
-    white-space: nowrap;
+    border: 1px solid var(--border);
   }
-  .article-content td {
-    padding: 12px 16px;
-    text-align: center;
-    border-bottom: 1px solid #DEDEDE;
-  }
-  .article-content tbody tr:hover { background: #F9FAFB; }
-  .article-content tbody tr:last-child td { border-bottom: none; }
+  .data-table tr:hover { background: #F9FAFB; }
+  .data-table p { margin: 0; }
   
-  /* Table wrapper for mobile scroll */
-  .table-wrapper {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    margin: 20px 0;
-    border-radius: 8px;
-    border: 1px solid #DEDEDE;
+  /* Feedback Section */
+  .feedback-section {
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 28px 20px;
+    text-align: center;
+    margin: 32px 0;
   }
-  .table-wrapper table {
-    margin: 0;
-    border: none;
-    border-radius: 0;
-    min-width: 600px;
+  @media (min-width: 640px) { .feedback-section { padding: 40px; } }
+  .feedback-title {
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--dark-900);
+    margin-bottom: 16px;
+  }
+  @media (min-width: 640px) { .feedback-title { font-size: 20px; } }
+  .feedback-emojis {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+  @media (min-width: 640px) { .feedback-emojis { gap: 20px; } }
+  .feedback-btn {
+    width: 48px;
+    height: 48px;
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    background: white;
+    cursor: pointer;
+    font-size: 24px;
+    transition: all 0.2s;
+  }
+  @media (min-width: 640px) { .feedback-btn { width: 80px; height: 80px; font-size: 36px; } }
+  .feedback-btn:hover {
+    border-color: var(--primary);
+    background: var(--primary-100);
   }
   
   /* FAQ - Cracku Style */
-  .faq-section {
-    margin: 32px 0;
+  .faq-section { margin: 32px 0; }
+  .faq-section h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--dark-900);
+    margin-bottom: 20px;
   }
+  @media (min-width: 768px) { .faq-section h2 { font-size: 24px; } }
+  @media (min-width: 1280px) { .faq-section h2 { font-size: 28px; } }
+  .faq-list { display: flex; flex-direction: column; gap: 10px; }
   .faq-item {
     background: white;
-    border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    margin-bottom: 10px;
-    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: 16px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    padding: 16px 24px;
   }
+  @media (min-width: 768px) { .faq-item { padding: 16px 24px; } }
   .faq-question {
     width: 100%;
     display: flex;
     align-items: center;
-    gap: 12px;
-    padding: 16px;
+    gap: 16px;
+    padding: 16px 0;
     background: none;
     border: none;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid #E5E7EB;
     cursor: pointer;
     text-align: left;
-    font-size: 15px;
-    color: #111928;
+    font-size: 16px;
+    color: var(--dark-900);
+    font-weight: 400;
   }
-  .faq-question.active { border-bottom-color: #E5E7EB; }
+  @media (min-width: 768px) { .faq-question { font-size: 18px; padding: 24px 0; } }
+  @media (min-width: 1536px) { .faq-question { font-size: 20px; } }
+  .faq-question.active { font-weight: 600; }
   .faq-icon {
     width: 32px;
     height: 32px;
-    background: #E6F3FA;
-    border-radius: 6px;
+    background: var(--primary-100);
+    border-radius: 4px;
+    padding: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #00BCD4;
+    color: var(--primary);
     flex-shrink: 0;
   }
   .faq-toggle {
@@ -273,119 +402,88 @@
   .faq-toggle.open { transform: rotate(180deg); }
   .faq-answer {
     display: none;
-    padding: 16px;
+    padding: 16px 0;
     font-size: 14px;
     color: #374151;
     line-height: 1.6;
+    font-weight: 400;
   }
+  @media (min-width: 768px) { .faq-answer { font-size: 16px; padding: 24px 0; } }
+  @media (min-width: 1536px) { .faq-answer { font-size: 20px; } }
   .faq-answer.open { display: block; }
   
-  /* Feedback Section - Cracku Style */
-  .feedback-section {
-    border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    padding: 24px;
-    text-align: center;
-    margin: 32px 0;
-  }
-  .feedback-title {
-    font-weight: 600;
-    font-size: 16px;
-    color: #111928;
-    margin-bottom: 16px;
-  }
-  .feedback-emojis {
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-  }
-  .feedback-btn {
-    width: 48px;
-    height: 48px;
-    border-radius: 8px;
-    border: 1px solid #DEDEDE;
-    background: white;
-    cursor: pointer;
-    font-size: 24px;
-    transition: all 0.2s;
-  }
-  .feedback-btn:hover {
-    border-color: #00BCD4;
-    background: #E6F3FA;
-  }
-  
-  /* Related Articles */
-  .related-section { margin: 32px 0; }
-  .related-title {
-    font-size: 20px;
-    font-weight: 600;
-    color: #111928;
-    margin-bottom: 16px;
-  }
+  /* Related Articles - Cracku Style */
+  .related-section { margin: 28px 0; }
+  @media (min-width: 640px) { .related-section { margin: 40px 0; } }
+  .related-section h2 { margin-bottom: 20px; }
   .related-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 16px;
   }
   .related-card {
     background: white;
-    border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    padding: 16px;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    display: grid;
+    gap: 12px;
     transition: all 0.2s;
   }
-  .related-card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transform: translateY(-2px);
-  }
+  .related-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
   .related-card-img {
-    height: 120px;
-    background: linear-gradient(135deg, #00BCD4, #0097A7);
-    border-radius: 6px;
-    margin-bottom: 12px;
+    width: 100%;
+    height: 146px;
+    background: linear-gradient(135deg, var(--primary), var(--primary-800));
+    border-radius: 16px;
   }
   .related-card-tag {
     display: inline-block;
-    background: #E6F3FA;
-    color: #0097A7;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 11px;
+    padding: 2px 10px;
+    font-size: 12px;
     font-weight: 500;
-    margin-bottom: 8px;
+    border-radius: 2px;
+    background: var(--primary-100);
+    color: #0097A7;
   }
   .related-card h3 {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 600;
-    color: #111928;
+    color: var(--dark-900);
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
+  @media (min-width: 640px) { .related-card h3 { font-size: 20px; } }
   .related-card h3 a { text-decoration: none; color: inherit; }
   
   /* Sidebar - Cracku Style */
   .sidebar { position: sticky; top: 90px; align-self: start; }
   .sidebar-widget {
     background: white;
-    border: 1px solid #DEDEDE;
-    border-radius: 8px;
+    border: 1px solid var(--border);
+    border-radius: 16px;
     overflow: hidden;
     margin-bottom: 20px;
   }
   .sidebar-widget-header {
-    background: linear-gradient(135deg, #01263b, #0367a1);
+    background: linear-gradient(to right, #01263b, #0367a1);
     color: white;
-    padding: 20px;
+    padding: 24px;
+    min-height: 158px;
   }
   .sidebar-widget-header h3 {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
   .sidebar-widget-header p {
-    font-size: 13px;
+    font-size: 14px;
     opacity: 0.9;
   }
-  .sidebar-widget-body { padding: 16px; }
+  .sidebar-widget-body { padding: 20px; }
   .sidebar-widget-body ul { list-style: none; }
   .sidebar-widget-body li {
     padding: 10px 0;
@@ -396,47 +494,54 @@
   .sidebar-cta {
     display: block;
     width: 100%;
-    background: #00BCD4;
+    background: var(--primary);
     color: white;
     text-align: center;
-    padding: 12px;
-    border-radius: 6px;
+    padding: 10px;
+    border-radius: 8px;
     text-decoration: none;
     font-weight: 600;
-    font-size: 14px;
-    margin-top: 12px;
+    font-size: 16px;
+    margin-top: 16px;
   }
-  .sidebar-cta:hover { background: #0097A7; }
+  .sidebar-cta:hover { background: var(--primary-800); }
   
   /* Recent Blogs Widget */
   .recent-blog-item {
     display: flex;
-    gap: 12px;
-    padding: 10px 0;
-    border-bottom: 1px solid #F3F4F6;
+    gap: 8px;
+    align-items: center;
+    padding: 4px 12px 4px 6px;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    cursor: pointer;
   }
-  .recent-blog-item:last-child { border: none; }
+  .recent-blog-item:hover { border-color: var(--primary); }
   .recent-blog-img {
     width: 64px;
     height: 64px;
-    background: linear-gradient(135deg, #00BCD4, #0097A7);
-    border-radius: 6px;
+    background: linear-gradient(135deg, var(--primary), var(--primary-800));
+    border-radius: 16px;
     flex-shrink: 0;
   }
   .recent-blog-tag {
     display: inline-block;
-    background: #E6F3FA;
-    color: #0097A7;
-    padding: 2px 6px;
-    border-radius: 2px;
-    font-size: 10px;
+    padding: 2px 10px;
+    font-size: 12px;
     font-weight: 500;
+    border-radius: 2px;
+    background: var(--primary-100);
+    color: #0097A7;
   }
   .recent-blog-title {
-    font-size: 13px;
-    font-weight: 500;
-    color: #111928;
+    font-size: 14px;
+    color: var(--dark-900);
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .recent-blog-title a { text-decoration: none; color: inherit; }
   
@@ -450,7 +555,7 @@
     box-shadow: 0 -4px 6px rgba(0,0,0,0.1);
     border-top: 1px solid #E5E7EB;
     z-index: 1000;
-    padding: 12px 20px;
+    padding: 8px 20px;
   }
   .sticky-bar-inner {
     max-width: 1200px;
@@ -459,221 +564,99 @@
     align-items: center;
     justify-content: space-between;
   }
-  .sticky-bar-text { font-size: 14px; font-weight: 600; color: #111928; }
-  .sticky-bar-sub { font-size: 12px; color: #6B7280; }
+  .sticky-bar-text { font-size: 14px; font-weight: 600; color: var(--dark-900); }
+  .sticky-bar-sub { font-size: 12px; color: var(--dark-500); }
   .sticky-bar-btn {
-    background: #00BCD4;
+    background: var(--primary);
     color: white;
-    padding: 10px 24px;
-    border-radius: 6px;
+    padding: 8px 12px;
+    border-radius: 4px;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
   }
   
-  /* Responsive */
+  /* Mobile Responsive */
   @media (max-width: 992px) {
-    .article-grid {
-      grid-template-columns: 1fr;
-      max-width: 100%;
-    }
+    .article-grid { grid-template-columns: 1fr; }
     .sidebar { position: static; order: 1; }
-    .related-grid { grid-template-columns: repeat(2, 1fr); }
   }
-  
   @media (max-width: 768px) {
-    .article-hero { 
-      padding: 20px 12px; 
-      max-width: 100%;
-      overflow: hidden;
-    }
-    .article-hero-inner {
-      max-width: 100%;
-      overflow: hidden;
-    }
-    .article-title { 
-      font-size: 20px; 
-      word-wrap: break-word;
-      overflow-wrap: break-word;
-    }
-    .article-meta { 
-      font-size: 11px; 
-      gap: 4px; 
-      flex-wrap: wrap;
-    }
-    .article-meta .meta-item { 
-      padding-right: 4px; 
-      font-size: 11px;
-    }
-    .article-grid { 
-      padding: 12px; 
-      gap: 16px;
-      max-width: 100%;
-      overflow: hidden;
-    }
-    .article-content { 
-      font-size: 14px;
-      max-width: 100%;
-      overflow-wrap: break-word;
-      word-wrap: break-word;
-    }
-    .article-content h2 { font-size: 18px; margin: 20px 0 10px; }
-    .article-content h3 { font-size: 15px; }
-    .article-content p { font-size: 14px; }
-    .article-content ul, .article-content ol { padding-left: 20px; }
-    .article-content li { font-size: 14px; }
-    
-    /* Tables Mobile */
-    .table-wrapper {
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      margin: 16px 0;
-      border-radius: 8px;
-      border: 1px solid #DEDEDE;
-    }
-    .table-wrapper table {
-      margin: 0;
-      border: none;
-      border-radius: 0;
-      min-width: 500px;
-      font-size: 11px;
-    }
-    .article-content th, .article-content td { 
-      padding: 8px 6px; 
-      font-size: 11px;
-    }
-    
-    /* TOC Mobile */
-    .toc-wrapper {
-      margin-bottom: 16px;
-    }
-    .toc-toggle {
-      padding: 10px 12px;
-      font-size: 13px;
-    }
-    .toc-list {
-      padding: 0 12px 12px 30px;
-    }
-    .toc-list a {
-      font-size: 12px;
-    }
-    
-    /* FAQ Mobile */
-    .faq-item { margin-bottom: 8px; }
-    .faq-question { 
-      padding: 10px 12px; 
-      font-size: 13px; 
-      gap: 8px; 
-    }
-    .faq-icon { width: 24px; height: 24px; font-size: 12px; }
-    .faq-answer { padding: 10px 12px; font-size: 12px; }
-    
-    /* Feedback Mobile */
-    .feedback-section { padding: 16px; }
-    .feedback-title { font-size: 14px; }
-    .feedback-btn { width: 36px; height: 36px; font-size: 18px; }
-    .feedback-emojis { gap: 8px; }
-    
-    /* Related Mobile */
-    .related-section { margin: 20px 0; }
-    .related-title { font-size: 16px; }
-    .related-grid { grid-template-columns: 1fr; gap: 12px; }
-    .related-card { padding: 12px; }
-    .related-card-img { height: 100px; }
-    
-    /* Sidebar Mobile */
-    .sidebar { 
-      display: grid; 
-      grid-template-columns: 1fr; 
-      gap: 12px;
-      max-width: 100%;
-    }
+    .article-hero { padding: 24px 16px; }
+    .article-title { font-size: 22px; }
+    .article-meta { font-size: 12px; }
+    .article-grid { padding: 16px; gap: 20px; }
+    .blog-content { font-size: 14px; }
+    .blog-content h2 { font-size: 18px; }
+    .blog-content h3 { font-size: 16px; }
+    .toc-toggle { font-size: 13px; padding: 8px 10px; }
+    .toc-list { padding: 0 12px 12px 30px; }
+    .toc-list a { font-size: 13px; }
+    .table-responsive { margin: 16px 0; }
+    .data-table { font-size: 12px; }
+    .data-table td { padding: 8px 10px; }
+    .faq-item { padding: 12px 16px; }
+    .faq-question { font-size: 14px; gap: 10px; }
+    .faq-icon { width: 28px; height: 28px; }
+    .faq-answer { font-size: 13px; }
+    .feedback-section { padding: 20px; }
+    .feedback-btn { width: 40px; height: 40px; font-size: 20px; }
+    .related-grid { grid-template-columns: 1fr; }
+    .sidebar { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
     .sidebar-widget { margin-bottom: 0; }
-    .sidebar-widget-header { padding: 14px; }
-    .sidebar-widget-header h3 { font-size: 15px; }
-    .sidebar-widget-body { padding: 12px; }
-    .sidebar-widget-body li { font-size: 13px; padding: 8px 0; }
-    .sidebar-cta { padding: 10px; font-size: 13px; }
-    
-    /* Sticky Bar Mobile */
     .sticky-bar { padding: 8px 12px; }
     .sticky-bar-text { font-size: 12px; }
-    .sticky-bar-sub { font-size: 10px; }
-    .sticky-bar-btn { padding: 8px 14px; font-size: 12px; }
-    
-    /* Updates Banner Mobile */
-    .updates-banner {
-      flex-direction: column;
-      align-items: flex-start;
-      padding: 8px 10px;
-      gap: 4px;
-      font-size: 11px;
-    }
+    .sticky-bar-btn { padding: 8px 10px; font-size: 12px; }
   }
-  
   @media (max-width: 480px) {
-    .article-hero { padding: 16px 10px; }
-    .article-title { font-size: 17px; }
-    .article-meta .meta-item { font-size: 10px; }
-    .article-grid { padding: 10px; }
-    .article-content h2 { font-size: 16px; }
-    .article-content h3 { font-size: 14px; }
-    .table-wrapper table { 
-      font-size: 10px; 
-      min-width: 400px;
-    }
-    .article-content th, .article-content td { 
-      padding: 6px 4px; 
-      font-size: 10px;
-    }
+    .article-title { font-size: 18px; }
+    .blog-content h2 { font-size: 16px; }
     .sidebar { grid-template-columns: 1fr; }
-    .feedback-btn { width: 32px; height: 32px; font-size: 16px; }
   }
 </style>
 
-<!-- Hero Section - Cracku Style -->
+<!-- Hero Section -->
 <section class="article-hero">
   <div class="article-hero-inner">
-    <!-- Breadcrumb -->
     <nav class="breadcrumb">
-      <a href="/">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>
-        Home
+      <a href="/" class="home-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>
       </a>
-      <span class="separator">›</span>
       {{ if eq .Section "blog" }}
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
         <a href="/blog/">Blog</a>
-        <span class="separator">›</span>
       {{ else if eq .Section "schools" }}
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
         <a href="/sainik-schools/">Schools</a>
-        <span class="separator">›</span>
       {{ end }}
-      <span class="current">{{ .Title | truncate 50 }}</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+      <span class="current">{{ .Title }}</span>
     </nav>
     
-    <!-- Title -->
     <h1 class="article-title">{{ .Title }}</h1>
     
-    <!-- Meta Info -->
     <div class="article-meta">
-      <div class="meta-item">
-        <div style="width:20px;height:20px;background:#00BCD4;border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-size:10px;font-weight:700;">SS</div>
-        <a href="#" class="author-link">Sainik School Guide Team</a>
-      </div>
+      <div class="meta-avatar">SS</div>
+      <a href="#" class="meta-author">Sainik School Guide Team</a>
       <div class="meta-item">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-        {{ .Date.Format "Jan 2, 2006" }}
+        <span class="meta-value">{{ .Date.Format "Jan 02, 2006" }}</span>
       </div>
-      <div class="meta-item">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-        {{ .ReadingTime }} min read
+      <div class="meta-share">
+        <span>Share</span>
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
       </div>
     </div>
     
-    <!-- CTA Buttons -->
     <div class="article-ctas">
-      <a href="/aissee/" class="cta-primary">AISSEE Guide</a>
-      <a href="/sainik-schools/" class="cta-blue">All Schools</a>
+      <a href="/aissee/" class="cta-primary">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        AISSEE Guide
+      </a>
+      <a href="/sainik-schools/" class="cta-info">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        All Schools
+      </a>
     </div>
   </div>
 </section>
@@ -684,27 +667,28 @@
   <main>
     <!-- Latest Updates -->
     <div class="updates-banner">
-      <span class="updates-label">📢 Latest:</span>
-      <span class="updates-text">AISSEE 2027 notification expected September 2026. <a href="/aissee/">Read More →</a></span>
+      <strong>📢 Latest:</strong> AISSEE 2027 notification expected September 2026. <a href="/aissee/">Read More →</a>
     </div>
     
     <!-- TOC -->
     <div class="toc-wrapper" id="tocContainer" style="display:none;">
       <button class="toc-toggle" onclick="toggleTOC()">
-        <span>📑 Table of Contents</span>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        <span>Table of Content</span>
+        <svg class="toc-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+        <svg class="toc-minus" style="display:none;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/></svg>
       </button>
       <ul class="toc-list" id="tocList"></ul>
     </div>
     
     <!-- Article Content -->
-    <div class="article-content" id="articleContent">
+    <div class="blog-content" id="articleContent">
       {{ .Content }}
     </div>
     
     <!-- Feedback -->
     <div class="feedback-section">
-      <p class="feedback-title">How helpful was this article?</p>
+      <p class="feedback-title">How helpful did you find this article?</p>
       <div class="feedback-emojis">
         <button class="feedback-btn" onclick="submitFeedback(1)">😞</button>
         <button class="feedback-btn" onclick="submitFeedback(2)">😐</button>
@@ -716,7 +700,7 @@
     
     <!-- Related Articles -->
     <div class="related-section">
-      <h2 class="related-title">Related Articles</h2>
+      <h2>Related Articles</h2>
       <div class="related-grid">
         {{ $currentSection := .Section }}
         {{ $currentTitle := .Title }}
@@ -724,33 +708,38 @@
         <a href="{{ .Permalink }}" class="related-card">
           <div class="related-card-img"></div>
           <span class="related-card-tag">{{ .Section | upper }}</span>
-          <h3>{{ .Title | truncate 60 }}</h3>
+          <h3>{{ .Title }}</h3>
         </a>
         {{ end }}
       </div>
+    </div>
+    
+    <!-- FAQ -->
+    <div class="faq-section" id="faqSection">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list" id="faqList"></div>
     </div>
   </main>
   
   <!-- Sidebar -->
   <aside class="sidebar">
-    <!-- AISSEE Course -->
     <div class="sidebar-widget">
       <div class="sidebar-widget-header">
         <h3>AISSEE 2027 Course</h3>
-        <p>Complete prep for Class 6 & 9</p>
+        <p>Complete preparation guide for Class 6 & 9</p>
       </div>
       <div class="sidebar-widget-body">
         <ul>
-          <li>✓ Study material</li>
-          <li>✓ Previous papers</li>
-          <li>✓ Mock tests</li>
-          <li>✓ Expert tips</li>
+          <li>✓ Comprehensive study material</li>
+          <li>✓ Previous year papers with solutions</li>
+          <li>✓ Mock tests & practice questions</li>
+          <li>✓ Expert guidance & tips</li>
+          <li>✓ Important dates & notifications</li>
         </ul>
-        <a href="/aissee/" class="sidebar-cta">View Guide →</a>
+        <a href="/aissee/" class="sidebar-cta">View AISSEE Guide →</a>
       </div>
     </div>
     
-    <!-- Recent Blogs -->
     <div class="sidebar-widget">
       <div class="sidebar-widget-header">
         <h3>Recent Articles</h3>
@@ -765,7 +754,7 @@
           </div>
         </div>
         {{ end }}
-        <a href="/blog/" style="color:#00BCD4;font-size:13px;display:block;margin-top:8px;">Read More →</a>
+        <a href="/blog/" style="color:var(--primary);font-size:13px;display:block;margin-top:8px;">Read More →</a>
       </div>
     </div>
   </aside>
@@ -788,7 +777,10 @@ document.addEventListener('DOMContentLoaded', function() {
   const headings = content.querySelectorAll('h2, h3');
   const tocContainer = document.getElementById('tocContainer');
   const tocList = document.getElementById('tocList');
+  const faqSection = document.getElementById('faqSection');
+  const faqList = document.getElementById('faqList');
   
+  // Generate TOC
   const hasManualTOC = content.querySelector('h2') && content.querySelector('h2').textContent.includes('Table of Contents');
   
   if (headings.length > 0 && !hasManualTOC) {
@@ -811,34 +803,85 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
-  // FAQ accordion
-  document.querySelectorAll('.faq-question').forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      const answer = this.nextElementSibling;
-      const toggle = this.querySelector('.faq-toggle');
-      this.classList.toggle('active');
-      answer.classList.toggle('open');
-      toggle.classList.toggle('open');
-    });
+  // Generate FAQ from h3 headings in FAQ section
+  const faqHeadings = [];
+  let inFAQ = false;
+  content.querySelectorAll('h2, h3').forEach(function(h) {
+    if (h.textContent.includes('FAQ') || h.textContent.includes('Frequently Asked')) {
+      inFAQ = true;
+      return;
+    }
+    if (inFAQ && h.tagName === 'H3') {
+      faqHeadings.push(h);
+    } else if (inFAQ && h.tagName === 'H2') {
+      inFAQ = false;
+    }
   });
   
-  // Wrap tables for mobile scroll
-  document.querySelectorAll('.article-content table').forEach(function(table) {
+  if (faqHeadings.length > 0) {
+    faqHeadings.forEach(function(heading, index) {
+      const question = heading.textContent;
+      let answer = '';
+      let nextEl = heading.nextElementSibling;
+      while (nextEl && nextEl.tagName !== 'H3' && nextEl.tagName !== 'H2') {
+        answer += nextEl.outerHTML;
+        const temp = nextEl.nextElementSibling;
+        nextEl.remove();
+        nextEl = temp;
+      }
+      heading.remove();
+      
+      const faqItem = document.createElement('div');
+      faqItem.className = 'faq-item';
+      faqItem.innerHTML = 
+        '<button class="faq-question" onclick="toggleFAQ(this)">' +
+          '<span class="faq-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 015.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span>' +
+          '<span>' + question + '</span>' +
+          '<span class="faq-toggle"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="12" height="12"><polyline points="6 9 12 15 18 9"/></svg></span>' +
+        '</button>' +
+        '<div class="faq-answer">' + answer + '</div>';
+      faqList.appendChild(faqItem);
+    });
+  } else {
+    faqSection.style.display = 'none';
+  }
+  
+  // Wrap tables
+  document.querySelectorAll('.blog-content table').forEach(function(table) {
     const wrapper = document.createElement('div');
-    wrapper.className = 'table-wrapper';
+    wrapper.className = 'table-responsive';
     table.parentNode.insertBefore(wrapper, table);
     wrapper.appendChild(table);
+    table.classList.add('data-table');
   });
 });
 
 function toggleTOC() {
-  document.getElementById('tocList').classList.toggle('open');
+  const list = document.getElementById('tocList');
+  const plus = document.querySelector('.toc-plus');
+  const minus = document.querySelector('.toc-minus');
+  list.classList.toggle('open');
+  if (list.classList.contains('open')) {
+    plus.style.display = 'none';
+    minus.style.display = 'block';
+  } else {
+    plus.style.display = 'block';
+    minus.style.display = 'none';
+  }
+}
+
+function toggleFAQ(btn) {
+  const answer = btn.nextElementSibling;
+  const toggle = btn.querySelector('.faq-toggle');
+  btn.classList.toggle('active');
+  answer.classList.toggle('open');
+  toggle.classList.toggle('open');
 }
 
 function submitFeedback(rating) {
   document.querySelectorAll('.feedback-btn').forEach(function(btn, i) {
-    btn.style.borderColor = i === rating - 1 ? '#00BCD4' : '#DEDEDE';
-    btn.style.background = i === rating - 1 ? '#E6F3FA' : 'white';
+    btn.style.borderColor = i === rating - 1 ? '#F59E0B' : '#DEDEDE';
+    btn.style.background = i === rating - 1 ? '#FEF3C7' : 'white';
   });
 }
 </script>
