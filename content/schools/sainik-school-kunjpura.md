@@ -2,161 +2,172 @@
 title: "Sainik School Kunjpura - Complete Guide 2026"
 date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Kunjpura in Haryana. History, admission process, fees, seats, facilities, contact details, and more."
-keywords: ["sainik school kunjpura", "sainik school haryana", "sainik school kunjpura admission", "sainik school kunjpura fees", "ss kunjpura"]
-established: "1961"
+description: "Sainik School Kunjpura in Karnal, Haryana — one of India's first 5 Sainik Schools, est. 1961. Haryana's military school with strong NDA tradition. Admission, fees."
+keywords: ["sainik school kunjpura", "sainik school haryana", "sainik school kunjpura admission", "sainik school kunjpura fees", "sainik school karnal", "sainik school kunjpura NDA"]
 state: "Haryana"
+established: "1961"
 ---
 
-# Sainik School Kunjpura
+# Sainik School Kunjpura — Haryana's First Five
 
-Sainik School Kunjpura Haryana ka sabse purana Sainik School hai jo 1961 mein establish hua. Yeh school Karnal district ke Kunjpura village mein sthit hai. School CBSE se affiliated hai aur India ke oldest Sainik Schools mein se ek hai. School ne decades mein bahut saare armed forces officers produce kiye hain.
+When the Government of India established the first Sainik Schools in 1961, only five were in the inaugural batch. Sainik School Kunjpura, in Karnal district of Haryana, was one of them. The others were Satara (Maharashtra), Kunjpura (Haryana), Amaravathinagar (Tamil Nadu), Korukonda (Andhra Pradesh), and Chittorgarh (Rajasthan). That Kunjpura made the first cut is no accident — Haryana, with its deep military tradition and the highest per-capita representation in the Indian Army (alongside Punjab and Rajasthan), was a natural choice.
 
-## 📍 Location & Contact
+Sainik School Kunjpura is jointly operated by the Ministry of Defence and the Haryana state government. Located on the outskirts of Karnal — a city on the Grand Trunk Road that has been a military staging ground since Mughal times — the school draws cadets from Haryana's Jat, Gujjar, Rajput, and other communities that have a centuries-old tradition of military service.
 
-- **Address:** Sainik School Kunjpura, Karnal, Haryana - 132001
-- **Phone:** 0184-2266340
-- **Email:** sskunjpura@gmail.com
-- **Website:** [sskunjpura.org](https://sskunjpura.org)
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Kunjpura+Karnal)
+## Quick Facts
 
-## 🏫 About the School
+| Detail | Info |
+|--------|------|
+| Established | 1961 — one of India's first 5 Sainik Schools |
+| Location | Kunjpura, Karnal, Haryana |
+| Campus | Located on Karnal outskirts |
+| CBSE Affiliation | Yes |
+| Classes | VI to XII |
+| Medium | English & Hindi |
+| Type | Residential |
+| Website | [sskunjpura.org](https://sskunjpura.org/) |
+| Phone | +91 9306057684 (09:00 AM – 05:00 PM) |
+| Email | sskunjpura@sainikschoolsociety.in |
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 1961 |
-| **State** | Haryana |
-| **District** | Karnal |
-| **Campus Area** | 200+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+## History & Legacy
 
-Sainik School Kunjpura की स्थापना 1961 में हुई थी। यह Haryana ka sabse purana Sainik School hai aur India ke oldest Sainik Schools mein se ek hai. School Karnal district ke Kunjpura village mein hai. School ka campus bahut bada hai aur well-maintained infrastructure hai.
+### The Inaugural Five
 
-## 🎯 Admission Process
+Sainik School Kunjpura was established in 1961 as one of the first five Sainik Schools in India. The school was conceived under the vision of Defence Minister V.K. Krishna Menon to create a feeder pipeline for the National Defence Academy. Haryana — then part of Punjab (Haryana was carved out in 1966) — was selected for its strong military recruitment tradition.
 
-### Eligibility Criteria (पात्रता मानदंड)
+The school is jointly operated by the Ministry of Defence and the Haryana state government, a dual governance structure that ensures both military standards and state-level support.
 
-**For Class 6 (कक्षा 6 के लिए):**
-- Age (आयु): 10-12 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 5
-- Exam (परीक्षा): AISSEE conducted by NTA
+### The Karnal Connection
 
-**For Class 9 (कक्षा 9 के लिए):**
-- Age (आयु): 13-15 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 8
-- Exam (परीक्षा): AISSEE conducted by NTA
+Karnal has been a military town for centuries. The Grand Trunk Road — the ancient highway connecting Delhi to Peshawar — passes through Karnal, and the city has been a staging ground for armies from the Mughals to the British. The region's Jat and Gujjar communities have a long tradition of military service, and the Indian Army's Jat Regiment and other units draw heavily from this area.
 
-### Admission Steps (प्रवेश प्रक्रिया)
-1. **Apply Online (ऑनलाइन आवेदन)** through NTA website (exams.nta.nic.in/sainik-school-society)
-2. **Appear for AISSEE (AISSEE परीक्षा दें)** — usually held in January
-3. **Check Results (परिणाम जांचें)** on NTA website
-4. **Medical Test (मेडिकल टेस्ट)** for shortlisted candidates
-5. **Final Merit List (अंतिम मेरिट सूची)** based on AISSEE score + medical fitness
-6. **Admission (प्रवेश)** with required documents
+Sainik School Kunjpura taps into this martial tradition, offering Haryana's youth a structured path to the NDA that goes beyond the informal military recruitment networks.
 
-### Important Dates (Tentative for 2027)
-- **Application Start:** October 2026
-- **Last Date:** November 2026
-- **Exam Date:** January 2027
-- **Results:** February 2027
-- **Medical Test:** March 2027
-- **Session Start:** April 2027
+### The Kunjeyans
 
-### Haryana Domicile Reservation
+Alumni of Sainik School Kunjpura are known as "Kunjeyans" — a community that maintains strong connections through the school's alumni network. The school has produced numerous commissioned officers, gallantry award winners, and distinguished alumni across the armed forces and civil services.
 
-Haryana ke students ko **67% seats reserved** hain. Baaki 33% seats other states ke students ke liye hain.
+## Location & Contact
 
-## 💰 Fee Structure (शुल्क संरचना)
+- **Address:** Sainik School Kunjpura, Karnal, Haryana
+- **Phone:** +91 9306057684 (09:00 AM – 05:00 PM)
+- **Email:** sskunjpura@sainikschoolsociety.in
+- **Website:** [sskunjpura.org](https://sskunjpura.org/)
+- **Nearest Railway:** Karnal Railway Station
+- **Nearest Airport:** Indira Gandhi International Airport, Delhi (approx. 130 km)
+- **Road Connectivity:** On NH-44 (Delhi-Chandigarh highway); 130 km from Delhi, 125 km from Chandigarh
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹85,000 |
-| Hostel Fee | ₹42,000 |
-| Mess Charges | ₹58,000 |
-| Uniform | ₹14,000 |
-| Books & Stationery | ₹10,000 |
-| Other Charges | ₹12,000 |
-| **Total** | **₹2,21,000** |
+## Admission Details
 
-*Note: Fees are subject to change. SC/ST candidates get fee concessions. Defence personnel ke bachchon ke liye vishesh chhoot hai.*
+### Eligibility
 
-## 🏗️ Facilities (सुविधाएं)
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
 
-### Academic (शैक्षणिक)
-- Smart classrooms with modern teaching aids
-- Well-equipped Science, Maths, and Computer labs
-- Library with extensive collection
-- Digital learning resources
+**Class IX:**
+- Age: 13–15 years as on 31 March
+- Currently in Class VIII
 
-### Sports & Activities (खेल और गतिविधियां)
-- Athletic track
-- Football and hockey grounds
-- Basketball and volleyball courts
-- NCC training (compulsory)
-- Swimming pool
-- Indoor games complex
+### Process
 
-### Hostel & Mess (हॉस्टल और मेस)
-- Separate hostels for junior and senior students
-- Nutritious vegetarian and non-vegetarian meals
-- 24/7 medical facility
-- Wardens for each hostel
+1. AISSEE registration
+2. AISSEE examination (January)
+3. AISSAC counselling
+4. Medical examination
+5. Admission — [registration details](https://sskunjpura.org/detail.php?mid=NA==&sid=MzY=)
 
-### Other Facilities (अन्य सुविधाएं)
-- Auditorium for cultural events
-- Music and art rooms
-- Career counseling cell
-- Strong alumni network
+### Reservation
 
-## 📊 Academic Performance (शैक्षणिक प्रदर्शन)
+67% seats for Haryana domicile. 33% for other states.
 
-| Year | 10th Board (%) | 12th Board (%) | NDA Selections |
-|------|----------------|----------------|----------------|
-| 2025 | 98% | 95% | 10+ |
-| 2024 | 97% | 94% | 9+ |
-| 2023 | 96% | 93% | 8+ |
+## Fee Structure
 
-## 🎖️ Notable Alumni (प्रसिद्ध पूर्व छात्र)
+- [Fee Structure](https://sskunjpura.org/detail.php?mid=NA==&sid=Mzg=)
+- [Fee Schedule](https://sskunjpura.org/detail.php?mid=NA==&sid=Mzk=)
+- [Make Payment](https://sskunjpura.org/detail.php?mid=NA==&sid=NDA=)
+- [Scholarships](https://sskunjpura.org/detail.php?mid=NA==&sid=NDE=)
+- [Fee Demand 2025-26](https://sskunjpura.org/detail.php?mid=NA==&sid=NzE=)
 
-Sainik School Kunjpura ke alumni Indian Armed Forces mein highest positions pe rahe hain. School ka 60+ years ka legacy hai aur hundreds of officers produce kiye hain. Alumni network bahut strong hai aur regularly events organize karta hai.
+## Facilities
 
-## ❓ Frequently Asked Questions (अक्सर पूछे जाने वाले सवाल)
+### Academic
 
-### Sainik School Kunjpura mein admission kaise lein?
-Admission AISSEE ke through hota hai jo NTA conduct karti hai. Online apply karein, exam dein, medical test clear karein, aur merit ke basis par admission milega.
+- CBSE-affiliated curriculum
+- [Academic Curriculum](https://sskunjpura.org/detail.php?mid=Mg==&sid=MTM=)
+- [NDA Classes](https://sskunjpura.org/nda-classes.php?mid=Mg==&sid=Mjk=)
+- [Mathematics Classes](https://sskunjpura.org/detail.php?mid=Mg==&sid=MzE=)
+- [Sample Papers](https://sskunjpura.org/detail.php?mid=Mg==&sid=NzM=)
+- [Syllabus](https://sskunjpura.org/detail.php?mid=Mg==&sid=NzQ=)
+- [Homework](https://sskunjpura.org/detail.php?mid=Mg==&sid=Njg=)
 
-### Kya Haryana ke students ko reservation milta hai?
-Haan, 67% seats Haryana domicile students ke liye reserved hain. Baaki 33% seats other states ke liye hain.
+### Activities & Training
 
-### Haryana mein kitne Sainik Schools hain?
-Haryana mein **do Sainik Schools** hain:
-1. Sainik School Kunjpura (established 1961)
-2. Sainik School Rewari (established 2009)
+- [Student Life](https://sskunjpura.org/detail.php?mid=Mg==&sid=MTQ=)
+- [Personality Development](https://sskunjpura.org/detail.php?mid=Mg==&sid=MTU=)
+- [Clubs](https://sskunjpura.org/detail.php?mid=Mg==&sid=MTY=)
+- [NCC](https://sskunjpura.org/detail.php?mid=Mg==&sid=Mjg=)
+- [GAT (General Awareness Test)](https://sskunjpura.org/detail.php?mid=Mg==&sid=MzA=)
+- [Adventure Trips](https://sskunjpura.org/detail.php?mid=Nw==&sid=MjM=)
 
-### Medium of instruction kya hai?
-Medium of instruction English hai. Hindi compulsory language ke roop mein padhai jaati hai.
+### Residential
 
-### Kya girls bhi apply kar sakti hain?
-Haan, girls bhi Class 6 mein admission ke liye apply kar sakti hain.
+- [School Administration](https://sskunjpura.org/school-admin.php?mid=MQ==&sid=NA==)
+- [Aerial View](https://sskunjpura.org/detail.php?mid=MQ==&sid=NDc=) of campus
+- [Location](https://sskunjpura.org/detail.php?mid=MQ==&sid=NDg=)
 
-## 🔗 Related Links
+### Alumni & Achievements
 
-- [Sainik School Kunjpura Official Website](https://sskunjpura.org)
-- [Sainik School Rewari (Haryana's other Sainik School)](/schools/sainik-school-rewari/)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in India](/sainik-schools/)
+- [Alumni](https://sskunjpura.org/detail.php?mid=Mw==&sid=MzM=)
+- [Prominent Alumni](https://sskunjpura.org/detail.php?mid=Mw==&sid=NzU=)
+- [Awardees](https://sskunjpura.org/detail.php?mid=Mw==&sid=NzY=)
+- [Shining Alumni](https://sskunjpura.org/detail.php?mid=Mw==&sid=Nzc=)
+- [Kunjeyans Achievers Galore](https://sskunjpura.org/detail.php?mid=Mw==&sid=Nzg=)
+- [Our Achievements](https://sskunjpura.org/detail.php?mid=MQ==&sid=Ng==)
 
+### Social Responsibility
+
+- [Ek Bharat Shreshtha Bharat](https://sskunjpura.org/detail.php?mid=Nw==&sid=NTc=)
+- [Puneet Sagar Abhiyan](https://sskunjpura.org/detail.php?mid=Nw==&sid=NTg=)
+
+## Academic & NDA Performance
+
+The school publishes achievement data on the [Our Achievements](https://sskunjpura.org/detail.php?mid=MQ==&sid=Ng==) page. Given Haryana's strong military recruitment tradition, Kunjpura has a consistent record of NDA selections.
+
+## Notable Alumni
+
+The school maintains extensive alumni records:
+- [Prominent Alumni](https://sskunjpura.org/detail.php?mid=Mw==&sid=NzU=)
+- [Awardees](https://sskunjpura.org/detail.php?mid=Mw==&sid=NzY=)
+- [Shining Alumni](https://sskunjpura.org/detail.php?mid=Mw==&sid=Nzc=)
+- [Kunjeyans Achievers Galore](https://sskunjpura.org/detail.php?mid=Mw==&sid=Nzg=)
+- [Alumni Database](https://sskunjpura.org/alumni-database.php?mid=Mw==&sid=ODA=)
+
+## FAQs
+
+**Q: Is Sainik School Kunjpura one of the first Sainik Schools?**
+A: Yes. It was one of the first five Sainik Schools established in 1961, alongside Satara, Amaravathinagar, Korukonda, and Chittorgarh.
+
+**Q: What does "Kunjeyan" mean?**
+A: It's the term for alumni of Sainik School Kunjpura — derived from the school's name.
+
+**Q: How far is the school from Delhi?**
+A: Approximately 130 km, on the Delhi-Chandigarh highway (NH-44).
+
+**Q: Who operates the school?**
+A: Jointly by the Ministry of Defence and the Haryana state government.
+
+**Q: What social responsibility initiatives does the school have?**
+A: The school participates in Ek Bharat Shreshtha Bharat and Puneet Sagar Abhiyan (beach and river cleaning campaigns).
+
+**Q: Does the school have adventure trips?**
+A: Yes. Adventure trips are part of the school's extracurricular program.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Haryana](/blog/sainik-schools-haryana/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
+- [NDA Exam Preparation](/blog/nda-exam-preparation/)

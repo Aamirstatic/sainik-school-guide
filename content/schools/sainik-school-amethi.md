@@ -1,131 +1,124 @@
 ---
 title: "Sainik School Amethi - Complete Guide 2026"
-date: 2026-06-30
+date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Amethi in Uttar Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
-keywords: ["sainik school amethi", "sainik school uttar pradesh", "sainik school amethi admission", "sainik school amethi fees"]
-established: "2015"
+description: "Sainik School Amethi in Uttar Pradesh — est. 2020, CBSE 2120152. UP's newest Sainik School. Admission, fees, campus details, NDA results."
+keywords: ["sainik school amethi", "sainik school uttar pradesh", "sainik school amethi admission", "sainik school amethi fees", "sainik school amethi NDA"]
 state: "Uttar Pradesh"
+established: "2020"
 ---
 
-# Sainik School Amethi
+# Sainik School Amethi — UP's Newest Military School, Born in a Pandemic
 
-Sainik School Amethi Uttar Pradesh ka ek relatively naya Sainik School hai jo 2015 mein establish hua. Yeh school Amethi district mein sthit hai aur CBSE se affiliated hai. School students ko NDA aur defence services ke liye tayyar karta hai.
+Sainik School Amethi has the distinction of being one of the youngest Sainik Schools in India — and the only one whose first academic session began during a global pandemic. The Memorandum of Agreement between the Ministry of Defence and the Uttar Pradesh state government was signed on 30th April 2015, but it took five years for the school to become operational. On 15th July 2020, Sainik School Amethi commenced its first academic session — only to find that COVID-19 had shut down physical classrooms. The school resorted to online classes from 10th August 2020, making its founding story uniquely modern.
 
-## 📍 Location & Contact
+Located in Kauhar, Shahgarh, Amethi district, the school operates under CBSE affiliation number 2120152 (School Number 72151). Despite its recent establishment, the school has quickly built infrastructure and academic systems aligned with the Sainik Schools Society's standards.
 
-- **Address:** Sainik School Amethi, Amethi, Uttar Pradesh
-- **Phone:** 05362-291507
-- **Email:** sainikschoolamethi@gmail.com
-- **Website:** [sainikschoolamethi.com](https://sainikschoolamethi.com)
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Amethi+Uttar+Pradesh)
+## Quick Facts
 
-## 🏫 About the School
+| Detail | Info |
+|--------|------|
+| Established | 15 July 2020 (MoA signed 30 April 2015) |
+| Location | Kauhar, Shahgarh, Amethi, Uttar Pradesh – 227411 |
+| CBSE Affiliation No. | 2120152 |
+| School Number | 72151 |
+| Classes | VI to XII |
+| Medium | English |
+| Type | Residential |
+| Website | [sainikschoolamethi.com](https://www.sainikschoolamethi.com/) |
+| Principal | Lt Col Chandra Prakash (Indian Army) |
+| Administrative Officer | Sqn Ldr Pranav Nagar (Indian Air Force) |
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 2015 |
-| **State** | Uttar Pradesh |
-| **District** | Amethi |
-| **Campus Area** | 100+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+## History & Legacy
 
-Sainik School Amethi की स्थापना 2015 में हुई थी। यह UP ke naye Sainik Schools mein se ek hai. School Amethi district mein hai. School modern infrastructure ke saath built hai aur students ko NDA preparation ke liye dedicated training milti hai.
+### Five Years in the Making
 
-## 🎯 Admission Process
+The idea of a Sainik School in Amethi was formalized on 30th April 2015, when the Ministry of Defence and the Uttar Pradesh state government signed a Memorandum of Agreement. Amethi — a politically significant district in Uttar Pradesh — was chosen to serve the youth of eastern UP, a region with strong military recruitment traditions but limited access to military-oriented education.
 
-### Eligibility Criteria
+The school's establishment was delayed by bureaucratic processes and infrastructure development. By the time it was ready to open in 2020, the COVID-19 pandemic forced a virtual launch. The first batch of cadets attended online classes before eventually joining the physical campus.
 
-**For Class 6:**
-- Age: 10-12 years as on March 31
-- Currently studying in Class 5
+### The Pandemic Founding
 
-**For Class 9:**
-- Age: 13-15 years as on March 31
-- Currently studying in Class 8
+Sainik School Amethi's founding during COVID-19 shaped its early culture. The school had to build its identity, traditions, and systems during a period of national crisis. That it succeeded — establishing academic routines, NCC training, and house systems despite the pandemic — speaks to the resilience of its founding team.
 
-### Admission Steps
-1. Apply Online through NTA website
-2. Appear for AISSEE (January)
-3. Check Results on NTA website
-4. Medical Test for shortlisted candidates
-5. Final Merit List
-6. Admission with required documents
+## Location & Contact
 
-### UP Domicile Reservation
+- **Address:** Kauhar, Shahgarh, Amethi, Uttar Pradesh – 227411
+- **Website:** [sainikschoolamethi.com](https://www.sainikschoolamethi.com/)
+- **Nearest City:** Amethi
+- **Nearest Railway:** Amethi Railway Station
+- **Nearest Airport:** Lucknow Airport (approx. 130 km); Prayagraj Airport (approx. 100 km)
 
-UP ke students ko **67% seats reserved** hain.
+## Admission Details
 
-## 💰 Fee Structure (शुल्क संरचना)
+### Eligibility
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹85,000 |
-| Hostel Fee | ₹42,000 |
-| Mess Charges | ₹58,000 |
-| Uniform | ₹14,000 |
-| Books & Stationery | ₹10,000 |
-| Other Charges | ₹12,000 |
-| **Total** | **₹2,21,000** |
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
 
-*Note: Fees are subject to change. SC/ST candidates get fee concessions.*
+**Class IX:**
+- Age: 13–15 years as on 31 March
+- Currently in Class VIII
 
-## 🏗️ Facilities (सुविधाएं)
+### Process
+
+1. AISSEE registration through NTA portal
+2. AISSEE examination (January)
+3. AISSAC counselling
+4. Medical examination
+5. Admission
+
+### Reservation
+
+67% seats for Uttar Pradesh domicile. 33% for other states.
+
+## Fee Structure
+
+Fee structure is available on the [Fee Structure page](https://sainikschoolamethi.com/fee%20structure.php). Scholarships are available.
+
+## Facilities
 
 ### Academic
-- Smart classrooms
-- Science, Maths, and Computer labs
-- Library
 
-### Sports & Activities
-- Athletic track
-- Football grounds
-- NCC training (compulsory)
+- CBSE-affiliated curriculum
+- [Clubs](https://sainikschoolamethi.com/clubs.php)
+- [School Campus](https://sainikschoolamethi.com/school%20campus.php)
+- [Special Attributes](https://sainikschoolamethi.com/special%20attribute%20of%20sainik%20school%20amethi.php)
+- [Facilities](https://sainikschoolamethi.com/Facilities.php)
 
-### Hostel & Mess
-- Separate hostels
-- Nutritious meals
-- 24/7 medical facility
+### Training
 
-## 📊 Academic Performance
+- [NCC](https://sainikschoolamethi.com/ncc.php)
+- [House System](https://sainikschoolamethi.com/houses)
+- [School Routine](https://sainikschoolamethi.com/cadets/school-routine)
 
-| Year | 10th Board (%) | 12th Board (%) | NDA Selections |
-|------|----------------|----------------|----------------|
-| 2025 | 94% | 91% | 3+ |
-| 2024 | 93% | 90% | 2+ |
-| 2023 | 92% | 89% | 2+ |
+### Academic Staff
 
-*Being a newer school (established 2015), NDA selections are growing as batches graduate.*
+The school has a qualified teaching staff including TGTs in Maths, Computer Science, General Science, Social Science, English, and Hindi.
 
-## ❓ FAQs
+## Academic & NDA Performance
 
-### Sainik School Amethi mein admission kaise lein?
-Admission AISSEE ke through hota hai jo NTA conduct karti hai.
+As a school established in 2020, Sainik School Amethi is still building its NDA track record. The school's academic results and NDA selections will develop as the first batches complete their education.
 
-### UP mein kitne Sainik Schools hain?
-UP mein **kai Sainik Schools** hain:
-1. Sainik School Lucknow
-2. Sainik School Mainpuri (established 2003)
-3. Sainik School Jhansi
-4. Sainik School Amethi (established 2015)
+## FAQs
 
-## 🔗 Related Links
+**Q: When did Sainik School Amethi start?**
+A: The first academic session began on 15th July 2020, with online classes from 10th August 2020 due to COVID-19.
 
-- [Sainik School Amethi Official Website](https://sainikschoolamethi.com)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in India](/sainik-schools/)
+**Q: What is the CBSE affiliation number?**
+A: 2120152 (School Number 72151).
 
+**Q: Who is the current Principal?**
+A: Lt Col Chandra Prakash from the Indian Army.
+
+**Q: How old is the school?**
+A: Very new — established in 2020, making it one of the youngest Sainik Schools.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Uttar Pradesh](/blog/sainik-schools-uttar-pradesh/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)

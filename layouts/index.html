@@ -2,24 +2,26 @@
 
 <style>
   .news-hero {
-    background: linear-gradient(135deg, #01263b, #0367a1);
+    background: linear-gradient(135deg, #01263b 0%, #0367a1 50%, #01263b 100%);
     color: white;
     padding: 0;
     overflow: hidden;
+    position: relative;
   }
   .news-hero-inner {
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    min-height: 500px;
+    min-height: 480px;
     align-items: center;
+    position: relative;
   }
-  .hero-text { padding: 50px 40px; }
+  .hero-text { padding: 50px 40px; position: relative; z-index: 2; }
   .hero-image {
     position: relative;
     height: 100%;
-    min-height: 500px;
+    min-height: 480px;
     overflow: hidden;
   }
   .hero-image img {
@@ -31,7 +33,13 @@
   .hero-image-overlay {
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
-    background: linear-gradient(90deg, #01263b 0%, transparent 30%);
+    background: linear-gradient(90deg, #01263b 0%, rgba(3,103,161,0.4) 40%, transparent 100%);
+  }
+  .hero-image-bottom {
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 80px;
+    background: linear-gradient(0deg, #01263b 0%, transparent 100%);
   }
   .news-hero h1 { font-size: 36px; font-weight: 800; line-height: 1.2; margin-bottom: 12px; }
   .news-hero h1 span { color: #F6D835; }
@@ -124,11 +132,14 @@
     </div>
     <div class="hero-image">
       <picture>
-        <source srcset="/images/hero-students.avif" type="image/avif">
-        <source srcset="/images/hero-students.webp" type="image/webp">
+        <source media="(max-width: 600px)" srcset="/images/hero-sm.avif" type="image/avif">
+        <source media="(max-width: 600px)" srcset="/images/hero-sm.webp" type="image/webp">
+        <source srcset="/images/hero-lg.avif" type="image/avif">
+        <source srcset="/images/hero-lg.webp" type="image/webp">
         <img src="/images/hero-students.jpeg" alt="Sainik School Students" width="1200" height="630" loading="eager" fetchpriority="high">
       </picture>
       <div class="hero-image-overlay"></div>
+      <div class="hero-image-bottom"></div>
     </div>
   </div>
 </section>
