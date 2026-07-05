@@ -1,7 +1,7 @@
 ---
 title: "ARTICLE TITLE - Include Primary Keyword"
-date: YYYY-MM-DD
-draft: false
+date: 2026-01-01
+draft: true
 description: "Meta description 155 chars max with primary keyword and CTA. This shows in Google search results."
 keywords: ["primary keyword", "secondary keyword", "long-tail keyword", "related keyword"]
 author: "Sainik School Guide Team"
