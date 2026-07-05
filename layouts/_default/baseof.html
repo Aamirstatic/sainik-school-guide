@@ -7,14 +7,35 @@
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   <meta name="description" content="{{ .Description }}">
   
-  <!-- Open Graph -->
+  <!-- Open Graph for Google Discover -->
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ .Description }}">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="Sainik School Guide India">
+  <meta property="og:image" content="https://sainikschooleastsiang.in/images/hero-sainik-school.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en_IN">
   
-  <!-- Google Discover -->
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="{{ .Description }}">
+  <meta name="twitter:image" content="https://sainikschooleastsiang.in/images/hero-sainik-school.jpg">
+  
+  <!-- Google Discover Optimization -->
   <meta name="robots" content="max-image-preview:large">
+  <meta name="google" content="notranslate">
+  
+  <!-- Article specific meta -->
+  {{ if .IsPage }}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:author" content="Sainik School Guide Team">
+  <meta property="article:section" content="{{ .Section }}">
+  {{ if .Params.keywords }}{{ range .Params.keywords }}<meta property="article:tag" content="{{ . }}">{{ end }}{{ end }}
+  {{ end }}
   
   <!-- JSON-LD Structured Data -->
   <script type="application/ld+json">
