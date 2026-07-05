@@ -156,6 +156,18 @@ Haan, Tamil ek subject ke roop mein padhaya jaata hai. Regional language ki trai
 - [How to Prepare for AISSEE](/aissee/preparation-tips/)
 - [Sainik School Results](/sainik-schools/results/)
 
+
+## Detailed School Profiles
+
+- [Sainik School Amaravathinagar - Complete Guide](/schools/sainik-school-amaravathinagar/)
+
+## Related Articles
+
+- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
+- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+- [All Sainik Schools in India](/schools/)
+
 ---
 
 *Last updated: July 2026*

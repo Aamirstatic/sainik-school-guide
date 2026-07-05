@@ -177,6 +177,18 @@ Haan, school mein football, hockey, cricket, basketball, swimming, gymnasium aur
 - [Sainik School Results](/sainik-schools/results/)
 - [NDA Preparation Guide](/aissee/nda-preparation/)
 
+
+## Detailed School Profiles
+
+- [Sainik School Kapurthala - Complete Guide](/schools/sainik-school-kapurthala/)
+
+## Related Articles
+
+- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
+- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+- [All Sainik Schools in India](/schools/)
+
 ---
 
 *Last updated: July 2026*

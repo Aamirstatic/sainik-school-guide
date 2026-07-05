@@ -147,6 +147,19 @@ Sainik School Chittorgarh Rajasthan ka sabse purana aur reputed school hai. Dono
 - [Sainik School Fee Structure](/sainik-schools/fee-structure/)
 - [How to Prepare for AISSEE](/aissee/preparation-tips/)
 
+
+## Detailed School Profiles
+
+- [Sainik School Chittorgarh - Complete Guide](/schools/sainik-school-chittorgarh/)
+- [Sainik School Jhunjhunu - Complete Guide](/schools/sainik-school-jhunjhunu/)
+
+## Related Articles
+
+- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
+- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+- [All Sainik Schools in India](/schools/)
+
 ---
 
 *Last updated: July 2026*

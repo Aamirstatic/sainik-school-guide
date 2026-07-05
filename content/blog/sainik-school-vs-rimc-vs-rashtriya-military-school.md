@@ -135,6 +135,14 @@ Apply to all three. Prepare for the hardest one (RIMC). If your child clears RIM
 - [NTA AISSEE](https://exams.nta.nic.in/sainik-school-society/)
 - [Rashtriya Military Schools](https://rashtriyamilitaryschools.edu.in)
 
+
+## Related Articles
+
+- [Sainik School vs Military School](/blog/sainik-school-vs-military-school/)
+- [NDA After Sainik School](/blog/nda-after-sainik-school-career-path/)
+- [Admission Guide](/blog/sainik-school-admission-2027-guide/)
+- [All Sainik Schools](/schools/)
+
 ---
 
 *Last Updated: July 2026*

@@ -269,12 +269,11 @@ Nahi, ek student sirf **ek baar** form bhar sakta hai. Multiple applications sub
 
 ## Related Articles
 
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Admission 2027: Complete Guide](/blog/sainik-school-admission-2027-guide/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Common Admission Mistakes to Avoid](/blog/sainik-school-admission-mistakes/)
+- [AISSEE Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
+- [Best Books](/blog/best-books-aissee-2027/)
+- [Preparation Tips](/blog/aissee-2027-preparation-tips/)
+- [Counselling Process](/blog/sainik-school-counselling-2027/)
 
-**Official Source:** [NTA AISSEE Website](https://exams.nta.nic.in/sainik-school-society/)
 
 ---
 

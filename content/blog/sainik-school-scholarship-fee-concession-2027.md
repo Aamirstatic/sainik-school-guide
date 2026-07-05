@@ -265,15 +265,11 @@ Haan, zyadatar schemes ke liye **online portal** pe apply karna hota hai:
 
 ## Related Articles
 
-- [Sainik School Admission 2027: Complete Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Common Admission Mistakes to Avoid](/blog/sainik-school-admission-mistakes/)
-- [Sainik School Hostel Life](/blog/sainik-school-hostel-life/)
+- [Admission Guide](/blog/sainik-school-admission-2027-guide/)
+- [Application Form Guide](/blog/aissee-application-form-2027-guide/)
+- [Sainik School vs RIMC](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
+- [All Sainik Schools](/schools/)
 
-**Official Sources:**
-- [National Scholarship Portal](https://scholarships.gov.in)
-- [Sainik Schools Society](https://sainikschooladmission.in)
-- [NTA AISSEE](https://exams.nta.nic.in/sainik-school-society/)
 
 ---
 

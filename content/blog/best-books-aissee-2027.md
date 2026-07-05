@@ -140,6 +140,14 @@ These are a waste of money for AISSEE preparation:
 
 **Official Source:** [NCERT Books](https://ncert.nic.in/textbook.php)
 
+
+## Related Articles
+
+- [AISSEE 2027 Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
+- [AISSEE Preparation Tips](/blog/aissee-2027-preparation-tips/)
+- [Previous Year Papers](/blog/aissee-previous-year-papers-pdf/)
+- [Admission Guide 2027](/blog/sainik-school-admission-2027-guide/)
+
 ---
 
 *Last Updated: July 2026*

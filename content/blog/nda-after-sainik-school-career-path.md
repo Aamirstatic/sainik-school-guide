@@ -225,15 +225,11 @@ Options hain:
 
 ## Related Articles
 
-- [Sainik School Admission 2027: Complete Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School vs Military School](/blog/sainik-school-vs-military-school/)
-- [Sainik School Hostel Life](/blog/sainik-school-hostel-life/)
+- [Sainik School Admission Guide](/blog/sainik-school-admission-2027-guide/)
+- [Sainik School vs RIMC](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
+- [Hostel Life](/blog/sainik-school-hostel-life/)
+- [Preparation Tips](/blog/aissee-2027-preparation-tips/)
 
-**Official Sources:**
-- [UPSC NDA Notification](https://upsc.gov.in)
-- [NDA Official Website](https://nda.nic.in)
-- [NTA AISSEE](https://exams.nta.nic.in/sainik-school-society/)
 
 ---
 

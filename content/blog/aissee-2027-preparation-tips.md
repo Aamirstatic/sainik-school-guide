@@ -300,12 +300,12 @@ NTA website pe available hain. Arihant aur Upkar ki books mein bhi solved papers
 
 ## Related Articles
 
-- [Sainik School Admission 2027: Complete Guide](/blog/sainik-school-admission-2027-guide/)
-- [Sainik School Hostel Life: What to Expect](/blog/sainik-school-hostel-life/)
-- [Sainik School vs Military School: Key Differences](/blog/sainik-school-vs-military-school/)
-- [Common Sainik School Admission Mistakes to Avoid](/blog/sainik-school-admission-mistakes/)
+- [AISSEE Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
+- [Best Books](/blog/best-books-aissee-2027/)
+- [Previous Year Papers](/blog/aissee-previous-year-papers-pdf/)
+- [Application Form](/blog/aissee-application-form-2027-guide/)
+- [Admission Guide](/blog/sainik-school-admission-2027-guide/)
 
-**Official Source:** [NTA AISSEE Website](https://exams.nta.nic.in/sainik-school-society/)
 
 ---
 

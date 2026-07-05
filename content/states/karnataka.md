@@ -47,6 +47,19 @@ SC/ST students get up to 50% fee concession. Defence personnel wards get 25% con
 
 **Official Source:** [Sainik Schools Society](https://sainikschoolsociety.in)
 
+
+## Detailed School Profiles
+
+- [Sainik School Bijapur - Complete Guide](/schools/sainik-school-bijapur/)
+- [Sainik School Kodagu - Complete Guide](/schools/sainik-school-kodagu/)
+
+## Related Articles
+
+- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
+- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+- [All Sainik Schools in India](/schools/)
+
 ---
 
 *Last Updated: July 2026*
