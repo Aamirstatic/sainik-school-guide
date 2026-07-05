@@ -3,7 +3,9 @@ languageCode = 'en-in'
 defaultContentLanguage = 'en'
 title = 'Sainik School Guide India - Complete AISSEE Preparation & School Directory'
 # theme = 'PaperMod' # Using custom layouts
-paginate = 12
+
+[pagination]
+  pagerSize = 12
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -97,7 +99,7 @@ buildExpired = false
   weight = 6
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
 
 [outputFormats.JSON]
