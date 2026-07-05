@@ -7,7 +7,7 @@ keywords: ["sainik school admission 2027", "sainik school admission process", "s
 author: "Sainik School India Team"
 ---
 
-# Sainik School Admission 2027: Complete Process, Eligibility, Documents & Tips
+## Sainik School Admission 2027: Complete Process, Eligibility, Documents & Tips
 
 **Sainik School admission 2027** ke liye competition pichle saal se bhi zyada tough hone wala hai. 2026 mein **2.5 lakh+ students** ne sirf Class 6 ke liye AISSEE diya tha — lekin sirf **~10,000 seats** available thi. Yani har **25 students mein se sirf 1** ko admission mila. Agar aap apne bacche ke liye **Sainik School admission process** samajhna chahte hain, eligibility check karna chahte hain, aur documents ki list chahte hain — toh yeh guide aapke liye hai.
 

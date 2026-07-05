@@ -6,7 +6,7 @@ description: "Master AISSEE 2027 with our comprehensive preparation strategy. Ge
 keywords: ["AISSEE 2027 preparation", "sainik school entrance exam tips", "how to crack AISSEE", "sainik school study plan"]
 ---
 
-# AISSEE 2027 Preparation Tips: Complete Strategy Guide
+## AISSEE 2027 Preparation Tips: Complete Strategy Guide
 
 Preparing for AISSEE 2027? This comprehensive guide will help you create an effective study plan and ace the Sainik School entrance exam with confidence.
 
