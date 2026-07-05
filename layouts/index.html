@@ -4,307 +4,180 @@
   .news-hero {
     background: linear-gradient(135deg, #01263b, #0367a1);
     color: white;
-    padding: 40px 20px;
+    padding: 50px 20px;
   }
-  .news-hero-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .news-hero h1 {
-    font-size: 36px;
-    font-weight: 800;
-    line-height: 1.2;
-    margin-bottom: 12px;
-  }
+  .news-hero-inner { max-width: 1200px; margin: 0 auto; }
+  .news-hero h1 { font-size: 36px; font-weight: 800; line-height: 1.2; margin-bottom: 12px; }
   .news-hero h1 span { color: #F6D835; }
-  .news-hero p {
-    font-size: 16px;
-    opacity: 0.9;
-    margin-bottom: 20px;
-    max-width: 600px;
-  }
-  .news-hero-btns {
-    display: flex;
-    gap: 12px;
-    flex-wrap: wrap;
-  }
-  .btn-hero {
-    padding: 12px 24px;
-    border-radius: 8px;
-    font-weight: 600;
-    font-size: 15px;
-    text-decoration: none;
-    transition: transform 0.2s;
-  }
+  .news-hero p { font-size: 16px; opacity: 0.9; margin-bottom: 20px; max-width: 600px; }
+  .news-hero-btns { display: flex; gap: 12px; flex-wrap: wrap; }
+  .btn-hero { padding: 12px 24px; border-radius: 8px; font-weight: 600; font-size: 15px; text-decoration: none; transition: transform 0.2s; }
   .btn-hero:hover { transform: translateY(-2px); }
   .btn-hero-primary { background: #F6D835; color: #111; }
   .btn-hero-outline { background: transparent; border: 2px solid rgba(255,255,255,0.3); color: white; }
+  .hero-stats { display: flex; gap: 30px; margin-top: 24px; }
+  .hero-stat { text-align: center; }
+  .hero-stat-num { font-size: 28px; font-weight: 800; color: #F6D835; }
+  .hero-stat-label { font-size: 12px; opacity: 0.8; }
 
-  .news-section {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 30px 20px;
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 30px;
-  }
-  .news-main h2 {
-    font-size: 22px;
-    font-weight: 700;
-    color: #111928;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 3px solid #00BCD4;
-  }
-  .news-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
-  }
-  .news-card {
-    background: white;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    transition: transform 0.2s;
-  }
-  .news-card:hover { transform: translateY(-2px); }
-  .news-card-img {
-    height: 120px;
-    background: linear-gradient(135deg, #00BCD4, #0097A7);
-  }
-  .news-card-body { padding: 14px; }
-  .news-card-tag {
-    display: inline-block;
-    background: #E6F3FA;
-    color: #0097A7;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 11px;
-    font-weight: 600;
-    margin-bottom: 6px;
-  }
-  .news-card-title {
-    font-size: 14px;
-    font-weight: 600;
-    color: #111928;
-    margin-bottom: 6px;
-    line-height: 1.4;
-  }
-  .news-card-title a { text-decoration: none; color: inherit; }
-  .news-card-title a:hover { color: #00BCD4; }
-  .news-card-meta { font-size: 11px; color: #6B7280; }
+  .home-section { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
+  .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 3px solid #00BCD4; }
+  .section-header h2 { font-size: 22px; font-weight: 700; color: #111928; }
+  .section-header a { color: #00BCD4; font-size: 14px; font-weight: 600; text-decoration: none; }
+  .section-header a:hover { text-decoration: underline; }
 
-  .news-sidebar { display: flex; flex-direction: column; gap: 16px; }
-  .sidebar-widget {
-    background: white;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  }
-  .sidebar-widget-header {
-    background: #01263b;
-    color: white;
-    padding: 12px 16px;
-  }
-  .sidebar-widget-header h3 { font-size: 14px; font-weight: 600; }
-  .sidebar-widget-body { padding: 14px; }
-  .school-list, .quick-links { list-style: none; }
-  .school-list li, .quick-links li {
-    padding: 8px 0;
-    border-bottom: 1px solid #F3F4F6;
-    font-size: 13px;
-  }
-  .school-list li:last-child, .quick-links li:last-child { border: none; }
-  .school-list a, .quick-links a {
-    color: #374151;
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .school-list a:hover, .quick-links a:hover { color: #00BCD4; }
+  /* Blog Grid */
+  .blog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .blog-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #F3F4F6; transition: all 0.25s; }
+  .blog-card:hover { transform: translateY(-4px); box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
+  .blog-card-img { height: 140px; display: flex; align-items: center; justify-content: center; font-size: 36px; }
+  .blog-card-img-1 { background: linear-gradient(135deg, #667eea, #764ba2); }
+  .blog-card-img-2 { background: linear-gradient(135deg, #f093fb, #f5576c); }
+  .blog-card-img-3 { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+  .blog-card-img-4 { background: linear-gradient(135deg, #43e97b, #38f9d7); }
+  .blog-card-img-5 { background: linear-gradient(135deg, #fa709a, #fee140); }
+  .blog-card-img-6 { background: linear-gradient(135deg, #a18cd1, #fbc2eb); }
+  .blog-card-body { padding: 16px; }
+  .blog-card-tag { display: inline-block; background: #E6F3FA; color: #0097A7; padding: 3px 8px; border-radius: 4px; font-size: 10px; font-weight: 600; text-transform: uppercase; margin-bottom: 6px; }
+  .blog-card-title { font-size: 14px; font-weight: 600; color: #111928; margin-bottom: 6px; line-height: 1.4; }
+  .blog-card-title a { text-decoration: none; color: inherit; }
+  .blog-card-title a:hover { color: #00BCD4; }
+  .blog-card-meta { font-size: 11px; color: #9CA3AF; }
 
-  .featured-section { background: #F7F9FB; padding: 30px 20px; }
-  .featured-inner { max-width: 1200px; margin: 0 auto; }
-  .featured-inner h2 {
-    font-size: 22px;
-    font-weight: 700;
-    color: #111928;
-    margin-bottom: 20px;
-    text-align: center;
-  }
-  .featured-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
-  }
-  .featured-card {
-    background: white;
-    border-radius: 8px;
-    padding: 16px;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    transition: transform 0.2s;
-  }
-  .featured-card:hover { transform: translateY(-2px); }
-  .featured-card-icon { font-size: 28px; margin-bottom: 10px; }
-  .featured-card h3 { font-size: 13px; font-weight: 600; color: #111928; margin-bottom: 4px; }
-  .featured-card p { font-size: 11px; color: #6B7280; }
-  .featured-card a {
-    display: block;
-    margin-top: 10px;
-    font-size: 11px;
-    color: #00BCD4;
-    text-decoration: none;
-    font-weight: 600;
-  }
+  /* Schools Grid */
+  .schools-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .school-card { background: white; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #F3F4F6; transition: all 0.25s; text-decoration: none; display: block; }
+  .school-card:hover { transform: translateY(-4px); box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
+  .school-card-icon { font-size: 32px; margin-bottom: 10px; }
+  .school-card h3 { font-size: 13px; font-weight: 600; color: #111928; margin-bottom: 4px; }
+  .school-card p { font-size: 11px; color: #6B7280; }
+  .school-card-state { display: inline-block; background: #E6F3FA; color: #0097A7; padding: 2px 8px; border-radius: 4px; font-size: 10px; font-weight: 600; margin-top: 6px; }
 
-  .newsletter-section {
-    background: linear-gradient(135deg, #01263b, #0367a1);
-    color: white;
-    text-align: center;
-    padding: 40px 20px;
-  }
-  .newsletter-inner { max-width: 500px; margin: 0 auto; }
-  .newsletter-section h2 { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
-  .newsletter-section p { font-size: 14px; opacity: 0.9; margin-bottom: 20px; }
-  .newsletter-form { display: flex; gap: 10px; }
-  .newsletter-form input {
-    flex: 1;
-    padding: 12px 16px;
-    border: none;
-    border-radius: 8px;
-    font-size: 14px;
-  }
-  .newsletter-form button {
-    background: #F6D835;
-    color: #111;
-    border: none;
-    padding: 12px 20px;
-    border-radius: 8px;
-    font-weight: 700;
-    font-size: 14px;
-    cursor: pointer;
-  }
+  /* Quick Stats */
+  .stats-bar { background: #F7F9FB; padding: 30px 20px; }
+  .stats-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center; }
+  .stat-item { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  .stat-num { font-size: 32px; font-weight: 800; color: #00BCD4; }
+  .stat-label { font-size: 13px; color: #6B7280; margin-top: 4px; }
 
   @media (max-width: 992px) {
-    .news-section { grid-template-columns: 1fr; }
-    .featured-grid { grid-template-columns: repeat(2, 1fr); }
+    .blog-grid { grid-template-columns: repeat(2, 1fr); }
+    .schools-grid { grid-template-columns: repeat(3, 1fr); }
+    .stats-inner { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 768px) {
-    .news-hero { padding: 24px 16px; }
     .news-hero h1 { font-size: 24px; }
-    .news-grid { grid-template-columns: 1fr; }
-    .featured-grid { grid-template-columns: 1fr 1fr; }
-    .newsletter-form { flex-direction: column; }
+    .blog-grid { grid-template-columns: 1fr; }
+    .schools-grid { grid-template-columns: repeat(2, 1fr); }
+    .hero-stats { gap: 15px; }
+    .hero-stat-num { font-size: 22px; }
   }
 </style>
 
 <!-- Hero -->
 <section class="news-hero">
   <div class="news-hero-inner">
-    <h1>Sainik School East Siang <span>Complete Guide</span></h1>
-    <p>Admission details, AISSEE preparation, fee structure, and daily updates for all 33+ Sainik Schools across India.</p>
+    <h1>Sainik School Guide India <span>Complete Directory</span></h1>
+    <p>Everything you need to know about 33+ Sainik Schools. AISSEE preparation, admission guides, fees, and daily articles.</p>
     <div class="news-hero-btns">
       <a href="/blog/sainik-school-admission-2027-guide/" class="btn-hero btn-hero-primary">Admission Guide →</a>
-      <a href="/aissee/" class="btn-hero btn-hero-outline">AISSEE 2027</a>
+      <a href="/schools/" class="btn-hero btn-hero-outline">All 33+ Schools</a>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat"><div class="hero-stat-num">33+</div><div class="hero-stat-label">Sainik Schools</div></div>
+      <div class="hero-stat"><div class="hero-stat-num">14</div><div class="hero-stat-label">Articles</div></div>
+      <div class="hero-stat"><div class="hero-stat-num">₹2L</div><div class="hero-stat-label">Avg. Annual Fee</div></div>
+      <div class="hero-stat"><div class="hero-stat-num">25%</div><div class="hero-stat-label">NDA Officers</div></div>
     </div>
   </div>
 </section>
 
-<!-- News Section -->
-<div class="news-section">
-  <div class="news-main">
+<!-- Quick Stats -->
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat-item"><div class="stat-num">33+</div><div class="stat-label">Sainik Schools</div></div>
+    <div class="stat-item"><div class="stat-num">69</div><div class="stat-label">New Schools (PPP)</div></div>
+    <div class="stat-item"><div class="stat-num">4L+</div><div class="stat-label">AISSEE Applicants</div></div>
+    <div class="stat-item"><div class="stat-num">10K</div><div class="stat-label">Seats Available</div></div>
+  </div>
+</div>
+
+<!-- Latest Articles -->
+<div class="home-section">
+  <div class="section-header">
     <h2>📰 Latest Articles</h2>
-    <div class="news-grid">
-      {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
-      <div class="news-card">
-        <div class="news-card-img"></div>
-        <div class="news-card-body">
-          <span class="news-card-tag">BLOG</span>
-          <h3 class="news-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <div class="news-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
-        </div>
+    <a href="/blog/">View All →</a>
+  </div>
+  <div class="blog-grid">
+    {{ $imgClasses := slice "blog-card-img-1" "blog-card-img-2" "blog-card-img-3" "blog-card-img-4" "blog-card-img-5" "blog-card-img-6" }}
+    {{ $emojis := slice "📝" "📚" "🎯" "🏫" "📖" "🎓" }}
+    {{ range $index, $page := first 9 (where .Site.RegularPages "Section" "blog") }}
+    {{ $imgClass := index $imgClasses (mod $index (len $imgClasses)) }}
+    {{ $emoji := index $emojis (mod $index (len $emojis)) }}
+    <a href="{{ .Permalink }}" style="text-decoration: none;">
+    <div class="blog-card">
+      <div class="blog-card-img {{ $imgClass }}">{{ $emoji }}</div>
+      <div class="blog-card-body">
+        <span class="blog-card-tag">Article</span>
+        <h3 class="blog-card-title">{{ .Title }}</h3>
+        <div class="blog-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
       </div>
+    </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<!-- All Sainik Schools -->
+<div style="background: #F7F9FB; padding: 40px 20px;">
+  <div style="max-width: 1200px; margin: 0 auto;">
+    <div class="section-header">
+      <h2>🏫 All Sainik Schools in India</h2>
+      <a href="/schools/">View All →</a>
+    </div>
+    <div class="schools-grid">
+      {{ range first 16 (where .Site.RegularPages "Section" "schools") }}
+      <a href="{{ .Permalink }}" class="school-card">
+        <div class="school-card-icon">🏫</div>
+        <h3>{{ .Title | replaceRE "Sainik School " "" | replaceRE " - Complete Guide 2026" "" }}</h3>
+        <p>Est. {{ .Date.Format "2006" }}</p>
+        {{ with .Params.state }}<span class="school-card-state">{{ . }}</span>{{ end }}
+      </a>
       {{ end }}
     </div>
-  </div>
-
-  <div class="news-sidebar">
-    <div class="sidebar-widget">
-      <div class="sidebar-widget-header"><h3>🏫 Top Schools</h3></div>
-      <div class="sidebar-widget-body">
-        <ul class="school-list">
-          <li>🏫 <a href="/sainik-schools/sainik-school-amaravathinagar/">Amaravathinagar, TN</a></li>
-          <li>🏫 <a href="/sainik-schools/sainik-school-kapurthala/">Kapurthala, Punjab</a></li>
-          <li>🏫 <a href="/sainik-schools/sainik-school-rewa/">Rewa, MP</a></li>
-          <li>📋 <a href="/sainik-schools/">All Schools →</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="sidebar-widget">
-      <div class="sidebar-widget-header"><h3>🔗 Quick Links</h3></div>
-      <div class="sidebar-widget-body">
-        <ul class="quick-links">
-          <li>📝 <a href="/aissee/">AISSEE Guide</a></li>
-          <li>📋 <a href="/blog/sainik-school-admission-2027-guide/">Admission</a></li>
-          <li>📚 <a href="/blog/best-books-for-aissee-2027/">Best Books</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="sidebar-widget">
-      <div class="sidebar-widget-header" style="background: linear-gradient(135deg, #F6D835, #FF4DA6);"><h3 style="color: #111;">🎓 JGPS Coaching</h3></div>
-      <div class="sidebar-widget-body">
-        <p style="font-size: 13px; color: #374151; margin-bottom: 10px;">Expert coaching for Sainik School entrance exams.</p>
-        <a href="https://jgps.in/" style="display: block; background: #F6D835; color: #111; text-align: center; padding: 10px; border-radius: 6px; text-decoration: none; font-weight: 600;">Visit JGPS.in →</a>
-      </div>
+    <div style="text-align: center; margin-top: 24px;">
+      <a href="/schools/" style="display: inline-block; background: #00BCD4; color: white; padding: 12px 28px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px;">View All 33+ Schools →</a>
     </div>
   </div>
 </div>
 
-<!-- Featured Schools -->
-<section class="featured-section">
-  <div class="featured-inner">
-    <h2>Featured Schools</h2>
-    <div class="featured-grid">
-      <div class="featured-card">
-        <div class="featured-card-icon">🏫</div>
-        <h3>Amaravathinagar</h3>
-        <p>Tamil Nadu · Est. 1962</p>
-        <a href="/sainik-schools/sainik-school-amaravathinagar/">Details →</a>
-      </div>
-      <div class="featured-card">
-        <div class="featured-card-icon">🏫</div>
-        <h3>Kapurthala</h3>
-        <p>Punjab · Est. 1961</p>
-        <a href="/sainik-schools/sainik-school-kapurthala/">Details →</a>
-      </div>
-      <div class="featured-card">
-        <div class="featured-card-icon">🏫</div>
-        <h3>Rewa</h3>
-        <p>Madhya Pradesh · Est. 1962</p>
-        <a href="/sainik-schools/sainik-school-rewa/">Details →</a>
-      </div>
-      <div class="featured-card">
-        <div class="featured-card-icon">🏫</div>
-        <h3>Chittorgarh</h3>
-        <p>Rajasthan · Est. 1961</p>
-        <a href="/sainik-schools/sainik-school-chittorgarh/">Details →</a>
-      </div>
-    </div>
+<!-- Quick Links -->
+<div class="home-section">
+  <div class="section-header">
+    <h2>🔗 Quick Access</h2>
   </div>
-</section>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
+    <a href="/blog/aissee-2027-preparation-tips/" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 8px;">📚</div>
+      <div style="font-weight: 700; font-size: 15px;">AISSEE Prep Tips</div>
+      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">Complete strategy guide</div>
+    </a>
+    <a href="/blog/best-books-aissee-2027/" style="background: linear-gradient(135deg, #43e97b, #38f9d7); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 8px;">📖</div>
+      <div style="font-weight: 700; font-size: 15px;">Best Books</div>
+      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">Class 6 & 9 book list</div>
+    </a>
+    <a href="/blog/sainik-school-scholarship-fee-concession-2027/" style="background: linear-gradient(135deg, #fa709a, #fee140); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 8px;">💰</div>
+      <div style="font-weight: 700; font-size: 15px;">Scholarships</div>
+      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">Fee concession guide</div>
+    </a>
+    <a href="/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/" style="background: linear-gradient(135deg, #a18cd1, #fbc2eb); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 8px;">⚖️</div>
+      <div style="font-weight: 700; font-size: 15px;">School Comparison</div>
+      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">RIMC vs Sainik vs RMS</div>
+    </a>
+  </div>
+</div>
 
-<!-- Newsletter -->
-<section class="newsletter-section">
-  <div class="newsletter-inner">
-    <h2>Stay Updated</h2>
-    <p>Get AISSEE tips and school updates in your inbox</p>
-    <form class="newsletter-form">
-      <input type="email" placeholder="Enter your email" required>
-      <button type="submit">Subscribe</button>
-    </form>
-  </div>
-</section>
 {{ end }}
