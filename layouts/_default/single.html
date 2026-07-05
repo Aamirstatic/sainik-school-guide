@@ -186,17 +186,20 @@
   
   /* Tables - Cracku Style */
   .table-wrapper {
+    width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     margin: 20px 0;
     border-radius: 8px;
     border: 1px solid #DEDEDE;
+    display: block;
   }
   .article-content table {
     width: 100%;
     border-collapse: collapse;
     font-size: 14px;
     text-align: center;
+    min-width: 600px;
   }
   .article-content thead {
     background: #00BCD4;
@@ -213,6 +216,7 @@
     padding: 12px 16px;
     text-align: center;
     border: 1px solid #DEDEDE;
+    white-space: nowrap;
   }
   .article-content tbody tr:hover { background: #F9FAFB; }
   .article-content tbody tr:last-child td { border-bottom: none; }
