@@ -1,3 +1,97 @@
+{{ if .IsPage }}
+{{ if eq .Section "blog" }}
+<!-- Article Schema for Blog Posts -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "image": "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.svg{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author_name | default "Sainik School Guide Team" }}",
+    "url": "https://sainikschooleastsiang.in/authors/{{ (.Params.author_name | default "team") | urlize }}/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India",
+    "url": "https://sainikschooleastsiang.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sainikschooleastsiang.in/images/hero-sainik-school.svg",
+      "width": 1200,
+      "height": 630
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "keywords": [{{ range $i, $k := .Params.keywords }}{{ if $i }}, {{ end }}"{{ $k }}"{{ end }}],
+  "articleSection": "{{ .Section }}",
+  "wordCount": {{ .WordCount }},
+  "inLanguage": "en-IN"
+}
+</script>
+
+<!-- FAQ Schema (if FAQs exist in content) -->
+{{ if in .Content "FAQ" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": []
+}
+</script>
+{{ end }}
+
+{{ else if eq .Section "schools" }}
+<!-- School Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "School",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "{{ .Params.state | default "India" }}",
+    "addressCountry": "IN"
+  },
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Sainik Schools Society",
+    "url": "https://sainikschoolsociety.in"
+  }
+}
+</script>
+
+{{ else if eq .Section "authors" }}
+<!-- Person Schema for Authors -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ .Params.author_name | default .Title }}",
+  "jobTitle": "{{ .Params.author_title | default "Content Writer" }}",
+  "description": "{{ .Params.author_bio | default .Description }}",
+  "url": "{{ .Permalink }}",
+  "image": "{{ .Params.author_image | absURL }}",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India",
+    "url": "https://sainikschooleastsiang.in/"
+  },
+  "knowsAbout": [{{ if .Params.author_name }}"Sainik School", "AISSEE", "Defence Education", "NDA Preparation"{{ end }}]
+}
+</script>
+{{ end }}
+{{ else }}
+<!-- WebSite Schema for Homepage/Listing Pages -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -9,6 +103,63 @@
     "@type": "SearchAction",
     "target": "https://sainikschooleastsiang.in/search/?q={search_term_string}",
     "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India",
+    "url": "https://sainikschooleastsiang.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sainikschooleastsiang.in/images/hero-sainik-school.svg"
+    }
   }
 }
 </script>
+
+<!-- Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Sainik School Guide India",
+  "url": "https://sainikschooleastsiang.in/",
+  "logo": "https://sainikschooleastsiang.in/images/hero-sainik-school.svg",
+  "sameAs": [
+    "https://twitter.com/sainikschoolguide",
+    "https://youtube.com/@sainikschoolguide",
+    "https://instagram.com/sainikschoolguide"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9436409766",
+    "contactType": "customer service",
+    "email": "info@sainikschooleastsiang.in",
+    "availableLanguage": ["English", "Hindi"]
+  }
+}
+</script>
+
+<!-- BreadcrumbList Schema -->
+{{ if .IsSection }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://sainikschooleastsiang.in/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
+{{ end }}
