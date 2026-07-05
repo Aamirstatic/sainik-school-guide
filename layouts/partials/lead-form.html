@@ -9,6 +9,8 @@
     align-items: center;
     justify-content: center;
     backdrop-filter: blur(4px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
   }
   .lead-overlay.active { display: flex; }
   .lead-modal {
@@ -16,10 +18,12 @@
     border-radius: 16px;
     width: 90%;
     max-width: 440px;
-    overflow: hidden;
+    max-height: 90vh;
+    overflow-y: auto;
     box-shadow: 0 20px 60px rgba(0,0,0,0.3);
     animation: leadSlide 0.3s ease;
     position: relative;
+    margin: auto;
   }
   @keyframes leadSlide { from { transform: translateY(30px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
   .lead-header {
@@ -38,10 +42,11 @@
     padding: 12px 14px;
     border: 2px solid #E5E7EB;
     border-radius: 8px;
-    font-size: 14px;
+    font-size: 16px;
     outline: none;
     transition: border 0.2s;
     box-sizing: border-box;
+    -webkit-appearance: none;
   }
   .lead-field input:focus, .lead-field select:focus { border-color: #00BCD4; }
   .lead-submit {
@@ -132,12 +137,16 @@ function openLead(title, subtitle, redirectUrl) {
   document.getElementById('leadModal').dataset.redirect = redirectUrl || '';
   document.getElementById('leadForm').style.display = 'block';
   document.getElementById('leadSuccess').style.display = 'none';
-  document.body.style.overflow = 'hidden';
+  document.documentElement.style.overflow = 'hidden';
+  document.body.style.position = 'fixed';
+  document.body.style.width = '100%';
 }
 
 function closeLead() {
   document.getElementById('leadModal').classList.remove('active');
-  document.body.style.overflow = '';
+  document.documentElement.style.overflow = '';
+  document.body.style.position = '';
+  document.body.style.width = '';
 }
 
 function submitLead() {
