@@ -1,4 +1,4 @@
-name: Build & Verify
+name: Build & Deploy
 
 on:
   push:
@@ -6,10 +6,19 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    name: Build Hugo Site
+    name: Build Hugo & Deploy to GitHub Pages
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,4 +39,10 @@ jobs:
         run: |
           echo "Pages built: $(find public -name '*.html' | wc -l)"
           echo "Build size: $(du -sh public | cut -f1)"
-          ls public/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
