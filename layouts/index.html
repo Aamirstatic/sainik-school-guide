@@ -14,6 +14,7 @@
 .btn-h-gold{background:#F6D835;color:#111}
 .btn-h-green{background:#4CAF50;color:#fff}
 .btn-h-outline{background:0 0;border:2px solid rgba(255,255,255,.3);color:#fff}
+.btn-h-cyan{background:#00BCD4;color:#fff;padding:12px 28px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;display:inline-block}
 .hero-stats{display:flex;gap:28px}
 .h-stat{text-align:center}
 .h-stat b{display:block;font-size:26px;font-weight:800;color:#F6D835}
@@ -79,6 +80,8 @@
 .ql-icon{font-size:28px;margin-bottom:6px}
 .ql-title{font-weight:700;font-size:14px}
 .ql-desc{font-size:11px;opacity:.8;margin-top:3px}
+.sch-bg{background:#F7F9FB;padding:40px 20px}
+.sch-wrap{max-width:1200px;margin:0 auto}
 
 /* Responsive */
 @media(max-width:992px){
@@ -189,14 +192,14 @@
 </div>
 
 <!-- Schools -->
-<div style="background:#F7F9FB;padding:40px 20px">
-  <div style="max-width:1200px;margin:0 auto">
+<div class="sch-bg">
+  <div class="sch-wrap">
     <div class="sec-hdr">
       <h2>🏫 All Sainik Schools in India</h2>
       <a href="/schools/">View All →</a>
     </div>
     <div class="sch-grid">
-      {{ range first 16 (where .Site.RegularPages "Section" "schools") }}
+      {{ range first 12 (where .Site.RegularPages "Section" "schools") }}
       <a href="{{ .Permalink }}" class="sc">
         <div class="sc-icon">🏫</div>
         <h3>{{ .Title | replaceRE "Sainik School " "" | replaceRE " - Complete Guide 2026" "" }}</h3>
@@ -206,7 +209,7 @@
       {{ end }}
     </div>
     <div style="text-align:center;margin-top:20px">
-      <a href="/schools/" class="btn-h" style="background:#00BCD4;color:#fff;padding:12px 28px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;display:inline-block">View All 33+ Schools →</a>
+      <a href="/schools/" class="btn-h btn-h-cyan">View All 33+ Schools →</a>
     </div>
   </div>
 </div>
