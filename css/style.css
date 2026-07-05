@@ -456,3 +456,12 @@
       .section-title h2 {
         font-size: 18px;
       }
+/* CLS Prevention */
+img{aspect-ratio:attr(width)/attr(height);height:auto;max-width:100%;display:block}
+.card,.feature-card,.blog-card,.school-card,.testimonial{contain:layout style paint}
+.newsletter,.footer{content-visibility:auto;contain-intrinsic-size:auto 400px}
+.tbl-wrap{min-height:200px}
+.faq-box{min-height:150px}
+.rel-box{min-height:250px}
+.fb-box{min-height:120px}
+.s-bar{min-height:50px}
