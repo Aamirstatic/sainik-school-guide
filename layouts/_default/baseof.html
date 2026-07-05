@@ -68,214 +68,40 @@
 
   
   <style>
-    /* CLS Prevention - Critical */
-    * { box-sizing: border-box; }
-    img, video, iframe { max-width: 100%; height: auto; display: block; }
-    img { aspect-ratio: attr(width) / attr(height); }
-    .header,.footer,.newsletter,.stats-bar,.sec,.sch-bg { contain: layout style; }
-    .blog-grid,.sch-grid,.ql-grid { contain: layout style paint; }
-    .hero-form-wrap { min-height: 420px; }
-    .hf { min-height: 380px; }
-    .bc { min-height: 220px; }
-    .sc { min-height: 120px; }
-    .ql { min-height: 100px; }
-    .st { min-height: 80px; }
-    @font-face { font-family: 'Inter'; font-display: swap; }
-
-    .hero-image {
-      background: linear-gradient(135deg, #e0e0e0 25%, #f0f0f0 50%, #e0e0e0 75%);
-      background-size: 200% 100%;
-      animation: shimmer 1.5s infinite;
+    *{box-sizing:border-box;margin:0;padding:0}
+    img{max-width:100%;height:auto;display:block;aspect-ratio:attr(width)/attr(height)}
+    body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;color:#333;line-height:1.6;background:#fff}
+    
+    /* Header - Clean */
+    .hdr{background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.1);position:sticky;top:0;z-index:1000;height:56px}
+    .hdr-inner{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;align-items:center;justify-content:space-between;height:100%}
+    .logo{display:flex;align-items:center;text-decoration:none;gap:8px}
+    .logo-icon{width:36px;height:36px;background:#e94560;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:16px}
+    .logo-text{font-size:16px;font-weight:700;color:#1a1a2e;line-height:1.2}
+    .logo-text small{display:block;font-size:10px;font-weight:400;color:#666}
+    
+    /* Nav */
+    .nav{display:flex;align-items:center;gap:20px}
+    .nav a{text-decoration:none;color:#333;font-size:13px;font-weight:500;transition:color .2s}
+    .nav a:hover{color:#e94560}
+    .nav .btn-cta{background:#e94560;color:#fff;padding:8px 16px;border-radius:6px;font-weight:600;font-size:13px}
+    .nav .btn-cta:hover{background:#d63851}
+    
+    /* Mobile Menu */
+    .menu-btn{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;background:none;border:none}
+    .menu-btn span{width:22px;height:2px;background:#333;transition:all .3s}
+    .menu-btn.open span:nth-child(1){transform:rotate(45deg) translate(5px,5px)}
+    .menu-btn.open span:nth-child(2){opacity:0}
+    .menu-btn.open span:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
+    
+    @media(max-width:768px){
+        .menu-btn{display:flex}
+        .nav{display:none;position:fixed;top:56px;left:0;right:0;background:#fff;flex-direction:column;padding:16px;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:999;gap:0}
+        .nav.open{display:flex}
+        .nav a{padding:12px 0;border-bottom:1px solid #f3f4f6;font-size:15px;width:100%}
+        .nav .btn-cta{margin-top:8px;text-align:center;display:block}
     }
-    .header {
-      background: #fff;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-      will-change: transform;
-    }
-    .header-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 20px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      height: 64px;
-    }
-    .logo {
-      display: flex;
-      align-items: center;
-      text-decoration: none;
-      gap: 10px;
-    }
-    .logo-icon {
-      width: 40px;
-      height: 40px;
-      background: var(--secondary);
-      border-radius: 8px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-      font-weight: 800;
-      font-size: 18px;
-    }
-    .logo-text {
-      font-size: 18px;
-      font-weight: 700;
-      color: var(--primary);
-    }
-    .logo-text small {
-      display: block;
-      font-size: 11px;
-      font-weight: 400;
-      color: var(--text-light);
-    }
-    .nav {
-      display: flex;
-      align-items: center;
-      gap: 28px;
-    }
-    .nav a {
-      text-decoration: none;
-      color: var(--text);
-      font-size: 14px;
-      font-weight: 500;
-      transition: color 0.2s;
-    }
-    .btn-primary {
-      background: var(--secondary);
-      color: white;
-      padding: 10px 24px;
-      border-radius: var(--radius);
-      text-decoration: none;
-      font-weight: 600;
-      font-size: 14px;
-      transition: background 0.2s;
-    }
-    .hero-stats {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 16px;
-      margin-top: 32px;
-    }
-    .card-header {
-      background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
-      color: white;
-      padding: 20px;
-    }
-    .card-header h3 {
-      font-size: 18px;
-      font-weight: 700;
-    }
-    .card-header p {
-      font-size: 13px;
-      opacity: 0.8;
-    }
-    .btn-outline {
-      display: inline-block;
-      border: 2px solid var(--secondary);
-      color: var(--secondary);
-      padding: 10px 20px;
-      border-radius: var(--radius);
-      text-decoration: none;
-      font-weight: 600;
-      font-size: 14px;
-      transition: all 0.2s;
-    }
-    .btn-outline:hover {
-      background: var(--secondary);
-      color: white;
-    }
-    .content-header {
-      background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
-      color: white;
-      padding: 40px 20px;
-      text-align: center;
-    }
-    .content-header h1 {
-      font-size: 32px;
-      font-weight: 700;
-      margin-bottom: 10px;
-    }
-    .content-header p {
-      font-size: 15px;
-      opacity: 0.9;
-      max-width: 600px;
-      margin: 0 auto;
-    }
-      .hero-inner, .info-grid {
-        grid-template-columns: 1fr;
-      }
-      .header-inner {
-        height: 56px;
-        padding: 0 12px;
-      }
-      .nav { 
-        display: none;
-        position: fixed;
-        top: 56px;
-        left: 0;
-        right: 0;
-        background: white;
-        flex-direction: column;
-        padding: 16px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-        z-index: 999;
-      }
-      .nav.active {
-        display: flex !important;
-      }
-      .nav a {
-        padding: 12px 0;
-        border-bottom: 1px solid #eee;
-        font-size: 16px;
-      }
-      .nav .btn-primary {
-        margin-top: 8px;
-        text-align: center;
-      }
-      .menu-toggle {
-        display: flex !important;
-        flex-direction: column;
-        gap: 5px;
-        cursor: pointer;
-        padding: 8px;
-      }
-      .menu-toggle span {
-        width: 24px;
-        height: 2px;
-        background: #333;
-        transition: all 0.3s;
-      }
-      .hero-stats {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
-        margin-top: 24px;
-      }
-      .quick-nav {
-        flex-wrap: wrap;
-        gap: 8px;
-      }
-      .quick-nav a {
-        font-size: 12px;
-        padding: 8px 14px;
-      }
-    }
-      .hero h1 {
-        font-size: 22px;
-      }
-      .hero-stats {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 6px;
-      }
-      .btn-outline {
-        padding: 8px 16px;
-        font-size: 12px;
-      }
-    }</style>
+</style>
 <link rel="preload" href="/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/css/style.css"></noscript>
 </head>
@@ -284,52 +110,25 @@
   {{ partial "lead-form.html" . }}
 
   <!-- Floating Lead Button -->
-  <div id="floatingLead" style="position: fixed; bottom: 20px; right: 20px; z-index: 999; display: none;">
-    <button onclick="openLead('🎯 Get Free AISSEE Guide', 'Enter details to download', '')" style="background: linear-gradient(135deg, #F6D835, #FFD700); color: #111; border: none; padding: 14px 24px; border-radius: 50px; font-size: 15px; font-weight: 700; cursor: pointer; box-shadow: 0 4px 20px rgba(0,0,0,0.2); display: flex; align-items: center; gap: 8px; animation: pulse 2s infinite;">
-      <span>📥</span> Get Free Guide
-    </button>
-  </div>
-  <style>
-    @keyframes pulse { 0%, 100% { box-shadow: 0 4px 20px rgba(0,0,0,0.2); } 50% { box-shadow: 0 4px 30px rgba(246,216,53,0.5); } }
-  </style>
-  <script>
-    // Show floating button after 5 seconds
-    setTimeout(() => { document.getElementById('floatingLead').style.display = 'block'; }, 5000);
-    // Hide on scroll to bottom
-    window.addEventListener('scroll', () => {
-      const btn = document.getElementById('floatingLead');
-      if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
-        btn.style.display = 'none';
-      } else if (window.scrollY > 300) {
-        btn.style.display = 'block';
-      }
-    });
-  </script>
+  
 
-  <header class="header">
-    <div class="header-inner">
+  <header class="hdr">
+    <div class="hdr-inner">
       <a href="/" class="logo">
         <div class="logo-icon">SS</div>
-        <div class="logo-text">
-          Sainik School
-          <small>Eligibility, Results & More</small>
-        </div>
+        <div class="logo-text">Sainik School<small>Eligibility, Results & More</small></div>
       </a>
-      
       <nav class="nav" id="mainNav">
         <a href="/tools/age-calculator/">Eligibility</a>
         <a href="/schools/">Results</a>
         <a href="/blog/sainik-school-fees-comparison/">Fees</a>
         <a href="/blog/">Blog</a>
         <a href="/schools/">All Schools</a>
-        <a href="/blog/sainik-school-admission-2027-guide/" class="btn-primary">Admission 2027 →</a>
+        <a href="/blog/sainik-school-admission-2027-guide/" class="btn-cta">Admission 2027 →</a>
       </nav>
-      
-      <div class="menu-toggle" id="menuToggle" onclick="toggleMenu()" style="display:none;">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
     </div>
   </header>
 
@@ -352,10 +151,7 @@
       <div class="footer-brand">
         <div class="logo">
           <div class="logo-icon">SS</div>
-          <div class="logo-text">
-            Sainik School
-            <small>Eligibility, Results & More</small>
-          </div>
+          <div class="logo-text">Sainik School<small>Eligibility, Results & More</small></div>
         </div>
         <p>Your trusted guide to all 33+ Sainik Schools across India. AISSEE preparation tips, admission guides, fees, and daily articles for defense aspirants.</p>
         <p style="margin-top: 12px;">
@@ -530,7 +326,9 @@
     // Mobile menu toggle
     function toggleMenu() {
       const nav = document.getElementById('mainNav');
-      nav.classList.toggle('active');
+      const btn = document.getElementById('menuBtn');
+      nav.classList.toggle('open');
+      btn.classList.toggle('open');
     }
     
     // Close menu when clicking a link
@@ -543,7 +341,7 @@
     // Close menu when clicking outside
     document.addEventListener('click', (e) => {
       const nav = document.getElementById('mainNav');
-      const toggle = document.getElementById('menuToggle');
+      const toggle = document.getElementById('menuBtn');
       if (!nav.contains(e.target) && !toggle.contains(e.target)) {
         nav.classList.remove('active');
       }
