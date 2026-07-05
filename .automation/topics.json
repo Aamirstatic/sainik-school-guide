@@ -22,7 +22,8 @@
         "sainik school entrance exam guide book"
       ],
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "date": "2026-07-06"
     },
     {
       "type": "blog",
@@ -34,7 +35,8 @@
         "rashtriya military school vs sainik school"
       ],
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "date": "2026-07-06"
     },
     {
       "type": "blog",
@@ -46,7 +48,8 @@
         "sainik school entrance exam paper"
       ],
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "date": "2026-07-06"
     },
     {
       "type": "school",
@@ -357,7 +360,8 @@
         "sainik school spot round"
       ],
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "date": "2026-07-06"
     },
     {
       "type": "blog",
@@ -1035,5 +1039,5 @@
     "Sainik School vs Military School"
   ],
   "lastRun": "2026-07-06",
-  "totalGenerated": 10
+  "totalGenerated": 14
 }
