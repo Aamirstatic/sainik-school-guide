@@ -24,8 +24,8 @@
 <div class="art-wrap">
 <!-- Featured Image -->
 {{ if .Params.featured_image }}
-<div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; display: block;" loading="eager">
+<div class="feat-img-wrap">
+<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" loading="lazy" width="800" height="420">
 </div>
 {{ end }}
 
@@ -103,6 +103,9 @@ Table of Contents
 .toc-items li{margin-bottom:6px}
 .toc-items a{font-size:13px;color:#374151;text-decoration:none}
 .toc-items a:hover{color:#00BCD4}
+
+.feat-img-wrap{margin-bottom:24px;border-radius:12px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.1)}
+.feat-img-wrap img{width:100%;height:auto;display:block}
 .upd-box{background:#E6F3FA;border-radius:8px;padding:12px;margin-bottom:16px;font-size:13px}
 .upd-box strong{color:#0288D1}
 .upd-box a{color:#00BCD4}
@@ -141,7 +144,7 @@ Table of Contents
 .fb-btn{width:44px;height:44px;border-radius:10px;border:1px solid #DEDEDE;background:white;cursor:pointer;font-size:22px}
 @media(min-width:768px){.fb-btn{width:56px;height:56px;font-size:28px}}
 .fb-btn:hover{border-color:#00BCD4;background:#E6F3FA}
-.rel-box{margin:28px 0}
+.rel-box,.fb-box{content-visibility:auto;contain-intrinsic-size:auto 300px}.rel-box{margin:28px 0}
 .rel-box h2{font-size:18px;font-weight:600;color:#111928;margin-bottom:14px}
 .rel-grid{display:grid;grid-template-columns:1fr;gap:12px}
 @media(min-width:640px){.rel-grid{grid-template-columns:repeat(2,1fr)}}
@@ -157,7 +160,10 @@ Table of Contents
 .s-bar-sub{font-size:11px;color:#6B7280}
 .s-bar-btn{background:#00BCD4;color:white;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:600;font-size:13px}
 @media(max-width:992px){.art-grid{grid-template-columns:1fr}.sidebar{position:static;order:1}}
-@media(max-width:768px){.art-hero{padding:20px 12px}.art-title{font-size:20px}.art-meta{font-size:11px;gap:4px}.art-wrap{padding:12px}.art-body{font-size:14px}.art-body h2{font-size:18px;margin:20px 0 10px}.art-body h3{font-size:15px}.art-body p{font-size:14px}.tbl-wrap{margin:16px 0}.tbl-wrap table{font-size:11px;min-width:400px}.tbl-wrap th,.tbl-wrap td{padding:8px 6px;font-size:11px}.toc-box{margin-bottom:16px}.toc-btn{padding:8px 10px;font-size:13px}.toc-items{padding:0 10px 10px 24px}.toc-items a{font-size:12px}.faq-item{margin-bottom:6px}.faq-q{padding:10px 12px;font-size:13px;gap:8px}.faq-q-icon{width:24px;height:24px;font-size:12px}.faq-a{padding:0 12px 10px 44px;font-size:12px}.fb-box{padding:16px}.fb-title{font-size:14px}.fb-btn{width:36px;height:36px;font-size:18px}.fb-btns{gap:8px}.rel-box{margin:20px 0}.rel-box h2{font-size:16px}.rel-grid{grid-template-columns:1fr;gap:10px}.rel-card{padding:10px}.rel-card-img{height:80px}.s-bar{padding:8px 10px}.s-bar-text{font-size:12px}.s-bar-btn{padding:6px 12px;font-size:12px}.upd-box{padding:10px;font-size:12px}}
+@media(max-width:768px){.art-hero{padding:20px 12px}.art-title{font-size:20px}.art-meta{font-size:11px;gap:4px}.art-wrap{padding:12px}.art-body{font-size:14px}.art-body h2{font-size:18px;margin:20px 0 10px}.art-body h3{font-size:15px}.art-body p{font-size:14px}.tbl-wrap{margin:16px 0}.tbl-wrap table{font-size:11px;min-width:400px}.tbl-wrap th,.tbl-wrap td{padding:8px 6px;font-size:11px}.toc-box{margin-bottom:16px}.toc-btn{padding:8px 10px;font-size:13px}.toc-items{padding:0 10px 10px 24px}.toc-items a{font-size:12px}.faq-item{margin-bottom:6px}.faq-q{padding:10px 12px;font-size:13px;gap:8px}.faq-q-icon{width:24px;height:24px;font-size:12px}.faq-a{padding:0 12px 10px 44px;font-size:12px}.fb-box{padding:16px}.fb-title{font-size:14px}.fb-btn{width:36px;height:36px;font-size:18px}.fb-btns{gap:8px}.rel-box,.fb-box{content-visibility:auto;contain-intrinsic-size:auto 300px}.rel-box{margin:20px 0}.rel-box h2{font-size:16px}.rel-grid{grid-template-columns:1fr;gap:10px}.rel-card{padding:10px}.rel-card-img{height:80px}.s-bar{padding:8px 10px}.s-bar-text{font-size:12px}.s-bar-btn{padding:6px 12px;font-size:12px}
+.feat-img-wrap{margin-bottom:24px;border-radius:12px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.1)}
+.feat-img-wrap img{width:100%;height:auto;display:block}
+.upd-box{padding:10px;font-size:12px}}
 @media(max-width:480px){.art-title{font-size:17px}.art-body h2{font-size:16px}.art-body h3{font-size:14px}}
 </style>
 
@@ -184,7 +190,7 @@ if(h.textContent.indexOf('FAQ')>=0||h.style.display==='none')return;
 var id='h'+i;
 h.id=id;
 var li=document.createElement('li');
-li.style.marginLeft=h.tagName==='H3'?'16px':'0';
+li.className=h.tagName==='H3'?'toc-l3':'toc-l2';
 var a=document.createElement('a');
 a.href='#'+id;
 a.textContent=h.textContent;
