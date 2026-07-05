@@ -1,7 +1,7 @@
 baseURL = 'https://sainikschooleastsiang.in/'
 languageCode = 'en-in'
 defaultContentLanguage = 'en'
-title = 'Sainik School Guide India - Complete AISSEE Preparation & School Directory'
+title = 'Sainik School Eligibility Criteria 2026-27 for Class 6th & 9th'
 # theme = 'PaperMod' # Using custom layouts
 
 [pagination]
@@ -14,7 +14,7 @@ buildExpired = false
 [params]
   env = "production"
   title = "Sainik School Guide India"
-  description = "India's most comprehensive Sainik School directory. AISSEE preparation tips, school information, admission guides, and daily articles for defense aspirants."
+  description = "Check age limit, domicile reservation, medical standards & AISSEE 2026-27 eligibility for Class 6 and Class 9 admission in all 33+ Sainik Schools. Get complete admission guide, fee structure & NDA preparation tips."
   keywords = ["sainik school", "AISSEE", "sainik school entrance exam", "sainik school admission", "defense preparation", "military school India"]
   author = "Sainik School Guide India"
   DateFormat = "January 2, 2006"
