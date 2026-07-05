@@ -11,7 +11,6 @@
     backdrop-filter: blur(4px);
   }
   .lead-overlay.active { display: flex; }
-
   .lead-modal {
     background: white;
     border-radius: 16px;
@@ -20,9 +19,9 @@
     overflow: hidden;
     box-shadow: 0 20px 60px rgba(0,0,0,0.3);
     animation: leadSlide 0.3s ease;
+    position: relative;
   }
   @keyframes leadSlide { from { transform: translateY(30px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
-
   .lead-header {
     background: linear-gradient(135deg, #01263b, #0367a1);
     color: white;
@@ -31,16 +30,9 @@
   }
   .lead-header h3 { font-size: 20px; font-weight: 700; margin-bottom: 6px; }
   .lead-header p { font-size: 13px; opacity: 0.85; }
-
   .lead-body { padding: 24px; }
   .lead-field { margin-bottom: 16px; }
-  .lead-field label {
-    display: block;
-    font-size: 13px;
-    font-weight: 600;
-    color: #374151;
-    margin-bottom: 6px;
-  }
+  .lead-field label { display: block; font-size: 13px; font-weight: 600; color: #374151; margin-bottom: 6px; }
   .lead-field input, .lead-field select {
     width: 100%;
     padding: 12px 14px;
@@ -65,46 +57,30 @@
     transition: transform 0.2s;
   }
   .lead-submit:hover { transform: translateY(-2px); }
+  .lead-submit:disabled { opacity: 0.7; cursor: wait; }
   .lead-close {
     position: absolute;
     top: 12px; right: 16px;
-    background: none;
-    border: none;
-    color: white;
-    font-size: 24px;
-    cursor: pointer;
-    opacity: 0.7;
+    background: none; border: none;
+    color: white; font-size: 24px;
+    cursor: pointer; opacity: 0.7; z-index: 1;
   }
   .lead-close:hover { opacity: 1; }
-  .lead-note {
-    text-align: center;
-    font-size: 11px;
-    color: #9CA3AF;
-    margin-top: 12px;
-  }
-  .lead-success {
-    display: none;
-    text-align: center;
-    padding: 40px 24px;
-  }
+  .lead-note { text-align: center; font-size: 11px; color: #9CA3AF; margin-top: 12px; }
+  .lead-success { display: none; text-align: center; padding: 40px 24px; }
   .lead-success-icon { font-size: 48px; margin-bottom: 12px; }
   .lead-success h3 { font-size: 20px; font-weight: 700; color: #2E7D32; margin-bottom: 8px; }
   .lead-success p { font-size: 14px; color: #6B7280; margin-bottom: 16px; }
   .lead-success a {
     display: inline-block;
-    background: #00BCD4;
-    color: white;
-    padding: 12px 24px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 14px;
+    background: #00BCD4; color: white;
+    padding: 12px 24px; border-radius: 8px;
+    text-decoration: none; font-weight: 600; font-size: 14px;
   }
 </style>
 
-<!-- Lead Form Modal -->
 <div class="lead-overlay" id="leadModal">
-  <div class="lead-modal" style="position: relative;">
+  <div class="lead-modal">
     <button class="lead-close" onclick="closeLead()">&times;</button>
 
     <div class="lead-header">
@@ -135,7 +111,7 @@
           <option value="other">Other</option>
         </select>
       </div>
-      <button class="lead-submit" onclick="submitLead()">Submit & Access →</button>
+      <button class="lead-submit" id="leadSubmitBtn" onclick="submitLead()">Submit & Access →</button>
       <div class="lead-note">🔒 Your info is safe. We never spam.</div>
     </div>
 
@@ -143,77 +119,86 @@
       <div class="lead-success-icon">✅</div>
       <h3>Thank You!</h3>
       <p id="leadSuccessMsg">Your resource is ready.</p>
-      <a id="leadSuccessLink" href="#" target="_blank">Access Resource →</a>
+      <a id="leadSuccessLink" href="/" target="_blank">Access Resource →</a>
     </div>
   </div>
 </div>
 
 <script>
-// Open lead form
 function openLead(title, subtitle, redirectUrl) {
   document.getElementById('leadTitle').textContent = title || '📝 Get Free AISSEE Guide';
   document.getElementById('leadSubtitle').textContent = subtitle || 'Enter your details to access';
   document.getElementById('leadModal').classList.add('active');
   document.getElementById('leadModal').dataset.redirect = redirectUrl || '';
+  document.getElementById('leadForm').style.display = 'block';
+  document.getElementById('leadSuccess').style.display = 'none';
   document.body.style.overflow = 'hidden';
 }
 
-// Close lead form
 function closeLead() {
   document.getElementById('leadModal').classList.remove('active');
   document.body.style.overflow = '';
-  // Reset form after 3 seconds
-  setTimeout(() => {
-    document.getElementById('leadForm').style.display = 'block';
-    document.getElementById('leadSuccess').style.display = 'none';
-  }, 3000);
 }
 
-// Submit lead
 function submitLead() {
-  const name = document.getElementById('leadName').value.trim();
-  const phone = document.getElementById('leadPhone').value.trim();
-  const email = document.getElementById('leadEmail').value.trim();
-  const interest = document.getElementById('leadInterest').value;
+  var name = document.getElementById('leadName').value.trim();
+  var phone = document.getElementById('leadPhone').value.trim();
+  var email = document.getElementById('leadEmail').value.trim();
+  var interest = document.getElementById('leadInterest').value;
+  var btn = document.getElementById('leadSubmitBtn');
 
   if (!name) { alert('Please enter your name'); return; }
   if (!phone || phone.length !== 10) { alert('Please enter valid 10-digit number'); return; }
 
-  // Store lead (localStorage for now, can connect to Google Sheets later)
-  const leads = JSON.parse(localStorage.getItem('ssg_leads') || '[]');
-  leads.push({
-    name: name,
-    phone: phone,
-    email: email,
-    interest: interest,
-    page: window.location.pathname,
-    timestamp: new Date().toISOString()
-  });
-  localStorage.setItem('ssg_leads', JSON.stringify(leads));
+  btn.textContent = 'Submitting...';
+  btn.disabled = true;
 
-  // Show success
+  // Save to Google Sheets via Apps Script Web App
+  var data = new FormData();
+  data.append('name', name);
+  data.append('phone', phone);
+  data.append('email', email);
+  data.append('interest', interest);
+  data.append('page', window.location.pathname);
+
+  // Google Sheets webhook URL - replace with your Apps Script URL
+  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbx_REPLACE_WITH_YOUR_SCRIPT_ID/exec';
+
+  fetch(SHEET_URL, { method: 'POST', body: data })
+  .then(function(r) { return r.json(); })
+  .then(function() { showSuccess(); })
+  .catch(function() {
+    // Fallback: save locally
+    var leads = JSON.parse(localStorage.getItem('ssg_leads') || '[]');
+    leads.push({ name: name, phone: phone, email: email, interest: interest, page: window.location.pathname, time: new Date().toISOString() });
+    localStorage.setItem('ssg_leads', JSON.stringify(leads));
+    showSuccess();
+  });
+}
+
+function showSuccess() {
   document.getElementById('leadForm').style.display = 'none';
   document.getElementById('leadSuccess').style.display = 'block';
 
-  const redirect = document.getElementById('leadModal').dataset.redirect;
+  var redirect = document.getElementById('leadModal').dataset.redirect;
   if (redirect) {
     document.getElementById('leadSuccessMsg').textContent = 'Redirecting to your resource...';
     document.getElementById('leadSuccessLink').href = redirect;
     document.getElementById('leadSuccessLink').textContent = 'Go to Resource →';
-    setTimeout(() => { window.open(redirect, '_blank'); closeLead(); }, 2000);
+    setTimeout(function() { window.open(redirect, '_blank'); closeLead(); }, 2000);
   } else {
     document.getElementById('leadSuccessMsg').textContent = 'We will contact you soon!';
     document.getElementById('leadSuccessLink').href = '/';
     document.getElementById('leadSuccessLink').textContent = 'Back to Home';
   }
 
-  // Clear form
   document.getElementById('leadName').value = '';
   document.getElementById('leadPhone').value = '';
   document.getElementById('leadEmail').value = '';
+  document.getElementById('leadSubmitBtn').textContent = 'Submit & Access →';
+  document.getElementById('leadSubmitBtn').disabled = false;
 }
 
-// Close on overlay click
 document.getElementById('leadModal').addEventListener('click', function(e) {
   if (e.target === this) closeLead();
 });
