@@ -558,6 +558,46 @@
   {{ end }}
 </div>
 
+{{ else if eq .Section "authors" }}
+
+<!-- Authors Section -->
+<section class="blog-hero" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);">
+  <h1>👥 {{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</section>
+<div class="blog-breadcrumb">
+  <a href="/">Home</a> / <span>{{ .Title }}</span>
+</div>
+<div style="max-width: 1000px; margin: 0 auto; padding: 30px 20px;">
+  {{ if .Pages }}
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {{ range .Pages }}
+    <a href="{{ .Permalink }}" style="text-decoration: none;">
+    <div style="background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); border: 1px solid #F3F4F6; text-align: center; transition: all 0.25s;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 12px rgba(0,0,0,0.06)'">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #00BCD4, #F6D835); margin: 0 auto 16px; display: flex; align-items: center; justify-content: center; font-size: 36px; overflow: hidden;">
+        {{ if .Params.author_image }}
+          <img src="{{ .Params.author_image }}" alt="{{ .Params.author_name }}" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+        {{ else }}
+          👤
+        {{ end }}
+      </div>
+      <h3 style="font-size: 16px; font-weight: 700; color: #111928; margin-bottom: 4px;">{{ .Params.author_name | default .Title }}</h3>
+      <p style="font-size: 13px; color: #00BCD4; font-weight: 600; margin-bottom: 8px;">{{ .Params.author_title | default "Content Writer" }}</p>
+      <p style="font-size: 12px; color: #6B7280; line-height: 1.5;">{{ .Params.author_bio | default .Description | truncate 100 }}</p>
+      <div style="margin-top: 14px; display: inline-block; background: #E6F3FA; color: #0097A7; padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: 600;">View Profile →</div>
+    </div>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div style="text-align: center; padding: 60px 20px; color: #6B7280;">
+    <div style="font-size: 48px; margin-bottom: 16px;">👥</div>
+    <h3 style="font-size: 18px; color: #111928; margin-bottom: 8px;">Coming Soon</h3>
+    <p>Our team profiles are being added. Check back soon!</p>
+  </div>
+  {{ end }}
+</div>
+
 {{ else }}
 
 <!-- Default Section -->
