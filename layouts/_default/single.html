@@ -394,18 +394,26 @@ document.addEventListener('DOMContentLoaded', function() {
   var tocBox = document.getElementById('tocBox');
   var tocList = document.getElementById('tocList');
   
-  // Check if manual TOC exists
-  var hasToc = false;
-  body.querySelectorAll('h2').forEach(function(h) {
-    if (h.textContent.indexOf('Table of Contents') >= 0) hasToc = true;
+  // Hide any manual TOC in content
+  body.querySelectorAll('h2, h3').forEach(function(h) {
+    if (h.textContent.indexOf('Table of Contents') >= 0 || h.textContent.indexOf('TOC') >= 0) {
+      h.style.display = 'none';
+      // Hide the list after it
+      var next = h.nextElementSibling;
+      while (next && (next.tagName === 'UL' || next.tagName === 'OL')) {
+        next.style.display = 'none';
+        next = next.nextElementSibling;
+      }
+    }
   });
   
-  // Generate TOC
+  // Generate TOC from all h2 and h3
   var headings = body.querySelectorAll('h2, h3');
-  if (headings.length > 0 && !hasToc) {
+  if (headings.length > 0) {
     tocBox.style.display = 'block';
     headings.forEach(function(h, i) {
-      if (h.textContent.indexOf('FAQ') >= 0) return;
+      // Skip FAQ headings and hidden headings
+      if (h.textContent.indexOf('FAQ') >= 0 || h.style.display === 'none') return;
       var id = 'h' + i;
       h.id = id;
       var li = document.createElement('li');
