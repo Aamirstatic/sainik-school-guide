@@ -5,7 +5,9 @@
       "topic": "AISSEE 2027 Preparation Tips - Complete Strategy Guide",
       "keywords": ["AISSEE preparation", "AISSEE 2027 tips", "sainik school entrance exam preparation", "how to crack AISSEE"],
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "file": "content/blog/aissee-2027-preparation-tips.md",
+      "date": "2026-07-05"
     },
     {
       "type": "blog",
@@ -71,7 +73,7 @@
       "status": "pending"
     }
   ],
-  "completed": [],
-  "lastRun": null,
-  "totalGenerated": 0
+  "completed": ["AISSEE 2027 Preparation Tips - Complete Strategy Guide"],
+  "lastRun": "2026-07-05",
+  "totalGenerated": 1
 }
