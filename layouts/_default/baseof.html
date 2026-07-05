@@ -1110,9 +1110,35 @@
   </style>
 </head>
 <body>
-  <!-- Header -->
+  <!-- Announcement Banner -->
+  <div class="announcement-bar">
+    <span>🎉 AISSEE 2027 Notification Expected September 2026!</span>
+    <a href="/aissee/">Check Details →</a>
+  </div>
+  <style>
+    .announcement-bar {
+      background: linear-gradient(90deg, #F6D835 0%, #FF4DA6 100%);
+      color: #111;
+      padding: 8px 16px;
+      text-align: center;
+      font-size: 13px;
+      font-weight: 600;
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      align-items: center;
+    }
+    .announcement-bar a {
+      color: #111;
+      text-decoration: underline;
+      font-weight: 700;
+    }
+  </style>
+
+  <!-- Header - Cracku Style -->
   <header class="header">
     <div class="header-inner">
+      <!-- Logo -->
       <a href="/" class="logo">
         <div class="logo-icon">SS</div>
         <div class="logo-text">
@@ -1121,22 +1147,102 @@
         </div>
       </a>
       
+      <!-- Navigation -->
       <nav class="nav" id="mainNav">
         <a href="/">Home</a>
         <a href="/sainik-schools/">Schools</a>
         <a href="/aissee/">AISSEE</a>
         <a href="/blog/">Blog</a>
         <a href="/states/">States</a>
-        <a href="#contact" class="btn-primary">Contact</a>
       </nav>
       
+      <!-- Right Actions -->
+      <div class="header-actions">
+        <a href="tel:9436409766" class="header-phone">
+          📞 9436409766
+        </a>
+        <a href="https://jgps.in/" class="header-coaching" target="_blank">
+          🎓 JGPS Coaching
+        </a>
+        <a href="/aissee/" class="btn-primary">Get Started</a>
+      </div>
+      
+      <!-- Mobile Menu Toggle -->
       <div class="menu-toggle" id="menuToggle" onclick="toggleMenu()" style="display:none;">
         <span></span>
         <span></span>
         <span></span>
       </div>
     </div>
+    
+    <!-- Secondary Nav -->
+    <nav class="secondary-nav">
+      <div class="secondary-nav-inner">
+        <a href="/sainik-schools/">All Schools</a>
+        <a href="/sainik-schools/sainik-school-amaravathinagar/">Amaravathinagar</a>
+        <a href="/sainik-schools/sainik-school-kapurthala/">Kapurthala</a>
+        <a href="/sainik-schools/sainik-school-rewa/">Rewa</a>
+        <a href="/sainik-schools/sainik-school-chittorgarh/">Chittorgarh</a>
+        <a href="/states/">States</a>
+      </div>
+    </nav>
   </header>
+  <style>
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .header-phone {
+      font-size: 13px;
+      font-weight: 600;
+      color: #111928;
+      text-decoration: none;
+      background: #E6F3FA;
+      padding: 6px 12px;
+      border-radius: 6px;
+    }
+    .header-coaching {
+      font-size: 13px;
+      font-weight: 600;
+      color: #111;
+      text-decoration: none;
+      background: linear-gradient(90deg, #F6D835 0%, #FF4DA6 100%);
+      padding: 6px 12px;
+      border-radius: 6px;
+    }
+    .secondary-nav {
+      background: #F4F4F4;
+      border-top: 1px solid #E5E7EB;
+      display: none;
+    }
+    @media (min-width: 1024px) {
+      .secondary-nav { display: block; }
+    }
+    .secondary-nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      height: 40px;
+      overflow-x: auto;
+    }
+    .secondary-nav a {
+      font-size: 13px;
+      font-weight: 500;
+      color: #374151;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: color 0.2s;
+    }
+    .secondary-nav a:hover { color: #00BCD4; }
+    @media (max-width: 768px) {
+      .header-actions .header-phone,
+      .header-actions .header-coaching { display: none; }
+    }
+  </style
 
   {{ block "main" . }}{{ end }}
 
@@ -1150,9 +1256,10 @@
     </form>
   </section>
 
-  <!-- Footer -->
+  <!-- Footer - Cracku Style -->
   <footer class="footer" id="contact">
     <div class="footer-inner">
+      <!-- About Column -->
       <div class="footer-brand">
         <div class="logo">
           <div class="logo-icon">SS</div>
@@ -1162,42 +1269,163 @@
           </div>
         </div>
         <p>Your trusted guide to Sainik Schools across India. AISSEE preparation tips, school information, and admission guidance.</p>
+        <p style="margin-top: 12px;">
+          <strong>Powered by:</strong> <a href="https://jgps.in/" style="color: #F6D835;">JGPS Coaching</a>
+        </p>
       </div>
       
+      <!-- Sainik Schools Column -->
       <div>
-        <h4>Quick Links</h4>
+        <h4>Sainik Schools</h4>
         <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/sainik-schools/">Schools</a></li>
-          <li><a href="/aissee/">AISSEE</a></li>
-          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/sainik-schools/">All Schools</a></li>
+          <li><a href="/sainik-schools/sainik-school-amaravathinagar/">Amaravathinagar</a></li>
+          <li><a href="/sainik-schools/sainik-school-kapurthala/">Kapurthala</a></li>
+          <li><a href="/sainik-schools/sainik-school-rewa/">Rewa</a></li>
+          <li><a href="/sainik-schools/sainik-school-chittorgarh/">Chittorgarh</a></li>
         </ul>
       </div>
       
+      <!-- AISSEE Column -->
       <div>
-        <h4>Resources</h4>
+        <h4>AISSEE</h4>
         <ul>
+          <li><a href="/aissee/">AISSEE Guide</a></li>
           <li><a href="/blog/sainik-school-admission-2027-guide/">Admission Guide</a></li>
-          <li><a href="/aissee/">Syllabus</a></li>
-          <li><a href="/blog/">Daily Articles</a></li>
+          <li><a href="/blog/best-books-for-aissee-2027/">Best Books</a></li>
+          <li><a href="/blog/sainik-school-admission-mistakes/">Common Mistakes</a></li>
+          <li><a href="/blog/sainik-school-vs-military-school/">Sainik vs Military</a></li>
         </ul>
       </div>
       
+      <!-- States Column -->
       <div>
-        <h4>Contact</h4>
+        <h4>States</h4>
         <ul>
-          <li><a href="mailto:info@sainikschooleastsiang.in">Email Us</a></li>
-          <li><a href="#">WhatsApp</a></li>
-          <li><a href="#">Instagram</a></li>
-          <li><a href="#">YouTube</a></li>
+          <li><a href="/states/rajasthan/">Rajasthan</a></li>
+          <li><a href="/states/tamil-nadu/">Tamil Nadu</a></li>
+          <li><a href="/states/punjab/">Punjab</a></li>
+          <li><a href="/states/">All States</a></li>
+        </ul>
+      </div>
+      
+      <!-- Contact Column -->
+      <div>
+        <h4>Contact Us</h4>
+        <ul>
+          <li><a href="mailto:info@sainikschooleastsiang.in">📧 Email Us</a></li>
+          <li><a href="tel:9436409766">📞 9436409766</a></li>
+          <li><a href="https://jgps.in/" target="_blank">🎓 JGPS Coaching</a></li>
+          <li><a href="#">📱 WhatsApp</a></li>
         </ul>
       </div>
     </div>
     
+    <!-- Footer Bottom -->
     <div class="footer-bottom">
-      &copy; 2026 Sainik School Guide India. All rights reserved. | Informational guide, not official school website.
+      <div class="footer-logo">
+        <div class="logo">
+          <div class="logo-icon">SS</div>
+          <div class="logo-text">Sainik School Guide</div>
+        </div>
+      </div>
+      
+      <div class="footer-copy">
+        &copy; 2026 Sainik School Guide India. All rights reserved.<br>
+        <small>Informational guide, not an official Sainik School website.</small>
+      </div>
+      
+      <div class="footer-social">
+        <a href="#" aria-label="Instagram">📷</a>
+        <a href="#" aria-label="YouTube">▶️</a>
+        <a href="#" aria-label="Facebook">📘</a>
+        <a href="https://jgps.in/" aria-label="JGPS" target="_blank">🎓</a>
+      </div>
     </div>
   </footer>
+  <style>
+    .footer {
+      background: #01263b;
+      color: white;
+      padding: 50px 20px 24px;
+    }
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+      gap: 40px;
+    }
+    .footer-brand p {
+      font-size: 13px;
+      opacity: 0.7;
+      margin-top: 12px;
+      line-height: 1.6;
+    }
+    .footer h4 {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      color: #F6D835;
+    }
+    .footer ul {
+      list-style: none;
+    }
+    .footer li {
+      margin-bottom: 10px;
+    }
+    .footer a {
+      color: white;
+      opacity: 0.7;
+      text-decoration: none;
+      font-size: 13px;
+      transition: opacity 0.2s;
+    }
+    .footer a:hover { opacity: 1; color: #F6D835; }
+    .footer-bottom {
+      max-width: 1200px;
+      margin: 30px auto 0;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .footer-copy {
+      font-size: 12px;
+      opacity: 0.5;
+      text-align: center;
+    }
+    .footer-copy small { font-size: 11px; }
+    .footer-social {
+      display: flex;
+      gap: 12px;
+    }
+    .footer-social a {
+      width: 36px;
+      height: 36px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .footer-social a:hover {
+      background: rgba(255,255,255,0.2);
+    }
+    @media (max-width: 992px) {
+      .footer-inner { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 768px) {
+      .footer-inner { grid-template-columns: 1fr; }
+      .footer-bottom { flex-direction: column; text-align: center; }
+    }
+  </style>
   <script>
     // Mobile menu toggle
     function toggleMenu() {
