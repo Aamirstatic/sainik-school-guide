@@ -261,14 +261,7 @@ list.appendChild(div);
 });
 faqBox.appendChild(list);
 body.appendChild(faqBox);
-try{
-var faqSchema={"@context":"https://schema.org","@type":"FAQPage","mainEntity":faqItems.map(function(item){
-var d=document.createElement('div');
-d.innerHTML=item.a;
-return{"@type":"Question","name":item.q,"acceptedAnswer":{"@type":"Answer","text:(d.textContent||'').trim()}};
-})};
-document.getElementById('faqSchema').textContent=JSON.stringify(faqSchema);
-}catch(e){}
+/* FAQ Schema - handled by partial */
 }
 }
 });
