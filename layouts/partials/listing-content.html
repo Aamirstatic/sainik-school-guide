@@ -158,7 +158,7 @@
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
   }
-  .blog-card {
+  .blog-card { contain: layout style paint; min-height: 280px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -240,7 +240,7 @@
 
   /* Sidebar */
   .blog-sidebar { display: flex; flex-direction: column; gap: 20px; }
-  .sidebar-card {
+  .sidebar-card { contain: layout style; min-height: 200px;
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -374,7 +374,7 @@
 {{ if eq .Section "blog" }}
 
 <!-- Blog Hero -->
-<section class="blog-hero">
+<section class="blog-hero" style="min-height:180px">
   <h1>📚 {{ .Title }}</h1>
   <p>{{ .Description }}</p>
   <div class="blog-hero-stats">
@@ -399,7 +399,7 @@
 </div>
 
 <!-- Main Content -->
-<div class="blog-container">
+<div class="blog-container" style="min-height:60vh">
   <div class="blog-main">
 
     <!-- Featured Post (First/Latest) -->

@@ -67,7 +67,22 @@
   <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet"></noscript>
 
   
-  <style>    .hero-image {
+  <style>
+    /* CLS Prevention - Critical */
+    * { box-sizing: border-box; }
+    img, video, iframe { max-width: 100%; height: auto; display: block; }
+    img { aspect-ratio: attr(width) / attr(height); }
+    .header,.footer,.newsletter,.stats-bar,.sec,.sch-bg { contain: layout style; }
+    .blog-grid,.sch-grid,.ql-grid { contain: layout style paint; }
+    .hero-form-wrap { min-height: 420px; }
+    .hf { min-height: 380px; }
+    .bc { min-height: 220px; }
+    .sc { min-height: 120px; }
+    .ql { min-height: 100px; }
+    .st { min-height: 80px; }
+    @font-face { font-family: 'Inter'; font-display: swap; }
+
+    .hero-image {
       background: linear-gradient(135deg, #e0e0e0 25%, #f0f0f0 50%, #e0e0e0 75%);
       background-size: 200% 100%;
       animation: shimmer 1.5s infinite;
