@@ -1,197 +1,153 @@
 {{ define "main" }}
 
 <style>
-  .news-hero {
-    background: linear-gradient(135deg, #01263b 0%, #0367a1 50%, #01263b 100%);
-    color: white;
-    padding: 0;
-    position: relative;
-  }
-  .news-hero-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    min-height: 520px;
-    align-items: center;
-    position: relative;
-  }
-  .hero-text { padding: 50px 40px; position: relative; z-index: 2; }
-  .hero-form-wrap {
-    padding: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .hero-form {
-    background: white;
-    border-radius: 16px;
-    width: 100%;
-    max-width: 400px;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-  }
-  .hero-form-header {
-    background: linear-gradient(135deg, #01263b, #0367a1);
-    color: white;
-    padding: 20px 24px;
-    text-align: center;
-  }
-  .hero-form-header h3 { font-size: 18px; font-weight: 700; margin-bottom: 4px; }
-  .hero-form-header p { font-size: 12px; opacity: 0.85; }
-  .hero-form-body { padding: 20px 24px; }
-  .hero-form .lead-field { margin-bottom: 14px; }
-  .hero-form .lead-field label { display: block; font-size: 12px; font-weight: 600; color: #374151; margin-bottom: 5px; }
-  .hero-form .lead-field input, .hero-form .lead-field select {
-    width: 100%;
-    padding: 10px 12px;
-    border: 2px solid #E5E7EB;
-    border-radius: 8px;
-    font-size: 13px;
-    outline: none;
-    transition: border 0.2s;
-    box-sizing: border-box;
-  }
-  .hero-form .lead-field input:focus, .hero-form .lead-field select:focus { border-color: #00BCD4; }
-  .hero-form .lead-submit {
-    width: 100%;
-    background: linear-gradient(135deg, #F6D835, #FFD700);
-    color: #111;
-    border: none;
-    padding: 12px;
-    border-radius: 8px;
-    font-size: 15px;
-    font-weight: 700;
-    cursor: pointer;
-    transition: transform 0.2s;
-  }
-  .hero-form .lead-submit:hover { transform: translateY(-2px); }
-  .hero-form .lead-note { text-align: center; font-size: 10px; color: #9CA3AF; margin-top: 10px; }
-  .hero-form .lead-success { display: none; text-align: center; padding: 30px 20px; }
-  .hero-form .lead-success-icon { font-size: 40px; margin-bottom: 8px; }
-  .hero-form .lead-success h3 { font-size: 18px; font-weight: 700; color: #2E7D32; margin-bottom: 6px; }
-  .hero-form .lead-success p { font-size: 13px; color: #6B7280; }
-  .news-hero h1 { font-size: 36px; font-weight: 800; line-height: 1.2; margin-bottom: 12px; }
-  .news-hero h1 span { color: #F6D835; }
-  .news-hero p { font-size: 16px; opacity: 0.9; margin-bottom: 20px; max-width: 500px; }
-  .news-hero-btns { display: flex; gap: 12px; flex-wrap: wrap; }
-  .btn-hero { padding: 12px 24px; border-radius: 8px; font-weight: 600; font-size: 15px; text-decoration: none; transition: transform 0.2s; }
-  .btn-hero:hover { transform: translateY(-2px); }
-  .btn-hero-primary { background: #F6D835; color: #111; }
-  .btn-hero-outline { background: transparent; border: 2px solid rgba(255,255,255,0.3); color: white; }
-  .hero-stats { display: flex; gap: 30px; margin-top: 24px; }
-  .hero-stat { text-align: center; }
-  .hero-stat-num { font-size: 28px; font-weight: 800; color: #F6D835; }
-  .hero-stat-label { font-size: 12px; opacity: 0.8; }
+/* Hero */
+.hero{background:linear-gradient(135deg,#01263b 0%,#0367a1 50%,#01263b 100%);color:#fff;padding:0}
+.hero-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1.1fr .9fr;min-height:500px;align-items:center}
+.hero-text{padding:48px 40px}
+.hero-text h1{font-size:34px;font-weight:800;line-height:1.2;margin-bottom:14px}
+.hero-text h1 span{color:#F6D835}
+.hero-text p{font-size:15px;opacity:.9;margin-bottom:20px;max-width:520px;line-height:1.6}
+.hero-btns{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
+.btn-h{padding:11px 22px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;transition:transform .2s;display:inline-flex;align-items:center;gap:6px}
+.btn-h:hover{transform:translateY(-2px)}
+.btn-h-gold{background:#F6D835;color:#111}
+.btn-h-green{background:#4CAF50;color:#fff}
+.btn-h-outline{background:0 0;border:2px solid rgba(255,255,255,.3);color:#fff}
+.hero-stats{display:flex;gap:28px}
+.h-stat{text-align:center}
+.h-stat b{display:block;font-size:26px;font-weight:800;color:#F6D835}
+.h-stat small{font-size:11px;opacity:.8}
 
-  .home-section { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
-  .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 3px solid #00BCD4; }
-  .section-header h2 { font-size: 22px; font-weight: 700; color: #111928; }
-  .section-header a { color: #00BCD4; font-size: 14px; font-weight: 600; text-decoration: none; }
-  .section-header a:hover { text-decoration: underline; }
+/* Hero Form */
+.hero-form-wrap{padding:40px;display:flex;align-items:center;justify-content:center}
+.hf{background:#fff;border-radius:16px;width:100%;max-width:400px;box-shadow:0 16px 48px rgba(0,0,0,.25)}
+.hf-head{background:linear-gradient(135deg,#01263b,#0367a1);color:#fff;padding:18px 22px;text-align:center;border-radius:16px 16px 0 0}
+.hf-head h3{font-size:17px;font-weight:700;margin-bottom:3px}
+.hf-head p{font-size:11px;opacity:.85}
+.hf-body{padding:18px 22px}
+.hf-body label{display:block;font-size:12px;font-weight:600;color:#374151;margin-bottom:4px}
+.hf-body input,.hf-body select{width:100%;padding:10px 12px;border:2px solid #E5E7EB;border-radius:8px;font-size:14px;outline:0;transition:border .2s;box-sizing:border-box;margin-bottom:12px}
+.hf-body input:focus,.hf-body select:focus{border-color:#00BCD4}
+.hf-btn{width:100%;background:linear-gradient(135deg,#F6D835,#FFD700);color:#111;border:none;padding:12px;border-radius:8px;font-size:15px;font-weight:700;cursor:pointer;transition:transform .2s}
+.hf-btn:hover{transform:translateY(-2px)}
+.hf-note{text-align:center;font-size:10px;color:#9CA3AF;margin-top:8px}
+.hf-ok{display:none;text-align:center;padding:28px 20px}
+.hf-ok-icon{font-size:36px;margin-bottom:6px}
+.hf-ok h3{font-size:17px;font-weight:700;color:#2E7D32;margin-bottom:4px}
+.hf-ok p{font-size:13px;color:#6B7280}
 
-  /* Blog Grid */
-  .blog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
-  .blog-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #F3F4F6; transition: all 0.25s; }
-  .blog-card:hover { transform: translateY(-4px); box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
-  .blog-card-img { height: 140px; display: flex; align-items: center; justify-content: center; font-size: 36px; }
-  .blog-card-img-1 { background: linear-gradient(135deg, #667eea, #764ba2); }
-  .blog-card-img-2 { background: linear-gradient(135deg, #f093fb, #f5576c); }
-  .blog-card-img-3 { background: linear-gradient(135deg, #4facfe, #00f2fe); }
-  .blog-card-img-4 { background: linear-gradient(135deg, #43e97b, #38f9d7); }
-  .blog-card-img-5 { background: linear-gradient(135deg, #fa709a, #fee140); }
-  .blog-card-img-6 { background: linear-gradient(135deg, #a18cd1, #fbc2eb); }
-  .blog-card-body { padding: 16px; }
-  .blog-card-tag { display: inline-block; background: #E6F3FA; color: #0097A7; padding: 3px 8px; border-radius: 4px; font-size: 10px; font-weight: 600; text-transform: uppercase; margin-bottom: 6px; }
-  .blog-card-title { font-size: 14px; font-weight: 600; color: #111928; margin-bottom: 6px; line-height: 1.4; }
-  .blog-card-title a { text-decoration: none; color: inherit; }
-  .blog-card-title a:hover { color: #00BCD4; }
-  .blog-card-meta { font-size: 11px; color: #9CA3AF; }
+/* Sections */
+.sec{max-width:1200px;margin:0 auto;padding:40px 20px}
+.sec-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px;padding-bottom:10px;border-bottom:3px solid #00BCD4}
+.sec-hdr h2{font-size:21px;font-weight:700;color:#111928}
+.sec-hdr a{color:#00BCD4;font-size:13px;font-weight:600;text-decoration:none}
+.sec-hdr a:hover{text-decoration:underline}
 
-  /* Schools Grid */
-  .schools-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
-  .school-card { background: white; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #F3F4F6; transition: all 0.25s; text-decoration: none; display: block; }
-  .school-card:hover { transform: translateY(-4px); box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
-  .school-card-icon { font-size: 32px; margin-bottom: 10px; }
-  .school-card h3 { font-size: 13px; font-weight: 600; color: #111928; margin-bottom: 4px; }
-  .school-card p { font-size: 11px; color: #6B7280; }
-  .school-card-state { display: inline-block; background: #E6F3FA; color: #0097A7; padding: 2px 8px; border-radius: 4px; font-size: 10px; font-weight: 600; margin-top: 6px; }
+/* Stats */
+.stats-bar{background:#F7F9FB;padding:28px 20px}
+.stats-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:16px;text-align:center}
+.st{background:#fff;padding:18px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+.st b{display:block;font-size:30px;font-weight:800;color:#00BCD4}
+.st small{font-size:12px;color:#6B7280}
 
-  /* Quick Stats */
-  .stats-bar { background: #F7F9FB; padding: 30px 20px; }
-  .stats-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center; }
-  .stat-item { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
-  .stat-num { font-size: 32px; font-weight: 800; color: #00BCD4; }
-  .stat-label { font-size: 13px; color: #6B7280; margin-top: 4px; }
+/* Blog Cards */
+.blog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.bc{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.05);border:1px solid #F3F4F6;transition:all .25s;text-decoration:none;display:block;color:inherit}
+.bc:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.1)}
+.bc-img{height:130px;display:flex;align-items:center;justify-content:center;font-size:34px}
+.bc-img-1{background:linear-gradient(135deg,#667eea,#764ba2)}.bc-img-2{background:linear-gradient(135deg,#f093fb,#f5576c)}.bc-img-3{background:linear-gradient(135deg,#4facfe,#00f2fe)}
+.bc-img-4{background:linear-gradient(135deg,#43e97b,#38f9d7)}.bc-img-5{background:linear-gradient(135deg,#fa709a,#fee140)}.bc-img-6{background:linear-gradient(135deg,#a18cd1,#fbc2eb)}
+.bc-body{padding:14px}
+.bc-tag{display:inline-block;background:#E6F3FA;color:#0097A7;padding:2px 7px;border-radius:4px;font-size:9px;font-weight:600;text-transform:uppercase;margin-bottom:5px}
+.bc-title{font-size:13px;font-weight:600;color:#111928;margin-bottom:4px;line-height:1.4}
+.bc-meta{font-size:10px;color:#9CA3AF}
 
-  @media (max-width: 992px) {
-    .blog-grid { grid-template-columns: repeat(2, 1fr); }
-    .schools-grid { grid-template-columns: repeat(3, 1fr); }
-    .stats-inner { grid-template-columns: repeat(2, 1fr); }
-  }
-  @media (max-width: 768px) {
-    .news-hero h1 { font-size: 24px; }
-    .news-hero-inner { grid-template-columns: 1fr; min-height: auto; }
-    .hero-text { padding: 30px 20px; }
-    .hero-form-wrap { display: none !important; }
-    .blog-grid { grid-template-columns: 1fr; }
-    .schools-grid { grid-template-columns: repeat(2, 1fr); }
-    .hero-stats { gap: 15px; }
-    .hero-stat-num { font-size: 22px; }
-  }
+/* School Cards */
+.sch-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.sc{background:#fff;border-radius:10px;padding:18px;text-align:center;box-shadow:0 2px 10px rgba(0,0,0,.05);border:1px solid #F3F4F6;transition:all .25s;text-decoration:none;display:block;color:inherit}
+.sc:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.1)}
+.sc-icon{font-size:28px;margin-bottom:8px}
+.sc h3{font-size:12px;font-weight:600;color:#111928;margin-bottom:3px}
+.sc p{font-size:10px;color:#6B7280}
+.sc-st{display:inline-block;background:#E6F3FA;color:#0097A7;padding:2px 7px;border-radius:4px;font-size:9px;font-weight:600;margin-top:5px}
+
+/* Quick Links */
+.ql-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.ql{color:#fff;padding:22px;border-radius:10px;text-decoration:none;text-align:center;transition:transform .2s}
+.ql:hover{transform:translateY(-3px)}
+.ql-icon{font-size:28px;margin-bottom:6px}
+.ql-title{font-weight:700;font-size:14px}
+.ql-desc{font-size:11px;opacity:.8;margin-top:3px}
+
+/* Responsive */
+@media(max-width:992px){
+  .blog-grid{grid-template-columns:repeat(2,1fr)}
+  .sch-grid{grid-template-columns:repeat(3,1fr)}
+  .stats-grid{grid-template-columns:repeat(2,1fr)}
+  .ql-grid{grid-template-columns:repeat(3,1fr)}
+}
+@media(max-width:768px){
+  .hero-inner{grid-template-columns:1fr;min-height:auto}
+  .hero-text{padding:28px 18px}
+  .hero-text h1{font-size:22px}
+  .hero-text p{font-size:13px}
+  .hero-form-wrap{display:none!important}
+  .hero-btns{display:none}
+  .hero-stats{gap:12px;flex-wrap:wrap}
+  .h-stat b{font-size:20px}
+  .h-stat small{font-size:10px}
+  .blog-grid{grid-template-columns:1fr}
+  .sch-grid{grid-template-columns:repeat(2,1fr)}
+  .ql-grid{grid-template-columns:repeat(2,1fr)}
+  .sec{padding:28px 14px}
+  .sec-hdr h2{font-size:18px}
+}
 </style>
 
 <!-- Hero -->
-<section class="news-hero">
-  <div class="news-hero-inner">
+<section class="hero" itemscope itemtype="https://schema.org/WebPage">
+  <div class="hero-inner">
     <div class="hero-text">
-      <h1>Sainik School <span>Eligibility Criteria 2026-27</span> for Class 6th & 9th</h1>
-      <p>Check age limit, domicile reservation, medical standards & AISSEE 2026-27 eligibility for Class 6 and Class 9 admission in all 33+ Sainik Schools. Get complete admission guide, fee structure & NDA preparation tips.</p>
-      <div class="news-hero-btns">
-        <a href="/tools/age-calculator/" class="btn-hero btn-hero-primary">🧮 Check Age Eligibility</a>
-        <a href="/schools/" class="btn-hero" style="background: #4CAF50; color: white;">🏫 All 33+ Schools</a>
-        <a href="/blog/" class="btn-hero btn-hero-outline">📖 AISSEE Guide</a>
+      <h1 itemprop="headline">Sainik School <span>Eligibility Criteria 2026-27</span> for Class 6th & 9th</h1>
+      <p itemprop="description">Check age limit, domicile reservation, medical standards & AISSEE 2026-27 eligibility for Class 6 and Class 9 admission in all 33+ Sainik Schools. Get complete admission guide, fee structure & NDA preparation tips.</p>
+      <div class="hero-btns">
+        <a href="/tools/age-calculator/" class="btn-h btn-h-gold">🧮 Check Age Eligibility</a>
+        <a href="/schools/" class="btn-h btn-h-green">🏫 All 33+ Schools</a>
+        <a href="/blog/" class="btn-h btn-h-outline">📖 AISSEE Guide</a>
       </div>
       <div class="hero-stats">
-        <div class="hero-stat"><div class="hero-stat-num">33+</div><div class="hero-stat-label">Sainik Schools</div></div>
-        <div class="hero-stat"><div class="hero-stat-num">10-12</div><div class="hero-stat-label">Class 6 Age</div></div>
-        <div class="hero-stat"><div class="hero-stat-num">13-15</div><div class="hero-stat-label">Class 9 Age</div></div>
-        <div class="hero-stat"><div class="hero-stat-num">67%</div><div class="hero-stat-label">Home State Quota</div></div>
+        <div class="h-stat"><b>33+</b><small>Sainik Schools</small></div>
+        <div class="h-stat"><b>10-12</b><small>Class 6 Age</small></div>
+        <div class="h-stat"><b>13-15</b><small>Class 9 Age</small></div>
+        <div class="h-stat"><b>67%</b><small>Home State</small></div>
       </div>
     </div>
     <div class="hero-form-wrap">
-      <div class="hero-form">
-        <div class="hero-form-header">
+      <div class="hf">
+        <div class="hf-head">
           <h3>📝 Get Free AISSEE Admission Guide 2027</h3>
           <p>Enter details to download the complete guide</p>
         </div>
-        <div class="hero-form-body" id="heroLeadForm">
-          <div class="lead-field">
-            <label>Full Name *</label>
-            <input type="text" id="heroName" placeholder="Enter your name" required>
-          </div>
-          <div class="lead-field">
-            <label>WhatsApp Number *</label>
-            <input type="tel" id="heroPhone" placeholder="Enter 10-digit number" pattern="[0-9]{10}" required>
-          </div>
-          <div class="lead-field">
-            <label>Email Address</label>
-            <input type="email" id="heroEmail" placeholder="Enter email (optional)">
-          </div>
-          <div class="lead-field">
-            <label>Interested In</label>
-            <select id="heroInterest">
-              <option value="class6">Sainik School Class 6 Admission</option>
-              <option value="class9">Sainik School Class 9 Admission</option>
-              <option value="nda">NDA Preparation</option>
-              <option value="coaching">Coaching Information</option>
-              <option value="other">Other</option>
-            </select>
-          </div>
-          <button class="lead-submit" id="heroSubmitBtn" onclick="submitHeroLead()">📥 Download Free Guide</button>
-          <div class="lead-note">🔒 Your info is safe. We never spam.</div>
+        <div class="hf-body" id="hfForm">
+          <label>Full Name *</label>
+          <input type="text" id="hfName" placeholder="Enter your name" required>
+          <label>WhatsApp Number *</label>
+          <input type="tel" id="hfPhone" placeholder="10-digit number" pattern="[0-9]{10}" required>
+          <label>Email Address</label>
+          <input type="email" id="hfEmail" placeholder="Email (optional)">
+          <label>Interested In</label>
+          <select id="hfInt">
+            <option value="class6">Class 6 Admission</option>
+            <option value="class9">Class 9 Admission</option>
+            <option value="nda">NDA Preparation</option>
+            <option value="coaching">Coaching Info</option>
+          </select>
+          <button class="hf-btn" id="hfBtn" onclick="hfSubmit()">📥 Download Free Guide</button>
+          <div class="hf-note">🔒 Your info is safe. We never spam.</div>
         </div>
-        <div class="lead-success" id="heroLeadSuccess">
-          <div class="lead-success-icon">✅</div>
+        <div class="hf-ok" id="hfOk">
+          <div class="hf-ok-icon">✅</div>
           <h3>Thank You!</h3>
           <p>Your guide is being downloaded...</p>
         </div>
@@ -200,141 +156,118 @@
   </div>
 </section>
 
-<!-- Quick Stats -->
+<!-- Stats -->
 <div class="stats-bar">
-  <div class="stats-inner">
-    <div class="stat-item"><div class="stat-num">33+</div><div class="stat-label">Sainik Schools</div></div>
-    <div class="stat-item"><div class="stat-num">69</div><div class="stat-label">New Schools (PPP)</div></div>
-    <div class="stat-item"><div class="stat-num">4L+</div><div class="stat-label">AISSEE Applicants</div></div>
-    <div class="stat-item"><div class="stat-num">10K</div><div class="stat-label">Seats Available</div></div>
+  <div class="stats-grid">
+    <div class="st"><b>33+</b><small>Sainik Schools</small></div>
+    <div class="st"><b>69</b><small>New Schools (PPP)</small></div>
+    <div class="st"><b>4L+</b><small>AISSEE Applicants</small></div>
+    <div class="st"><b>10K</b><small>Seats Available</small></div>
   </div>
 </div>
 
 <!-- Latest Articles -->
-<div class="home-section">
-  <div class="section-header">
+<div class="sec">
+  <div class="sec-hdr">
     <h2>📰 Latest Articles</h2>
     <a href="/blog/">View All →</a>
   </div>
   <div class="blog-grid">
-    {{ $imgClasses := slice "blog-card-img-1" "blog-card-img-2" "blog-card-img-3" "blog-card-img-4" "blog-card-img-5" "blog-card-img-6" }}
-    {{ $emojis := slice "📝" "📚" "🎯" "🏫" "📖" "🎓" }}
-    {{ range $index, $page := first 9 (where .Site.RegularPages "Section" "blog") }}
-    {{ $imgClass := index $imgClasses (mod $index (len $imgClasses)) }}
-    {{ $emoji := index $emojis (mod $index (len $emojis)) }}
-    <a href="{{ .Permalink }}" style="text-decoration: none;">
-    <div class="blog-card">
-      <div class="blog-card-img {{ $imgClass }}">{{ $emoji }}</div>
-      <div class="blog-card-body">
-        <span class="blog-card-tag">Article</span>
-        <h3 class="blog-card-title">{{ .Title }}</h3>
-        <div class="blog-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
+    {{ $cls := slice "bc-img-1" "bc-img-2" "bc-img-3" "bc-img-4" "bc-img-5" "bc-img-6" }}
+    {{ $em := slice "📝" "📚" "🎯" "🏫" "📖" "🎓" }}
+    {{ range $i, $p := first 6 (where .Site.RegularPages "Section" "blog") }}
+    <a href="{{ $p.Permalink }}" class="bc">
+      <div class="bc-img {{ index $cls (mod $i (len $cls)) }}">{{ index $em (mod $i (len $em)) }}</div>
+      <div class="bc-body">
+        <span class="bc-tag">Article</span>
+        <div class="bc-title">{{ $p.Title }}</div>
+        <div class="bc-meta">{{ $p.Date.Format "Jan 2, 2006" }} · {{ $p.ReadingTime }} min</div>
       </div>
-    </div>
     </a>
     {{ end }}
   </div>
 </div>
 
-<!-- All Sainik Schools -->
-<div style="background: #F7F9FB; padding: 40px 20px;">
-  <div style="max-width: 1200px; margin: 0 auto;">
-    <div class="section-header">
+<!-- Schools -->
+<div style="background:#F7F9FB;padding:40px 20px">
+  <div style="max-width:1200px;margin:0 auto">
+    <div class="sec-hdr">
       <h2>🏫 All Sainik Schools in India</h2>
       <a href="/schools/">View All →</a>
     </div>
-    <div class="schools-grid">
+    <div class="sch-grid">
       {{ range first 16 (where .Site.RegularPages "Section" "schools") }}
-      <a href="{{ .Permalink }}" class="school-card">
-        <div class="school-card-icon">🏫</div>
+      <a href="{{ .Permalink }}" class="sc">
+        <div class="sc-icon">🏫</div>
         <h3>{{ .Title | replaceRE "Sainik School " "" | replaceRE " - Complete Guide 2026" "" }}</h3>
         <p>Est. {{ .Params.established | default .Date.Year }}</p>
-        {{ with .Params.state }}<span class="school-card-state">{{ . }}</span>{{ end }}
+        {{ with .Params.state }}<span class="sc-st">{{ . }}</span>{{ end }}
       </a>
       {{ end }}
     </div>
-    <div style="text-align: center; margin-top: 24px;">
-      <a href="/schools/" style="display: inline-block; background: #00BCD4; color: white; padding: 12px 28px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px;">View All 33+ Schools →</a>
+    <div style="text-align:center;margin-top:20px">
+      <a href="/schools/" class="btn-h" style="background:#00BCD4;color:#fff;padding:12px 28px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;display:inline-block">View All 33+ Schools →</a>
     </div>
   </div>
 </div>
 
 <!-- Quick Links -->
-<div class="home-section">
-  <div class="section-header">
+<div class="sec">
+  <div class="sec-hdr">
     <h2>🔗 Quick Access</h2>
   </div>
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
-    <a href="javascript:void(0)" onclick="openLead('📚 AISSEE Preparation Tips', 'Get the complete strategy guide', '/blog/aissee-2027-preparation-tips/')" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 8px;">📚</div>
-      <div style="font-weight: 700; font-size: 15px;">AISSEE Prep Tips</div>
-      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">Complete strategy guide</div>
+  <div class="ql-grid">
+    <a href="/tools/age-calculator/" class="ql" style="background:linear-gradient(135deg,#667eea,#764ba2)">
+      <div class="ql-icon">🧮</div>
+      <div class="ql-title">Age Calculator</div>
+      <div class="ql-desc">Check eligibility</div>
     </a>
-    <a href="/tools/age-calculator/" style="background: linear-gradient(135deg, #4facfe, #00f2fe); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 8px;">🧮</div>
-      <div style="font-weight: 700; font-size: 15px;">Age Calculator</div>
-      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">Check eligibility</div>
+    <a href="/blog/" class="ql" style="background:linear-gradient(135deg,#4facfe,#00f2fe)">
+      <div class="ql-icon">📚</div>
+      <div class="ql-title">AISSEE Prep</div>
+      <div class="ql-desc">Strategy guide</div>
     </a>
-    <a href="javascript:void(0)" onclick="openLead('📖 Best Books for AISSEE', 'Get the recommended book list', '/blog/best-books-aissee-2027/')" style="background: linear-gradient(135deg, #43e97b, #38f9d7); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 8px;">📖</div>
-      <div style="font-weight: 700; font-size: 15px;">Best Books</div>
-      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">Class 6 & 9 book list</div>
+    <a href="/schools/" class="ql" style="background:linear-gradient(135deg,#43e97b,#38f9d7)">
+      <div class="ql-icon">🏫</div>
+      <div class="ql-title">All Schools</div>
+      <div class="ql-desc">33+ schools list</div>
     </a>
-    <a href="javascript:void(0)" onclick="openLead('💰 Scholarship Guide', 'Get the fee concession details', '/blog/sainik-school-scholarship-fee-concession-2027/')" style="background: linear-gradient(135deg, #fa709a, #fee140); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 8px;">💰</div>
-      <div style="font-weight: 700; font-size: 15px;">Scholarships</div>
-      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">Fee concession guide</div>
+    <a href="/blog/sainik-school-fees-comparison/" class="ql" style="background:linear-gradient(135deg,#fa709a,#fee140)">
+      <div class="ql-icon">💰</div>
+      <div class="ql-title">Fees</div>
+      <div class="ql-desc">Fee comparison</div>
     </a>
-    <a href="/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/" style="background: linear-gradient(135deg, #a18cd1, #fbc2eb); color: white; padding: 24px; border-radius: 10px; text-decoration: none; text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 8px;">⚖️</div>
-      <div style="font-weight: 700; font-size: 15px;">School Comparison</div>
-      <div style="font-size: 12px; opacity: 0.8; margin-top: 4px;">RIMC vs Sainik vs RMS</div>
+    <a href="/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/" class="ql" style="background:linear-gradient(135deg,#a18cd1,#fbc2eb)">
+      <div class="ql-icon">⚖️</div>
+      <div class="ql-title">Compare</div>
+      <div class="ql-desc">RIMC vs Sainik vs RMS</div>
     </a>
   </div>
 </div>
 
+<!-- Lead Modal -->
+{{ partial "lead-form.html" . }}
+
+<!-- Hero Form JS -->
 <script>
-function submitHeroLead() {
-  var name = document.getElementById('heroName').value.trim();
-  var phone = document.getElementById('heroPhone').value.trim();
-  var email = document.getElementById('heroEmail').value.trim();
-  var interest = document.getElementById('heroInterest').value;
-  var btn = document.getElementById('heroSubmitBtn');
-
-  if (!name) { alert('Please enter your name'); return; }
-  if (!phone || phone.length !== 10) { alert('Please enter valid 10-digit number'); return; }
-
-  btn.textContent = 'Submitting...';
-  btn.disabled = true;
-
-  var data = new FormData();
-  data.append('name', name);
-  data.append('phone', phone);
-  data.append('email', email);
-  data.append('interest', interest);
-  data.append('page', window.location.pathname);
-
-  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbwVATOFg1nbimUGLWivpkoX8dZhvhwGGTDf827loTi9J193fDFPb9hb31_adpJpAKzyCQ/exec';
-
-  fetch(SHEET_URL, { method: 'POST', body: data })
-  .then(function(r) { return r.json(); })
-  .then(function() { showHeroSuccess(); })
-  .catch(function() {
-    var leads = JSON.parse(localStorage.getItem('ssg_leads') || '[]');
-    leads.push({ name: name, phone: phone, email: email, interest: interest, page: window.location.pathname, time: new Date().toISOString() });
-    localStorage.setItem('ssg_leads', JSON.stringify(leads));
-    showHeroSuccess();
-  });
+function hfSubmit(){
+  var n=document.getElementById('hfName').value.trim(),
+      p=document.getElementById('hfPhone').value.trim(),
+      e=document.getElementById('hfEmail').value.trim(),
+      i=document.getElementById('hfInt').value,
+      b=document.getElementById('hfBtn');
+  if(!n){alert('Please enter your name');return}
+  if(!p||p.length!==10){alert('Enter valid 10-digit number');return}
+  b.textContent='Submitting...';b.disabled=true;
+  var d=new FormData();d.append('name',n);d.append('phone',p);d.append('email',e);d.append('interest',i);d.append('page',location.pathname);
+  fetch('https://script.google.com/macros/s/AKfycbwVATOFg1nbimUGLWivpkoX8dZhvhwGGTDf827loTi9J193fDFPb9hb31_adpJpAKzyCQ/exec',{method:'POST',body:d})
+  .then(function(r){return r.json()}).then(function(){hfOk()}).catch(function(){hfOk()});
 }
-
-function showHeroSuccess() {
-  document.getElementById('heroLeadForm').style.display = 'none';
-  document.getElementById('heroLeadSuccess').style.display = 'block';
-  document.getElementById('heroName').value = '';
-  document.getElementById('heroPhone').value = '';
-  document.getElementById('heroEmail').value = '';
-  document.getElementById('heroSubmitBtn').textContent = '📥 Download Free Guide';
-  document.getElementById('heroSubmitBtn').disabled = false;
+function hfOk(){
+  document.getElementById('hfForm').style.display='none';
+  document.getElementById('hfOk').style.display='block';
+  document.getElementById('hfName').value='';document.getElementById('hfPhone').value='';document.getElementById('hfEmail').value='';
+  document.getElementById('hfBtn').textContent='📥 Download Free Guide';document.getElementById('hfBtn').disabled=false;
 }
 </script>
 
