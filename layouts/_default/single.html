@@ -138,6 +138,11 @@
     font-size: 15px;
     line-height: 1.7;
     color: #374151;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  .article-content > *:first-child {
+    margin-top: 0;
   }
   .article-content h2 {
     font-size: 22px;
@@ -145,6 +150,7 @@
     color: #00BCD4;
     margin: 32px 0 16px;
     scroll-margin-top: 100px;
+    clear: both;
   }
   .article-content h3 {
     font-size: 18px;
@@ -152,6 +158,7 @@
     color: #111928;
     margin: 24px 0 12px;
     scroll-margin-top: 100px;
+    clear: both;
   }
   .article-content h4 {
     font-size: 16px;
@@ -162,6 +169,7 @@
   }
   .article-content p {
     margin-bottom: 16px;
+    text-align: left;
   }
   .article-content ul, .article-content ol {
     margin-bottom: 16px;
@@ -169,6 +177,7 @@
   }
   .article-content li {
     margin-bottom: 8px;
+    text-align: left;
   }
   .article-content strong {
     color: #111928;
@@ -177,9 +186,23 @@
   .article-content a {
     color: #00BCD4;
     text-decoration: none;
+    word-break: break-word;
   }
   .article-content a:hover {
     text-decoration: underline;
+  }
+  .article-content blockquote {
+    border-left: 4px solid #00BCD4;
+    padding: 12px 16px;
+    margin: 16px 0;
+    background: #F0F8FF;
+    border-radius: 0 8px 8px 0;
+  }
+  .article-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 16px 0;
   }
   
   /* Tables - Cracku Style */
@@ -510,7 +533,7 @@
     }
     .sidebar {
       position: static;
-      order: -1;
+      order: 1;
     }
     .related-grid {
       grid-template-columns: repeat(2, 1fr);
@@ -907,10 +930,21 @@ document.addEventListener('DOMContentLoaded', function() {
   const tocContainer = document.getElementById('tocContainer');
   const tocList = document.getElementById('tocList');
   
-  if (headings.length > 0) {
+  // Check if manual TOC already exists in content
+  const existingTOC = content.querySelector('h2');
+  const hasManualTOC = existingTOC && existingTOC.textContent.includes('Table of Contents');
+  
+  if (headings.length > 0 && !hasManualTOC) {
     tocContainer.style.display = 'block';
     
     headings.forEach(function(heading, index) {
+      // Skip if heading is part of FAQ or has no-text
+      if (heading.textContent.includes('Frequently Asked Questions') || 
+          heading.textContent.includes('FAQ') ||
+          heading.textContent.trim() === '') {
+        return;
+      }
+      
       // Add ID to heading for scroll
       const id = 'heading-' + index;
       heading.id = id;
