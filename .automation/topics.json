@@ -14,14 +14,45 @@
       "topic": "Sainik School Scholarship and Fee Concession Guide 2027",
       "keywords": ["sainik school scholarship", "sainik school fee concession", "sainik school free seat", "SC ST scholarship sainik school"],
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "file": "content/blog/sainik-school-scholarship-fee-concession-2027.md",
+      "date": "2026-07-05"
     },
     {
       "type": "blog",
       "topic": "NDA After Sainik School - Complete Career Path Guide",
       "keywords": ["NDA after sainik school", "sainik school to NDA", "sainik school career", "defence career after sainik school"],
       "priority": "medium",
-      "status": "pending"
+      "status": "done",
+      "file": "content/blog/nda-after-sainik-school-career-path.md",
+      "date": "2026-07-05"
+    },
+    {
+      "type": "blog",
+      "topic": "How to Fill AISSEE Application Form 2027 - Step by Step with Screenshots",
+      "keywords": ["AISSEE application form", "how to fill AISSEE form", "sainik school online form 2027"],
+      "priority": "high",
+      "status": "done",
+      "file": "content/blog/aissee-application-form-2027-guide.md",
+      "date": "2026-07-05"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Korukonda - Complete Guide",
+      "keywords": ["sainik school korukonda", "sainik school andhra pradesh", "sainik school korukonda admission"],
+      "priority": "high",
+      "status": "done",
+      "file": "content/schools/sainik-school-korukonda.md",
+      "date": "2026-07-05"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Gopalganj - Complete Guide",
+      "keywords": ["sainik school gopalganj", "sainik school bihar", "sainik school gopalganj admission"],
+      "priority": "high",
+      "status": "done",
+      "file": "content/schools/sainik-school-gopalganj.md",
+      "date": "2026-07-05"
     },
     {
       "type": "blog",
@@ -39,20 +70,6 @@
     },
     {
       "type": "school",
-      "topic": "Sainik School Korukonda - Complete Guide",
-      "keywords": ["sainik school korukonda", "sainik school andhra pradesh", "sainik school korukonda admission"],
-      "priority": "high",
-      "status": "pending"
-    },
-    {
-      "type": "school",
-      "topic": "Sainik School Gopalganj - Complete Guide",
-      "keywords": ["sainik school gopalganj", "sainik school bihar", "sainik school gopalganj admission"],
-      "priority": "high",
-      "status": "pending"
-    },
-    {
-      "type": "school",
       "topic": "Sainik School Purulia - Complete Guide",
       "keywords": ["sainik school purulia", "sainik school west bengal", "sainik school purulia admission"],
       "priority": "medium",
@@ -64,16 +81,16 @@
       "keywords": ["sainik school satara", "sainik school maharashtra", "sainik school satara admission"],
       "priority": "medium",
       "status": "pending"
-    },
-    {
-      "type": "blog",
-      "topic": "How to Fill AISSEE Application Form 2027 - Step by Step with Screenshots",
-      "keywords": ["AISSEE application form", "how to fill AISSEE form", "sainik school online form 2027"],
-      "priority": "high",
-      "status": "pending"
     }
   ],
-  "completed": ["AISSEE 2027 Preparation Tips - Complete Strategy Guide"],
+  "completed": [
+    "AISSEE 2027 Preparation Tips - Complete Strategy Guide",
+    "Sainik School Scholarship and Fee Concession Guide 2027",
+    "NDA After Sainik School - Complete Career Path Guide",
+    "How to Fill AISSEE Application Form 2027 - Step by Step with Screenshots",
+    "Sainik School Korukonda - Complete Guide",
+    "Sainik School Gopalganj - Complete Guide"
+  ],
   "lastRun": "2026-07-05",
-  "totalGenerated": 1
+  "totalGenerated": 6
 }
