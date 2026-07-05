@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Gopalganj - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-07-03
 draft: false
 description: "Get complete information about Sainik School Gopalganj in Bihar. Admission process, fees, facilities, contact details, and more. Updated for 2027."
 keywords: ["sainik school gopalganj", "sainik school bihar", "sainik school gopalganj admission", "sainik school gopalganj fees", "sainik school bihar admission"]

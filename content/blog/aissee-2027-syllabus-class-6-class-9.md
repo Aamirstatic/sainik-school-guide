@@ -1,6 +1,6 @@
 ---
 title: "AISSEE 2027 Syllabus: Class 6 & Class 9 Chapter-wise Weightage"
-date: 2026-07-05
+date: 2026-07-04
 draft: false
 description: "AISSEE 2027 syllabus for Class 6 and Class 9 with chapter-wise marks weightage. Maths, GK, English, Intelligence topics breakdown based on previous year papers."
 keywords: ["AISSEE syllabus 2027", "sainik school syllabus class 6", "AISSEE chapter wise weightage", "sainik school entrance exam syllabus", "AISSEE 2027 maths syllabus"]

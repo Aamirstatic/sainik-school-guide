@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Jhunjhunu - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-07-04
 draft: false
 description: "Get complete information about Sainik School Jhunjhunu in Rajasthan. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school jhunjhunu", "sainik school rajasthan", "sainik school jhunjhunu admission", "sainik school jhunjhunu fees"]

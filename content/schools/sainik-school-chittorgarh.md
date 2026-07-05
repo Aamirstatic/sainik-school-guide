@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Chittorgarh - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-07-02
 draft: false
 description: "Get complete information about Sainik School Chittorgarh in Rajasthan. Admission process, fees, facilities, contact details, and more."
 keywords: ["sainik school chittorgarh", "sainik school rajasthan", "AISSEE chittorgarh", "sainik school chittorgarh admission", "sainik school chittorgarh fees"]

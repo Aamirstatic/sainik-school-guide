@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Nalanda - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-06-30
 draft: false
 description: "Get complete information about Sainik School Nalanda in Bihar. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school nalanda", "sainik school bihar", "sainik school nalanda admission", "sainik school nalanda fees", "sainik school nalanda contact"]

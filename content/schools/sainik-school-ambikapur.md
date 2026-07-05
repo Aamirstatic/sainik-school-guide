@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Ambikapur - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-06-29
 draft: false
 description: "Get complete information about Sainik School Ambikapur in Chhattisgarh. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school ambikapur", "sainik school chhattisgarh", "sainik school ambikapur admission", "sainik school ambikapur fees", "sainik school ambikapur contact"]

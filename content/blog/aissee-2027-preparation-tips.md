@@ -1,6 +1,6 @@
 ---
 title: "AISSEE 2027 Preparation Tips: Complete Strategy Guide to Crack Sainik School Entrance Exam"
-date: 2026-07-05
+date: 2026-07-04
 draft: false
 description: "Proven AISSEE 2027 preparation tips and strategy. Subject-wise study plan, best books, daily routine, mock test strategy & expert tips to crack Sainik School entrance exam."
 keywords: ["AISSEE preparation", "AISSEE 2027 tips", "sainik school entrance exam preparation", "how to crack AISSEE", "AISSEE study plan", "sainik school preparation strategy"]

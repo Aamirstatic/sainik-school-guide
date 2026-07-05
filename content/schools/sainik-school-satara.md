@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Satara - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-07-02
 draft: false
 description: "Get complete information about Sainik School Satara in Maharashtra. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school satara", "sainik school maharashtra", "sainik school satara admission", "sainik school satara fees"]

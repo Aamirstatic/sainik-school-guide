@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Rewa - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-07-01
 draft: false
 description: "Get complete information about Sainik School Rewa in Madhya Pradesh. Admission process, fees, facilities, contact details, and more."
 keywords: ["sainik school rewa", "sainik school madhya pradesh", "AISSEE rewa", "sainik school rewa admission", "sainik school rewa fees"]

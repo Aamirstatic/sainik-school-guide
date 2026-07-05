@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Amaravathinagar - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-06-29
 draft: false
 description: "Get complete information about Sainik School Amaravathinagar in Tamil Nadu. Admission process, fees, facilities, contact details, and more."
 keywords: ["sainik school amaravathinagar", "sainik school tamil nadu", "AISSEE amaravathinagar"]

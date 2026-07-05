@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Purulia - Complete Guide 2026"
-date: 2026-07-05
+date: 2026-07-01
 draft: false
 description: "Get complete information about Sainik School Purulia in West Bengal. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school purulia", "sainik school west bengal", "sainik school purulia admission", "sainik school purulia fees"]
