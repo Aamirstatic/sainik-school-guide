@@ -24,15 +24,8 @@
 <div class="art-wrap">
 <!-- Featured Image -->
 {{ if .Params.featured_image }}
-<div style="margin-bottom: 20px; border-radius: 12px; overflow: hidden;">
-<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; display: block;">
-</div>
-{{ else }}
-<div style="margin-bottom: 20px; border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, #01263b, #0367a1); height: 200px; display: flex; align-items: center; justify-content: center;">
-<div style="text-align: center; color: white;">
-<div style="font-size: 32px; margin-bottom: 8px;">📰</div>
-<div style="font-size: 18px; font-weight: 600;">{{ .Title | truncate 50 }}</div>
-</div>
+<div style="margin-bottom: 24px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: auto; display: block;" loading="eager">
 </div>
 {{ end }}
 

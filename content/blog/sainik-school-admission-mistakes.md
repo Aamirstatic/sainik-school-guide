@@ -7,7 +7,7 @@ keywords: ["sainik school admission mistakes", "AISSEE 2027 tips", "sainik schoo
 author_name: "Aamir"
 author_title: "Defense Education Expert"
 author_image: "/images/authors/aamir.avif"
-featured_image: "/images/articles/sainik-school-admission-mistakes.svg"
+featured_image: "/images/thumbnails/sainik-school-admission-mistakes.svg"
 ---
 
 ## 5 Mistakes That Can Cost Your Child Sainik School Admission

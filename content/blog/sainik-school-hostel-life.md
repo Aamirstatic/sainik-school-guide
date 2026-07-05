@@ -7,7 +7,7 @@ keywords: ["sainik school hostel life", "sainik school daily routine", "sainik s
 author_name: "Rifaul Hasan"
 author_title: "Student Counselor"
 author_image: "/images/authors/rifaul-hasan.avif"
-featured_image: "/images/articles/sainik-school-hostel-life.svg"
+featured_image: "/images/thumbnails/sainik-school-hostel-life.svg"
 ---
 
 ## Sainik School Hostel Life: A Parent's Complete Guide
