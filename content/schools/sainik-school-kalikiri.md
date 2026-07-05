@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Kalikiri - Complete Guide 2026"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Kalikiri in Andhra Pradesh. History, admission process, fees, seats, facilities, contact details, cutoff marks, and more."
 keywords: ["sainik school kalikiri", "sainik school andhra pradesh", "sainik school kalikiri admission", "sainik school kalikiri fees", "sainik school kalikiri contact"]

@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Mainpuri - Complete Guide 2026"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Mainpuri in Uttar Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school mainpuri", "sainik school uttar pradesh", "sainik school mainpuri admission", "sainik school mainpuri fees"]

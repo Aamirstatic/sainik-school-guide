@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages
+name: Build & Verify
 
 on:
   push:
@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    name: Deploy
+    name: Build Hugo Site
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,9 +26,8 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy ./public --project-name=sainik-school-guide
+      - name: Verify Build
+        run: |
+          echo "Pages built: $(find public -name '*.html' | wc -l)"
+          echo "Build size: $(du -sh public | cut -f1)"
+          ls public/

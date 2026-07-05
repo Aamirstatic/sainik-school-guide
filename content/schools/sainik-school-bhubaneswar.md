@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Bhubaneswar - Complete Guide 2026"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Bhubaneswar in Odisha. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school bhubaneswar", "sainik school odisha", "sainik school bhubaneswar admission", "sainik school bhubaneswar fees"]

@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Chhingchhip - Complete Guide 2026"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Chhingchhip in Mizoram. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school chhingchhip", "sainik school mizoram", "sainik school chhingchhip admission", "sainik school chhingchhip fees"]

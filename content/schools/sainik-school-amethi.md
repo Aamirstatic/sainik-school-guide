@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Amethi - Complete Guide 2026"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Amethi in Uttar Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school amethi", "sainik school uttar pradesh", "sainik school amethi admission", "sainik school amethi fees"]

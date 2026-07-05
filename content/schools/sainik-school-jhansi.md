@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Jhansi - Complete Guide 2026"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Jhansi in Uttar Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school jhansi", "sainik school uttar pradesh", "sainik school jhansi admission", "sainik school jhansi fees"]

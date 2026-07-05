@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Kunjpura - Complete Guide 2026"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Kunjpura in Haryana. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school kunjpura", "sainik school haryana", "sainik school kunjpura admission", "sainik school kunjpura fees", "ss kunjpura"]
