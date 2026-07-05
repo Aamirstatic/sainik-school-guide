@@ -397,7 +397,11 @@
     </div>
     <h1 class="art-title">{{ .Title }}</h1>
     <div class="art-meta">
-      <span class="author">Sainik School Guide Team</span>
+      {{ if .Params.author_name }}
+        <a href="/authors/{{ .Params.author_name | urlize }}/" class="author">{{ .Params.author_name }}</a>
+      {{ else }}
+        <span class="author">Sainik School Guide Team</span>
+      {{ end }}
       <span>•</span>
       <span>{{ .Date.Format "Jan 2, 2006" }}</span>
       <span>•</span>
