@@ -1,6 +1,6 @@
 ---
 title: "Best Books for AISSEE 2027: Class 6 & Class 9 Recommended List"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Best books for AISSEE 2027 preparation. Class 6 and Class 9 subject-wise book list with prices. NCERT, Arihant, Lucent, R.S. Aggarwal recommendations."
 keywords: ["best books for AISSEE 2027", "sainik school preparation books", "AISSEE class 6 books", "sainik school entrance exam guide book", "AISSEE study material"]

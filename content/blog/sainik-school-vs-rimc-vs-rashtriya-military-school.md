@@ -1,6 +1,6 @@
 ---
 title: "Sainik School vs RIMC vs Rashtriya Military School: Complete Comparison 2027"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Sainik School vs RIMC vs Rashtriya Military School. Fees, eligibility, exam difficulty, NDA selection rate, and which school is best for your child."
 keywords: ["sainik school vs RIMC", "sainik school vs military school", "RIMC vs sainik school", "rashtriya military school vs sainik school", "which is better sainik school or RIMC"]

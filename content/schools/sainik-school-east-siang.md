@@ -4,6 +4,7 @@ date: 2026-07-02
 draft: false
 description: "Get complete information about Sainik School East Siang in Arunachal Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school east siang", "sainik school arunachal pradesh", "sainik school east siang admission", "sainik school east siang fees", "sainik school niglok"]
+established: "2020"
 state: "Arunachal Pradesh"
 ---
 

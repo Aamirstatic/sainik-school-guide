@@ -4,6 +4,7 @@ date: 2026-07-04
 draft: false
 description: "Get complete information about Sainik School Imphal in Manipur. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school imphal", "sainik school manipur", "sainik school imphal admission", "sainik school imphal fees"]
+established: "1971"
 state: "Manipur"
 ---
 

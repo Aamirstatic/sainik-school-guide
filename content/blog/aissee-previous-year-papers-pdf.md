@@ -1,6 +1,6 @@
 ---
 title: "AISSEE Previous Year Question Papers: Download PDF & Analysis"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Download AISSEE previous year question papers PDF for Class 6 and Class 9. 2021-2026 papers with analysis, important topics, and preparation tips."
 keywords: ["AISSEE previous year papers", "sainik school question paper pdf", "AISSEE 2026 paper", "sainik school entrance exam paper", "AISSEE question paper download"]

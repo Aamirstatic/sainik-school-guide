@@ -4,6 +4,7 @@ date: 2026-07-02
 draft: false
 description: "Get complete information about Sainik School Satara in Maharashtra. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school satara", "sainik school maharashtra", "sainik school satara admission", "sainik school satara fees"]
+established: "1961"
 state: "Maharashtra"
 ---
 

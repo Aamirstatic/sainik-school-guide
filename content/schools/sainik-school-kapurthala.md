@@ -4,6 +4,7 @@ date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Kapurthala in Punjab. Admission process, fees, facilities, contact details, and more."
 keywords: ["sainik school kapurthala", "sainik school punjab", "AISSEE kapurthala", "sainik school kapurthala admission", "sainik school kapurthala fees"]
+established: "1961"
 state: "Punjab"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Sainik School Counselling 2027: E-Counselling Process, Spot Round & Seat Allotment"
-date: 2026-07-06
+date: 2026-07-05
 draft: false
 description: "Complete guide to Sainik School e-counselling 2027. How to fill choices, spot round process, seat allotment, documents required, and important dates."
 keywords: ["sainik school counselling", "AISSEE counselling process", "sainik school spot round", "sainik school e-counselling", "AISSEE seat allotment"]

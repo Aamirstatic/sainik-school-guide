@@ -4,6 +4,7 @@ date: 2026-06-29
 draft: false
 description: "Get complete information about Sainik School Mansar in Jammu & Kashmir. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school mansar", "sainik school jammu kashmir", "sainik school mansar admission", "sainik school mansarbal"]
+established: "2018"
 state: "Jammu & Kashmir"
 ---
 

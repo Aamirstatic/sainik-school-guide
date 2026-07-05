@@ -4,6 +4,7 @@ date: 2026-06-30
 draft: false
 description: "Get complete information about Sainik School Punglwa in Nagaland. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school punglwa", "sainik school nagaland", "sainik school punglwa admission", "sainik school punglwa fees"]
+established: "2007"
 state: "Nagaland"
 ---
 

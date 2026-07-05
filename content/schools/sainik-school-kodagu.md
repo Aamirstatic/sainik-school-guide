@@ -4,6 +4,7 @@ date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Kodagu in Karnataka. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school kodagu", "sainik school karnataka", "sainik school kodagu admission", "sainik school kodagu fees", "sainik school coorg"]
+established: "2008"
 state: "Karnataka"
 ---
 

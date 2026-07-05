@@ -4,6 +4,7 @@ date: 2026-06-29
 draft: false
 description: "Get complete information about Sainik School Nagrota in Jammu & Kashmir. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school nagrota", "sainik school jammu kashmir", "sainik school nagrota admission", "sainik school nagrota fees"]
+established: "1970"
 state: "Jammu & Kashmir"
 ---
 

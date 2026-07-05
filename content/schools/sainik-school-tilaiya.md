@@ -4,6 +4,7 @@ date: 2026-07-03
 draft: false
 description: "Get complete information about Sainik School Tilaiya in Jharkhand. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school tilaiya", "sainik school jharkhand", "sainik school tilaiya admission", "sainik school tilaiya fees", "sainik school koderma"]
+established: "1963"
 state: "Jharkhand"
 ---
 

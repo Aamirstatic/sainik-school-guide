@@ -4,6 +4,7 @@ date: 2026-07-01
 draft: false
 description: "Get complete information about Sainik School Rewari in Haryana. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school rewari", "sainik school haryana", "sainik school rewari admission", "sainik school rewari fees", "sainik school rewari contact"]
+established: "2009"
 state: "Haryana"
 ---
 

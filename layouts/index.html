@@ -140,7 +140,7 @@
       <a href="{{ .Permalink }}" class="school-card">
         <div class="school-card-icon">🏫</div>
         <h3>{{ .Title | replaceRE "Sainik School " "" | replaceRE " - Complete Guide 2026" "" }}</h3>
-        <p>Est. {{ .Date.Format "2006" }}</p>
+        <p>Est. {{ .Params.established | default .Date.Year }}</p>
         {{ with .Params.state }}<span class="school-card-state">{{ . }}</span>{{ end }}
       </a>
       {{ end }}

@@ -4,6 +4,7 @@ date: 2026-07-02
 draft: false
 description: "Get complete information about Sainik School Sujanpur Tira in Himachal Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school sujanpur tira", "sainik school himachal pradesh", "sainik school sujanpur tira admission", "sainik school sujanpur tira fees"]
+established: "1978"
 state: "Himachal Pradesh"
 ---
 

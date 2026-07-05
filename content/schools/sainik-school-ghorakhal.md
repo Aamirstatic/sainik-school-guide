@@ -4,6 +4,7 @@ date: 2026-07-03
 draft: false
 description: "Get complete information about Sainik School Ghorakhal in Uttarakhand. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school ghorakhal", "sainik school uttarakhand", "sainik school ghorakhal admission", "sainik school ghorakhal fees", "sainik school nainital"]
+established: "1966"
 state: "Uttarakhand"
 ---
 

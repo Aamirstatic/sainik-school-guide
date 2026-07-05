@@ -4,6 +4,7 @@ date: 2026-07-05
 draft: false
 description: "Get complete information about Sainik School Korukonda in Andhra Pradesh. Admission process, fees, facilities, contact details, and more. Updated for 2027."
 keywords: ["sainik school korukonda", "sainik school andhra pradesh", "sainik school korukonda admission", "sainik school korukonda fees", "sainik school vizianagaram"]
+established: "1962"
 state: "Andhra Pradesh"
 ---
 

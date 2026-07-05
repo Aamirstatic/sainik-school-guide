@@ -4,6 +4,7 @@ date: 2026-07-01
 draft: false
 description: "Get complete information about Sainik School Bijapur in Karnataka. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school bijapur", "sainik school karnataka", "sainik school bijapur admission", "sainik school bijapur fees", "sainik school vijayapura"]
+established: "1963"
 state: "Karnataka"
 ---
 

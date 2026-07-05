@@ -4,6 +4,7 @@ date: 2026-06-30
 draft: false
 description: "Get complete information about Sainik School Balachadi in Gujarat. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school balachadi", "sainik school gujarat", "sainik school balachadi admission", "sainik school balachadi fees", "sainik school jamnagar"]
+established: "1961"
 state: "Gujarat"
 ---
 

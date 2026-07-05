@@ -4,6 +4,7 @@ date: 2026-07-03
 draft: false
 description: "Get complete information about Sainik School Goalpara in Assam. History, admission process, fees, seats, facilities, contact details, and more."
 keywords: ["sainik school goalpara", "sainik school assam", "sainik school goalpara admission", "sainik school goalpara fees", "sainik school goalpara contact"]
+established: "1964"
 state: "Assam"
 ---
 
