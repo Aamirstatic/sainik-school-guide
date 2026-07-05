@@ -1,60 +1,577 @@
-<div class="listing-header">
-<h1>{{ .Title }}</h1>
-<p>{{ .Description }}</p>
-</div>
-<div class="breadcrumb">
-<a href="/">Home</a> / <span>{{ .Title }}</span>
-</div>
-<section class="section">
-<div class="section-inner">
+<style>
+  /* Blog Page Styles */
+  .blog-hero {
+    background: linear-gradient(135deg, #01263b 0%, #0367a1 100%);
+    color: white;
+    padding: 50px 20px 40px;
+    text-align: center;
+  }
+  .blog-hero h1 {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+  .blog-hero p {
+    font-size: 16px;
+    opacity: 0.85;
+    max-width: 600px;
+    margin: 0 auto 20px;
+  }
+  .blog-hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 15px;
+  }
+  .blog-hero-stat {
+    text-align: center;
+  }
+  .blog-hero-stat-num {
+    font-size: 24px;
+    font-weight: 800;
+    color: #F6D835;
+  }
+  .blog-hero-stat-label {
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  .blog-breadcrumb {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    font-size: 13px;
+    color: #6B7280;
+  }
+  .blog-breadcrumb a { color: #0097A7; text-decoration: none; }
+  .blog-breadcrumb a:hover { text-decoration: underline; }
+
+  .blog-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 30px;
+  }
+
+  /* Featured Post */
+  .blog-featured {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    margin-bottom: 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    transition: transform 0.2s;
+  }
+  .blog-featured:hover { transform: translateY(-3px); }
+  .blog-featured-img {
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+    min-height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    position: relative;
+  }
+  .blog-featured-badge {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    background: #F6D835;
+    color: #111;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .blog-featured-body {
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .blog-featured-tag {
+    display: inline-block;
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    width: fit-content;
+  }
+  .blog-featured-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #111928;
+    margin-bottom: 10px;
+    line-height: 1.3;
+  }
+  .blog-featured-title a { text-decoration: none; color: inherit; }
+  .blog-featured-title a:hover { color: #00BCD4; }
+  .blog-featured-excerpt {
+    font-size: 14px;
+    color: #6B7280;
+    line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .blog-featured-meta {
+    font-size: 12px;
+    color: #9CA3AF;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  /* Section Headers */
+  .blog-section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 3px solid #00BCD4;
+  }
+  .blog-section-header h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #111928;
+  }
+  .blog-section-count {
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  /* Blog Cards Grid */
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  .blog-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    transition: all 0.25s;
+    border: 1px solid #F3F4F6;
+  }
+  .blog-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  }
+  .blog-card-img {
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    position: relative;
+  }
+  .blog-card-img-1 { background: linear-gradient(135deg, #667eea, #764ba2); }
+  .blog-card-img-2 { background: linear-gradient(135deg, #f093fb, #f5576c); }
+  .blog-card-img-3 { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+  .blog-card-img-4 { background: linear-gradient(135deg, #43e97b, #38f9d7); }
+  .blog-card-img-5 { background: linear-gradient(135deg, #fa709a, #fee140); }
+  .blog-card-img-6 { background: linear-gradient(135deg, #a18cd1, #fbc2eb); }
+  .blog-card-img-7 { background: linear-gradient(135deg, #fccb90, #d57eeb); }
+  .blog-card-img-8 { background: linear-gradient(135deg, #89f7fe, #66a6ff); }
+  .blog-card-tag {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: rgba(255,255,255,0.95);
+    color: #0097A7;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .blog-card-body {
+    padding: 18px;
+  }
+  .blog-card-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #111928;
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+  .blog-card-title a { text-decoration: none; color: inherit; }
+  .blog-card-title a:hover { color: #00BCD4; }
+  .blog-card-excerpt {
+    font-size: 13px;
+    color: #6B7280;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .blog-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 11px;
+    color: #9CA3AF;
+    padding-top: 12px;
+    border-top: 1px solid #F3F4F6;
+  }
+  .blog-card-read {
+    color: #00BCD4;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  .blog-card-read:hover { text-decoration: underline; }
+
+  /* Sidebar */
+  .blog-sidebar { display: flex; flex-direction: column; gap: 20px; }
+  .sidebar-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    border: 1px solid #F3F4F6;
+  }
+  .sidebar-card-header {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    padding: 14px 18px;
+  }
+  .sidebar-card-header h3 {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0;
+  }
+  .sidebar-card-body { padding: 16px 18px; }
+
+  /* Categories */
+  .cat-list { list-style: none; }
+  .cat-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #F3F4F6;
+  }
+  .cat-list li:last-child { border: none; }
+  .cat-list a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    color: #374151;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .cat-list a:hover { color: #00BCD4; }
+  .cat-count {
+    background: #F3F4F6;
+    color: #6B7280;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+  }
+
+  /* Popular Posts */
+  .popular-list { list-style: none; }
+  .popular-item {
+    display: flex;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid #F3F4F6;
+  }
+  .popular-item:last-child { border: none; }
+  .popular-num {
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+    color: white;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .popular-info h4 {
+    font-size: 13px;
+    font-weight: 600;
+    color: #111928;
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+  .popular-info h4 a { text-decoration: none; color: inherit; }
+  .popular-info h4 a:hover { color: #00BCD4; }
+  .popular-info span {
+    font-size: 11px;
+    color: #9CA3AF;
+  }
+
+  /* Newsletter */
+  .newsletter-card {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    border-radius: 10px;
+    padding: 24px;
+    text-align: center;
+  }
+  .newsletter-card h3 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .newsletter-card p {
+    font-size: 13px;
+    opacity: 0.85;
+    margin-bottom: 16px;
+  }
+  .newsletter-input {
+    width: 100%;
+    padding: 10px 14px;
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  .newsletter-btn {
+    width: 100%;
+    background: #F6D835;
+    color: #111;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 13px;
+    cursor: pointer;
+  }
+
+  /* Responsive */
+  @media (max-width: 992px) {
+    .blog-container { grid-template-columns: 1fr; }
+    .blog-featured { grid-template-columns: 1fr; }
+    .blog-featured-img { min-height: 180px; }
+  }
+  @media (max-width: 768px) {
+    .blog-hero h1 { font-size: 24px; }
+    .blog-grid { grid-template-columns: 1fr; }
+    .blog-hero-stats { gap: 20px; }
+  }
+</style>
+
 {{ if eq .Section "blog" }}
-{{ if .Pages }}
-<div class="blog-grid">
-{{ range .Pages.ByDate.Reverse }}
-<div class="blog-item">
-<div class="blog-item-img">
-<span class="blog-item-tag">ARTICLE</span>
-</div>
-<div class="blog-item-body">
-<div class="blog-item-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
-<h3 class="blog-item-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-<p class="blog-item-excerpt">{{ .Description | truncate 120 }}</p>
-</div>
-</div>
-{{ end }}
-</div>
-{{ else }}
-<div class="empty-state">
-<h3>No articles yet</h3>
-<p>Check back soon for daily articles on Sainik Schools and AISSEE preparation.</p>
-</div>
-{{ end }}
-{{ else if eq .Section "schools" }}
-{{ if .Pages }}
-<div class="schools-grid">
-{{ range .Pages }}
-<div class="school-item">
-<div class="school-item-icon">🏫</div>
-<div class="school-item-info">
-<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-<p>{{ .Description | truncate 100 }}</p>
-{{ with .Params.state }}
-<span class="school-item-state">{{ . }}</span>
-{{ end }}
-</div>
-</div>
-{{ end }}
-</div>
-{{ else }}
-<div class="empty-state">
-<h3>Coming Soon</h3>
-<p>We're adding detailed information about all Sainik Schools. Check back soon!</p>
-</div>
-{{ end }}
-{{ else }}
-<div class="content">
-{{ .Content }}
-</div>
-{{ end }}
-</div>
+
+<!-- Blog Hero -->
+<section class="blog-hero">
+  <h1>📚 {{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+  <div class="blog-hero-stats">
+    <div class="blog-hero-stat">
+      <div class="blog-hero-stat-num">{{ len .Pages }}</div>
+      <div class="blog-hero-stat-label">Articles</div>
+    </div>
+    <div class="blog-hero-stat">
+      <div class="blog-hero-stat-num">33+</div>
+      <div class="blog-hero-stat-label">Schools Covered</div>
+    </div>
+    <div class="blog-hero-stat">
+      <div class="blog-hero-stat-num">Daily</div>
+      <div class="blog-hero-stat-label">New Content</div>
+    </div>
+  </div>
 </section>
+
+<!-- Breadcrumb -->
+<div class="blog-breadcrumb">
+  <a href="/">Home</a> / <span>{{ .Title }}</span>
+</div>
+
+<!-- Main Content -->
+<div class="blog-container">
+  <div class="blog-main">
+
+    <!-- Featured Post (First/Latest) -->
+    {{ range first 1 .Pages.ByDate.Reverse }}
+    <a href="{{ .Permalink }}" style="text-decoration: none;">
+    <div class="blog-featured">
+      <div class="blog-featured-img">
+        📖
+        <span class="blog-featured-badge">⭐ Latest</span>
+      </div>
+      <div class="blog-featured-body">
+        <span class="blog-featured-tag">Featured Article</span>
+        <h2 class="blog-featured-title">{{ .Title }}</h2>
+        <p class="blog-featured-excerpt">{{ .Description | truncate 180 }}</p>
+        <div class="blog-featured-meta">
+          <span>📅 {{ .Date.Format "Jan 2, 2006" }}</span>
+          <span>⏱️ {{ .ReadingTime }} min read</span>
+        </div>
+      </div>
+    </div>
+    </a>
+    {{ end }}
+
+    <!-- All Articles -->
+    <div class="blog-section-header">
+      <h2>📰 All Articles</h2>
+      <span class="blog-section-count">{{ len .Pages }} articles</span>
+    </div>
+
+    {{ if .Pages }}
+    <div class="blog-grid">
+      {{ $pages := .Pages.ByDate.Reverse }}
+      {{ $imgClasses := slice "blog-card-img-1" "blog-card-img-2" "blog-card-img-3" "blog-card-img-4" "blog-card-img-5" "blog-card-img-6" "blog-card-img-7" "blog-card-img-8" }}
+      {{ $emojis := slice "📝" "📚" "🎯" "🏫" "📖" "🎓" "✏️" "🏅" }}
+      {{ range $index, $page := $pages }}
+      {{ $imgClass := index $imgClasses (mod $index (len $imgClasses)) }}
+      {{ $emoji := index $emojis (mod $index (len $emojis)) }}
+      <div class="blog-card">
+        <div class="blog-card-img {{ $imgClass }}">
+          {{ $emoji }}
+          <span class="blog-card-tag">Article</span>
+        </div>
+        <div class="blog-card-body">
+          <h3 class="blog-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p class="blog-card-excerpt">{{ .Description | truncate 100 }}</p>
+          <div class="blog-card-footer">
+            <span>{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</span>
+            <a href="{{ .Permalink }}" class="blog-card-read">Read More →</a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ else }}
+    <div style="text-align: center; padding: 60px 20px; color: #6B7280;">
+      <div style="font-size: 48px; margin-bottom: 16px;">📝</div>
+      <h3 style="font-size: 18px; color: #111928; margin-bottom: 8px;">No articles yet</h3>
+      <p>Check back soon for daily articles on Sainik Schools and AISSEE preparation.</p>
+    </div>
+    {{ end }}
+
+  </div>
+
+  <!-- Sidebar -->
+  <div class="blog-sidebar">
+
+    <!-- Categories -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">
+        <h3>📂 Categories</h3>
+      </div>
+      <div class="sidebar-card-body">
+        <ul class="cat-list">
+          <li><a href="/blog/">📝 All Articles <span class="cat-count">{{ len .Pages }}</span></a></li>
+          <li><a href="/schools/">🏫 School Profiles <span class="cat-count">6+</span></a></li>
+          <li><a href="/aissee/">🎯 AISSEE Guide</a></li>
+          <li><a href="/states/">🗺️ By State</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Popular Posts -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">
+        <h3>🔥 Popular Articles</h3>
+      </div>
+      <div class="sidebar-card-body">
+        <div class="popular-list">
+          {{ range $index, $page := first 5 .Pages.ByDate.Reverse }}
+          <div class="popular-item">
+            <div class="popular-num">{{ add $index 1 }}</div>
+            <div class="popular-info">
+              <h4><a href="{{ .Permalink }}">{{ .Title | truncate 60 }}</a></h4>
+              <span>{{ .Date.Format "Jan 2" }} · {{ .ReadingTime }} min</span>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Newsletter -->
+    <div class="newsletter-card">
+      <h3>📬 Stay Updated</h3>
+      <p>Get AISSEE tips & school updates in your inbox</p>
+      <input type="email" class="newsletter-input" placeholder="Enter your email">
+      <button class="newsletter-btn">Subscribe Free →</button>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header" style="background: linear-gradient(135deg, #F6D835, #FF4DA6);">
+        <h3 style="color: #111;">🎓 JGPS Coaching</h3>
+      </div>
+      <div class="sidebar-card-body">
+        <p style="font-size: 13px; color: #374151; margin-bottom: 12px;">Expert coaching for Sainik School entrance exams.</p>
+        <a href="https://jgps.in/" style="display: block; background: #F6D835; color: #111; text-align: center; padding: 10px; border-radius: 6px; text-decoration: none; font-weight: 700; font-size: 13px;">Visit JGPS.in →</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+{{ else if eq .Section "schools" }}
+
+<!-- Schools Section -->
+<section class="blog-hero" style="background: linear-gradient(135deg, #1a1a2e, #16213e);">
+  <h1>🏫 {{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</section>
+<div class="blog-breadcrumb">
+  <a href="/">Home</a> / <span>{{ .Title }}</span>
+</div>
+<div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+  {{ if .Pages }}
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px;">
+    {{ range .Pages }}
+    <a href="{{ .Permalink }}" style="text-decoration: none;">
+    <div style="background: white; border-radius: 10px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #F3F4F6; display: flex; gap: 16px; align-items: center; transition: all 0.2s;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 10px rgba(0,0,0,0.06)'">
+      <div style="width: 56px; height: 56px; background: linear-gradient(135deg, #00BCD4, #0097A7); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 28px; flex-shrink: 0;">🏫</div>
+      <div>
+        <h3 style="font-size: 15px; font-weight: 700; color: #111928; margin-bottom: 4px;">{{ .Title }}</h3>
+        <p style="font-size: 12px; color: #6B7280; margin-bottom: 4px;">{{ .Description | truncate 80 }}</p>
+        {{ with .Params.state }}<span style="background: #E6F3FA; color: #0097A7; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600;">{{ . }}</span>{{ end }}
+      </div>
+    </div>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div style="text-align: center; padding: 60px 20px; color: #6B7280;">
+    <div style="font-size: 48px; margin-bottom: 16px;">🏫</div>
+    <h3 style="font-size: 18px; color: #111928; margin-bottom: 8px;">Coming Soon</h3>
+    <p>We're adding detailed information about all Sainik Schools. Check back soon!</p>
+  </div>
+  {{ end }}
+</div>
+
+{{ else }}
+
+<!-- Default Section -->
+<section class="blog-hero">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</section>
+<div class="blog-breadcrumb">
+  <a href="/">Home</a> / <span>{{ .Title }}</span>
+</div>
+<div style="max-width: 800px; margin: 0 auto; padding: 30px 20px;">
+  <div class="content">
+    {{ .Content }}
+  </div>
+</div>
+
+{{ end }}
