@@ -13,7 +13,7 @@
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    min-height: 480px;
+    min-height: 520px;
     align-items: center;
     position: relative;
   }
@@ -21,11 +21,12 @@
   .hero-image {
     position: relative;
     height: 100%;
-    min-height: 480px;
+    min-height: 520px;
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
+    background: linear-gradient(135deg, #01263b 0%, #0367a1 100%);
   }
   .hero-image img {
     width: 100%;
@@ -126,9 +127,11 @@
     </div>
     <div class="hero-image">
       <picture>
-        <source media="(max-width: 600px)" srcset="/images/hero-students-nobg.webp" type="image/webp">
-        <source srcset="/images/hero-students-nobg.webp" type="image/webp">
-        <img src="/images/hero-students-nobg.png" alt="Sainik School Students" width="1200" height="630" loading="eager" fetchpriority="high">
+        <source media="(max-width: 600px)" srcset="/images/hero-sm.avif" type="image/avif">
+        <source media="(max-width: 600px)" srcset="/images/hero-sm.webp" type="image/webp">
+        <source srcset="/images/hero-lg.avif" type="image/avif">
+        <source srcset="/images/hero-lg.webp" type="image/webp">
+        <img src="/images/hero-lg.webp" alt="Sainik School Students" width="1200" height="1264" loading="eager" fetchpriority="high">
       </picture>
     </div>
   </div>
