@@ -1,0 +1,55 @@
+# Sainik School Guide India
+
+> India's most comprehensive Sainik School directory. AISSEE preparation tips, school information, admission guides, and daily articles for defense aspirants.
+
+## Overview
+
+Sainik School Guide India is a free educational resource for parents and students preparing for AISSEE (All India Sainik School Entrance Exam). We cover all 33+ Sainik Schools across India with detailed information on admissions, fees, facilities, and preparation strategies.
+
+## Key Sections
+
+- **Sainik Schools Directory**: Complete profiles of all Sainik Schools in India with admission details, fees, facilities, and contact information.
+  - [All Schools](/schools/)
+  - [Amaravathinagar, Tamil Nadu](/schools/sainik-school-amaravathinagar/)
+  - [Kapurthala, Punjab](/schools/sainik-school-kapurthala/)
+  - [Rewa, Madhya Pradesh](/schools/sainik-school-rewa/)
+  - [Chittorgarh, Rajasthan](/schools/sainik-school-chittorgarh/)
+  - [Korukonda, Andhra Pradesh](/schools/sainik-school-korukonda/)
+  - [Gopalganj, Bihar](/schools/sainik-school-gopalganj/)
+
+- **AISSEE Guide**: Complete preparation guide for AISSEE 2027 exam.
+  - [AISSEE Overview](/aissee/)
+  - [Preparation Tips](/blog/aissee-2027-preparation-tips/)
+  - [Application Form Guide](/blog/aissee-application-form-2027-guide/)
+  - [Best Books for AISSEE](/blog/best-books-aissee-2027/)
+
+- **Blog**: Daily articles on Sainik School admissions, preparation, and student life.
+  - [All Articles](/blog/)
+  - [Admission Guide 2027](/blog/sainik-school-admission-2027-guide/)
+  - [Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+  - [NDA Career Path](/blog/nda-after-sainik-school-career-path/)
+  - [Hostel Life](/blog/sainik-school-hostel-life/)
+  - [Common Mistakes](/blog/sainik-school-admission-mistakes/)
+  - [Sainik vs Military School](/blog/sainik-school-vs-military-school/)
+
+- **States**: Sainik Schools organized by state.
+  - [All States](/states/)
+  - [Rajasthan](/states/rajasthan/)
+  - [Tamil Nadu](/states/tamil-nadu/)
+  - [Punjab](/states/punjab/)
+
+## Important Facts
+
+- **Exam**: AISSEE (All India Sainik School Entrance Exam) conducted by NTA
+- **Classes**: Class 6 and Class 9 admissions
+- **Frequency**: Once a year (usually January)
+- **Official Website**: [exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/)
+- **Total Sainik Schools**: 33+ across India
+- **Eligibility**: Age 10-12 for Class 6, Age 13-15 for Class 9
+- **Application Period**: October-November each year
+
+## Contact
+
+- **Email**: info@sainikschooleastsiang.in
+- **Phone**: 9436409766
+- **Website**: [sainikschooleastsiang.in](https://sainikschooleastsiang.in)

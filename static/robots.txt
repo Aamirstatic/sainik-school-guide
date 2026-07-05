@@ -14,3 +14,26 @@ Allow: /
 
 User-agent: Googlebot-News
 Allow: /
+
+# AI Agent Accessibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# LLMs.txt - AI agent site reference
+# https://sainikschooleastsiang.in/llms.txt
+# https://sainikschooleastsiang.in/llms-full.txt
