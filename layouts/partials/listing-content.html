@@ -1,0 +1,60 @@
+<div class="listing-header">
+<h1>{{ .Title }}</h1>
+<p>{{ .Description }}</p>
+</div>
+<div class="breadcrumb">
+<a href="/">Home</a> / <span>{{ .Title }}</span>
+</div>
+<section class="section">
+<div class="section-inner">
+{{ if eq .Section "blog" }}
+{{ if .Pages }}
+<div class="blog-grid">
+{{ range .Pages.ByDate.Reverse }}
+<div class="blog-item">
+<div class="blog-item-img">
+<span class="blog-item-tag">ARTICLE</span>
+</div>
+<div class="blog-item-body">
+<div class="blog-item-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
+<h3 class="blog-item-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+<p class="blog-item-excerpt">{{ .Description | truncate 120 }}</p>
+</div>
+</div>
+{{ end }}
+</div>
+{{ else }}
+<div class="empty-state">
+<h3>No articles yet</h3>
+<p>Check back soon for daily articles on Sainik Schools and AISSEE preparation.</p>
+</div>
+{{ end }}
+{{ else if eq .Section "schools" }}
+{{ if .Pages }}
+<div class="schools-grid">
+{{ range .Pages }}
+<div class="school-item">
+<div class="school-item-icon">🏫</div>
+<div class="school-item-info">
+<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+<p>{{ .Description | truncate 100 }}</p>
+{{ with .Params.state }}
+<span class="school-item-state">{{ . }}</span>
+{{ end }}
+</div>
+</div>
+{{ end }}
+</div>
+{{ else }}
+<div class="empty-state">
+<h3>Coming Soon</h3>
+<p>We're adding detailed information about all Sainik Schools. Check back soon!</p>
+</div>
+{{ end }}
+{{ else }}
+<div class="content">
+{{ .Content }}
+</div>
+{{ end }}
+</div>
+</section>

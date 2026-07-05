@@ -8,7 +8,7 @@
   <meta name="description" content="{{ .Description | truncate 155 }}">
   <link rel="canonical" href="{{ .Permalink }}">
   
-  <!-- Open Graph for Google Discover -->
+  
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ .Description }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
@@ -19,16 +19,16 @@
   <meta property="og:image:height" content="630">
   <meta property="og:locale" content="en_IN">
   
-  <!-- Twitter Card -->
+  
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ .Title }}">
   <meta name="twitter:description" content="{{ .Description }}">
   <meta name="twitter:image" content="https://sainikschooleastsiang.in/images/hero-sainik-school.jpg">
   
-  <!-- Google Discover Optimization -->
+  
   <meta name="robots" content="index, follow, max-image-preview:large">
   
-  <!-- Article specific meta -->
+  
   {{ if .IsPage }}
   <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
   <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
@@ -37,7 +37,6 @@
   {{ if .Params.keywords }}{{ range .Params.keywords }}<meta property="article:tag" content="{{ . }}">{{ end }}{{ end }}
   {{ end }}
   
-  <!-- JSON-LD Structured Data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -53,14 +52,14 @@
   }
   </script>
   
-  <!-- Favicon -->
+  
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   
-  <!-- PWA -->
+  
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#1a1a2e">
   
-  <!-- Resource Hints: DNS, preconnect, prefetch -->
+  
   <link rel="dns-prefetch" href="https://fonts.googleapis.com">
   <link rel="dns-prefetch" href="https://fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -68,13 +67,13 @@
   <link rel="preconnect" href="https://www.google-analytics.com">
   <link rel="preconnect" href="https://www.googletagmanager.com">
 
-  <!-- Fonts - Preload with font-display: swap for LCP -->
+  
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" as="style" crossorigin onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"></noscript>
 
-  <!-- Preload critical CSS (inline style is render-critical, no external file to preload) -->
+  
 
-  <!-- Prefetch likely next navigations -->
+  
   <link rel="prefetch" href="/sainik-schools/">
   <link rel="prefetch" href="/aissee/">
   <link rel="prefetch" href="/blog/">
@@ -1110,7 +1109,7 @@
   </style>
 </head>
 <body>
-  <!-- Announcement Banner -->
+  
   <div class="announcement-bar">
     <span>🎉 AISSEE 2027 Notification Expected September 2026!</span>
     <a href="/aissee/">Check Details →</a>
@@ -1135,10 +1134,10 @@
     }
   </style>
 
-  <!-- Header - Cracku Style -->
+  
   <header class="header">
     <div class="header-inner">
-      <!-- Logo -->
+      
       <a href="/" class="logo">
         <div class="logo-icon">SS</div>
         <div class="logo-text">
@@ -1147,7 +1146,7 @@
         </div>
       </a>
       
-      <!-- Navigation -->
+      
       <nav class="nav" id="mainNav">
         <a href="/">Home</a>
         <a href="/sainik-schools/">Schools</a>
@@ -1156,7 +1155,7 @@
         <a href="/states/">States</a>
       </nav>
       
-      <!-- Right Actions -->
+      
       <div class="header-actions">
         <a href="tel:9436409766" class="header-phone">
           📞 9436409766
@@ -1167,7 +1166,7 @@
         <a href="/aissee/" class="btn-primary">Get Started</a>
       </div>
       
-      <!-- Mobile Menu Toggle -->
+      
       <div class="menu-toggle" id="menuToggle" onclick="toggleMenu()" style="display:none;">
         <span></span>
         <span></span>
@@ -1175,7 +1174,7 @@
       </div>
     </div>
     
-    <!-- Secondary Nav -->
+    
     <nav class="secondary-nav">
       <div class="secondary-nav-inner">
         <a href="/sainik-schools/">All Schools</a>
@@ -1242,11 +1241,11 @@
       .header-actions .header-phone,
       .header-actions .header-coaching { display: none; }
     }
-  </style
+  </style>
 
   {{ block "main" . }}{{ end }}
 
-  <!-- Newsletter -->
+  
   <section class="newsletter">
     <h2>Stay Updated with AISSEE 2027</h2>
     <p>Get daily preparation tips and important updates in your inbox</p>
@@ -1256,10 +1255,10 @@
     </form>
   </section>
 
-  <!-- Footer - Cracku Style -->
+  
   <footer class="footer" id="contact">
     <div class="footer-inner">
-      <!-- About Column -->
+      
       <div class="footer-brand">
         <div class="logo">
           <div class="logo-icon">SS</div>
@@ -1274,7 +1273,7 @@
         </p>
       </div>
       
-      <!-- Sainik Schools Column -->
+      
       <div>
         <h4>Sainik Schools</h4>
         <ul>
@@ -1286,7 +1285,7 @@
         </ul>
       </div>
       
-      <!-- AISSEE Column -->
+      
       <div>
         <h4>AISSEE</h4>
         <ul>
@@ -1298,7 +1297,7 @@
         </ul>
       </div>
       
-      <!-- States Column -->
+      
       <div>
         <h4>States</h4>
         <ul>
@@ -1309,7 +1308,7 @@
         </ul>
       </div>
       
-      <!-- Contact Column -->
+      
       <div>
         <h4>Contact Us</h4>
         <ul>
@@ -1321,7 +1320,7 @@
       </div>
     </div>
     
-    <!-- Footer Bottom -->
+    
     <div class="footer-bottom">
       <div class="footer-logo">
         <div class="logo">
