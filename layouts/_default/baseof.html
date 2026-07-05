@@ -1099,6 +1099,31 @@
 </head>
 <body>
 
+  {{ partial "lead-form.html" . }}
+
+  <!-- Floating Lead Button -->
+  <div id="floatingLead" style="position: fixed; bottom: 20px; right: 20px; z-index: 999; display: none;">
+    <button onclick="openLead('🎯 Get Free AISSEE Guide', 'Enter details to download', '')" style="background: linear-gradient(135deg, #F6D835, #FFD700); color: #111; border: none; padding: 14px 24px; border-radius: 50px; font-size: 15px; font-weight: 700; cursor: pointer; box-shadow: 0 4px 20px rgba(0,0,0,0.2); display: flex; align-items: center; gap: 8px; animation: pulse 2s infinite;">
+      <span>📥</span> Get Free Guide
+    </button>
+  </div>
+  <style>
+    @keyframes pulse { 0%, 100% { box-shadow: 0 4px 20px rgba(0,0,0,0.2); } 50% { box-shadow: 0 4px 30px rgba(246,216,53,0.5); } }
+  </style>
+  <script>
+    // Show floating button after 5 seconds
+    setTimeout(() => { document.getElementById('floatingLead').style.display = 'block'; }, 5000);
+    // Hide on scroll to bottom
+    window.addEventListener('scroll', () => {
+      const btn = document.getElementById('floatingLead');
+      if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
+        btn.style.display = 'none';
+      } else if (window.scrollY > 300) {
+        btn.style.display = 'block';
+      }
+    });
+  </script>
+
   <header class="header">
     <div class="header-inner">
       <a href="/" class="logo">
