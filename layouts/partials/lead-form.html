@@ -162,7 +162,7 @@ function submitLead() {
   data.append('page', window.location.pathname);
 
   // Google Sheets webhook URL - replace with your Apps Script URL
-  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbx_REPLACE_WITH_YOUR_SCRIPT_ID/exec';
+  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbz8JBx7nl7vDJp1d3D2OZ8z6Sr2FQ26Hrk-qeyfwwtJdFjE1YSfxEPrbvU5ei-FDWU/exec';
 
   fetch(SHEET_URL, { method: 'POST', body: data })
   .then(function(r) { return r.json(); })
