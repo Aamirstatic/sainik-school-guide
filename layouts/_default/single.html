@@ -1,109 +1,71 @@
 {{ define "main" }}
 <style>
-  /* Cracku.in Style Article Layout */
+  /* Article Page - Fully Responsive */
+  * { box-sizing: border-box; }
   
-  /* Hero Section */
-  .article-hero {
+  .art-hero {
     background: #E6F3FA;
-    padding: 40px 20px;
+    padding: 24px 16px;
   }
-  .article-hero-inner {
-    max-width: 1200px;
+  @media (min-width: 768px) { .art-hero { padding: 40px 20px; } }
+  
+  .art-hero-inner {
+    max-width: 1000px;
     margin: 0 auto;
   }
   
-  /* Breadcrumb */
-  .breadcrumb {
+  .art-crumb {
+    font-size: 12px;
+    color: #6B7280;
+    margin-bottom: 12px;
     display: flex;
-    align-items: center;
     flex-wrap: wrap;
     gap: 4px;
-    margin-bottom: 16px;
-    font-size: 13px;
-    color: #6B7280;
-  }
-  .breadcrumb a {
-    color: #6B7280;
-    text-decoration: none;
-    display: flex;
     align-items: center;
-    gap: 4px;
   }
-  .breadcrumb a:hover { color: #0097A7; }
-  .breadcrumb .separator { color: #9CA3AF; margin: 0 4px; }
-  .breadcrumb .current { color: #6B7280; }
+  .art-crumb a { color: #6B7280; text-decoration: none; }
+  .art-crumb a:hover { color: #00BCD4; }
+  .art-crumb span { color: #9CA3AF; }
   
-  /* Article Title */
-  .article-title {
-    font-size: 28px;
+  .art-title {
+    font-size: 22px;
     font-weight: 700;
-    color: #111928;
+    color: #000;
     line-height: 1.3;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
   }
+  @media (min-width: 768px) { .art-title { font-size: 30px; } }
   
-  /* Meta Info - Cracku Style */
-  .article-meta {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 8px;
-    font-size: 14px;
-    color: #6B7280;
-  }
-  .article-meta .meta-item {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    padding-right: 8px;
-    border-right: 1px solid #6B7280;
-  }
-  .article-meta .meta-item:last-child { border-right: none; }
-  .article-meta .meta-item svg { width: 16px; height: 16px; }
-  .article-meta .author-link { color: #00BCD4; text-decoration: none; }
-  .article-meta .author-link:hover { color: #0097A7; }
-  
-  /* CTA Buttons */
-  .article-ctas {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 16px;
-  }
-  .article-ctas a {
-    padding: 8px 16px;
-    border-radius: 4px;
+  .art-meta {
     font-size: 13px;
-    font-weight: 500;
-    text-decoration: none;
-    color: white;
+    color: #6B7280;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
   }
-  .cta-blue { background: #0288D1; }
-  .cta-primary { background: #00BCD4; }
-  .cta-green { background: #16B364; }
+  .art-meta .author { color: #00BCD4; font-weight: 500; }
   
-  /* Content Layout - Cracku Grid */
-  .article-grid {
-    max-width: 1200px;
+  .art-wrap {
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 30px 20px;
-    display: grid;
-    grid-template-columns: 1fr 270px;
-    gap: 32px;
+    padding: 20px 16px;
   }
+  @media (min-width: 768px) { .art-wrap { padding: 30px 20px; } }
   
-  /* TOC - Cracku Style */
-  .toc-wrapper {
+  /* TOC */
+  .toc-box {
     background: #E6F3FA;
     border-radius: 8px;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
+    overflow: hidden;
   }
-  .toc-toggle {
+  .toc-btn {
+    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    padding: 12px 16px;
+    gap: 8px;
+    padding: 10px 14px;
     background: none;
     border: none;
     cursor: pointer;
@@ -111,146 +73,132 @@
     font-weight: 600;
     color: #111928;
   }
-  .toc-toggle svg { width: 16px; height: 16px; }
-  .toc-list {
+  .toc-btn svg { width: 16px; height: 16px; }
+  .toc-items {
     list-style: disc;
-    padding: 0 16px 16px 40px;
+    padding: 0 14px 14px 32px;
     display: none;
+    margin: 0;
   }
-  .toc-list.open { display: block; }
-  .toc-list li { margin-bottom: 8px; }
-  .toc-list a {
+  .toc-items.show { display: block; }
+  .toc-items li { margin-bottom: 6px; }
+  .toc-items a {
     font-size: 13px;
-    font-weight: 500;
     color: #374151;
     text-decoration: none;
   }
-  .toc-list a:hover { color: #0097A7; }
+  .toc-items a:hover { color: #00BCD4; }
   
-  /* Latest Updates Banner */
-  .updates-banner {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    background: #F0F8FF;
-    border: 1px solid #B3D9F2;
+  /* Updates */
+  .upd-box {
+    background: #E6F3FA;
     border-radius: 8px;
-    padding: 10px 14px;
-    margin-bottom: 20px;
-    font-size: 12px;
+    padding: 12px;
+    margin-bottom: 16px;
+    font-size: 13px;
   }
-  .updates-label {
-    font-weight: 600;
-    color: #0288D1;
-    white-space: nowrap;
-  }
-  .updates-text { color: #111928; }
-  .updates-text a { color: #00BCD4; font-weight: 500; }
+  .upd-box strong { color: #0288D1; }
+  .upd-box a { color: #00BCD4; }
   
-  /* Article Content */
-  .article-content {
+  /* Content */
+  .art-body {
     font-size: 15px;
     line-height: 1.7;
     color: #374151;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
   }
-  .article-content h2 {
-    font-size: 22px;
+  .art-body h2 {
+    font-size: 20px;
     font-weight: 600;
     color: #00BCD4;
-    margin: 32px 0 16px;
-    scroll-margin-top: 100px;
+    margin: 28px 0 12px;
+    scroll-margin-top: 80px;
   }
-  .article-content h3 {
-    font-size: 18px;
+  @media (min-width: 768px) { .art-body h2 { font-size: 24px; } }
+  .art-body h3 {
+    font-size: 17px;
     font-weight: 600;
     color: #111928;
-    margin: 24px 0 12px;
-    scroll-margin-top: 100px;
+    margin: 20px 0 10px;
+    scroll-margin-top: 80px;
   }
-  .article-content p { margin-bottom: 16px; }
-  .article-content ul, .article-content ol {
-    margin-bottom: 16px;
-    padding-left: 24px;
-  }
-  .article-content li { margin-bottom: 8px; }
-  .article-content strong { color: #111928; }
-  .article-content a { color: #00BCD4; text-decoration: none; }
-  .article-content a:hover { text-decoration: underline; }
-  .article-content blockquote {
-    border-left: 4px solid #00BCD4;
-    padding: 12px 16px;
-    margin: 16px 0;
-    background: #F0F8FF;
-    border-radius: 0 8px 8px 0;
-  }
+  .art-body p { margin-bottom: 14px; }
+  .art-body ul, .art-body ol { margin-bottom: 14px; padding-left: 20px; }
+  .art-body li { margin-bottom: 6px; }
+  .art-body strong { color: #111928; }
+  .art-body a { color: #00BCD4; text-decoration: none; }
   
-  /* Tables - Cracku Style */
-  .table-wrapper {
+  /* Tables */
+  .tbl-wrap {
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    margin: 20px 0;
-    border-radius: 8px;
+    margin: 16px 0;
     border: 1px solid #DEDEDE;
+    border-radius: 8px;
     display: block;
   }
-  .article-content table {
+  .tbl-wrap table {
     width: 100%;
+    min-width: 500px;
     border-collapse: collapse;
-    font-size: 14px;
+    font-size: 13px;
     text-align: center;
-    min-width: 600px;
+    margin: 0;
   }
-  .article-content thead {
+  @media (min-width: 768px) { .tbl-wrap table { min-width: auto; font-size: 14px; } }
+  .tbl-wrap thead {
     background: #00BCD4;
     color: white;
   }
-  .article-content thead th {
+  .tbl-wrap th {
+    padding: 10px 12px;
     font-weight: 600;
-    padding: 12px 16px;
-    text-align: center;
     white-space: nowrap;
     border: 1px solid #0097A7;
   }
-  .article-content tbody td {
-    padding: 12px 16px;
-    text-align: center;
+  .tbl-wrap td {
+    padding: 10px 12px;
     border: 1px solid #DEDEDE;
     white-space: nowrap;
   }
-  .article-content tbody tr:hover { background: #F9FAFB; }
-  .article-content tbody tr:last-child td { border-bottom: none; }
+  .tbl-wrap tbody tr:hover { background: #F9FAFB; }
   
-  /* FAQ - Cracku Style */
-  .faq-section {
-    margin: 32px 0;
+  /* FAQ */
+  .faq-box { margin: 28px 0; }
+  .faq-box h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 16px;
   }
+  @media (min-width: 768px) { .faq-box h2 { font-size: 24px; } }
+  .faq-list { display: flex; flex-direction: column; gap: 8px; }
   .faq-item {
     background: white;
     border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    margin-bottom: 10px;
+    border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
   }
-  .faq-question {
+  .faq-q {
     width: 100%;
     display: flex;
     align-items: center;
-    gap: 12px;
-    padding: 16px;
+    gap: 10px;
+    padding: 14px;
     background: none;
     border: none;
-    border-bottom: 1px solid transparent;
     cursor: pointer;
     text-align: left;
-    font-size: 15px;
+    font-size: 14px;
     color: #111928;
   }
-  .faq-question.active { border-bottom-color: #E5E7EB; }
-  .faq-icon {
-    width: 32px;
-    height: 32px;
+  @media (min-width: 768px) { .faq-q { padding: 16px; font-size: 16px; gap: 12px; } }
+  .faq-q-icon {
+    width: 28px;
+    height: 28px;
     background: #E6F3FA;
     border-radius: 6px;
     display: flex;
@@ -258,86 +206,70 @@
     justify-content: center;
     color: #00BCD4;
     flex-shrink: 0;
+    font-size: 14px;
   }
-  .faq-toggle {
+  .faq-q-arrow {
     margin-left: auto;
     transition: transform 0.2s;
   }
-  .faq-toggle.open { transform: rotate(180deg); }
-  .faq-answer {
+  .faq-q-arrow.open { transform: rotate(180deg); }
+  .faq-a {
     display: none;
-    padding: 16px;
-    font-size: 14px;
+    padding: 0 14px 14px 52px;
+    font-size: 13px;
     color: #374151;
     line-height: 1.6;
   }
-  .faq-answer.open { display: block; }
+  @media (min-width: 768px) { .faq-a { font-size: 14px; } }
+  .faq-a.show { display: block; }
   
-  /* Feedback Section - Cracku Style */
-  .feedback-section {
+  /* Feedback */
+  .fb-box {
     border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    padding: 24px;
+    border-radius: 12px;
+    padding: 20px;
     text-align: center;
-    margin: 32px 0;
+    margin: 28px 0;
   }
-  .feedback-title {
-    font-weight: 600;
-    font-size: 16px;
-    color: #111928;
-    margin-bottom: 16px;
-  }
-  .feedback-emojis {
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-  }
-  .feedback-btn {
-    width: 48px;
-    height: 48px;
-    border-radius: 8px;
+  .fb-title { font-weight: 600; font-size: 15px; color: #111928; margin-bottom: 12px; }
+  .fb-btns { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+  .fb-btn {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
     border: 1px solid #DEDEDE;
     background: white;
     cursor: pointer;
-    font-size: 24px;
-    transition: all 0.2s;
+    font-size: 22px;
   }
-  .feedback-btn:hover {
-    border-color: #00BCD4;
-    background: #E6F3FA;
-  }
+  @media (min-width: 768px) { .fb-btn { width: 56px; height: 56px; font-size: 28px; } }
+  .fb-btn:hover { border-color: #00BCD4; background: #E6F3FA; }
   
-  /* Related Articles */
-  .related-section { margin: 32px 0; }
-  .related-title {
-    font-size: 20px;
-    font-weight: 600;
-    color: #111928;
-    margin-bottom: 16px;
-  }
-  .related-grid {
+  /* Related */
+  .rel-box { margin: 28px 0; }
+  .rel-box h2 { font-size: 18px; font-weight: 600; color: #111928; margin-bottom: 14px; }
+  .rel-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 16px;
+    grid-template-columns: 1fr;
+    gap: 12px;
   }
-  .related-card {
+  @media (min-width: 640px) { .rel-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 900px) { .rel-grid { grid-template-columns: repeat(3, 1fr); } }
+  .rel-card {
     background: white;
     border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    padding: 16px;
-    transition: all 0.2s;
+    border-radius: 12px;
+    padding: 14px;
+    transition: box-shadow 0.2s;
   }
-  .related-card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transform: translateY(-2px);
-  }
-  .related-card-img {
-    height: 120px;
+  .rel-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+  .rel-card-img {
+    height: 100px;
     background: linear-gradient(135deg, #00BCD4, #0097A7);
-    border-radius: 6px;
-    margin-bottom: 12px;
+    border-radius: 8px;
+    margin-bottom: 10px;
   }
-  .related-card-tag {
+  .rel-card-tag {
     display: inline-block;
     background: #E6F3FA;
     color: #0097A7;
@@ -345,504 +277,247 @@
     border-radius: 4px;
     font-size: 11px;
     font-weight: 500;
-    margin-bottom: 8px;
-  }
-  .related-card h3 {
-    font-size: 14px;
-    font-weight: 600;
-    color: #111928;
-    line-height: 1.4;
-  }
-  .related-card h3 a { text-decoration: none; color: inherit; }
-  
-  /* Sidebar - Cracku Style */
-  .sidebar { position: sticky; top: 90px; align-self: start; }
-  .sidebar-widget {
-    background: white;
-    border: 1px solid #DEDEDE;
-    border-radius: 8px;
-    overflow: hidden;
-    margin-bottom: 20px;
-  }
-  .sidebar-widget-header {
-    background: linear-gradient(135deg, #01263b, #0367a1);
-    color: white;
-    padding: 20px;
-  }
-  .sidebar-widget-header h3 {
-    font-size: 18px;
-    font-weight: 700;
     margin-bottom: 6px;
   }
-  .sidebar-widget-header p {
-    font-size: 13px;
-    opacity: 0.9;
-  }
-  .sidebar-widget-body { padding: 16px; }
-  .sidebar-widget-body ul { list-style: none; }
-  .sidebar-widget-body li {
-    padding: 10px 0;
+  .rel-card h3 {
     font-size: 14px;
-    border-bottom: 1px solid #F3F4F6;
-  }
-  .sidebar-widget-body li:last-child { border: none; }
-  .sidebar-cta {
-    display: block;
-    width: 100%;
-    background: #00BCD4;
-    color: white;
-    text-align: center;
-    padding: 12px;
-    border-radius: 6px;
-    text-decoration: none;
     font-weight: 600;
-    font-size: 14px;
-    margin-top: 12px;
-  }
-  .sidebar-cta:hover { background: #0097A7; }
-  
-  /* Recent Blogs Widget */
-  .recent-blog-item {
-    display: flex;
-    gap: 12px;
-    padding: 10px 0;
-    border-bottom: 1px solid #F3F4F6;
-  }
-  .recent-blog-item:last-child { border: none; }
-  .recent-blog-img {
-    width: 64px;
-    height: 64px;
-    background: linear-gradient(135deg, #00BCD4, #0097A7);
-    border-radius: 6px;
-    flex-shrink: 0;
-  }
-  .recent-blog-tag {
-    display: inline-block;
-    background: #E6F3FA;
-    color: #0097A7;
-    padding: 2px 6px;
-    border-radius: 2px;
-    font-size: 10px;
-    font-weight: 500;
-  }
-  .recent-blog-title {
-    font-size: 13px;
-    font-weight: 500;
     color: #111928;
-    line-height: 1.4;
+    line-height: 1.3;
   }
-  .recent-blog-title a { text-decoration: none; color: inherit; }
+  .rel-card h3 a { text-decoration: none; color: inherit; }
   
-  /* Sticky Bottom Bar */
-  .sticky-bar {
+  /* Sticky Bar */
+  .s-bar {
     position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
     background: white;
-    box-shadow: 0 -4px 6px rgba(0,0,0,0.1);
-    border-top: 1px solid #E5E7EB;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
     z-index: 1000;
-    padding: 12px 20px;
-  }
-  .sticky-bar-inner {
-    max-width: 1200px;
-    margin: 0 auto;
+    padding: 10px 16px;
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
-  .sticky-bar-text { font-size: 14px; font-weight: 600; color: #111928; }
-  .sticky-bar-sub { font-size: 12px; color: #6B7280; }
-  .sticky-bar-btn {
+  .s-bar-text { font-size: 13px; font-weight: 600; color: #111928; }
+  .s-bar-sub { font-size: 11px; color: #6B7280; }
+  .s-bar-btn {
     background: #00BCD4;
     color: white;
-    padding: 10px 24px;
+    padding: 8px 16px;
     border-radius: 6px;
     text-decoration: none;
     font-weight: 600;
-    font-size: 14px;
-  }
-  
-  /* Responsive */
-  @media (max-width: 992px) {
-    .article-grid {
-      grid-template-columns: 1fr;
-      max-width: 100%;
-    }
-    .sidebar { position: static; order: 1; }
-    .related-grid { grid-template-columns: repeat(2, 1fr); }
-  }
-  
-  @media (max-width: 768px) {
-    .article-hero { 
-      padding: 20px 12px; 
-      max-width: 100%;
-    }
-    .article-hero-inner {
-      max-width: 100%;
-    }
-    .article-title { 
-      font-size: 20px; 
-      word-wrap: break-word;
-      overflow-wrap: break-word;
-    }
-    .article-meta { 
-      font-size: 11px; 
-      gap: 4px; 
-      flex-wrap: wrap;
-    }
-    .article-meta .meta-item { 
-      padding-right: 4px; 
-      font-size: 11px;
-    }
-    .article-grid { 
-      padding: 12px; 
-      gap: 16px;
-      max-width: 100%;
-    }
-    .article-content { 
-      font-size: 14px;
-      max-width: 100%;
-      overflow-wrap: break-word;
-      word-wrap: break-word;
-    }
-    .article-content h2 { font-size: 18px; margin: 20px 0 10px; }
-    .article-content h3 { font-size: 15px; }
-    .article-content p { font-size: 14px; }
-    .article-content ul, .article-content ol { padding-left: 20px; }
-    .article-content li { font-size: 14px; }
-    
-    /* Tables Mobile */
-    .table-wrapper {
-      display: block;
-      width: 100%;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      margin: 16px 0;
-      border-radius: 8px;
-      border: 1px solid #DEDEDE;
-    }
-    .table-wrapper table {
-      margin: 0;
-      border: none;
-      border-radius: 0;
-      min-width: 500px;
-      font-size: 11px;
-    }
-    .article-content th, .article-content td { 
-      padding: 8px 6px; 
-      font-size: 11px;
-    }
-    
-    /* TOC Mobile */
-    .toc-wrapper {
-      margin-bottom: 16px;
-    }
-    .toc-toggle {
-      padding: 10px 12px;
-      font-size: 13px;
-    }
-    .toc-list {
-      padding: 0 12px 12px 30px;
-    }
-    .toc-list a {
-      font-size: 12px;
-    }
-    
-    /* FAQ Mobile */
-    .faq-item { margin-bottom: 8px; }
-    .faq-question { 
-      padding: 10px 12px; 
-      font-size: 13px; 
-      gap: 8px; 
-    }
-    .faq-icon { width: 24px; height: 24px; font-size: 12px; }
-    .faq-answer { padding: 10px 12px; font-size: 12px; }
-    
-    /* Feedback Mobile */
-    .feedback-section { padding: 16px; }
-    .feedback-title { font-size: 14px; }
-    .feedback-btn { width: 36px; height: 36px; font-size: 18px; }
-    .feedback-emojis { gap: 8px; }
-    
-    /* Related Mobile */
-    .related-section { margin: 20px 0; }
-    .related-title { font-size: 16px; }
-    .related-grid { grid-template-columns: 1fr; gap: 12px; }
-    .related-card { padding: 12px; }
-    .related-card-img { height: 100px; }
-    
-    /* Sidebar Mobile */
-    .sidebar { 
-      display: grid; 
-      grid-template-columns: 1fr; 
-      gap: 12px;
-      max-width: 100%;
-    }
-    .sidebar-widget { margin-bottom: 0; }
-    .sidebar-widget-header { padding: 14px; }
-    .sidebar-widget-header h3 { font-size: 15px; }
-    .sidebar-widget-body { padding: 12px; }
-    .sidebar-widget-body li { font-size: 13px; padding: 8px 0; }
-    .sidebar-cta { padding: 10px; font-size: 13px; }
-    
-    /* Sticky Bar Mobile */
-    .sticky-bar { padding: 8px 12px; }
-    .sticky-bar-text { font-size: 12px; }
-    .sticky-bar-sub { font-size: 10px; }
-    .sticky-bar-btn { padding: 8px 14px; font-size: 12px; }
-    
-    /* Updates Banner Mobile */
-    .updates-banner {
-      flex-direction: column;
-      align-items: flex-start;
-      padding: 8px 10px;
-      gap: 4px;
-      font-size: 11px;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .article-hero { padding: 16px 10px; }
-    .article-title { font-size: 17px; }
-    .article-meta .meta-item { font-size: 10px; }
-    .article-grid { padding: 10px; }
-    .article-content h2 { font-size: 16px; }
-    .article-content h3 { font-size: 14px; }
-    .table-wrapper table { 
-      font-size: 10px; 
-      min-width: 400px;
-    }
-    .article-content th, .article-content td { 
-      padding: 6px 4px; 
-      font-size: 10px;
-    }
-    .sidebar { grid-template-columns: 1fr; }
-    .feedback-btn { width: 32px; height: 32px; font-size: 16px; }
+    font-size: 13px;
   }
 </style>
 
-<!-- Hero Section - Cracku Style -->
-<section class="article-hero">
-  <div class="article-hero-inner">
-    <!-- Breadcrumb -->
-    <nav class="breadcrumb">
-      <a href="/">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>
-        Home
-      </a>
-      <span class="separator">›</span>
-      {{ if eq .Section "blog" }}
-        <a href="/blog/">Blog</a>
-        <span class="separator">›</span>
-      {{ else if eq .Section "schools" }}
-        <a href="/sainik-schools/">Schools</a>
-        <span class="separator">›</span>
-      {{ end }}
-      <span class="current">{{ .Title | truncate 50 }}</span>
-    </nav>
-    
-    <!-- Title -->
-    <h1 class="article-title">{{ .Title }}</h1>
-    
-    <!-- Meta Info -->
-    <div class="article-meta">
-      <div class="meta-item">
-        <div style="width:20px;height:20px;background:#00BCD4;border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-size:10px;font-weight:700;">SS</div>
-        <a href="#" class="author-link">Sainik School Guide Team</a>
-      </div>
-      <div class="meta-item">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-        {{ .Date.Format "Jan 2, 2006" }}
-      </div>
-      <div class="meta-item">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-        {{ .ReadingTime }} min read
-      </div>
+<!-- Hero -->
+<div class="art-hero">
+  <div class="art-hero-inner">
+    <div class="art-crumb">
+      <a href="/">Home</a>
+      <span>›</span>
+      {{ if eq .Section "blog" }}<a href="/blog/">Blog</a><span>›</span>{{ end }}
+      <span>{{ .Title | truncate 40 }}</span>
     </div>
-    
-    <!-- CTA Buttons -->
-    <div class="article-ctas">
-      <a href="/aissee/" class="cta-primary">AISSEE Guide</a>
-      <a href="/sainik-schools/" class="cta-blue">All Schools</a>
+    <h1 class="art-title">{{ .Title }}</h1>
+    <div class="art-meta">
+      <span class="author">Sainik School Guide Team</span>
+      <span>•</span>
+      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+      <span>•</span>
+      <span>{{ .ReadingTime }} min read</span>
     </div>
   </div>
-</section>
-
-<!-- Content Grid -->
-<div class="article-grid">
-  <!-- Main Content -->
-  <main>
-    <!-- Latest Updates -->
-    <div class="updates-banner">
-      <span class="updates-label">📢 Latest:</span>
-      <span class="updates-text">AISSEE 2027 notification expected September 2026. <a href="/aissee/">Read More →</a></span>
-    </div>
-    
-    <!-- TOC -->
-    <div class="toc-wrapper" id="tocContainer" style="display:none;">
-      <button class="toc-toggle" onclick="toggleTOC()">
-        <span>📑 Table of Contents</span>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-      </button>
-      <ul class="toc-list" id="tocList"></ul>
-    </div>
-    
-    <!-- Article Content -->
-    <div class="article-content" id="articleContent">
-      {{ .Content }}
-    </div>
-    
-    <!-- Feedback -->
-    <div class="feedback-section">
-      <p class="feedback-title">How helpful was this article?</p>
-      <div class="feedback-emojis">
-        <button class="feedback-btn" onclick="submitFeedback(1)">😞</button>
-        <button class="feedback-btn" onclick="submitFeedback(2)">😐</button>
-        <button class="feedback-btn" onclick="submitFeedback(3)">🙂</button>
-        <button class="feedback-btn" onclick="submitFeedback(4)">😊</button>
-        <button class="feedback-btn" onclick="submitFeedback(5)">🤩</button>
-      </div>
-    </div>
-    
-    <!-- Related Articles -->
-    <div class="related-section">
-      <h2 class="related-title">Related Articles</h2>
-      <div class="related-grid">
-        {{ $currentSection := .Section }}
-        {{ $currentTitle := .Title }}
-        {{ range first 3 (where (where .Site.RegularPages "Section" $currentSection) "Title" "!=" $currentTitle) }}
-        <a href="{{ .Permalink }}" class="related-card">
-          <div class="related-card-img"></div>
-          <span class="related-card-tag">{{ .Section | upper }}</span>
-          <h3>{{ .Title | truncate 60 }}</h3>
-        </a>
-        {{ end }}
-      </div>
-    </div>
-  </main>
-  
-  <!-- Sidebar -->
-  <aside class="sidebar">
-    <!-- AISSEE Course -->
-    <div class="sidebar-widget">
-      <div class="sidebar-widget-header">
-        <h3>AISSEE 2027 Course</h3>
-        <p>Complete prep for Class 6 & 9</p>
-      </div>
-      <div class="sidebar-widget-body">
-        <ul>
-          <li>✓ Study material</li>
-          <li>✓ Previous papers</li>
-          <li>✓ Mock tests</li>
-          <li>✓ Expert tips</li>
-        </ul>
-        <a href="/aissee/" class="sidebar-cta">View Guide →</a>
-      </div>
-    </div>
-    
-    <!-- Recent Blogs -->
-    <div class="sidebar-widget">
-      <div class="sidebar-widget-header">
-        <h3>Recent Articles</h3>
-      </div>
-      <div class="sidebar-widget-body">
-        {{ range first 4 (where .Site.RegularPages "Section" "blog") }}
-        <div class="recent-blog-item">
-          <div class="recent-blog-img"></div>
-          <div>
-            <span class="recent-blog-tag">BLOG</span>
-            <div class="recent-blog-title"><a href="{{ .Permalink }}">{{ .Title | truncate 40 }}</a></div>
-          </div>
-        </div>
-        {{ end }}
-        <a href="/blog/" style="color:#00BCD4;font-size:13px;display:block;margin-top:8px;">Read More →</a>
-      </div>
-    </div>
-  </aside>
 </div>
 
-<!-- Sticky Bar -->
-<div class="sticky-bar">
-  <div class="sticky-bar-inner">
-    <div>
-      <div class="sticky-bar-text">AISSEE 2027 - Start Preparation</div>
-      <div class="sticky-bar-sub">Complete guide for Class 6 & 9</div>
-    </div>
-    <a href="/aissee/" class="sticky-bar-btn">Get Started →</a>
+<!-- Content -->
+<div class="art-wrap">
+  <div class="upd-box">
+    <strong>📢 Latest:</strong> AISSEE 2027 notification expected September 2026. <a href="/aissee/">Read More →</a>
   </div>
+  
+  <div class="toc-box" id="tocBox" style="display:none;">
+    <button class="toc-btn" onclick="toggleToc()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      Table of Contents
+      <svg class="toc-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+    </button>
+    <ul class="toc-items" id="tocList"></ul>
+  </div>
+  
+  <div class="art-body" id="artBody">
+    {{ .Content }}
+  </div>
+  
+  <div class="fb-box">
+    <p class="fb-title">How helpful was this article?</p>
+    <div class="fb-btns">
+      <button class="fb-btn" onclick="fb(1)">😞</button>
+      <button class="fb-btn" onclick="fb(2)">😐</button>
+      <button class="fb-btn" onclick="fb(3)">🙂</button>
+      <button class="fb-btn" onclick="fb(4)">😊</button>
+      <button class="fb-btn" onclick="fb(5)">🤩</button>
+    </div>
+  </div>
+  
+  <div class="rel-box">
+    <h2>Related Articles</h2>
+    <div class="rel-grid">
+      {{ $sec := .Section }}
+      {{ $cur := .Title }}
+      {{ range first 3 (where (where .Site.RegularPages "Section" $sec) "Title" "!=" $cur) }}
+      <a href="{{ .Permalink }}" class="rel-card">
+        <div class="rel-card-img"></div>
+        <span class="rel-card-tag">{{ .Section | upper }}</span>
+        <h3>{{ .Title | truncate 50 }}</h3>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<div class="s-bar">
+  <div>
+    <div class="s-bar-text">AISSEE 2027 Preparation</div>
+    <div class="s-bar-sub">Complete guide for Class 6 & 9</div>
+  </div>
+  <a href="/aissee/" class="s-bar-btn">Get Started →</a>
 </div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const content = document.getElementById('articleContent');
-  const headings = content.querySelectorAll('h2, h3');
-  const tocContainer = document.getElementById('tocContainer');
-  const tocList = document.getElementById('tocList');
+  var body = document.getElementById('artBody');
+  var tocBox = document.getElementById('tocBox');
+  var tocList = document.getElementById('tocList');
   
-  const hasManualTOC = content.querySelector('h2') && content.querySelector('h2').textContent.includes('Table of Contents');
+  // Check if manual TOC exists
+  var hasToc = false;
+  body.querySelectorAll('h2').forEach(function(h) {
+    if (h.textContent.indexOf('Table of Contents') >= 0) hasToc = true;
+  });
   
-  if (headings.length > 0 && !hasManualTOC) {
-    tocContainer.style.display = 'block';
-    headings.forEach(function(heading, index) {
-      if (heading.textContent.includes('FAQ') || heading.textContent.trim() === '') return;
-      const id = 'heading-' + index;
-      heading.id = id;
-      const li = document.createElement('li');
-      li.style.marginLeft = heading.tagName === 'H3' ? '16px' : '0';
-      const a = document.createElement('a');
+  // Generate TOC
+  var headings = body.querySelectorAll('h2, h3');
+  if (headings.length > 0 && !hasToc) {
+    tocBox.style.display = 'block';
+    headings.forEach(function(h, i) {
+      if (h.textContent.indexOf('FAQ') >= 0) return;
+      var id = 'h' + i;
+      h.id = id;
+      var li = document.createElement('li');
+      li.style.marginLeft = h.tagName === 'H3' ? '16px' : '0';
+      var a = document.createElement('a');
       a.href = '#' + id;
-      a.textContent = heading.textContent;
+      a.textContent = h.textContent;
       a.onclick = function(e) {
         e.preventDefault();
-        document.getElementById(id).scrollIntoView({ behavior: 'smooth', block: 'start' });
+        document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
       };
       li.appendChild(a);
       tocList.appendChild(li);
     });
   }
   
-  // FAQ accordion
-  document.querySelectorAll('.faq-question').forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      const answer = this.nextElementSibling;
-      const toggle = this.querySelector('.faq-toggle');
-      this.classList.toggle('active');
-      answer.classList.toggle('open');
-      toggle.classList.toggle('open');
-    });
+  // Wrap tables
+  body.querySelectorAll('table').forEach(function(t) {
+    var w = document.createElement('div');
+    w.className = 'tbl-wrap';
+    t.parentNode.insertBefore(w, t);
+    w.appendChild(t);
+    
+    // Add thead if missing
+    if (!t.querySelector('thead')) {
+      var first = t.querySelector('tr');
+      if (first) {
+        var thead = document.createElement('thead');
+        thead.appendChild(first.cloneNode(true));
+        t.insertBefore(thead, t.firstChild);
+        first.remove();
+      }
+    }
   });
   
-  // Wrap tables for mobile scroll and add thead
-  document.querySelectorAll('.article-content table').forEach(function(table) {
-    // Add thead if missing
-    if (!table.querySelector('thead')) {
-      const firstRow = table.querySelector('tr');
-      if (firstRow) {
-        const thead = document.createElement('thead');
-        thead.appendChild(firstRow.cloneNode(true));
-        table.insertBefore(thead, table.firstChild);
-        firstRow.remove();
+  // Build FAQ from h3 after FAQ heading
+  var faqBox = document.createElement('div');
+  faqBox.className = 'faq-box';
+  var faqH2 = null;
+  var faqItems = [];
+  var inFaq = false;
+  
+  body.querySelectorAll('h2').forEach(function(h) {
+    if (h.textContent.indexOf('FAQ') >= 0 || h.textContent.indexOf('Frequently') >= 0) {
+      faqH2 = h;
+      inFaq = true;
+    }
+  });
+  
+  if (faqH2 && inFaq) {
+    var el = faqH2.nextElementSibling;
+    while (el && el.tagName !== 'H2') {
+      if (el.tagName === 'H3') {
+        var q = el.textContent;
+        var a = '';
+        var next = el.nextElementSibling;
+        while (next && next.tagName !== 'H3' && next.tagName !== 'H2') {
+          a += next.outerHTML;
+          var tmp = next.nextElementSibling;
+          next.remove();
+          next = tmp;
+        }
+        el.remove();
+        faqItems.push({ q: q, a: a });
+        el = next;
+      } else {
+        el = el.nextElementSibling;
       }
     }
     
-    // Wrap in div for mobile scroll
-    const wrapper = document.createElement('div');
-    wrapper.className = 'table-wrapper';
-    table.parentNode.insertBefore(wrapper, table);
-    wrapper.appendChild(table);
-  });
+    if (faqItems.length > 0) {
+      faqH2.remove();
+      var h2 = document.createElement('h2');
+      h2.textContent = 'Frequently Asked Questions';
+      faqBox.appendChild(h2);
+      
+      var list = document.createElement('div');
+      list.className = 'faq-list';
+      faqItems.forEach(function(item) {
+        var div = document.createElement('div');
+        div.className = 'faq-item';
+        div.innerHTML = '<button class="faq-q" onclick="toggleFaq(this)">' +
+          '<span class="faq-q-icon">?</span>' +
+          '<span>' + item.q + '</span>' +
+          '<span class="faq-q-arrow">▼</span></button>' +
+          '<div class="faq-a">' + item.a + '</div>';
+        list.appendChild(div);
+      });
+      faqBox.appendChild(list);
+      body.appendChild(faqBox);
+    }
+  }
 });
 
-function toggleTOC() {
-  document.getElementById('tocList').classList.toggle('open');
+function toggleToc() {
+  var list = document.getElementById('tocList');
+  var arrow = document.querySelector('.toc-arrow');
+  list.classList.toggle('show');
+  arrow.style.transform = list.classList.contains('show') ? 'rotate(180deg)' : '';
 }
 
-function submitFeedback(rating) {
-  document.querySelectorAll('.feedback-btn').forEach(function(btn, i) {
-    btn.style.borderColor = i === rating - 1 ? '#00BCD4' : '#DEDEDE';
-    btn.style.background = i === rating - 1 ? '#E6F3FA' : 'white';
+function toggleFaq(btn) {
+  var ans = btn.nextElementSibling;
+  var arrow = btn.querySelector('.faq-q-arrow');
+  ans.classList.toggle('show');
+  arrow.classList.toggle('open');
+}
+
+function fb(n) {
+  document.querySelectorAll('.fb-btn').forEach(function(b, i) {
+    b.style.borderColor = i === n-1 ? '#F59E0B' : '#DEDEDE';
+    b.style.background = i === n-1 ? '#FEF3C7' : 'white';
   });
 }
 </script>
