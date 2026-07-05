@@ -193,6 +193,8 @@
     border: 1px solid #DEDEDE;
     border-radius: 8px;
     overflow: hidden;
+    display: block;
+    overflow-x: auto;
   }
   .article-content thead tr,
   .article-content tr:first-child {
@@ -203,11 +205,13 @@
     font-weight: 600;
     padding: 12px 16px;
     text-align: center;
+    white-space: nowrap;
   }
   .article-content td {
     padding: 12px 16px;
     text-align: center;
     border-bottom: 1px solid #DEDEDE;
+    white-space: nowrap;
   }
   .article-content tbody tr:hover { background: #F9FAFB; }
   .article-content tbody tr:last-child td { border-bottom: none; }
@@ -675,9 +679,6 @@ document.addEventListener('DOMContentLoaded', function() {
       tocList.appendChild(li);
     });
   }
-  
-  // Auto-open TOC
-  tocList.classList.add('open');
   
   // FAQ accordion
   document.querySelectorAll('.faq-question').forEach(function(btn) {
