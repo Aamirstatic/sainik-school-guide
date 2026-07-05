@@ -1,0 +1,296 @@
+{{ define "main" }}
+
+<style>
+  .calc-hero {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  .calc-hero h1 { font-size: 32px; font-weight: 800; margin-bottom: 10px; }
+  .calc-hero p { font-size: 16px; opacity: 0.9; max-width: 600px; margin: 0 auto; }
+
+  .calc-container {
+    max-width: 700px;
+    margin: -30px auto 40px;
+    padding: 0 20px;
+  }
+  .calc-card {
+    background: white;
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+  }
+  .calc-label {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 8px;
+  }
+  .calc-input {
+    width: 100%;
+    padding: 14px 16px;
+    border: 2px solid #E5E7EB;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    transition: border 0.2s;
+  }
+  .calc-input:focus { border-color: #00BCD4; }
+  .calc-select {
+    width: 100%;
+    padding: 14px 16px;
+    border: 2px solid #E5E7EB;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    background: white;
+    cursor: pointer;
+  }
+  .calc-btn {
+    width: 100%;
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+    color: white;
+    border: none;
+    padding: 16px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 16px;
+    transition: transform 0.2s;
+  }
+  .calc-btn:hover { transform: translateY(-2px); }
+
+  .calc-result {
+    display: none;
+    margin-top: 24px;
+    padding: 24px;
+    border-radius: 12px;
+    animation: fadeIn 0.3s ease;
+  }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+  .result-eligible {
+    background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+    border: 2px solid #4CAF50;
+  }
+  .result-not-eligible {
+    background: linear-gradient(135deg, #FFEBEE, #FFCDD2);
+    border: 2px solid #F44336;
+  }
+  .result-maybe {
+    background: linear-gradient(135deg, #FFF3E0, #FFE0B2);
+    border: 2px solid #FF9800;
+  }
+
+  .result-icon { font-size: 48px; text-align: center; margin-bottom: 12px; }
+  .result-title { font-size: 20px; font-weight: 700; text-align: center; margin-bottom: 8px; }
+  .result-details { font-size: 14px; color: #374151; line-height: 1.8; }
+  .result-details strong { color: #111928; }
+
+  .result-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 14px;
+  }
+  .result-table th {
+    background: rgba(0,0,0,0.05);
+    padding: 10px 12px;
+    text-align: left;
+    font-weight: 600;
+  }
+  .result-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid #F3F4F6;
+  }
+
+  .info-box {
+    background: #E6F3FA;
+    border-left: 4px solid #00BCD4;
+    padding: 16px;
+    border-radius: 0 8px 8px 0;
+    margin: 20px 0;
+    font-size: 13px;
+    color: #374151;
+  }
+
+  @media (max-width: 768px) {
+    .calc-hero h1 { font-size: 24px; }
+    .calc-card { padding: 24px 20px; }
+  }
+</style>
+
+<section class="calc-hero">
+  <h1>🎯 Sainik School Age Calculator</h1>
+  <p>Check if your child is eligible for Sainik School admission 2027. Enter date of birth below.</p>
+</section>
+
+<div class="calc-container">
+  <div class="calc-card">
+
+    <div style="margin-bottom: 20px;">
+      <label class="calc-label">Child's Date of Birth</label>
+      <input type="date" id="dob" class="calc-input" max="2026-12-31" min="2010-01-01">
+    </div>
+
+    <div style="margin-bottom: 20px;">
+      <label class="calc-label">Admission Year</label>
+      <select id="admissionYear" class="calc-select">
+        <option value="2027" selected>2027 (AISSEE 2027)</option>
+        <option value="2028">2028 (AISSEE 2028)</option>
+        <option value="2029">2029 (AISSEE 2029)</option>
+      </select>
+    </div>
+
+    <button class="calc-btn" onclick="checkEligibility()">Check Eligibility →</button>
+
+    <div id="result" class="calc-result"></div>
+
+    <div class="info-box" style="margin-top: 24px;">
+      <strong>📋 Official Age Rules (Sainik Schools Society):</strong><br>
+      • <strong>Class 6:</strong> 10-12 years as on March 31 of admission year<br>
+      • <strong>Class 9:</strong> 13-15 years as on March 31 of admission year<br>
+      • <strong>SC/ST relaxation:</strong> 2 years extra in upper age limit<br>
+      • Source: <a href="https://exams.nta.nic.in/sainik-school-society/" target="_blank">NTA AISSEE</a>
+    </div>
+
+  </div>
+</div>
+
+<script>
+function checkEligibility() {
+  const dobInput = document.getElementById('dob').value;
+  const yearSelect = document.getElementById('admissionYear').value;
+  const resultDiv = document.getElementById('result');
+
+  if (!dobInput) {
+    alert('Please enter date of birth');
+    return;
+  }
+
+  const dob = new Date(dobInput);
+  const admissionYear = parseInt(yearSelect);
+  const cutoffDate = new Date(admissionYear, 2, 31); // March 31
+
+  // Calculate age
+  let ageYears = cutoffDate.getFullYear() - dob.getFullYear();
+  let ageMonths = cutoffDate.getMonth() - dob.getMonth();
+  if (ageMonths < 0) {
+    ageYears--;
+    ageMonths += 12;
+  }
+
+  // Age in years (decimal)
+  const ageDecimal = ageYears + (ageMonths / 12);
+
+  // Eligibility checks
+  const class6Min = 10;
+  const class6Max = 12;
+  const class9Min = 13;
+  const class9Max = 15;
+  const relaxation = 2; // SC/ST
+
+  let eligibleClass6 = ageDecimal >= class6Min && ageDecimal <= class6Max;
+  let eligibleClass9 = ageDecimal >= class9Min && ageDecimal <= class9Max;
+  let eligibleClass6Relaxed = ageDecimal >= class6Min && ageDecimal <= (class6Max + relaxation);
+  let eligibleClass9Relaxed = ageDecimal >= class9Min && ageDecimal <= (class9Max + relaxation);
+
+  let resultHTML = '';
+
+  if (eligibleClass6 || eligibleClass9) {
+    resultDiv.className = 'calc-result result-eligible';
+    resultHTML = '<div class="result-icon">✅</div>';
+    resultHTML += '<div class="result-title" style="color: #2E7D32;">Eligible for Admission ' + admissionYear + '</div>';
+    resultHTML += '<div class="result-details">';
+    resultHTML += '<table class="result-table">';
+    resultHTML += '<tr><th>Detail</th><th>Value</th></tr>';
+    resultHTML += '<tr><td><strong>Date of Birth</strong></td><td>' + dob.toLocaleDateString('en-IN') + '</td></tr>';
+    resultHTML += '<tr><td><strong>Age on March 31, ' + admissionYear + '</strong></td><td>' + ageYears + ' years, ' + ageMonths + ' months</td></tr>';
+
+    if (eligibleClass6) {
+      resultHTML += '<tr><td><strong>Class 6 Eligibility</strong></td><td style="color: #2E7D32; font-weight: 700;">✅ Eligible</td></tr>';
+    }
+    if (eligibleClass9) {
+      resultHTML += '<tr><td><strong>Class 9 Eligibility</strong></td><td style="color: #2E7D32; font-weight: 700;">✅ Eligible</td></tr>';
+    }
+    if (!eligibleClass6 && !eligibleClass9) {
+      if (eligibleClass6Relaxed) {
+        resultHTML += '<tr><td><strong>Class 6 (SC/ST)</strong></td><td style="color: #F57F17; font-weight: 700;">✅ Eligible with age relaxation</td></tr>';
+      }
+      if (eligibleClass9Relaxed) {
+        resultHTML += '<tr><td><strong>Class 9 (SC/ST)</strong></td><td style="color: #F57F17; font-weight: 700;">✅ Eligible with age relaxation</td></tr>';
+      }
+    }
+
+    resultHTML += '</table>';
+    resultHTML += '<p style="margin-top: 12px;"><strong>Next Step:</strong> <a href="/blog/sainik-school-admission-2027-guide/">Read the Admission Guide →</a></p>';
+    resultHTML += '</div>';
+
+  } else if (eligibleClass6Relaxed || eligibleClass9Relaxed) {
+    resultDiv.className = 'calc-result result-maybe';
+    resultHTML = '<div class="result-icon">⚠️</div>';
+    resultHTML += '<div class="result-title" style="color: #E65100;">Eligible with SC/ST Age Relaxation</div>';
+    resultHTML += '<div class="result-details">';
+    resultHTML += '<table class="result-table">';
+    resultHTML += '<tr><th>Detail</th><th>Value</th></tr>';
+    resultHTML += '<tr><td><strong>Date of Birth</strong></td><td>' + dob.toLocaleDateString('en-IN') + '</td></tr>';
+    resultHTML += '<tr><td><strong>Age on March 31, ' + admissionYear + '</strong></td><td>' + ageYears + ' years, ' + ageMonths + ' months</td></tr>';
+
+    if (eligibleClass6Relaxed) {
+      resultHTML += '<tr><td><strong>Class 6 (General)</strong></td><td style="color: #F44336;">❌ Not eligible</td></tr>';
+      resultHTML += '<tr><td><strong>Class 6 (SC/ST with 2yr relaxation)</strong></td><td style="color: #2E7D32; font-weight: 700;">✅ Eligible</td></tr>';
+    }
+    if (eligibleClass9Relaxed) {
+      resultHTML += '<tr><td><strong>Class 9 (General)</strong></td><td style="color: #F44336;">❌ Not eligible</td></tr>';
+      resultHTML += '<tr><td><strong>Class 9 (SC/ST with 2yr relaxation)</strong></td><td style="color: #2E7D32; font-weight: 700;">✅ Eligible</td></tr>';
+    }
+
+    resultHTML += '</table>';
+    resultHTML += '<p style="margin-top: 12px; color: #E65100;"><strong>Note:</strong> SC/ST candidates get 2 years age relaxation in upper age limit.</p>';
+    resultHTML += '</div>';
+
+  } else {
+    resultDiv.className = 'calc-result result-not-eligible';
+    resultHTML = '<div class="result-icon">❌</div>';
+    resultHTML += '<div class="result-title" style="color: #C62828;">Not Eligible for ' + admissionYear + '</div>';
+    resultHTML += '<div class="result-details">';
+    resultHTML += '<table class="result-table">';
+    resultHTML += '<tr><th>Detail</th><th>Value</th></tr>';
+    resultHTML += '<tr><td><strong>Date of Birth</strong></td><td>' + dob.toLocaleDateString('en-IN') + '</td></tr>';
+    resultHTML += '<tr><td><strong>Age on March 31, ' + admissionYear + '</strong></td><td>' + ageYears + ' years, ' + ageMonths + ' months</td></tr>';
+    resultHTML += '<tr><td><strong>Class 6 Required</strong></td><td>10-12 years</td></tr>';
+    resultHTML += '<tr><td><strong>Class 9 Required</strong></td><td>13-15 years</td></tr>';
+    resultHTML += '</table>';
+
+    // Suggest next eligible year
+    let nextYear = admissionYear;
+    for (let y = admissionYear; y <= admissionYear + 5; y++) {
+      const testDate = new Date(y, 2, 31);
+      let testAge = testDate.getFullYear() - dob.getFullYear();
+      let testMonths = testDate.getMonth() - dob.getMonth();
+      if (testMonths < 0) { testAge--; testMonths += 12; }
+      const testAgeDecimal = testAge + (testMonths / 12);
+
+      if (testAgeDecimal >= class6Min && testAgeDecimal <= class6Max) {
+        resultHTML += '<p style="margin-top: 12px; color: #1565C0;"><strong>Your child will be eligible for Class 6 in ' + y + '</strong> (Age: ' + testAge + ' years)</p>';
+        break;
+      }
+      if (testAgeDecimal >= class9Min && testAgeDecimal <= class9Max) {
+        resultHTML += '<p style="margin-top: 12px; color: #1565C0;"><strong>Your child will be eligible for Class 9 in ' + y + '</strong> (Age: ' + testAge + ' years)</p>';
+        break;
+      }
+    }
+
+    resultHTML += '</div>';
+  }
+
+  resultDiv.innerHTML = resultHTML;
+  resultDiv.style.display = 'block';
+  resultDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+</script>
+
+{{ end }}
