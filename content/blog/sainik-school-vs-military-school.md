@@ -7,6 +7,7 @@ keywords: ["sainik school vs military school", "sainik school comparison", "mili
 author_name: "Sameer"
 author_title: "Education Researcher"
 author_image: "/images/authors/sameer.avif"
+featured_image: "/images/articles/sainik-school-vs-military-school.svg"
 ---
 
 ## Sainik School vs Military School: The Complete Comparison

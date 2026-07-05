@@ -7,6 +7,7 @@ keywords: ["sainik school admission 2027", "AISSEE 2027", "sainik school age lim
 author_name: "Nisha"
 author_title: "Education Content Specialist"
 author_image: "/images/authors/nisha.avif"
+featured_image: "/images/articles/sainik-school-admission-2027.svg"
 ---
 
 ## Sainik School Admission 2027: Your Child's Future Starts Here
