@@ -18,24 +18,60 @@
     position: relative;
   }
   .hero-text { padding: 50px 40px; position: relative; z-index: 2; }
-  .hero-image {
-    position: relative;
-    height: 100%;
-    min-height: 520px;
-    overflow: hidden;
+  .hero-form-wrap {
+    padding: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #01263b 0%, #0367a1 100%);
   }
-  .hero-image img {
+  .hero-form {
+    background: white;
+    border-radius: 16px;
     width: 100%;
-    height: 100%;
-    object-fit: contain;
-    display: block;
-    position: relative;
-    z-index: 2;
+    max-width: 400px;
+    overflow: hidden;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
   }
+  .hero-form-header {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    padding: 20px 24px;
+    text-align: center;
+  }
+  .hero-form-header h3 { font-size: 18px; font-weight: 700; margin-bottom: 4px; }
+  .hero-form-header p { font-size: 12px; opacity: 0.85; }
+  .hero-form-body { padding: 20px 24px; }
+  .hero-form .lead-field { margin-bottom: 14px; }
+  .hero-form .lead-field label { display: block; font-size: 12px; font-weight: 600; color: #374151; margin-bottom: 5px; }
+  .hero-form .lead-field input, .hero-form .lead-field select {
+    width: 100%;
+    padding: 10px 12px;
+    border: 2px solid #E5E7EB;
+    border-radius: 8px;
+    font-size: 13px;
+    outline: none;
+    transition: border 0.2s;
+    box-sizing: border-box;
+  }
+  .hero-form .lead-field input:focus, .hero-form .lead-field select:focus { border-color: #00BCD4; }
+  .hero-form .lead-submit {
+    width: 100%;
+    background: linear-gradient(135deg, #F6D835, #FFD700);
+    color: #111;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  .hero-form .lead-submit:hover { transform: translateY(-2px); }
+  .hero-form .lead-note { text-align: center; font-size: 10px; color: #9CA3AF; margin-top: 10px; }
+  .hero-form .lead-success { display: none; text-align: center; padding: 30px 20px; }
+  .hero-form .lead-success-icon { font-size: 40px; margin-bottom: 8px; }
+  .hero-form .lead-success h3 { font-size: 18px; font-weight: 700; color: #2E7D32; margin-bottom: 6px; }
+  .hero-form .lead-success p { font-size: 13px; color: #6B7280; }
   .news-hero h1 { font-size: 36px; font-weight: 800; line-height: 1.2; margin-bottom: 12px; }
   .news-hero h1 span { color: #F6D835; }
   .news-hero p { font-size: 16px; opacity: 0.9; margin-bottom: 20px; max-width: 500px; }
@@ -98,8 +134,7 @@
     .news-hero h1 { font-size: 24px; }
     .news-hero-inner { grid-template-columns: 1fr; min-height: auto; }
     .hero-text { padding: 30px 20px; }
-    .hero-image { min-height: 250px; }
-    .hero-image-overlay { background: linear-gradient(180deg, transparent 50%, #01263b 100%); }
+    .hero-form-wrap { padding: 20px; }
     .blog-grid { grid-template-columns: 1fr; }
     .schools-grid { grid-template-columns: repeat(2, 1fr); }
     .hero-stats { gap: 15px; }
@@ -125,14 +160,44 @@
         <div class="hero-stat"><div class="hero-stat-num">25%</div><div class="hero-stat-label">NDA Officers</div></div>
       </div>
     </div>
-    <div class="hero-image">
-      <picture>
-        <source media="(max-width: 600px)" srcset="/images/hero-sm.avif" type="image/avif">
-        <source media="(max-width: 600px)" srcset="/images/hero-sm.webp" type="image/webp">
-        <source srcset="/images/hero-lg.avif" type="image/avif">
-        <source srcset="/images/hero-lg.webp" type="image/webp">
-        <img src="/images/hero-lg.webp" alt="Sainik School Students" width="1200" height="1264" loading="eager" fetchpriority="high">
-      </picture>
+    <div class="hero-form-wrap">
+      <div class="hero-form">
+        <div class="hero-form-header">
+          <h3>📝 Get Free AISSEE Admission Guide 2027</h3>
+          <p>Enter details to download the complete guide</p>
+        </div>
+        <div class="hero-form-body" id="heroLeadForm">
+          <div class="lead-field">
+            <label>Full Name *</label>
+            <input type="text" id="heroName" placeholder="Enter your name" required>
+          </div>
+          <div class="lead-field">
+            <label>WhatsApp Number *</label>
+            <input type="tel" id="heroPhone" placeholder="Enter 10-digit number" pattern="[0-9]{10}" required>
+          </div>
+          <div class="lead-field">
+            <label>Email Address</label>
+            <input type="email" id="heroEmail" placeholder="Enter email (optional)">
+          </div>
+          <div class="lead-field">
+            <label>Interested In</label>
+            <select id="heroInterest">
+              <option value="class6">Sainik School Class 6 Admission</option>
+              <option value="class9">Sainik School Class 9 Admission</option>
+              <option value="nda">NDA Preparation</option>
+              <option value="coaching">Coaching Information</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <button class="lead-submit" id="heroSubmitBtn" onclick="submitHeroLead()">📥 Download Free Guide</button>
+          <div class="lead-note">🔒 Your info is safe. We never spam.</div>
+        </div>
+        <div class="lead-success" id="heroLeadSuccess">
+          <div class="lead-success-icon">✅</div>
+          <h3>Thank You!</h3>
+          <p>Your guide is being downloaded...</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -229,5 +294,50 @@
     </a>
   </div>
 </div>
+
+<script>
+function submitHeroLead() {
+  var name = document.getElementById('heroName').value.trim();
+  var phone = document.getElementById('heroPhone').value.trim();
+  var email = document.getElementById('heroEmail').value.trim();
+  var interest = document.getElementById('heroInterest').value;
+  var btn = document.getElementById('heroSubmitBtn');
+
+  if (!name) { alert('Please enter your name'); return; }
+  if (!phone || phone.length !== 10) { alert('Please enter valid 10-digit number'); return; }
+
+  btn.textContent = 'Submitting...';
+  btn.disabled = true;
+
+  var data = new FormData();
+  data.append('name', name);
+  data.append('phone', phone);
+  data.append('email', email);
+  data.append('interest', interest);
+  data.append('page', window.location.pathname);
+
+  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbwVATOFg1nbimUGLWivpkoX8dZhvhwGGTDf827loTi9J193fDFPb9hb31_adpJpAKzyCQ/exec';
+
+  fetch(SHEET_URL, { method: 'POST', body: data })
+  .then(function(r) { return r.json(); })
+  .then(function() { showHeroSuccess(); })
+  .catch(function() {
+    var leads = JSON.parse(localStorage.getItem('ssg_leads') || '[]');
+    leads.push({ name: name, phone: phone, email: email, interest: interest, page: window.location.pathname, time: new Date().toISOString() });
+    localStorage.setItem('ssg_leads', JSON.stringify(leads));
+    showHeroSuccess();
+  });
+}
+
+function showHeroSuccess() {
+  document.getElementById('heroLeadForm').style.display = 'none';
+  document.getElementById('heroLeadSuccess').style.display = 'block';
+  document.getElementById('heroName').value = '';
+  document.getElementById('heroPhone').value = '';
+  document.getElementById('heroEmail').value = '';
+  document.getElementById('heroSubmitBtn').textContent = '📥 Download Free Guide';
+  document.getElementById('heroSubmitBtn').disabled = false;
+}
+</script>
 
 {{ end }}
