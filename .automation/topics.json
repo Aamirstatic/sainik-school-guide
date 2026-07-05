@@ -2,84 +2,212 @@
   "queue": [
     {
       "type": "blog",
-      "topic": "AISSEE 2027 Preparation Tips - Complete Strategy Guide",
-      "keywords": ["AISSEE preparation", "AISSEE 2027 tips", "sainik school entrance exam preparation", "how to crack AISSEE"],
+      "topic": "AISSEE 2027 Syllabus: Class 6 & Class 9 Chapter-wise Weightage",
+      "keywords": ["AISSEE syllabus 2027", "sainik school syllabus class 6", "AISSEE chapter wise weightage", "sainik school entrance exam syllabus"],
       "priority": "high",
-      "status": "done",
-      "file": "content/blog/aissee-2027-preparation-tips.md",
-      "date": "2026-07-05"
-    },
-    {
-      "type": "blog",
-      "topic": "Sainik School Scholarship and Fee Concession Guide 2027",
-      "keywords": ["sainik school scholarship", "sainik school fee concession", "sainik school free seat", "SC ST scholarship sainik school"],
-      "priority": "high",
-      "status": "done",
-      "file": "content/blog/sainik-school-scholarship-fee-concession-2027.md",
-      "date": "2026-07-05"
-    },
-    {
-      "type": "blog",
-      "topic": "NDA After Sainik School - Complete Career Path Guide",
-      "keywords": ["NDA after sainik school", "sainik school to NDA", "sainik school career", "defence career after sainik school"],
-      "priority": "medium",
-      "status": "done",
-      "file": "content/blog/nda-after-sainik-school-career-path.md",
-      "date": "2026-07-05"
-    },
-    {
-      "type": "blog",
-      "topic": "How to Fill AISSEE Application Form 2027 - Step by Step with Screenshots",
-      "keywords": ["AISSEE application form", "how to fill AISSEE form", "sainik school online form 2027"],
-      "priority": "high",
-      "status": "done",
-      "file": "content/blog/aissee-application-form-2027-guide.md",
-      "date": "2026-07-05"
-    },
-    {
-      "type": "school",
-      "topic": "Sainik School Korukonda - Complete Guide",
-      "keywords": ["sainik school korukonda", "sainik school andhra pradesh", "sainik school korukonda admission"],
-      "priority": "high",
-      "status": "done",
-      "file": "content/schools/sainik-school-korukonda.md",
-      "date": "2026-07-05"
-    },
-    {
-      "type": "school",
-      "topic": "Sainik School Gopalganj - Complete Guide",
-      "keywords": ["sainik school gopalganj", "sainik school bihar", "sainik school gopalganj admission"],
-      "priority": "high",
-      "status": "done",
-      "file": "content/schools/sainik-school-gopalganj.md",
-      "date": "2026-07-05"
-    },
-    {
-      "type": "blog",
-      "topic": "Sainik School Daily Routine and Timetable - What to Expect",
-      "keywords": ["sainik school routine", "sainik school daily schedule", "sainik school timetable", "sainik school hostel routine"],
-      "priority": "medium",
       "status": "pending"
     },
     {
       "type": "blog",
-      "topic": "Sainik School vs Jawahar Navodaya Vidyalaya - Which is Better?",
-      "keywords": ["sainik school vs navodaya", "JNV vs sainik school", "which is better sainik school or navodaya"],
-      "priority": "medium",
+      "topic": "Best Books for AISSEE 2027: Class 6 & Class 9 Recommended List",
+      "keywords": ["best books for AISSEE 2027", "sainik school preparation books", "AISSEE class 6 books", "sainik school entrance exam guide book"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School vs RIMC vs Rashtriya Military School: Complete Comparison",
+      "keywords": ["sainik school vs RIMC", "sainik school vs military school", "RIMC vs sainik school", "rashtriya military school vs sainik school"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "AISSEE Previous Year Question Papers: Download PDF & Analysis",
+      "keywords": ["AISSEE previous year papers", "sainik school question paper pdf", "AISSEE 2026 paper", "sainik school entrance exam paper"],
+      "priority": "high",
       "status": "pending"
     },
     {
       "type": "school",
       "topic": "Sainik School Purulia - Complete Guide",
-      "keywords": ["sainik school purulia", "sainik school west bengal", "sainik school purulia admission"],
-      "priority": "medium",
+      "keywords": ["sainik school purulia", "sainik school west bengal", "sainik school purulia admission", "sainik school purulia fees"],
+      "priority": "high",
       "status": "pending"
     },
     {
       "type": "school",
       "topic": "Sainik School Satara - Complete Guide",
-      "keywords": ["sainik school satara", "sainik school maharashtra", "sainik school satara admission"],
+      "keywords": ["sainik school satara", "sainik school maharashtra", "sainik school satara admission", "sainik school satara fees"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Nagrota - Complete Guide",
+      "keywords": ["sainik school nagrota", "sainik school jammu", "sainik school nagrota admission", "sainik school nagrota fees"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Kunjpura - Complete Guide",
+      "keywords": ["sainik school kunjpura", "sainik school haryana", "sainik school kunjpura admission", "sainik school kunjpura fees"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Sujanpur Tira - Complete Guide",
+      "keywords": ["sainik school sujanpur tira", "sainik school himachal pradesh", "sainik school sujanpur tira admission"],
       "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Tilaiya - Complete Guide",
+      "keywords": ["sainik school tilaiya", "sainik school jharkhand", "sainik school tilaiya admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Chittorgarh - Complete Guide",
+      "keywords": ["sainik school chittorgarh", "sainik school rajasthan", "sainik school chittorgarh admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Rewa - Complete Guide",
+      "keywords": ["sainik school rewa", "sainik school madhya pradesh", "sainik school rewa admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "AISSEE 2027 Mock Test: Free Online Practice & Strategy",
+      "keywords": ["AISSEE mock test", "sainik school mock test free", "AISSEE online practice test", "sainik school entrance exam practice"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School Medical Test: What to Expect & How to Prepare",
+      "keywords": ["sainik school medical test", "AISSEE medical examination", "sainik school fitness test", "sainik school medical requirements"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School Alumni Success Stories: Where Are They Now?",
+      "keywords": ["sainik school alumni", "sainik school famous alumni", "sainik school success stories", "sainik school to NDA officers"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "How to Prepare for Sainik School Interview: Tips & Questions",
+      "keywords": ["sainik school interview", "AISSEE interview preparation", "sainik school interview questions", "sainik school SSB preparation"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School for Girls: Complete Guide to Co-education Admission",
+      "keywords": ["sainik school girls admission", "sainik school co-education", "girls in sainik school", "sainik school girl students"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School Entrance Exam Pattern 2027: Marks, Duration & Questions",
+      "keywords": ["AISSEE exam pattern 2027", "sainik school exam pattern", "AISSEE marks distribution", "sainik school question paper pattern"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Ambikapur - Complete Guide",
+      "keywords": ["sainik school ambikapur", "sainik school chhattisgarh", "sainik school ambikapur admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Nalanda - Complete Guide",
+      "keywords": ["sainik school nalanda", "sainik school bihar nalanda", "sainik school nalanda admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Punglwa - Complete Guide",
+      "keywords": ["sainik school punglwa", "sainik school nagaland", "sainik school punglwa admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Bhubaneswar - Complete Guide",
+      "keywords": ["sainik school bhubaneswar", "sainik school odisha", "sainik school bhubaneswar admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Goalpara - Complete Guide",
+      "keywords": ["sainik school goalpara", "sainik school assam", "sainik school goalpara admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "school",
+      "topic": "Sainik School Imphal - Complete Guide",
+      "keywords": ["sainik school imphal", "sainik school manipur", "sainik school imphal admission"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School Coaching vs Self-Study: Which is Better?",
+      "keywords": ["sainik school coaching", "AISSEE self study", "sainik school preparation without coaching", "sainik school online coaching"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "State-wise Sainik Schools in India: Complete List 2026",
+      "keywords": ["sainik schools in india list", "how many sainik schools in india", "sainik school state wise list", "all sainik schools india"],
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School Counselling Process 2027: Spot Round & Seat Allotment",
+      "keywords": ["sainik school counselling", "AISSEE counselling process", "sainik school spot round", "sainik school seat allotment"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School vs Private Boarding School: Fees, Facilities & Results",
+      "keywords": ["sainik school vs private school", "boarding school vs sainik school", "sainik school or private school which is better"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School Teacher Salary & Recruitment 2026",
+      "keywords": ["sainik school teacher salary", "sainik school recruitment", "sainik school TGT PGT salary", "sainik school jobs"],
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "type": "blog",
+      "topic": "Sainik School East Siang: Complete Guide for Arunachal Pradesh Students",
+      "keywords": ["sainik school east siang", "sainik school arunachal pradesh", "sainik school east siang admission"],
+      "priority": "high",
       "status": "pending"
     }
   ],
@@ -89,8 +217,12 @@
     "NDA After Sainik School - Complete Career Path Guide",
     "How to Fill AISSEE Application Form 2027 - Step by Step with Screenshots",
     "Sainik School Korukonda - Complete Guide",
-    "Sainik School Gopalganj - Complete Guide"
+    "Sainik School Gopalganj - Complete Guide",
+    "Sainik School Admission 2027 Guide",
+    "Sainik School Admission Mistakes",
+    "Sainik School Hostel Life",
+    "Sainik School vs Military School"
   ],
-  "lastRun": "2026-07-05",
-  "totalGenerated": 6
+  "lastRun": "2026-07-06",
+  "totalGenerated": 10
 }
