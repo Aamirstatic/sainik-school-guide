@@ -1,0 +1,834 @@
+{{ define "main" }}
+<style>
+  /* Article Page - Cracku Style */
+  .article-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 30px;
+  }
+  
+  .breadcrumb {
+    font-size: 13px;
+    color: #6B7280;
+    margin-bottom: 16px;
+    grid-column: 1 / -1;
+  }
+  .breadcrumb a { color: #00BCD4; text-decoration: none; }
+  .breadcrumb a:hover { text-decoration: underline; }
+  
+  .article-header {
+    margin-bottom: 24px;
+  }
+  .article-header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #111928;
+    line-height: 1.3;
+    margin-bottom: 12px;
+  }
+  .article-meta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-size: 13px;
+    color: #6B7280;
+    margin-bottom: 16px;
+  }
+  .article-meta .dot { color: #D1D5DB; }
+  
+  .author-box {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
+    background: #F9FAFB;
+    border-radius: 8px;
+    margin-bottom: 24px;
+  }
+  .author-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .author-name { font-weight: 600; color: #111928; font-size: 15px; }
+  .author-views { font-size: 12px; color: #6B7280; }
+  
+  .updates-banner {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #F0F8FF;
+    border: 1px solid #B3D9F2;
+    border-radius: 8px;
+    padding: 10px 16px;
+    margin-bottom: 24px;
+  }
+  .updates-label {
+    font-weight: 600;
+    font-size: 12px;
+    color: #0288D1;
+    white-space: nowrap;
+  }
+  .updates-text {
+    font-size: 12px;
+    color: #111928;
+  }
+  .updates-text a { color: #00BCD4; font-weight: 500; }
+  
+  /* TOC - Cracku Style */
+  .toc {
+    background: white;
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+  }
+  .toc-title {
+    font-weight: 600;
+    font-size: 15px;
+    color: #111928;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    user-select: none;
+  }
+  .toc-title svg {
+    transition: transform 0.2s;
+  }
+  .toc-title.open svg {
+    transform: rotate(180deg);
+  }
+  .toc-list {
+    list-style: disc;
+    padding-left: 20px;
+    margin-top: 12px;
+    display: none;
+  }
+  .toc-list.open {
+    display: block;
+  }
+  .toc-list li {
+    margin-bottom: 8px;
+    padding-left: 4px;
+  }
+  .toc-list a {
+    font-size: 14px;
+    color: #374151;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .toc-list a:hover {
+    color: #00BCD4;
+  }
+  
+  /* Article Content */
+  .article-content {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #374151;
+  }
+  .article-content h2 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #00BCD4;
+    margin: 32px 0 16px;
+    scroll-margin-top: 100px;
+  }
+  .article-content h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #111928;
+    margin: 24px 0 12px;
+    scroll-margin-top: 100px;
+  }
+  .article-content h4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #111928;
+    margin: 20px 0 10px;
+    scroll-margin-top: 100px;
+  }
+  .article-content p {
+    margin-bottom: 16px;
+  }
+  .article-content ul, .article-content ol {
+    margin-bottom: 16px;
+    padding-left: 24px;
+  }
+  .article-content li {
+    margin-bottom: 8px;
+  }
+  .article-content strong {
+    color: #111928;
+    font-weight: 600;
+  }
+  .article-content a {
+    color: #00BCD4;
+    text-decoration: none;
+  }
+  .article-content a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Tables - Cracku Style */
+  .article-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 14px;
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .article-content thead tr {
+    background: #00BCD4;
+    color: white;
+  }
+  .article-content th {
+    font-weight: 600;
+    padding: 12px 16px;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .article-content td {
+    padding: 12px 16px;
+    text-align: center;
+    border-bottom: 1px solid #DEDEDE;
+  }
+  .article-content tbody tr:hover {
+    background: #F9FAFB;
+  }
+  .article-content tbody tr:last-child td {
+    border-bottom: none;
+  }
+  
+  /* Info Box */
+  .info-box {
+    background: #F0F8FF;
+    border-left: 4px solid #00BCD4;
+    padding: 16px 20px;
+    border-radius: 0 8px 8px 0;
+    margin: 20px 0;
+  }
+  .info-box h4 {
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 8px;
+  }
+  .info-box p {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  
+  /* FAQ Accordion */
+  .faq-section {
+    margin: 32px 0;
+  }
+  .faq-section h2 {
+    color: #00BCD4 !important;
+  }
+  .faq-item {
+    background: white;
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+  .faq-question {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+    color: #111928;
+  }
+  .faq-question:hover {
+    background: #F9FAFB;
+  }
+  .faq-icon {
+    width: 32px;
+    height: 32px;
+    background: #E6F3FA;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #00BCD4;
+    flex-shrink: 0;
+    font-size: 16px;
+  }
+  .faq-answer {
+    display: none;
+    padding: 0 20px 16px 64px;
+    font-size: 14px;
+    color: #374151;
+    line-height: 1.6;
+  }
+  .faq-answer.open {
+    display: block;
+  }
+  .faq-toggle {
+    margin-left: auto;
+    transition: transform 0.2s;
+  }
+  .faq-toggle.open {
+    transform: rotate(180deg);
+  }
+  
+  /* Feedback Section */
+  .feedback-section {
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    padding: 24px;
+    text-align: center;
+    margin: 32px 0;
+  }
+  .feedback-title {
+    font-weight: 600;
+    font-size: 16px;
+    color: #111928;
+    margin-bottom: 16px;
+  }
+  .feedback-emojis {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+  .feedback-btn {
+    width: 48px;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid #DEDEDE;
+    background: white;
+    cursor: pointer;
+    font-size: 24px;
+    transition: all 0.2s;
+  }
+  .feedback-btn:hover {
+    border-color: #00BCD4;
+    background: #E6F3FA;
+  }
+  
+  /* Related Articles */
+  .related-section {
+    margin: 32px 0;
+  }
+  .related-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 16px;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .related-card {
+    background: white;
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    padding: 16px;
+    transition: all 0.2s;
+  }
+  .related-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+  }
+  .related-card-img {
+    height: 120px;
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+    border-radius: 6px;
+    margin-bottom: 12px;
+  }
+  .related-card-tag {
+    display: inline-block;
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 500;
+    margin-bottom: 8px;
+  }
+  .related-card h3 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #111928;
+    line-height: 1.4;
+  }
+  .related-card h3 a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    position: sticky;
+    top: 90px;
+    align-self: start;
+  }
+  .sidebar-card {
+    background: white;
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .sidebar-card-header {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    padding: 20px;
+  }
+  .sidebar-card-header h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .sidebar-card-header p {
+    font-size: 13px;
+    opacity: 0.9;
+  }
+  .sidebar-card-body {
+    padding: 20px;
+  }
+  .sidebar-card-body ul {
+    list-style: none;
+  }
+  .sidebar-card-body li {
+    padding: 10px 0;
+    font-size: 14px;
+    border-bottom: 1px solid #F3F4F6;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .sidebar-card-body li:last-child { border: none; }
+  .sidebar-card-body li::before {
+    content: '✓';
+    color: #16B364;
+    font-weight: bold;
+  }
+  .sidebar-cta {
+    display: block;
+    width: 100%;
+    background: #00BCD4;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 16px;
+    transition: background 0.2s;
+  }
+  .sidebar-cta:hover {
+    background: #0097A7;
+  }
+  
+  .schools-list {
+    list-style: none;
+  }
+  .schools-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #F3F4F6;
+  }
+  .schools-list li:last-child { border: none; }
+  .schools-list a {
+    font-size: 13px;
+    color: #374151;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .schools-list a:hover { color: #00BCD4; }
+  .schools-list .school-emoji { font-size: 16px; }
+  
+  /* Sticky Bottom Bar */
+  .sticky-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    box-shadow: 0 -4px 6px rgba(0,0,0,0.1);
+    border-top: 1px solid #E5E7EB;
+    z-index: 1000;
+    padding: 12px 20px;
+  }
+  .sticky-bar-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .sticky-bar-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: #111928;
+  }
+  .sticky-bar-sub {
+    font-size: 12px;
+    color: #6B7280;
+  }
+  .sticky-bar-btn {
+    background: #00BCD4;
+    color: white;
+    padding: 10px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  
+  @media (max-width: 992px) {
+    .article-container {
+      grid-template-columns: 1fr;
+    }
+    .sidebar {
+      position: static;
+    }
+    .related-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .article-header h1 {
+      font-size: 22px;
+    }
+    .article-content h2 {
+      font-size: 18px;
+    }
+  }
+</style>
+
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+  <a href="/">Home</a> / 
+  {{ if eq .Section "blog" }}
+    <a href="/blog/">Blog</a> / 
+  {{ else if eq .Section "schools" }}
+    <a href="/sainik-schools/">Schools</a> / 
+  {{ else if eq .Section "aissee" }}
+    <a href="/aissee/">AISSEE</a> / 
+  {{ end }}
+  <span>{{ .Title }}</span>
+</div>
+
+<div class="article-container">
+  <!-- Main Content -->
+  <main>
+    <!-- Article Header -->
+    <div class="article-header">
+      <h1>{{ .Title }}</h1>
+      <div class="article-meta">
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+        <span class="dot">•</span>
+        <span>{{ .ReadingTime }} min read</span>
+        <span class="dot">•</span>
+        <span>{{ .WordCount }} words</span>
+      </div>
+    </div>
+    
+    <!-- Author Box -->
+    <div class="author-box">
+      <div class="author-avatar">SS</div>
+      <div>
+        <div class="author-name">Sainik School Guide Team</div>
+        <div class="author-views">Expert Education Content</div>
+      </div>
+    </div>
+    
+    <!-- Latest Updates Banner -->
+    <div class="updates-banner">
+      <span class="updates-label">Latest Updates:</span>
+      <span class="updates-text">AISSEE 2027 notification expected in September 2026. <a href="/aissee/">Read More</a></span>
+    </div>
+    
+    <!-- Table of Contents - Generated by JS -->
+    <div class="toc" id="tocContainer" style="display:none;">
+      <div class="toc-title open" onclick="toggleTOC()">
+        <span>📑 Table of Contents</span>
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+          <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <ul class="toc-list open" id="tocList"></ul>
+    </div>
+    
+    <!-- Article Content -->
+    <div class="article-content" id="articleContent">
+      {{ .Content }}
+    </div>
+    
+    <!-- Feedback Section -->
+    <div class="feedback-section">
+      <p class="feedback-title">How helpful did you find this article?</p>
+      <div class="feedback-emojis">
+        <button class="feedback-btn" onclick="submitFeedback(1)">😞</button>
+        <button class="feedback-btn" onclick="submitFeedback(2)">😐</button>
+        <button class="feedback-btn" onclick="submitFeedback(3)">🙂</button>
+        <button class="feedback-btn" onclick="submitFeedback(4)">😊</button>
+        <button class="feedback-btn" onclick="submitFeedback(5)">🤩</button>
+      </div>
+    </div>
+    
+    <!-- Related Articles -->
+    <div class="related-section">
+      <h2 class="related-title">Related Articles</h2>
+      <div class="related-grid">
+        {{ $currentSection := .Section }}
+        {{ $currentTitle := .Title }}
+        {{ range first 3 (where (where .Site.RegularPages "Section" $currentSection) "Title" "!=" $currentTitle) }}
+        <a href="{{ .Permalink }}" class="related-card">
+          <div class="related-card-img"></div>
+          <span class="related-card-tag">{{ .Section | upper }}</span>
+          <h3>{{ .Title }}</h3>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </main>
+  
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <!-- AISSEE Course CTA -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">
+        <h3>AISSEE 2027 Course</h3>
+        <p>Complete preparation guide for Class 6 & 9</p>
+      </div>
+      <div class="sidebar-card-body">
+        <ul>
+          <li>Comprehensive study material</li>
+          <li>Previous year papers with solutions</li>
+          <li>Mock tests & practice questions</li>
+          <li>Expert guidance & tips</li>
+          <li>Important dates & notifications</li>
+        </ul>
+        <a href="/aissee/" class="sidebar-cta">View AISSEE Guide →</a>
+      </div>
+    </div>
+    
+    <!-- Sainik Schools List -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">
+        <h3>Top Sainik Schools</h3>
+        <p>Explore schools across India</p>
+      </div>
+      <div class="sidebar-card-body">
+        <ul class="schools-list">
+          <li>
+            <a href="/sainik-schools/sainik-school-amaravathinagar/">
+              <span class="school-emoji">🏫</span>
+              Sainik School Amaravathinagar
+            </a>
+          </li>
+          <li>
+            <a href="/sainik-schools/sainik-school-kapurthala/">
+              <span class="school-emoji">🏫</span>
+              Sainik School Kapurthala
+            </a>
+          </li>
+          <li>
+            <a href="/sainik-schools/sainik-school-rewa/">
+              <span class="school-emoji">🏫</span>
+              Sainik School Rewa
+            </a>
+          </li>
+          <li>
+            <a href="/sainik-schools/sainik-school-chittorgarh/">
+              <span class="school-emoji">🏫</span>
+              Sainik School Chittorgarh
+            </a>
+          </li>
+          <li>
+            <a href="/sainik-schools/">
+              <span class="school-emoji">📋</span>
+              View All Schools →
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Newsletter CTA -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header" style="background: linear-gradient(135deg, #e94560, #d63851);">
+        <h3>📧 Stay Updated</h3>
+        <p>Get AISSEE tips in your inbox</p>
+      </div>
+      <div class="sidebar-card-body">
+        <p style="font-size: 13px; color: #6B7280; margin-bottom: 12px;">Subscribe for daily preparation tips, important dates, and school updates.</p>
+        <input type="email" placeholder="Enter your email" style="width: 100%; padding: 10px; border: 1px solid #DEDEDE; border-radius: 6px; margin-bottom: 10px; font-size: 13px;">
+        <button style="width: 100%; background: #e94560; color: white; padding: 10px; border: none; border-radius: 6px; font-weight: 600; cursor: pointer;">Subscribe</button>
+      </div>
+    </div>
+  </aside>
+</div>
+
+<!-- Sticky Bottom Bar -->
+<div class="sticky-bar">
+  <div class="sticky-bar-inner">
+    <div>
+      <div class="sticky-bar-text">AISSEE 2027 Preparation - Start Your Journey Today</div>
+      <div class="sticky-bar-sub">Complete guide for Class 6 & 9 entrance exam</div>
+    </div>
+    <a href="/aissee/" class="sticky-bar-btn">Get Started →</a>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Generate TOC from h2 and h3 headings
+  const content = document.getElementById('articleContent');
+  const headings = content.querySelectorAll('h2, h3');
+  const tocContainer = document.getElementById('tocContainer');
+  const tocList = document.getElementById('tocList');
+  
+  if (headings.length > 0) {
+    tocContainer.style.display = 'block';
+    
+    headings.forEach(function(heading, index) {
+      // Add ID to heading for scroll
+      const id = 'heading-' + index;
+      heading.id = id;
+      
+      // Create TOC link
+      const li = document.createElement('li');
+      li.style.marginLeft = heading.tagName === 'H3' ? '20px' : '0';
+      
+      const a = document.createElement('a');
+      a.href = '#' + id;
+      a.textContent = heading.textContent;
+      a.onclick = function(e) {
+        e.preventDefault();
+        document.getElementById(id).scrollIntoView({ behavior: 'smooth', block: 'start' });
+      };
+      
+      li.appendChild(a);
+      tocList.appendChild(li);
+    });
+  }
+  
+  // Style tables
+  const tables = content.querySelectorAll('table');
+  tables.forEach(function(table) {
+    // Add thead if missing
+    if (!table.querySelector('thead')) {
+      const firstRow = table.querySelector('tr');
+      if (firstRow) {
+        const thead = document.createElement('thead');
+        thead.appendChild(firstRow.cloneNode(true));
+        table.insertBefore(thead, table.firstChild);
+        firstRow.remove();
+      }
+    }
+  });
+  
+  // Convert FAQ sections to accordion
+  const faqHeadings = content.querySelectorAll('h2');
+  faqHeadings.forEach(function(heading) {
+    if (heading.textContent.includes('Frequently Asked Questions') || heading.textContent.includes('FAQ')) {
+      let nextEl = heading.nextElementSibling;
+      const faqItems = [];
+      
+      while (nextEl && nextEl.tagName !== 'H2') {
+        if (nextEl.tagName === 'H3') {
+          const question = nextEl.textContent;
+          let answer = '';
+          let answerEl = nextEl.nextElementSibling;
+          
+          while (answerEl && answerEl.tagName !== 'H3' && answerEl.tagName !== 'H2') {
+            answer += answerEl.outerHTML;
+            const temp = answerEl.nextElementSibling;
+            answerEl.remove();
+            answerEl = temp;
+          }
+          
+          faqItems.push({ question: question, answer: answer });
+          nextEl.remove();
+          nextEl = answerEl;
+        } else {
+          nextEl = nextEl.nextElementSibling;
+        }
+      }
+      
+      if (faqItems.length > 0) {
+        const faqSection = document.createElement('div');
+        faqSection.className = 'faq-section';
+        
+        faqItems.forEach(function(item, i) {
+          const faqItem = document.createElement('div');
+          faqItem.className = 'faq-item';
+          
+          faqItem.innerHTML = 
+            '<button class="faq-question" onclick="toggleFAQ(this)">' +
+              '<span class="faq-icon">❓</span>' +
+              '<span>' + item.question + '</span>' +
+              '<span class="faq-toggle">▼</span>' +
+            '</button>' +
+            '<div class="faq-answer">' + item.answer + '</div>';
+          
+          faqSection.appendChild(faqItem);
+        });
+        
+        heading.insertAdjacentElement('afterend', faqSection);
+      }
+    }
+  });
+});
+
+// Toggle TOC
+function toggleTOC() {
+  const list = document.getElementById('tocList');
+  const title = document.querySelector('.toc-title');
+  list.classList.toggle('open');
+  title.classList.toggle('open');
+}
+
+// Toggle FAQ
+function toggleFAQ(btn) {
+  const answer = btn.nextElementSibling;
+  const toggle = btn.querySelector('.faq-toggle');
+  answer.classList.toggle('open');
+  toggle.classList.toggle('open');
+}
+
+// Feedback
+function submitFeedback(rating) {
+  const buttons = document.querySelectorAll('.feedback-btn');
+  buttons.forEach(function(btn, index) {
+    if (index === rating - 1) {
+      btn.style.borderColor = '#00BCD4';
+      btn.style.background = '#E6F3FA';
+    } else {
+      btn.style.borderColor = '#DEDEDE';
+      btn.style.background = 'white';
+    }
+  });
+}
+</script>
+{{ end }}

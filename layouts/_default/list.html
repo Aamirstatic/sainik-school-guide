@@ -1,0 +1,248 @@
+{{ define "main" }}
+<style>
+  /* Listing Page - Cracku Style */
+  .listing-header {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  .listing-header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .listing-header p {
+    font-size: 15px;
+    opacity: 0.9;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .listing-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 20px;
+  }
+  
+  /* Blog Grid */
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  
+  .blog-item {
+    background: white;
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.2s;
+  }
+  .blog-item:hover {
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    transform: translateY(-4px);
+  }
+  
+  .blog-item-img {
+    height: 160px;
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+    position: relative;
+  }
+  .blog-item-tag {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: rgba(255,255,255,0.9);
+    color: #0097A7;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+  
+  .blog-item-body {
+    padding: 16px;
+  }
+  .blog-item-meta {
+    font-size: 12px;
+    color: #6B7280;
+    margin-bottom: 8px;
+  }
+  .blog-item-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+  .blog-item-title a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .blog-item-title a:hover {
+    color: #00BCD4;
+  }
+  .blog-item-excerpt {
+    font-size: 13px;
+    color: #6B7280;
+    line-height: 1.5;
+  }
+  
+  /* Schools Grid */
+  .schools-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  
+  .school-item {
+    background: white;
+    border: 1px solid #DEDEDE;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    gap: 16px;
+    transition: all 0.2s;
+  }
+  .school-item:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .school-item-icon {
+    width: 56px;
+    height: 56px;
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    flex-shrink: 0;
+  }
+  
+  .school-item-info h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 4px;
+  }
+  .school-item-info h3 a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .school-item-info h3 a:hover {
+    color: #00BCD4;
+  }
+  .school-item-info p {
+    font-size: 13px;
+    color: #6B7280;
+    margin-bottom: 8px;
+  }
+  .school-item-state {
+    display: inline-block;
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  
+  /* Empty State */
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: #6B7280;
+  }
+  .empty-state h3 {
+    font-size: 18px;
+    color: #111928;
+    margin-bottom: 8px;
+  }
+  
+  @media (max-width: 992px) {
+    .blog-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .blog-grid,
+    .schools-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<!-- Header -->
+<div class="listing-header">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</div>
+
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+  <a href="/">Home</a> / <span>{{ .Title }}</span>
+</div>
+
+<!-- Content -->
+<div class="listing-container">
+  {{ if eq .Section "blog" }}
+    {{ if .Pages }}
+      <div class="blog-grid">
+        {{ range .Pages.ByDate.Reverse }}
+        <div class="blog-item">
+          <div class="blog-item-img">
+            <span class="blog-item-tag">ARTICLE</span>
+          </div>
+          <div class="blog-item-body">
+            <div class="blog-item-meta">
+              {{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read
+            </div>
+            <h3 class="blog-item-title">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </h3>
+            <p class="blog-item-excerpt">{{ .Description | truncate 120 }}</p>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      <div class="empty-state">
+        <h3>No articles yet</h3>
+        <p>Check back soon for daily articles on Sainik Schools and AISSEE preparation.</p>
+      </div>
+    {{ end }}
+    
+  {{ else if eq .Section "schools" }}
+    {{ if .Pages }}
+      <div class="schools-grid">
+        {{ range .Pages }}
+        <div class="school-item">
+          <div class="school-item-icon">🏫</div>
+          <div class="school-item-info">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p>{{ .Description | truncate 100 }}</p>
+            {{ with .Params.state }}
+              <span class="school-item-state">{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      <div class="empty-state">
+        <h3>Coming Soon</h3>
+        <p>We're adding detailed information about all Sainik Schools. Check back soon!</p>
+      </div>
+    {{ end }}
+    
+  {{ else }}
+    <!-- Generic listing -->
+    <div class="content">
+      {{ .Content }}
+    </div>
+  {{ end }}
+</div>
+{{ end }}

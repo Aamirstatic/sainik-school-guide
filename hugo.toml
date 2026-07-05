@@ -1,0 +1,130 @@
+baseURL = 'https://sainikschooleastsiang.in/'
+languageCode = 'en-in'
+defaultContentLanguage = 'en'
+title = 'Sainik School Guide India - Complete AISSEE Preparation & School Directory'
+# theme = 'PaperMod' # Using custom layouts
+paginate = 12
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  title = "Sainik School Guide India"
+  description = "India's most comprehensive Sainik School directory. AISSEE preparation tips, school information, admission guides, and daily articles for defense aspirants."
+  keywords = ["sainik school", "AISSEE", "sainik school entrance exam", "sainik school admission", "defense preparation", "military school India"]
+  author = "Sainik School Guide India"
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = true
+  
+  [params.homeInfoParams]
+    Title = "Welcome to Sainik School Guide India"
+    Content = "Your complete guide to Sainik Schools across India. Get AISSEE preparation tips, school information, admission details, and daily articles to help you crack the entrance exam."
+  
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/sainikschoolguide"
+  
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@sainikschoolguide"
+  
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/sainikschoolguide"
+  
+  [params.assets]
+    favicon = "/favicon.ico"
+    disableFingerprinting = true
+  
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+  
+  [params.label]
+    text = "Sainik School Guide India"
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "schools"
+  name = "Sainik Schools"
+  url = "/sainik-schools/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "aissee"
+  name = "AISSEE Guide"
+  url = "/aissee/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "states"
+  name = "States"
+  url = "/states/"
+  weight = 5
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 6
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = "monokai"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false
+    [minify.tdewolff.json]
+      keepNumbers = true
+    [minify.tdewolff.svg]
+      keepComments = false
