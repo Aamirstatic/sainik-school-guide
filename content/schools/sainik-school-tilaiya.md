@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Tilaiya - Complete Guide 2026"
+title: "Sainik School Tilaiya Jharkhand - Forward Ever, Fees & NDA Results"
 date: 2026-07-05
 draft: false
 description: "Sainik School Tilaiya in Jharkhand — 'Forward Ever' since 1963. Located at Tilaiya Dam, Koderma district. Admission, fees, NDA results, boarding houses."

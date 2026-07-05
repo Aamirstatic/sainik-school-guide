@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Kunjpura - Complete Guide 2026"
+title: "Sainik School Kunjpura Karnal Haryana - India's Oldest Sainik School"
 date: 2026-07-05
 draft: false
 description: "Sainik School Kunjpura in Karnal, Haryana — one of India's first 5 Sainik Schools, est. 1961. Haryana's military school with strong NDA tradition. Admission, fees."

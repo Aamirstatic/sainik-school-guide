@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Kapurthala - Complete Guide 2026"
+title: "Sainik School Kapurthala Punjab - Jagatjit Palace, Fees & NDA Results"
 date: 2026-07-05
 draft: false
 description: "Sainik School Kapurthala, housed in the Jagatjit Palace built on the pattern of Versailles, is Punjab's only Sainik School. Est. 1961, CBSE 1680001. Admission, fees, NDA results."

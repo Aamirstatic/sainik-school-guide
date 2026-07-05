@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Amethi - Complete Guide 2026"
+title: "Sainik School Amethi UP - Admission Process, Fees & Facilities"
 date: 2026-07-05
 draft: false
 description: "Sainik School Amethi in Uttar Pradesh — est. 2020, CBSE 2120152. UP's newest Sainik School. Admission, fees, campus details, NDA results."

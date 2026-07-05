@@ -1,129 +1,90 @@
 ---
-title: "Sainik School Mainpuri - Complete Guide 2026"
+title: "Sainik School Mainpuri UP - Admission Process, Fees & Facilities"
 date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Mainpuri in Uttar Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
-keywords: ["sainik school mainpuri", "sainik school uttar pradesh", "sainik school mainpuri admission", "sainik school mainpuri fees"]
-established: "2003"
+description: "Sainik School Mainpuri in Uttar Pradesh — est. 2019. Western UP's Sainik School. CBSE affiliated. Admission, fees, NDA results."
+keywords: ["sainik school mainpuri", "sainik school uttar pradesh", "sainik school mainpuri admission", "sainik school mainpuri fees", "sainik school western UP"]
 state: "Uttar Pradesh"
+established: "2019"
 ---
 
-# Sainik School Mainpuri
+# Sainik School Mainpuri — Western UP's Military Academy
 
-Sainik School Mainpuri Uttar Pradesh ka ek Sainik School hai jo 2003 mein establish hua. Yeh school Mainpuri district mein sthit hai aur CBSE se affiliated hai. School students ko NDA aur defence services ke liye tayyar karta hai.
+Mainpuri district in western Uttar Pradesh is agricultural heartland — flat, fertile, and deeply connected to the land. The region's Jat and Yadav communities have a strong tradition of military service, with many families having multiple generations in the Indian Army. Sainik School Mainpuri, established in 2019, was created to serve this community, offering structured NDA preparation to a region that was previously underserved by the Sainik Schools network.
 
-## 📍 Location & Contact
+The school is one of four Sainik Schools in Uttar Pradesh, alongside Lucknow, Jhansi, and Amethi. Its establishment in 2019 was part of the Government of India's expansion of the Sainik Schools network, targeting regions with strong military recruitment traditions but limited military-oriented educational infrastructure.
 
-- **Address:** Sainik School Mainpuri, Mainpuri, Uttar Pradesh - 205001
-- **Phone:** 05672-291507
-- **Email:** sainikschoolmainpuri@gmail.com
-- **Website:** [sainikschoolmainpuri.up.nic.in](https://sainikschoolmainpuri.up.nic.in)
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Mainpuri+Uttar+Pradesh)
+## Quick Facts
 
-## 🏫 About the School
+| Detail | Info |
+|--------|------|
+| Established | 2019 |
+| Location | Mainpuri, Uttar Pradesh |
+| CBSE Affiliation | Yes |
+| Classes | VI to XII |
+| Medium | English |
+| Type | Residential |
+| Website | [sainikschoolmainpuri.com](https://www.sainikschoolmainpuri.com/) |
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 2003 |
-| **State** | Uttar Pradesh |
-| **District** | Mainpuri |
-| **Campus Area** | 100+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+## History & Legacy
 
-Sainik School Mainpuri की स्थापना 2003 में हुई थी। यह UP ke Sainik Schools mein se ek hai. School Mainpuri district mein hai. School students ko NDA aur defence services ke liye tayyar karta hai with disciplined environment.
+### Western UP's Military Tradition
 
-## 🎯 Admission Process
+Western Uttar Pradesh — comprising districts like Mainpuri, Etah, Farrukhabad, Kannauj, and Auraiya — has a strong military recruitment tradition. The region's Jat, Yadav, and Rajput communities have served in the Indian Army through the Jat Regiment, Rajputana Rifles, and other units. Military service is a family tradition in many households, with fathers, uncles, and brothers serving or having served in the armed forces.
 
-### Eligibility Criteria
+Sainik School Mainpuri was established in 2019 to formalize this tradition. The school provides structured NDA preparation, including written exam coaching, SSB interview training, and physical fitness programs — services that were previously unavailable in the region.
 
-**For Class 6:**
-- Age: 10-12 years as on March 31
-- Currently studying in Class 5
+## Location & Contact
 
-**For Class 9:**
-- Age: 13-15 years as on March 31
-- Currently studying in Class 8
+- **Address:** Sainik School Mainpuri, Uttar Pradesh
+- **Website:** [sainikschoolmainpuri.com](https://www.sainikschoolmainpuri.com/)
+- **Nearest City:** Mainpuri
+- **Nearest Railway:** Mainpuri Railway Station
+- **Nearest Airport:** Agra Airport (approx. 100 km); Lucknow Airport (approx. 250 km)
 
-### Admission Steps
-1. Apply Online through NTA website
-2. Appear for AISSEE (January)
-3. Check Results on NTA website
-4. Medical Test for shortlisted candidates
-5. Final Merit List
-6. Admission with required documents
+## Admission Details
 
-### UP Domicile Reservation
+### Eligibility
 
-UP ke students ko **67% seats reserved** hain.
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
 
-## 💰 Fee Structure (शुल्क संरचना)
+### Reservation
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹85,000 |
-| Hostel Fee | ₹42,000 |
-| Mess Charges | ₹58,000 |
-| Uniform | ₹14,000 |
-| Books & Stationery | ₹10,000 |
-| Other Charges | ₹12,000 |
-| **Total** | **₹2,21,000** |
+67% seats for Uttar Pradesh domicile. 33% for other states.
 
-*Note: Fees are subject to change. SC/ST candidates get fee concessions.*
+## Fee Structure
 
-## 🏗️ Facilities (सुविधाएं)
+Fee details are available on the school website.
 
-### Academic
-- Smart classrooms
-- Science, Maths, and Computer labs
+## Facilities
+
+- CBSE-affiliated curriculum
+- Science and Computer laboratories
 - Library
+- Sports facilities
+- NCC training
+- Residential hostels
 
-### Sports & Activities
-- Athletic track
-- Football grounds
-- NCC training (compulsory)
+## Academic & NDA Performance
 
-### Hostel & Mess
-- Separate hostels
-- Nutritious meals
-- 24/7 medical facility
+As a school established in 2019, Mainpuri is building its NDA track record. The school's focus on structured NDA preparation is its primary differentiator.
 
-## 📊 Academic Performance
+## FAQs
 
-| Year | 10th Board (%) | 12th Board (%) | NDA Selections |
-|------|----------------|----------------|----------------|
-| 2025 | 95% | 92% | 5+ |
-| 2024 | 94% | 91% | 4+ |
-| 2023 | 93% | 90% | 4+ |
+**Q: When was Sainik School Mainpuri established?**
+A: 2019 — as part of the Government of India's expansion of Sainik Schools.
 
-## ❓ FAQs
+**Q: Which region does it serve?**
+A: Western Uttar Pradesh, including Mainpuri, Etah, Farrukhabad, Kannauj, and Auraiya districts.
 
-### Sainik School Mainpuri mein admission kaise lein?
-Admission AISSEE ke through hota hai jo NTA conduct karti hai.
-
-### UP mein kitne Sainik Schools hain?
-UP mein **kai Sainik Schools** hain:
-1. Sainik School Lucknow
-2. Sainik School Mainpuri (established 2003)
-3. Sainik School Jhansi
-4. Sainik School Amethi (established 2015)
-
-## 🔗 Related Links
-
-- [Sainik School Mainpuri Official Website](https://sainikschoolmainpuri.up.nic.in)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in India](/sainik-schools/)
-
+**Q: How many Sainik Schools are in UP?**
+A: Four — Lucknow, Jhansi, Amethi, and Mainpuri.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Uttar Pradesh](/blog/sainik-schools-uttar-pradesh/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)

@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Chandrapur - Complete Guide 2026"
+title: "Sainik School Chandrapur Maharashtra - Admission, Fees & Contact"
 date: 2026-07-05
 draft: false
 description: "Sainik School Chandrapur in Maharashtra — Vidarbha's Sainik School. Educational tours to NDA Pune. Admission, fees, NDA results."

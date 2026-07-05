@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Kazhakootam - Complete Guide 2026"
+title: "Sainik School Kazhakootam Kerala - Admission, Fees & Campus Life"
 date: 2026-07-05
 draft: false
 description: "Sainik School Kazhakootam (SSKZM) in Kerala — 225 acres near Thiruvananthapuram. Est. 1962. Kerala's only Sainik School. Admission, fees, NDA results."

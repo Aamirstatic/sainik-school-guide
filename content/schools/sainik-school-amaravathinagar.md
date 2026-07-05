@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Amaravathinagar - Complete Guide 2026"
+title: "Sainik School Amaravathinagar Tamil Nadu - Admission, Fees & NDA Results 2026"
 date: 2026-07-05
 draft: false
 description: "Sainik School Amaravathinagar in Tamil Nadu — at the foothills of the Western Ghats. Est. 1962, 206 acres. Gateway to NDA. Admission, fees, NDA results."

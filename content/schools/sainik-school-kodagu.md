@@ -1,158 +1,90 @@
 ---
-title: "Sainik School Kodagu - Complete Guide 2026"
+title: "Sainik School Kodagu Karnataka - Admission Process & Fee Structure"
 date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Kodagu in Karnataka. History, admission process, fees, seats, facilities, contact details, and more."
+description: "Sainik School Kodagu in Karnataka — in the coffee hills of Coorg. Karnataka's second Sainik School. Est. 2007. Admission, fees, NDA results."
 keywords: ["sainik school kodagu", "sainik school karnataka", "sainik school kodagu admission", "sainik school kodagu fees", "sainik school coorg"]
-established: "2008"
 state: "Karnataka"
+established: "2007"
 ---
 
-# Sainik School Kodagu
+# Sainik School Kodagu — Where Coffee Country Meets Military Discipline
 
-Sainik School Kodagu Karnataka ka doosra Sainik School hai jo 2008 mein establish hua. Yeh school Kodagu (Coorg) district mein sthit hai — Karnataka ke beautiful hill station area mein. School CBSE se affiliated hai aur modern infrastructure ke saath students ko NDA aur defence services ke liye tayyar karta hai.
+Kodagu (Coorg) is Karnataka's highland jewel — a district of rolling hills, coffee plantations, and mist-covered forests that produce some of India's finest arabica beans. But Kodagu has another, less-celebrated tradition: military service. The Kodava community — the indigenous people of Coorg — have served in the Indian Army in disproportionate numbers for their population size, producing generals, colonels, and decorated soldiers.
 
-## 📍 Location & Contact
+Sainik School Kodagu, established in 2007, was created to formalize this tradition. Located in the coffee-growing highlands of Kodagu district, the school is Karnataka's second Sainik School — the first being Sainik School Bijapur (est. 1963). The school serves the youth of Karnataka's hill districts and the broader Kodava community, offering them a structured path to the NDA.
+
+## Quick Facts
+
+| Detail | Info |
+|--------|------|
+| Established | 2007 |
+| Location | Kodagu District, Karnataka |
+| CBSE Affiliation | Yes |
+| Classes | VI to XII |
+| Medium | English |
+| Type | Residential |
+| Website | Through Sainik Schools Society |
+
+## History & Legacy
+
+### The Kodava Military Tradition
+
+The Kodava community's military tradition is legendary. Despite numbering only about 1.5 lakh (150,000), Kodavas have produced a disproportionately high number of military officers. The community's martial culture — rooted in their unique customs, the Kodava language, and their tradition of carrying firearms (Kodavas are exempt from the Arms Act) — makes military service a natural career choice.
+
+Sainik School Kodagu was established to channel this tradition into the officer corps. The school provides structured NDA preparation that was previously unavailable in the hill districts of Karnataka.
+
+### Coffee Country Campus
+
+The school's location in Kodagu district gives it a unique character. The campus sits in the Western Ghats, surrounded by coffee plantations and forests. The climate — cool, misty, and pleasant — is ideal for physical training and outdoor activities.
+
+## Location & Contact
 
 - **Address:** Sainik School Kodagu, Kodagu District, Karnataka
-- **Phone:** 08276-291507
-- **Email:** sainikschoolkodagu@gmail.com
-- **Website:** [sainikschoolkodagu.edu.in](https://sainikschoolkodagu.edu.in)
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Kodagu+Karnataka)
+- **Nearest City:** Madikeri (Kodagu district HQ)
+- **Nearest Airport:** Mangalore Airport (approx. 140 km); Mysore Airport (approx. 120 km)
+- **Nearest Railway:** Mysore Railway Station (approx. 120 km)
 
-## 🏫 About the School
+## Admission Details
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 2008 |
-| **State** | Karnataka |
-| **District** | Kodagu (Coorg) |
-| **Campus Area** | 100+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+### Eligibility
 
-Sainik School Kodagu की स्थापना 2008 में हुई थी। यह Karnataka ka doosra Sainik School hai (पहला Bijapur में है)। School Kodagu (Coorg) district mein hai, jo Karnataka ke beautiful hill station area hai. School ka campus nature ke beech hai aur students ko ek focused environment milta hai.
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
 
-## 🎯 Admission Process
+### Reservation
 
-### Eligibility Criteria (पात्रता मानदंड)
+67% seats for Karnataka domicile. 33% for other states.
 
-**For Class 6 (कक्षा 6 के लिए):**
-- Age (आयु): 10-12 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 5
-- Exam (परीक्षा): AISSEE conducted by NTA
+## Fee Structure
 
-**For Class 9 (कक्षा 9 के लिए):**
-- Age (आयु): 13-15 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 8
-- Exam (परीक्षा): AISSEE conducted by NTA
+Fee details are available through the Sainik Schools Society.
 
-### Admission Steps (प्रवेश प्रक्रिया)
-1. **Apply Online (ऑनलाइन आवेदन)** through NTA website (exams.nta.nic.in/sainik-school-society)
-2. **Appear for AISSEE (AISSEE परीक्षा दें)** — usually held in January
-3. **Check Results (परिणाम जांचें)** on NTA website
-4. **Medical Test (मेडिकल टेस्ट)** for shortlisted candidates
-5. **Final Merit List (अंतिम मेरिट सूची)** based on AISSEE score + medical fitness
-6. **Admission (प्रवेश)** with required documents
+## Facilities
 
-### Important Dates (Tentative for 2027)
-- **Application Start:** October 2026
-- **Last Date:** November 2026
-- **Exam Date:** January 2027
-- **Results:** February 2027
-- **Medical Test:** March 2027
-- **Session Start:** April 2027
+- CBSE-affiliated curriculum
+- Science and Computer laboratories
+- Library
+- Sports facilities
+- NCC training
+- Residential hostels
+- Hilly terrain for outdoor training
 
-### Karnataka Domicile Reservation
+## FAQs
 
-Karnataka ke students ko **67% seats reserved** hain. Baaki 33% seats other states ke students ke liye hain.
+**Q: What is Kodagu?**
+A: Kodagu is the official name of the district also known as Coorg — a hill district in Karnataka famous for coffee plantations.
 
-## 💰 Fee Structure (शुल्क संरचना)
+**Q: What is the Kodava military tradition?**
+A: The Kodava community, despite numbering only ~1.5 lakh, has produced a disproportionately high number of military officers. Kodavas are exempt from the Arms Act.
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹85,000 |
-| Hostel Fee | ₹42,000 |
-| Mess Charges | ₹56,000 |
-| Uniform | ₹14,000 |
-| Books & Stationery | ₹10,000 |
-| Other Charges | ₹11,000 |
-| **Total** | **₹2,18,000** |
-
-*Note: Fees are subject to change. SC/ST candidates get fee concessions. Defence personnel ke bachchon ke liye vishesh chhoot hai.*
-
-## 🏗️ Facilities (सुविधाएं)
-
-### Academic (शैक्षणिक)
-- Smart classrooms with modern teaching aids
-- Well-equipped Science, Maths, and Computer labs
-- Library with extensive collection
-- Digital learning resources
-
-### Sports & Activities (खेल और गतिविधियां)
-- Athletic track
-- Football and hockey grounds
-- Basketball and volleyball courts
-- NCC training (compulsory)
-- Indoor games complex
-
-### Hostel & Mess (हॉस्टल और मेस)
-- Separate hostels for junior and senior students
-- Nutritious vegetarian and non-vegetarian meals
-- 24/7 medical facility
-- Wardens for each hostel
-
-### Other Facilities (अन्य सुविधाएं)
-- Auditorium for cultural events
-- Music and art rooms
-- Career counseling cell
-
-## 📊 Academic Performance (शैक्षणिक प्रदर्शन)
-
-| Year | 10th Board (%) | 12th Board (%) | NDA Selections |
-|------|----------------|----------------|----------------|
-| 2025 | 96% | 93% | 5+ |
-| 2024 | 95% | 92% | 4+ |
-| 2023 | 94% | 91% | 3+ |
-
-## 🎖️ Notable Alumni (प्रसिद्ध पूर्व छात्र)
-
-Sainik School Kodagu ke alumni Indian Armed Forces mein serve kar rahe hain. School ka alumni network growing hai.
-
-## ❓ Frequently Asked Questions (अक्सर पूछे जाने वाले सवाल)
-
-### Sainik School Kodagu mein admission kaise lein?
-Admission AISSEE ke through hota hai jo NTA conduct karti hai. Online apply karein, exam dein, medical test clear karein, aur merit ke basis par admission milega.
-
-### Kya Karnataka ke students ko reservation milta hai?
-Haan, 67% seats Karnataka domicile students ke liye reserved hain. Baaki 33% seats other states ke liye hain.
-
-### Medium of instruction kya hai?
-Medium of instruction English hai. Kannada/Hindi compulsory language ke roop mein padhai jaati hai.
-
-### Kya girls bhi apply kar sakti hain?
-Haan, girls bhi Class 6 mein admission ke liye apply kar sakti hain.
-
-### School kahan hai exactly?
-School Kodagu (Coorg) district mein hai, jo Karnataka ke beautiful hill station area hai.
-
-## 🔗 Related Links
-
-- [Sainik School Kodagu Official Website](https://sainikschoolkodagu.edu.in)
-- [Sainik School Bijapur (Karnataka's other Sainik School)](/schools/sainik-school-bijapur/)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in India](/sainik-schools/)
-
+**Q: Is this different from Sainik School Bijapur?**
+A: Yes. Kodagu (est. 2007) and Bijapur (est. 1963) are separate Sainik Schools in Karnataka.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Karnataka](/blog/sainik-schools-karnataka/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)

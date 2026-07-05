@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Bhubaneswar - Complete Guide 2026"
+title: "Sainik School Bhubaneswar Odisha - Fees, Admission & NDA Selection Rate"
 date: 2026-07-05
 draft: false
 description: "Sainik School Bhubaneswar in Odisha — est. 1961 by Biju Patnaik, 200 acres in the temple city. Odisha's flagship Sainik School. Admission, fees, NDA results."

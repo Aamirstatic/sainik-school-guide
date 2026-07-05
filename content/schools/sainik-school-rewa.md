@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Rewa - Complete Guide 2026"
+title: "Sainik School Rewa Madhya Pradesh - Admission, Fees & Campus Details"
 date: 2026-07-05
 draft: false
 description: "Sainik School Rewa in Madhya Pradesh — the land of White Tigers. Est. 1962, 242-acre campus in Civil Lines. Admission, fees, NDA results, notable alumni."

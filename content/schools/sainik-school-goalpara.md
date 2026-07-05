@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Goalpara - Complete Guide 2026"
+title: "Sainik School Goalpara Assam - Admission, Fees & NDA Track Record"
 date: 2026-07-05
 draft: false
 description: "Sainik School Goalpara in Assam — Northeast India's Sainik School. Est. 1962, 206 acres at Rajapara. The Telegraph Best School of the Year. Admission, fees."

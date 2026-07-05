@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Imphal - Complete Guide 2026"
+title: "Sainik School Imphal Manipur - History, Admission & Fee Structure"
 date: 2026-07-05
 draft: false
 description: "Sainik School Imphal in Manipur — Northeast India's military school. Est. 1971. Located in the valley city that saw some of WWII's fiercest battles. Admission, fees."

@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Bijapur - Complete Guide 2026"
+title: "Sainik School Bijapur Karnataka - History, Admission & Fee Structure"
 date: 2026-07-05
 draft: false
 description: "Sainik School Bijapur in Karnataka — 13th Sainik School, 406 acres on Athani Road. Six houses representing Karnataka's dynasties. Est. 1963. Admission, fees."

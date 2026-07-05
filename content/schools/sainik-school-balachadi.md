@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Balachadi - Complete Guide 2026"
+title: "Sainik School Balachadi Jamnagar Gujarat - Complete Admission Guide 2026"
 date: 2026-07-05
 draft: false
 description: "Sainik School Balachadi in Jamnagar, Gujarat — est. 1961, Gulf of Kutch campus. WWII Polish children's camp connection. Admission, fees, NDA results."

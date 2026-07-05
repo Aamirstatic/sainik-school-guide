@@ -1,160 +1,97 @@
 ---
-title: "Sainik School Sujanpur Tira - Complete Guide 2026"
-date: 2026-07-02
+title: "Sainik School Sujanpur Tira HP - Admission, Fees & Facilities"
+date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Sujanpur Tira in Himachal Pradesh. History, admission process, fees, seats, facilities, contact details, and more."
-keywords: ["sainik school sujanpur tira", "sainik school himachal pradesh", "sainik school sujanpur tira admission", "sainik school sujanpur tira fees"]
-established: "1978"
+description: "Sainik School Sujanpur Tira in Himachal Pradesh — the hill state's Sainik School. Est. 1978. Kangra Valley location. Admission, fees, NDA results."
+keywords: ["sainik school sujanpur tira", "sainik school himachal pradesh", "sainik school sujanpur tira admission", "sainik school sujanpur tira fees", "sainik school kangra"]
 state: "Himachal Pradesh"
+established: "1978"
 ---
 
-# Sainik School Sujanpur Tira
+# Sainik School Sujanpur Tira — Himachal Pradesh's Hill Station Military Academy
 
-Sainik School Sujanpur Tira Himachal Pradesh ka ekमात्र Sainik School hai jo 1978 mein establish hua. Yeh school Hamirpur district ke Sujanpur Tira mein sthit hai. School CBSE se affiliated hai aur beautiful hill station jaisa campus hai. School ka motto hai students ko NDA aur defence services ke liye tayyar karna.
+Sujanpur Tira is a small town in the Kangra district of Himachal Pradesh, known for its ancient fort, its Holi fair, and its position on the banks of the Beas River. But for the cadets of Sainik School Sujanpur Tira, established in 1978, the town represents something more significant: the starting point of a journey to the National Defence Academy.
 
-## 📍 Location & Contact
+Sainik School Sujanpur Tira is Himachal Pradesh's only Sainik School. The school was established to serve the youth of Himachal — a state with a strong military tradition through the Gorkha Rifles, the Kumaon Regiment, and other hill units. Himachali soldiers have served in every major conflict since independence, and the school was created to ensure that the state's representation in the officer corps kept pace with its jawan recruitment.
 
-- **Address:** Sainik School Sujanpur Tira, District Hamirpur, Himachal Pradesh - 176110
-- **Phone:** 01972-272024
-- **Email:** principal@sainikschoolsujanpurtira.org
-- **Website:** [sainikschoolsujanpurtira.org](https://www.sainikschoolsujanpurtira.org)
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Sujanpur+Tira+Himachal+Pradesh)
+## Quick Facts
 
-## 🏫 About the School
+| Detail | Info |
+|--------|------|
+| Established | 1978 |
+| Location | Sujanpur Tira, Kangra District, Himachal Pradesh |
+| CBSE Affiliation | Yes |
+| Classes | VI to XII |
+| Medium | English |
+| Type | Residential |
+| Website | Through Sainik Schools Society |
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 1978 |
-| **State** | Himachal Pradesh |
-| **District** | Hamirpur |
-| **Campus Area** | 100+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+## History & Legacy
 
-Sainik School Sujanpur Tira की स्थापना 1978 में हुई थी। यह Himachal Pradesh का ekमात्र Sainik School है। School Hamirpur district ke Sujanpur Tira mein hai, jo ek beautiful hill location hai. School ka campus nature ke beech hai aur students ko fresh environment milta hai. 2026 mein Suryakiran team ne school mein aerial display kiya.
+### Himachal's Military Tradition
 
-## 🎯 Admission Process
+Himachal Pradesh has one of the highest per-capita military recruitment rates in India. The state's hill communities — Gaddi, Kangra, Kullu, Mandi, Sirmaur — have a long tradition of military service. The Gorkha Rifles (with significant Himachali Gorkha recruitment), the Kumaon Regiment, and the Jammu & Kashmir Rifles all draw from Himachal.
 
-### Eligibility Criteria (पात्रता मानदंड)
+Sainik School Sujanpur Tira was established in 1978 to formalize this tradition. The school provides structured NDA preparation for Himachali youth, who previously had to travel to other states for military-oriented education.
 
-**For Class 6 (कक्षा 6 के लिए):**
-- Age (आयु): 10-12 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 5
-- Exam (परीक्षा): AISSEE conducted by NTA
+### The Kangra Valley Setting
 
-**For Class 9 (कक्षा 9 के लिए):**
-- Age (आयु): 13-15 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 8
-- Exam (परीक्षा): AISSEE conducted by NTA
+The school is located in the Kangra Valley — one of the most scenic valleys in the Himalayas. The Beas River flows nearby, and the Dhauladhar range (the "White Range") is visible from the campus. The climate — cool summers, cold winters, and occasional snowfall — builds the kind of cold-weather resilience that is valuable for military service in high-altitude postings.
 
-### Admission Steps (प्रवेश प्रक्रिया)
-1. **Apply Online (ऑनलाइन आवेदन)** through NTA website (exams.nta.nic.in/sainik-school-society)
-2. **Appear for AISSEE (AISSEE परीक्षा दें)** — usually held in January
-3. **Check Results (परिणाम जांचें)** on NTA website
-4. **Medical Test (मेडिकल टेस्ट)** for shortlisted candidates
-5. **Final Merit List (अंतिम मेरिट सूची)** based on AISSEE score + medical fitness
-6. **Admission (प्रवेश)** with required documents
+## Location & Contact
 
-### Important Dates (Tentative for 2027)
-- **Application Start:** October 2026
-- **Last Date:** November 2026
-- **Exam Date:** January 2027
-- **Results:** February 2027
-- **Medical Test:** March 2027
-- **Session Start:** April 2027
+- **Address:** Sainik School Sujanpur Tira, Kangra District, Himachal Pradesh
+- **Nearest City:** Kangra (approx. 20 km); Hamirpur (approx. 25 km)
+- **Nearest Airport:** Gaggal Airport, Kangra (approx. 40 km)
+- **Nearest Railway:** Pathankot Railway Station (approx. 100 km)
 
-### Himachal Pradesh Domicile Reservation
+## Admission Details
 
-HP ke students ko **67% seats reserved** hain. Baaki 33% seats other states ke students ke liye hain.
+### Eligibility
 
-## 💰 Fee Structure (शुल्क संरचना)
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹82,000 |
-| Hostel Fee | ₹40,000 |
-| Mess Charges | ₹55,000 |
-| Uniform | ₹13,000 |
-| Books & Stationery | ₹10,000 |
-| Other Charges | ₹10,000 |
-| **Total** | **₹2,10,000** |
+### Reservation
 
-*Note: Fees are subject to change. SC/ST candidates get fee concessions. Defence personnel ke bachchon ke liye vishesh chhoot hai. Contact school directly for latest fee structure.*
+67% seats for Himachal Pradesh domicile. 33% for other states.
 
-## 🏗️ Facilities (सुविधाएं)
+## Fee Structure
 
-### Academic (शैक्षणिक)
-- Smart classrooms with modern teaching aids
-- Well-equipped Science, Maths, and Computer labs
-- Library with extensive collection
-- Digital learning resources
+Fee details are available through the Sainik Schools Society. Scholarships from the Ministry of Defence and Himachal Pradesh state government are available.
 
-### Sports & Activities (खेल और गतिविधियां)
-- Athletic track
-- Football and hockey grounds
-- Basketball and volleyball courts
-- NCC training (compulsory)
-- Indoor games complex
-- Air show events (Suryakiran team performed in 2026)
+## Facilities
 
-### Hostel & Mess (हॉस्टल और मेस)
-- Separate hostels for junior and senior students
-- Nutritious vegetarian and non-vegetarian meals
-- 24/7 medical facility
-- Wardens for each hostel
+- CBSE-affiliated curriculum
+- Science and Computer laboratories
+- Library
+- Sports facilities
+- NCC training
+- Residential hostels
+- Cold-weather training environment
 
-### Other Facilities (अन्य सुविधाएं)
-- Auditorium for cultural events
-- Music and art rooms
-- Career counseling cell
-- ERP system for school management
-- Online fee payment system
+## Academic & NDA Performance
 
-## 📊 Academic Performance (शैक्षणिक प्रदर्शन)
+Sainik School Sujanpur Tira has a consistent record of NDA selections. The school's contribution to Himachal Pradesh's military officer pipeline is its primary metric of success.
 
-| Year | 10th Board (%) | 12th Board (%) | NDA Selections |
-|------|----------------|----------------|----------------|
-| 2025 | 96% | 93% | 6+ |
-| 2024 | 95% | 92% | 5+ |
-| 2023 | 94% | 91% | 5+ |
+## FAQs
 
-## 🎖️ Notable Alumni (प्रसिद्ध पूर्व छात्र)
+**Q: Is this the only Sainik School in Himachal Pradesh?**
+A: Yes. Sainik School Sujanpur Tira is Himachal Pradesh's only Sainik School.
 
-Sainik School Sujanpur Tira ke alumni Indian Armed Forces mein serve kar rahe hain. School ka 45+ years ka legacy hai aur HP ke students ke liye defence education ka main hub hai.
+**Q: What is the climate like?**
+A: Cool summers, cold winters, and occasional snowfall. The school is in the Kangra Valley at the foot of the Dhauladhar range.
 
-## ❓ Frequently Asked Questions (अक्सर पूछे जाने वाले सवाल)
+**Q: What is Sujanpur Tira known for?**
+A: Its ancient fort, the annual Holi fair, and its position on the banks of the Beas River.
 
-### Sainik School Sujanpur Tira mein admission kaise lein?
-Admission AISSEE ke through hota hai jo NTA conduct karti hai. Online apply karein, exam dein, medical test clear karein, aur merit ke basis par admission milega.
-
-### Kya HP ke students ko reservation milta hai?
-Haan, 67% seats HP domicile students ke liye reserved hain. Baaki 33% seats other states ke liye hain.
-
-### Medium of instruction kya hai?
-Medium of instruction English hai. Hindi compulsory language ke roop mein padhai jaati hai.
-
-### Kya girls bhi apply kar sakti hain?
-Haan, girls bhi Class 6 mein admission ke liye apply kar sakti hain.
-
-### School kahan hai exactly?
-School Sujanpur Tira mein hai, jo Hamirpur district mein hai. Yeh ek beautiful hill location hai.
-
-## 🔗 Related Links
-
-- [Sainik School Sujanpur Tira Official Website](https://www.sainikschoolsujanpurtira.org)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in India](/sainik-schools/)
-
+**Q: What military units recruit from Himachal?**
+A: The Gorkha Rifles, Kumaon Regiment, Jammu & Kashmir Rifles, and other units draw heavily from Himachal Pradesh.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Himachal Pradesh](/blog/sainik-schools-himachal/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)

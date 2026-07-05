@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Nagrota - Complete Guide 2026"
+title: "Sainik School Nagrota Jammu - History, Admission & Fee Structure"
 date: 2026-07-05
 draft: false
 description: "Sainik School Nagrota in Jammu & Kashmir — the only Sainik School in J&K. Chinar Primary School on campus. Admission, fees, NDA results, contact details."

@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Ambikapur - Complete Guide 2026"
+title: "Sainik School Ambikapur Chhattisgarh - Admission, Fees & Contact Details"
 date: 2026-07-05
 draft: false
 description: "Sainik School Ambikapur in Chhattisgarh — the state's Sainik School. Residential school for boys and girls. Admission, fees, NDA results."

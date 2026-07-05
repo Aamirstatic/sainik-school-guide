@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Chittorgarh - Complete Guide 2026"
+title: "Sainik School Chittorgarh Rajasthan - 272 Acres, Archery Range & NDA Results"
 date: 2026-07-05
 draft: false
 description: "Sainik School Chittorgarh — Rajasthan's Sainik School with 272 acres, archery range, shooting range, 11 houses, and equitation program. Admission, fees, NDA results."

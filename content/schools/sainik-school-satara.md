@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Satara - Complete Guide 2026"
+title: "Sainik School Satara Maharashtra - History, Fees & NDA Track Record"
 date: 2026-07-05
 draft: false
 description: "Sainik School Satara — India's FIRST Sainik School, est. 23 June 1961. The pioneer that started it all. Maharashtra's flagship military school. Admission, fees."

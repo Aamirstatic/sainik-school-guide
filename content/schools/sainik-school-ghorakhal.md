@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Ghorakhal - Complete Guide 2026"
+title: "Sainik School Ghorakhal Nainital - Admission, Fees & Campus Details"
 date: 2026-07-05
 draft: false
 description: "Sainik School Ghorakhal near Nainital, Uttarakhand — est. 1966 on the Nawab of Rampur's estate. The hill station Sainik School. Admission, fees, NDA results."

@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Purulia - Complete Guide 2026"
+title: "Sainik School Purulia West Bengal - Admission, Fees & NDA Results"
 date: 2026-07-05
 draft: false
 description: "Sainik School Purulia in West Bengal — 'Knowledge Through Discipline' since 1962. West Bengal's Sainik School with drone-view campus. Admission, fees, NDA results."

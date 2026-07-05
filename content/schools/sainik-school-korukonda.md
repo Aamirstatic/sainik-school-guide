@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Korukonda - Complete Guide 2026"
+title: "Sainik School Korukonda Vizianagaram - Admission, Fees & NDA Selections"
 date: 2026-07-05
 draft: false
 description: "Sainik School Korukonda in Andhra Pradesh — 93 seats for Class VI, 11,000+ applicants. Est. 1962. Admission, fees, NDA results, campus details."
