@@ -1,1042 +1,432 @@
 {{ define "main" }}
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "EducationalOrganization",
-  "name": "Sainik School East Siang",
-  "alternateName": "SSES Niglok",
-  "description": "Unofficial guide to Sainik School East Siang (SSES), Niglok, Arunachal Pradesh. Get complete information about admission, fees, facilities, AISSEE preparation, and more.",
-  "url": "https://sainikschooleastsiang.in/",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Niglok Village, Ruksin PO PS",
-    "addressLocality": "Pasighat HQ East Siang",
-    "addressRegion": "Arunachal Pradesh",
-    "postalCode": "791102",
-    "addressCountry": "IN"
-  },
-  "foundingDate": "2018-08-27"
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Sainik School East Siang?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sainik School East Siang (SSES) is a residential school located in Niglok, Ruksin, East Siang district of Arunachal Pradesh. Established on 27 August 2018 as the 28th Sainik School of India."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the fee structure of Sainik School East Siang?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The annual tuition fee is approximately ₹1,16,923 for General/Defence category. Total annual expenses range from ₹2,00,000 to ₹2,50,000."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How to get admission in Sainik School East Siang?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Admission is through AISSEE conducted by NTA. Apply online at exams.nta.nic.in, appear for entrance exam in January, clear medical test, and secure admission based on merit."
-      }
-    }
-  ]
-}
-</script>
-
 <style>
-  /* Cracku.in Style Homepage */
-  
-  /* Announcement Bar */
-  .announcement-bar {
-    background: linear-gradient(90deg, #F6D835 0%, #FF4DA6 100%);
-    color: #111;
-    padding: 8px 16px;
-    text-align: center;
-    font-size: 13px;
-    font-weight: 600;
-  }
-  .announcement-bar a {
-    color: #111;
-    text-decoration: underline;
-  }
-  
-  /* Hero Section - Cracku Style */
-  .cracku-hero {
-    background: linear-gradient(135deg, #01263b 0%, #0367a1 100%);
+  /* Newsroom Style Homepage */
+  .news-hero {
+    background: linear-gradient(135deg, #01263b, #0367a1);
     color: white;
-    padding: 60px 20px;
-    position: relative;
-    overflow: hidden;
+    padding: 40px 20px;
   }
-  .cracku-hero::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 50%;
-    height: 100%;
-    background: url('/images/hero-pattern.svg') no-repeat center;
-    opacity: 0.1;
-  }
-  .cracku-hero-inner {
+  .news-hero-inner {
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 60px;
-    align-items: center;
-    position: relative;
-    z-index: 1;
+    grid-template-columns: 2fr 1fr;
+    gap: 30px;
   }
-  .cracku-hero h1 {
-    font-size: 42px;
+  .news-hero-main h1 {
+    font-size: 36px;
     font-weight: 800;
     line-height: 1.2;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
   }
-  .cracku-hero h1 span {
-    color: #F6D835;
-  }
-  .cracku-hero p {
-    font-size: 18px;
-    opacity: 0.9;
-    margin-bottom: 24px;
-    line-height: 1.6;
-  }
-  .hero-features {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin-bottom: 32px;
-  }
-  .hero-feature {
-    background: rgba(255,255,255,0.15);
-    padding: 8px 16px;
-    border-radius: 20px;
-    font-size: 14px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .hero-ctas {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-  }
-  .btn-hero-primary {
-    background: #F6D835;
-    color: #111;
-    padding: 14px 32px;
-    border-radius: 8px;
-    font-weight: 700;
+  .news-hero-main p {
     font-size: 16px;
-    text-decoration: none;
+    opacity: 0.9;
+    margin-bottom: 20px;
+  }
+  .news-hero-meta {
+    font-size: 13px;
+    opacity: 0.7;
+  }
+  .news-hero-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .news-hero-card {
+    background: rgba(255,255,255,0.1);
+    border-radius: 8px;
+    padding: 16px;
+    border: 1px solid rgba(255,255,255,0.2);
+  }
+  .news-hero-card h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .news-hero-card p {
+    font-size: 13px;
+    opacity: 0.8;
+    line-height: 1.4;
+  }
+
+  /* News Grid */
+  .news-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 30px;
+  }
+
+  .news-main h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #111928;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #00BCD4;
+  }
+
+  .news-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .news-card {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     transition: transform 0.2s;
   }
-  .btn-hero-primary:hover {
+  .news-card:hover {
     transform: translateY(-2px);
   }
-  .btn-hero-secondary {
-    background: transparent;
-    color: white;
-    padding: 14px 32px;
-    border-radius: 8px;
+  .news-card-img {
+    height: 140px;
+    background: linear-gradient(135deg, #00BCD4, #0097A7);
+  }
+  .news-card-body {
+    padding: 16px;
+  }
+  .news-card-tag {
+    display: inline-block;
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
     font-weight: 600;
-    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .news-card-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+  .news-card-title a {
     text-decoration: none;
-    border: 2px solid rgba(255,255,255,0.3);
-    transition: all 0.2s;
+    color: inherit;
   }
-  .btn-hero-secondary:hover {
-    border-color: white;
-    background: rgba(255,255,255,0.1);
+  .news-card-title a:hover {
+    color: #00BCD4;
   }
-  .hero-right {
+  .news-card-meta {
+    font-size: 12px;
+    color: #6B7280;
+  }
+
+  /* Sidebar */
+  .news-sidebar {
     display: flex;
     flex-direction: column;
     gap: 20px;
   }
-  .hero-card {
-    background: rgba(255,255,255,0.1);
-    backdrop-filter: blur(10px);
-    border-radius: 16px;
-    padding: 24px;
-    border: 1px solid rgba(255,255,255,0.2);
+
+  .sidebar-widget {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   }
-  .hero-card h3 {
-    font-size: 20px;
-    font-weight: 700;
-    margin-bottom: 12px;
+  .sidebar-widget-header {
+    background: #01263b;
+    color: white;
+    padding: 14px 16px;
   }
-  .hero-card ul {
+  .sidebar-widget-header h3 {
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .sidebar-widget-body {
+    padding: 16px;
+  }
+
+  .school-list {
     list-style: none;
   }
-  .hero-card li {
-    padding: 8px 0;
-    font-size: 14px;
-    border-bottom: 1px solid rgba(255,255,255,0.1);
+  .school-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #F3F4F6;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .school-list li:last-child { border: none; }
+  .school-list a {
+    font-size: 13px;
+    color: #374151;
+    text-decoration: none;
+  }
+  .school-list a:hover { color: #00BCD4; }
+
+  .quick-links {
+    list-style: none;
+  }
+  .quick-links li {
+    padding: 10px 0;
+    border-bottom: 1px solid #F3F4F6;
+  }
+  .quick-links li:last-child { border: none; }
+  .quick-links a {
+    font-size: 13px;
+    color: #374151;
+    text-decoration: none;
     display: flex;
     align-items: center;
     gap: 8px;
   }
-  .hero-card li:last-child { border: none; }
-  .hero-card li::before {
-    content: '✓';
-    color: #F6D835;
-    font-weight: bold;
+  .quick-links a:hover { color: #00BCD4; }
+
+  /* Featured Schools */
+  .featured-section {
+    background: #F7F9FB;
+    padding: 40px 20px;
   }
-  
+  .featured-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .featured-inner h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #111928;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+  }
+  .featured-card {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    transition: transform 0.2s;
+  }
+  .featured-card:hover {
+    transform: translateY(-2px);
+  }
+  .featured-card-icon {
+    font-size: 32px;
+    margin-bottom: 12px;
+  }
+  .featured-card h3 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 4px;
+  }
+  .featured-card p {
+    font-size: 12px;
+    color: #6B7280;
+  }
+  .featured-card a {
+    display: block;
+    margin-top: 12px;
+    font-size: 12px;
+    color: #00BCD4;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
   /* Stats Bar */
   .stats-bar {
     background: white;
-    padding: 24px 20px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    position: relative;
-    z-index: 2;
+    padding: 20px;
+    border-top: 1px solid #E5E7EB;
+    border-bottom: 1px solid #E5E7EB;
   }
   .stats-inner {
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 24px;
+    gap: 16px;
     text-align: center;
   }
   .stat-item {
-    padding: 16px;
+    padding: 12px;
   }
-  .stat-number {
-    font-size: 36px;
+  .stat-num {
+    font-size: 28px;
     font-weight: 800;
     color: #00BCD4;
-    margin-bottom: 4px;
   }
   .stat-label {
-    font-size: 14px;
-    color: #6B7280;
-  }
-  
-  /* Courses Section - Cracku Style */
-  .courses-section {
-    padding: 60px 20px;
-    background: #F7F9FB;
-  }
-  .courses-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .section-header {
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  .section-header h2 {
-    font-size: 32px;
-    font-weight: 700;
-    color: #111928;
-    margin-bottom: 12px;
-  }
-  .section-header p {
-    font-size: 16px;
-    color: #6B7280;
-    max-width: 600px;
-    margin: 0 auto;
-  }
-  .courses-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
-  }
-  .course-card {
-    background: white;
-    border-radius: 16px;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    transition: transform 0.2s, box-shadow 0.2s;
-    border: 1px solid #E5E7EB;
-  }
-  .course-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-  }
-  .course-card-header {
-    background: linear-gradient(135deg, #01263b, #0367a1);
-    color: white;
-    padding: 24px;
-  }
-  .course-card-header h3 {
-    font-size: 20px;
-    font-weight: 700;
-    margin-bottom: 4px;
-  }
-  .course-card-header p {
-    font-size: 14px;
-    opacity: 0.8;
-  }
-  .course-card-body {
-    padding: 24px;
-  }
-  .course-features {
-    list-style: none;
-    margin-bottom: 20px;
-  }
-  .course-features li {
-    padding: 10px 0;
-    font-size: 14px;
-    color: #374151;
-    border-bottom: 1px solid #F3F4F6;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .course-features li:last-child { border: none; }
-  .course-features li::before {
-    content: '✓';
-    color: #16B364;
-    font-weight: bold;
-  }
-  .btn-course {
-    display: block;
-    width: 100%;
-    background: #00BCD4;
-    color: white;
-    text-align: center;
-    padding: 12px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 15px;
-    transition: background 0.2s;
-  }
-  .btn-course:hover {
-    background: #0097A7;
-  }
-  
-  /* Coaching Promotion - Cracku Style */
-  .coaching-section {
-    padding: 60px 20px;
-    background: linear-gradient(135deg, #01263b 0%, #0367a1 100%);
-    color: white;
-  }
-  .coaching-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 60px;
-    align-items: center;
-  }
-  .coaching-content h2 {
-    font-size: 36px;
-    font-weight: 800;
-    margin-bottom: 16px;
-    line-height: 1.2;
-  }
-  .coaching-content h2 span {
-    color: #F6D835;
-  }
-  .coaching-content p {
-    font-size: 16px;
-    opacity: 0.9;
-    margin-bottom: 24px;
-    line-height: 1.6;
-  }
-  .coaching-features {
-    list-style: none;
-    margin-bottom: 32px;
-  }
-  .coaching-features li {
-    padding: 10px 0;
-    font-size: 15px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-  .coaching-features li::before {
-    content: '✓';
-    color: #F6D835;
-    font-weight: bold;
-    font-size: 18px;
-  }
-  .btn-coaching {
-    display: inline-block;
-    background: #F6D835;
-    color: #111;
-    padding: 14px 32px;
-    border-radius: 8px;
-    font-weight: 700;
-    font-size: 16px;
-    text-decoration: none;
-    transition: transform 0.2s;
-  }
-  .btn-coaching:hover {
-    transform: translateY(-2px);
-  }
-  .coaching-card {
-    background: rgba(255,255,255,0.1);
-    backdrop-filter: blur(10px);
-    border-radius: 16px;
-    padding: 32px;
-    border: 1px solid rgba(255,255,255,0.2);
-  }
-  .coaching-card h3 {
-    font-size: 24px;
-    font-weight: 700;
-    margin-bottom: 20px;
-  }
-  .coaching-stats {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
-    margin-bottom: 24px;
-  }
-  .coaching-stat {
-    text-align: center;
-    padding: 16px;
-    background: rgba(255,255,255,0.1);
-    border-radius: 12px;
-  }
-  .coaching-stat-num {
-    font-size: 28px;
-    font-weight: 800;
-    color: #F6D835;
-  }
-  .coaching-stat-label {
-    font-size: 12px;
-    opacity: 0.8;
-  }
-  .coaching-testimonial {
-    background: rgba(255,255,255,0.1);
-    border-radius: 12px;
-    padding: 20px;
-    font-style: italic;
-    font-size: 14px;
-    line-height: 1.6;
-  }
-  .coaching-testimonial cite {
-    display: block;
-    margin-top: 12px;
-    font-style: normal;
-    font-weight: 600;
-    color: #F6D835;
-  }
-  
-  /* Features Section */
-  .features-section {
-    padding: 60px 20px;
-  }
-  .features-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .features-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
-  }
-  .feature-item {
-    background: white;
-    padding: 28px;
-    border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    border: 1px solid #E5E7EB;
-    transition: transform 0.2s;
-  }
-  .feature-item:hover {
-    transform: translateY(-4px);
-  }
-  .feature-item-icon {
-    width: 56px;
-    height: 56px;
-    background: linear-gradient(135deg, #00BCD4, #0097A7);
-    border-radius: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 24px;
-    margin-bottom: 16px;
-  }
-  .feature-item h3 {
-    font-size: 18px;
-    font-weight: 600;
-    color: #111928;
-    margin-bottom: 8px;
-  }
-  .feature-item p {
-    font-size: 14px;
-    color: #6B7280;
-    line-height: 1.6;
-  }
-  
-  /* Latest Articles - Cracku Style */
-  .articles-section {
-    padding: 60px 20px;
-    background: #F7F9FB;
-  }
-  .articles-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
-  }
-  .article-card {
-    background: white;
-    border-radius: 16px;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    border: 1px solid #E5E7EB;
-    transition: transform 0.2s;
-  }
-  .article-card:hover {
-    transform: translateY(-4px);
-  }
-  .article-card-img {
-    height: 180px;
-    background: linear-gradient(135deg, #00BCD4, #0097A7);
-    position: relative;
-  }
-  .article-card-tag {
-    position: absolute;
-    top: 12px;
-    left: 12px;
-    background: rgba(255,255,255,0.9);
-    color: #0097A7;
-    padding: 4px 12px;
-    border-radius: 4px;
-    font-size: 12px;
-    font-weight: 600;
-  }
-  .article-card-body {
-    padding: 20px;
-  }
-  .article-card-meta {
-    font-size: 12px;
-    color: #6B7280;
-    margin-bottom: 8px;
-  }
-  .article-card-title {
-    font-size: 16px;
-    font-weight: 600;
-    color: #111928;
-    margin-bottom: 8px;
-    line-height: 1.4;
-  }
-  .article-card-title a {
-    text-decoration: none;
-    color: inherit;
-  }
-  .article-card-title a:hover {
-    color: #00BCD4;
-  }
-  .article-card-excerpt {
-    font-size: 13px;
-    color: #6B7280;
-    line-height: 1.5;
-  }
-  
-  /* Testimonials */
-  .testimonials-section {
-    padding: 60px 20px;
-  }
-  .testimonials-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .testimonials-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
-  }
-  .testimonial-card {
-    background: white;
-    padding: 28px;
-    border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    border: 1px solid #E5E7EB;
-  }
-  .testimonial-stars {
-    color: #F6D835;
-    font-size: 18px;
-    margin-bottom: 12px;
-  }
-  .testimonial-text {
-    font-size: 14px;
-    color: #374151;
-    line-height: 1.6;
-    margin-bottom: 16px;
-    font-style: italic;
-  }
-  .testimonial-author {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-  .testimonial-avatar {
-    width: 48px;
-    height: 48px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, #00BCD4, #0097A7);
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 700;
-    font-size: 18px;
-  }
-  .testimonial-name {
-    font-weight: 600;
-    font-size: 15px;
-    color: #111928;
-  }
-  .testimonial-role {
     font-size: 12px;
     color: #6B7280;
   }
-  
-  /* Newsletter - Cracku Style */
-  .newsletter-section {
-    padding: 60px 20px;
-    background: linear-gradient(135deg, #01263b 0%, #0367a1 100%);
-    color: white;
-    text-align: center;
-  }
-  .newsletter-inner {
-    max-width: 600px;
-    margin: 0 auto;
-  }
-  .newsletter-section h2 {
-    font-size: 32px;
-    font-weight: 700;
-    margin-bottom: 12px;
-  }
-  .newsletter-section p {
-    font-size: 16px;
-    opacity: 0.9;
-    margin-bottom: 24px;
-  }
-  .newsletter-form {
-    display: flex;
-    gap: 12px;
-  }
-  .newsletter-form input {
-    flex: 1;
-    padding: 14px 20px;
-    border: none;
-    border-radius: 8px;
-    font-size: 15px;
-  }
-  .newsletter-form button {
-    background: #F6D835;
-    color: #111;
-    border: none;
-    padding: 14px 28px;
-    border-radius: 8px;
-    font-weight: 700;
-    font-size: 15px;
-    cursor: pointer;
-    transition: transform 0.2s;
-  }
-  .newsletter-form button:hover {
-    transform: translateY(-2px);
-  }
-  
-  /* CTA Section */
-  .cta-section {
-    padding: 60px 20px;
-    background: #F7F9FB;
-  }
-  .cta-inner {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-  }
-  .cta-inner h2 {
-    font-size: 28px;
-    font-weight: 700;
-    color: #111928;
-    margin-bottom: 16px;
-  }
-  .cta-inner p {
-    font-size: 16px;
-    color: #6B7280;
-    margin-bottom: 24px;
-  }
-  .cta-buttons {
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-  
+
   /* Responsive */
   @media (max-width: 992px) {
-    .cracku-hero-inner, .coaching-inner {
+    .news-hero-inner, .news-section {
       grid-template-columns: 1fr;
     }
-    .courses-grid, .features-grid, .articles-grid, .testimonials-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-    .stats-inner {
+    .featured-grid {
       grid-template-columns: repeat(2, 1fr);
     }
   }
   @media (max-width: 768px) {
-    .cracku-hero { padding: 40px 16px; }
-    .cracku-hero h1 { font-size: 28px; }
-    .courses-grid, .features-grid, .articles-grid, .testimonials-grid {
-      grid-template-columns: 1fr;
-    }
-    .stats-inner {
-      grid-template-columns: repeat(2, 1fr);
-    }
-    .newsletter-form {
-      flex-direction: column;
-    }
+    .news-hero { padding: 24px 16px; }
+    .news-hero-main h1 { font-size: 24px; }
+    .news-grid { grid-template-columns: 1fr; }
+    .featured-grid { grid-template-columns: 1fr 1fr; }
+    .stats-inner { grid-template-columns: repeat(2, 1fr); }
   }
 </style>
 
-<!-- Announcement Bar -->
-<div class="announcement-bar">
-  🎉 AISSEE 2027 Notification Expected September 2026! <a href="/aissee/">Check Details →</a>
-</div>
-
-<!-- Hero Section - Cracku Style -->
-<section class="cracku-hero">
-  <div class="cracku-hero-inner">
-    <div>
-      <div class="hero-features">
-        <span class="hero-feature">📍 East Siang, Arunachal Pradesh</span>
-        <span class="hero-feature">🏫 Est. 2018</span>
-        <span class="hero-feature">📋 CBSE Affiliated</span>
-      </div>
-      
-      <h1>India's Complete <span>Sainik School</span> Guide</h1>
-      
-      <p>Your unofficial guide to Sainik School East Siang and all 33+ Sainik Schools across India. Get AISSEE preparation tips, admission details, fee structure, and daily articles.</p>
-      
-      <div class="hero-ctas">
-        <a href="/aissee/" class="btn-hero-primary">Start AISSEE Preparation →</a>
-        <a href="/sainik-schools/" class="btn-hero-secondary">View All Schools</a>
+<!-- Hero News Section -->
+<section class="news-hero">
+  <div class="news-hero-inner">
+    <div class="news-hero-main">
+      <div class="news-hero-meta">📰 Sainik School News & Updates</div>
+      <h1>Sainik School East Siang Complete Guide 2026</h1>
+      <p>Your trusted source for Sainik School admission information, AISSEE preparation tips, fee details, and daily updates about all 33+ Sainik Schools across India.</p>
+      <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+        <a href="/blog/sainik-school-admission-2027-guide/" class="btn-primary" style="background: #F6D835; color: #111;">Read Admission Guide →</a>
+        <a href="/aissee/" class="btn-primary" style="background: transparent; border: 2px solid rgba(255,255,255,0.3);">AISSEE 2027</a>
       </div>
     </div>
-    
-    <div class="hero-right">
-      <div class="hero-card">
-        <h3>📋 Quick Information</h3>
-        <ul>
-          <li><strong>School:</strong> Sainik School East Siang (SSES)</li>
-          <li><strong>Location:</strong> Niglok, Ruksin, East Siang - 791102</li>
-          <li><strong>Established:</strong> 27 August 2018 (28th Sainik School)</li>
-          <li><strong>Board:</strong> CBSE (Affiliation: 228005)</li>
-          <li><strong>Classes:</strong> VI and IX</li>
-          <li><strong>Type:</strong> Residential (Boys & Girls)</li>
-          <li><strong>Contact:</strong> 9436409766</li>
-        </ul>
+    <div class="news-hero-sidebar">
+      <div class="news-hero-card">
+        <h3>📅 AISSEE 2027</h3>
+        <p>Notification expected September 2026. Applications open October 2026.</p>
       </div>
-      
-      <div class="hero-card" style="background: rgba(246,216,53,0.2); border-color: #F6D835;">
+      <div class="news-hero-card">
+        <h3>📍 East Siang, Arunachal Pradesh</h3>
+        <p>Established 2018 · CBSE · 100 acres campus</p>
+      </div>
+      <div class="news-hero-card">
         <h3>🎓 Powered by JGPS</h3>
-        <p style="font-size: 14px; margin-bottom: 12px;">Expert coaching for Sainik School, RMS, RIMC entrance exams</p>
-        <a href="https://jgps.in/" style="color: #F6D835; font-weight: 600; font-size: 14px;">Visit JGPS.in →</a>
+        <p>Expert coaching for Sainik School entrance exams.</p>
+        <a href="https://jgps.in/" style="color: #F6D835; font-size: 13px;">Visit JGPS.in →</a>
       </div>
     </div>
   </div>
 </section>
 
 <!-- Stats Bar -->
-<section class="stats-bar">
+<div class="stats-bar">
   <div class="stats-inner">
     <div class="stat-item">
-      <div class="stat-number">33+</div>
+      <div class="stat-num">33+</div>
       <div class="stat-label">Sainik Schools</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">5000+</div>
+      <div class="stat-num">5000+</div>
       <div class="stat-label">Students Guided</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">95%</div>
+      <div class="stat-num">95%</div>
       <div class="stat-label">Success Rate</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">10+</div>
+      <div class="stat-num">10+</div>
       <div class="stat-label">Years Experience</div>
     </div>
   </div>
-</section>
+</div>
 
-<!-- Courses Section -->
-<section class="courses-section">
-  <div class="courses-inner">
-    <div class="section-header">
-      <h2>AISSEE Preparation Guide</h2>
-      <p>Complete preparation resources for Class 6 and Class 9 entrance exams</p>
-    </div>
-    
-    <div class="courses-grid">
-      <div class="course-card">
-        <div class="course-card-header">
-          <h3>Class 6 Entrance</h3>
-          <p>For students aged 10-12 years</p>
-        </div>
-        <div class="course-card-body">
-          <ul class="course-features">
-            <li>Mathematics & Reasoning</li>
-            <li>General Knowledge</li>
-            <li>Language (English/Hindi)</li>
-            <li>Intelligence Test</li>
-            <li>Previous Year Papers</li>
-            <li>Mock Tests</li>
-          </ul>
-          <a href="/aissee/" class="btn-course">View Syllabus →</a>
-        </div>
-      </div>
-      
-      <div class="course-card">
-        <div class="course-card-header">
-          <h3>Class 9 Entrance</h3>
-          <p>For students aged 13-15 years</p>
-        </div>
-        <div class="course-card-body">
-          <ul class="course-features">
-            <li>Advanced Mathematics</li>
-            <li>Science (Physics, Chemistry, Biology)</li>
-            <li>English & Social Studies</li>
-            <li>Intelligence Test</li>
-            <li>Previous Year Papers</li>
-            <li>Mock Tests</li>
-          </ul>
-          <a href="/aissee/" class="btn-course">View Syllabus →</a>
-        </div>
-      </div>
-      
-      <div class="course-card" style="border-color: #F6D835;">
-        <div class="course-card-header" style="background: linear-gradient(135deg, #F6D835, #FF4DA6);">
-          <h3 style="color: #111;">JGPS Coaching</h3>
-          <p style="color: #111; opacity: 0.8;">Expert guidance for success</p>
-        </div>
-        <div class="course-card-body">
-          <ul class="course-features">
-            <li>Experienced Faculty</li>
-            <li>Comprehensive Study Material</li>
-            <li>Regular Mock Tests</li>
-            <li>Doubt Clearing Sessions</li>
-            <li>Personal Attention</li>
-            <li>Proven Track Record</li>
-          </ul>
-          <a href="https://jgps.in/" class="btn-course" style="background: #F6D835; color: #111;">Visit JGPS.in →</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Coaching Promotion Section -->
-<section class="coaching-section">
-  <div class="coaching-inner">
-    <div class="coaching-content">
-      <h2>Prepare with <span>JGPS</span> - Your Success Partner</h2>
-      <p>JGPS (Jai Govind Public School) is a leading coaching institute for Sainik School, RMS, and RIMC entrance exams. With years of experience and proven results, JGPS has helped thousands of students achieve their dream of joining military schools.</p>
-      
-      <ul class="coaching-features">
-        <li>Expert faculty with military background</li>
-        <li>Comprehensive study material for AISSEE</li>
-        <li>Regular mock tests and performance analysis</li>
-        <li>Personal attention to each student</li>
-        <li>Hostel facilities available</li>
-        <li>Proven track record of selections</li>
-      </ul>
-      
-      <a href="https://jgps.in/" class="btn-coaching">Visit JGPS.in →</a>
-    </div>
-    
-    <div class="coaching-card">
-      <h3>Why Choose JGPS?</h3>
-      
-      <div class="coaching-stats">
-        <div class="coaching-stat">
-          <div class="coaching-stat-num">500+</div>
-          <div class="coaching-stat-label">Selections</div>
-        </div>
-        <div class="coaching-stat">
-          <div class="coaching-stat-num">95%</div>
-          <div class="coaching-stat-label">Success Rate</div>
-        </div>
-        <div class="coaching-stat">
-          <div class="coaching-stat-num">10+</div>
-          <div class="coaching-stat-label">Years Exp</div>
-        </div>
-        <div class="coaching-stat">
-          <div class="coaching-stat-num">50+</div>
-          <div class="coaching-stat-label">Expert Faculty</div>
-        </div>
-      </div>
-      
-      <div class="coaching-testimonial">
-        "JGPS helped my son crack AISSEE in first attempt. The faculty is excellent and study material is top-notch. Highly recommended!"
-        <cite>- Parent of Sainik School Student</cite>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Features Section -->
-<section class="features-section">
-  <div class="features-inner">
-    <div class="section-header">
-      <h2>What We Offer</h2>
-      <p>Everything you need for Sainik School preparation</p>
-    </div>
-    
-    <div class="features-grid">
-      <div class="feature-item">
-        <div class="feature-item-icon">📚</div>
-        <h3>School Directory</h3>
-        <p>Complete information about all 33+ Sainik Schools including admission, fees, facilities, and contact details.</p>
-      </div>
-      
-      <div class="feature-item">
-        <div class="feature-item-icon">📝</div>
-        <h3>AISSEE Preparation</h3>
-        <p>Syllabus, previous papers, study tips, and mock tests for Class 6 & 9 entrance exams.</p>
-      </div>
-      
-      <div class="feature-item">
-        <div class="feature-item-icon">📰</div>
-        <h3>Daily Articles</h3>
-        <p>Stay updated with daily articles on Sainik School news, preparation tips, and admission updates.</p>
-      </div>
-      
-      <div class="feature-item">
-        <div class="feature-item-icon">🎯</div>
-        <h3>Expert Guidance</h3>
-        <p>Tips from successful students and education experts who have helped thousands crack AISSEE.</p>
-      </div>
-      
-      <div class="feature-item">
-        <div class="feature-item-icon">📊</div>
-        <h3>Cut-off Analysis</h3>
-        <p>Previous year cut-offs, trend analysis, and predictions to help you set realistic targets.</p>
-      </div>
-      
-      <div class="feature-item">
-        <div class="feature-item-icon">🎓</div>
-        <h3>JGPS Coaching</h3>
-        <p>Expert coaching from JGPS for Sainik School, RMS, and RIMC entrance exams.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Latest Articles -->
-<section class="articles-section">
-  <div class="articles-inner">
-    <div class="section-header">
-      <h2>Latest Articles</h2>
-      <p>Stay updated with AISSEE preparation tips and school news</p>
-    </div>
-    
-    <div class="articles-grid">
-      {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
-      <div class="article-card">
-        <div class="article-card-img">
-          <span class="article-card-tag">BLOG</span>
-        </div>
-        <div class="article-card-body">
-          <div class="article-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
-          <h3 class="article-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <p class="article-card-excerpt">{{ .Description | truncate 120 }}</p>
+<!-- News Section -->
+<div class="news-section">
+  <div class="news-main">
+    <h2>📰 Latest Articles</h2>
+    <div class="news-grid">
+      {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+      <div class="news-card">
+        <div class="news-card-img"></div>
+        <div class="news-card-body">
+          <span class="news-card-tag">BLOG</span>
+          <h3 class="news-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <div class="news-card-meta">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read</div>
         </div>
       </div>
       {{ end }}
     </div>
-    
-    <div style="text-align: center; margin-top: 32px;">
-      <a href="/blog/" class="btn-outline">View All Articles →</a>
-    </div>
   </div>
-</section>
 
-<!-- Testimonials -->
-<section class="testimonials-section">
-  <div class="testimonials-inner">
-    <div class="section-header">
-      <h2>Success Stories</h2>
-      <p>Hear from students who cracked AISSEE</p>
+  <div class="news-sidebar">
+    <div class="sidebar-widget">
+      <div class="sidebar-widget-header">
+        <h3>🏫 Top Sainik Schools</h3>
+      </div>
+      <div class="sidebar-widget-body">
+        <ul class="school-list">
+          <li>🏫 <a href="/sainik-schools/sainik-school-amaravathinagar/">Amaravathinagar, TN</a></li>
+          <li>🏫 <a href="/sainik-schools/sainik-school-kapurthala/">Kapurthala, Punjab</a></li>
+          <li>🏫 <a href="/sainik-schools/sainik-school-rewa/">Rewa, MP</a></li>
+          <li>🏫 <a href="/sainik-schools/sainik-school-chittorgarh/">Chittorgarh, Rajasthan</a></li>
+          <li>📋 <a href="/sainik-schools/">View All Schools →</a></li>
+        </ul>
+      </div>
     </div>
-    
-    <div class="testimonials-grid">
-      <div class="testimonial-card">
-        <div class="testimonial-stars">⭐⭐⭐⭐⭐</div>
-        <div class="testimonial-text">"The comprehensive study material and daily practice questions helped me prepare systematically. I cleared AISSEE in my first attempt!"</div>
-        <div class="testimonial-author">
-          <div class="testimonial-avatar">R</div>
-          <div>
-            <div class="testimonial-name">Rahul Kumar</div>
-            <div class="testimonial-role">Sainik School Amaravathinagar</div>
-          </div>
-        </div>
+
+    <div class="sidebar-widget">
+      <div class="sidebar-widget-header">
+        <h3>🔗 Quick Links</h3>
       </div>
-      
-      <div class="testimonial-card">
-        <div class="testimonial-stars">⭐⭐⭐⭐⭐</div>
-        <div class="testimonial-text">"JGPS coaching was a game-changer. The faculty helped me understand concepts clearly and the mock tests prepared me well for the actual exam."</div>
-        <div class="testimonial-author">
-          <div class="testimonial-avatar">P</div>
-          <div>
-            <div class="testimonial-name">Priya Sharma</div>
-            <div class="testimonial-role">Sainik School Kapurthala</div>
-          </div>
-        </div>
+      <div class="sidebar-widget-body">
+        <ul class="quick-links">
+          <li><a href="/aissee/">📝 AISSEE 2027 Guide</a></li>
+          <li><a href="/blog/sainik-school-admission-2027-guide/">📋 Admission Process</a></li>
+          <li><a href="/blog/best-books-for-aissee-2027/">📚 Best Books</a></li>
+          <li><a href="/blog/sainik-school-admission-mistakes/">⚠️ Common Mistakes</a></li>
+          <li><a href="/blog/sainik-school-hostel-life/">🏠 Hostel Life</a></li>
+        </ul>
       </div>
-      
-      <div class="testimonial-card">
-        <div class="testimonial-stars">⭐⭐⭐⭐⭐</div>
-        <div class="testimonial-text">"Daily articles on preparation tips kept me motivated. The school directory helped me choose the right school for my child."</div>
-        <div class="testimonial-author">
-          <div class="testimonial-avatar">A</div>
-          <div>
-            <div class="testimonial-name">Amit Singh</div>
-            <div class="testimonial-role">Parent</div>
-          </div>
-        </div>
+    </div>
+
+    <div class="sidebar-widget">
+      <div class="sidebar-widget-header" style="background: linear-gradient(135deg, #F6D835, #FF4DA6);">
+        <h3 style="color: #111;">🎓 JGPS Coaching</h3>
+      </div>
+      <div class="sidebar-widget-body">
+        <p style="font-size: 13px; color: #374151; margin-bottom: 12px;">Expert coaching for Sainik School, RMS, RIMC entrance exams.</p>
+        <a href="https://jgps.in/" style="display: block; background: #F6D835; color: #111; text-align: center; padding: 10px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 14px;">Visit JGPS.in →</a>
       </div>
     </div>
   </div>
-</section>
+</div>
 
-<!-- Newsletter -->
-<section class="newsletter-section">
-  <div class="newsletter-inner">
-    <h2>Stay Updated with AISSEE 2027</h2>
-    <p>Get daily preparation tips, important dates, and school updates directly in your inbox</p>
-    <form class="newsletter-form">
-      <input type="email" placeholder="Enter your email address" required>
-      <button type="submit">Subscribe</button>
-    </form>
-  </div>
-</section>
-
-<!-- CTA Section -->
-<section class="cta-section">
-  <div class="cta-inner">
-    <h2>Ready to Start Your Sainik School Journey?</h2>
-    <p>Join thousands of students who have achieved their dream of getting into Sainik Schools with our guidance.</p>
-    <div class="cta-buttons">
-      <a href="/aissee/" class="btn-primary">Start AISSEE Preparation</a>
-      <a href="https://jgps.in/" class="btn-outline" style="border-color: #F6D835; color: #F6D835;">Join JGPS Coaching</a>
+<!-- Featured Schools -->
+<section class="featured-section">
+  <div class="featured-inner">
+    <h2>Featured Sainik Schools</h2>
+    <div class="featured-grid">
+      <div class="featured-card">
+        <div class="featured-card-icon">🏫</div>
+        <h3>Sainik School Amaravathinagar</h3>
+        <p>Tamil Nadu · Est. 1962</p>
+        <a href="/sainik-schools/sainik-school-amaravathinagar/">View Details →</a>
+      </div>
+      <div class="featured-card">
+        <div class="featured-card-icon">🏫</div>
+        <h3>Sainik School Kapurthala</h3>
+        <p>Punjab · Est. 1961</p>
+        <a href="/sainik-schools/sainik-school-kapurthala/">View Details →</a>
+      </div>
+      <div class="featured-card">
+        <div class="featured-card-icon">🏫</div>
+        <h3>Sainik School Rewa</h3>
+        <p>Madhya Pradesh · Est. 1962</p>
+        <a href="/sainik-schools/sainik-school-rewa/">View Details →</a>
+      </div>
+      <div class="featured-card">
+        <div class="featured-card-icon">🏫</div>
+        <h3>Sainik School Chittorgarh</h3>
+        <p>Rajasthan · Est. 1961</p>
+        <a href="/sainik-schools/sainik-school-chittorgarh/">View Details →</a>
+      </div>
     </div>
   </div>
 </section>
