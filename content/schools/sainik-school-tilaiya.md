@@ -1,158 +1,162 @@
 ---
 title: "Sainik School Tilaiya - Complete Guide 2026"
-date: 2026-07-03
+date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Tilaiya in Jharkhand. History, admission process, fees, seats, facilities, contact details, and more."
-keywords: ["sainik school tilaiya", "sainik school jharkhand", "sainik school tilaiya admission", "sainik school tilaiya fees", "sainik school koderma"]
-established: "1963"
+description: "Sainik School Tilaiya in Jharkhand — 'Forward Ever' since 1963. Located at Tilaiya Dam, Koderma district. Admission, fees, NDA results, boarding houses."
+keywords: ["sainik school tilaiya", "sainik school jharkhand", "sainik school tilaiya admission", "sainik school tilaiya fees", "sainik school tilaiya NDA", "sainik school koderma"]
 state: "Jharkhand"
+established: "1963"
 ---
 
-# Sainik School Tilaiya
+# Sainik School Tilaiya — Forward Ever, Backward Never
 
-Sainik School Tilaiya Jharkhand ka ekमात्र Sainik School hai jo 1963 mein establish hua. Yeh school Koderma district ke Tilaiya mein sthit hai. School CBSE se affiliated hai aur India ke oldest Sainik Schools mein se ek hai. School ka 60+ years ka legacy hai.
+The motto says it all: *Forward Ever*. Sainik School Tilaiya, established on 16th September 1963, is the 12th Sainik School in India's chain of 33. Located at Tilaiya Dam in Koderma district of Jharkhand (formerly Bihar), the school sits in the Chotanagpur Plateau — a landscape of laterite soil, sal forests, and rocky terrain that has produced some of India's toughest soldiers.
 
-## 📍 Location & Contact
+The school's location near Tilaiya Dam — a reservoir on the Barakar River — gives it a unique setting. The dam, built in 1953, provides a scenic backdrop and a water body that serves as both a natural landmark and a training ground. The campus itself is spread across the plateau, with boarding houses, academic buildings, and sports facilities arranged across the undulating terrain.
 
-- **Address:** Sainik School Tilaiya, Tilaiya, Koderma District, Jharkhand - 825413
-- **Phone:** 06543-291507
-- **Email:** sainikschooltilaiya@gmail.com
-- **Website:** [sainikschooltilaiya.org](https://www.sainikschooltilaiya.org)
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Tilaiya+Koderma)
+## Quick Facts
 
-## 🏫 About the School
+| Detail | Info |
+|--------|------|
+| Established | 16 September 1963 |
+| Location | Tilaiya Dam, Koderma District, Jharkhand |
+| Campus | Spread across Chotanagpur Plateau |
+| CBSE Affiliation | Yes |
+| Classes | VI to XII |
+| Medium | English |
+| Type | Residential |
+| Motto | Forward Ever |
+| Website | [sainikschooltilaiya.org](https://www.sainikschooltilaiya.org/) |
+| Nearest Airport | Birsa Munda Airport, Ranchi; Gaya Airport, Bihar |
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 1963 |
-| **State** | Jharkhand |
-| **District** | Koderma |
-| **Campus Area** | 200+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+## History & Legacy
 
-Sainik School Tilaiya की स्थापना 1963 में हुई थी। यह Jharkhand (earlier Bihar) ka ekमात्र Sainik School है और India ke oldest Sainik Schools mein se ek hai. School Koderma district ke Tilaiya mein hai. School ne 60+ years mein hundreds of officers produce kiye hain Indian Armed Forces mein.
+### The 12th Link in the Chain
 
-## 🎯 Admission Process
+On 16th September 1963, the foundation stone of Sainik School Tilaiya was laid — the 12th in the chain of 33 Sainik Schools across India. The school was established in what was then Bihar (Jharkhand was carved out of Bihar in 2000), in the Koderma district known for its mica mines and mineral wealth.
 
-### Eligibility Criteria (पात्रता मानदंड)
+The choice of Tilaiya Dam was strategic: the area offered government land, a reservoir for water supply and training, and proximity to the mineral-rich Chotanagpur region that had a tradition of military service, particularly in the Bihar Regiment.
 
-**For Class 6 (कक्षा 6 के लिए):**
-- Age (आयु): 10-12 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 5
-- Exam (परीक्षा): AISSEE conducted by NTA
+### The Chotanagpur Connection
 
-**For Class 9 (कक्षा 9 के लिए):**
-- Age (आयु): 13-15 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 8
-- Exam (परीक्षा): AISSEE conducted by NTA
+Jharkhand's tribal communities — Santhals, Mundas, Oraons, and Ho — have a long history of military recruitment. The Chotanagpur Plateau, with its harsh terrain and climate, produces physically resilient youth. Sainik School Tilaiya tapped into this demographic, offering tribal and non-tribal students from the region a pathway to military careers that was previously unavailable.
 
-### Admission Steps (प्रवेश प्रक्रिया)
-1. **Apply Online (ऑनलाइन आवेदन)** through NTA website (exams.nta.nic.in/sainik-school-society)
-2. **Appear for AISSEE (AISSEE परीक्षा दें)** — usually held in January
-3. **Check Results (परिणाम जांचें)** on NTA website
-4. **Medical Test (मेडिकल टेस्ट)** for shortlisted candidates
-5. **Final Merit List (अंतिम मेरिट सूची)** based on AISSEE score + medical fitness
-6. **Admission (प्रवेश)** with required documents
+### Boarding Houses
 
-### Important Dates (Tentative for 2027)
-- **Application Start:** October 2026
-- **Last Date:** November 2026
-- **Exam Date:** January 2027
-- **Results:** February 2027
-- **Medical Test:** March 2027
-- **Session Start:** April 2027
+The school organizes cadets into boarding houses — including Ashoka House, Vikram House, and others — named after historical figures. Inter-house competitions in hockey, basketball, and other sports are a regular feature of school life. In May 2026, Ashoka House emerged champions of the Inter House Basketball Tournament, and Vikram House won the Inter House Hockey Tournament.
 
-### Jharkhand Domicile Reservation
+## Location & Contact
 
-Jharkhand ke students ko **67% seats reserved** hain. Baaki 33% seats other states ke students ke liye hain.
+- **Address:** Sainik School Tilaiya, PO Tilaiya Dam, District Koderma, Jharkhand
+- **Website:** [sainikschooltilaiya.org](https://www.sainikschooltilaiya.org/)
+- **Nearest Railway:** Koderma Junction (approx. 20 km)
+- **Nearest Airport:** Birsa Munda Airport, Ranchi; Gaya Airport, Bihar
+- **Contact:** Available on school website
 
-## 💰 Fee Structure (शुल्क संरचना)
+## Admission Details
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹82,000 |
-| Hostel Fee | ₹40,000 |
-| Mess Charges | ₹55,000 |
-| Uniform | ₹13,000 |
-| Books & Stationery | ₹10,000 |
-| Other Charges | ₹10,000 |
-| **Total** | **₹2,10,000** |
+### Eligibility
 
-*Note: Fees are subject to change. SC/ST candidates get fee concessions. Defence personnel ke bachchon ke liye vishesh chhoot hai.*
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
 
-## 🏗️ Facilities (सुविधाएं)
+**Class IX:**
+- Age: 13–15 years as on 31 March
+- Currently in Class VIII
 
-### Academic (शैक्षणिक)
-- Smart classrooms with modern teaching aids
-- Well-equipped Science, Maths, and Computer labs
-- Library with extensive collection
-- Digital learning resources
+### Process
 
-### Sports & Activities (खेल और गतिविधियां)
-- Athletic track
-- Football and hockey grounds
-- Basketball and volleyball courts
-- NCC training (compulsory)
-- Indoor games complex
+1. AISSEE registration through NTA portal
+2. AISSEE examination (January)
+3. AISSAC counselling
+4. Medical examination
+5. Admission
 
-### Hostel & Mess (हॉस्टल और मेस)
-- Separate hostels for junior and senior students
-- Nutritious vegetarian and non-vegetarian meals
-- 24/7 medical facility
-- Wardens for each hostel
+The school provides detailed information on [Entrance Exams](https://www.sainikschooltilaiya.org/entrance-exams/) and [Admission Overview](https://www.sainikschooltilaiya.org/overview/).
 
-### Other Facilities (अन्य सुविधाएं)
-- Auditorium for cultural events
-- Music and art rooms
-- Career counseling cell
-- Strong alumni network
+### Reservation
 
-## 📊 Academic Performance (शैक्षणिक प्रदर्शन)
+67% seats for Jharkhand domicile. 33% for other states.
 
-| Year | 10th Board (%) | 12th Board (%) | NDA Selections |
-|------|----------------|----------------|----------------|
-| 2025 | 96% | 93% | 7+ |
-| 2024 | 95% | 92% | 6+ |
-| 2023 | 94% | 91% | 5+ |
+## Fee Structure
 
-## 🎖️ Notable Alumni (प्रसिद्ध पूर्व छात्र)
+Fee structure for Session 2026-27 is available on the [Fee Structure page](https://www.sainikschooltilaiya.org/fee-structure/). Categories include General, OBC, and Defence. Scholarships are available — details on the [Scholarships page](https://www.sainikschooltilaiya.org/scholarships/).
 
-Sainik School Tilaiya ke alumni Indian Armed Forces mein important positions pe rahe hain. School ka 60+ years ka legacy hai aur hundreds of officers produce kiye hain. Alumni network bahut strong hai.
+## Facilities
 
-## ❓ Frequently Asked Questions (अक्सर पूछे जाने वाले सवाल)
+### Academic
 
-### Sainik School Tilaiya mein admission kaise lein?
-Admission AISSEE ke through hota hai jo NTA conduct karti hai. Online apply karein, exam dein, medical test clear karein, aur merit ke basis par admission milega.
+- CBSE curriculum from Class VI to XII
+- Departments: English, Hindi, Sanskrit, Maths, Physics, Chemistry, Biology, Computer Science, Social Science, Arts & Crafts
+- Library
+- Science laboratories
+- IT Club and other academic clubs
 
-### Kya Jharkhand ke students ko reservation milta hai?
-Haan, 67% seats Jharkhand domicile students ke liye reserved hain. Baaki 33% seats other states ke liye hain.
+### Sports & Physical Training
 
-### Medium of instruction kya hai?
-Medium of instruction English hai. Hindi compulsory language ke roop mein padhai jaati hai.
+- Playgrounds for hockey, football, basketball, and athletics
+- Inter-house tournaments (hockey, basketball — documented on the website)
+- NCC — [Independent Company](https://www.sainikschooltilaiya.org/about-indep-copy/) with dedicated officers and training programs
+- PMKVY (Pradhan Mantri Kaushal Vikas Yojana) skill development
 
-### Kya girls bhi apply kar sakti hain?
-Haan, girls bhi Class 6 mein admission ke liye apply kar sakti hain.
+### Academic Clubs
 
-### Jharkhand mein kitne Sainik Schools hain?
-Jharkhand mein **ek Sainik School** hai — Sainik School Tilaiya (established 1963).
+The school runs specialized clubs:
+- Chemistry Club
+- English Literature Club
+- Hindi Literature Club
+- IT Club
+- Nature and Bio Club
+- Physics Club
 
-## 🔗 Related Links
+### Residential
 
-- [Sainik School Tilaiya Official Website](https://www.sainikschooltilaiya.org)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in India](/sainik-schools/)
+- [Boarding Houses](https://www.sainikschooltilaiya.org/boarding-houses/) — organized by house system
+- Daily Schedule — structured from morning to evening
+- Career Counselling
+- NDA Training — [dedicated classes](https://www.sainikschooltilaiya.org/nda-training/)
 
+## Academic & NDA Performance
+
+The school publishes:
+- [CBSE Results](https://www.sainikschooltilaiya.org/cbse-results/)
+- [NDA Results](https://www.sainikschooltilaiya.org/nda-results/)
+- [Olympiad Results](https://www.sainikschooltilaiya.org/olympiad-results/)
+- [Placements](https://www.sainikschooltilaiya.org/placements/)
+- [Awards & Honours](https://www.sainikschooltilaiya.org/awards-honours/)
+
+The school participates in CBSE Sahodya Complex events and zonal/interzonal competitions.
+
+## Notable Alumni
+
+The school maintains an [Alumni Search](https://www.sainikschooltilaiya.org/alumni-search/) and [Alumni Add](https://www.sainikschooltilaiya.org/alumni-add/) portal. Alumni have served in the Indian Army, Navy, Air Force, and various civil services. The school's association with the Bihar Regiment (now Jharkhand's military heritage) is reflected in its alumni network.
+
+## FAQs
+
+**Q: What does "Forward Ever" mean?**
+A: It's the school's motto — a declaration that cadets should always move forward, never backward. It reflects the school's philosophy of continuous progress.
+
+**Q: Where is Tilaiya Dam?**
+A: Tilaiya Dam is on the Barakar River in Koderma district, Jharkhand. The school is located near the dam.
+
+**Q: Is the school in Jharkhand or Bihar?**
+A: Jharkhand. The school was established in 1963 when the area was part of Bihar, but it has been in Jharkhand since the state's creation in 2000.
+
+**Q: What sports are popular at the school?**
+A: Hockey and basketball are particularly strong, with active inter-house tournaments. The school also has football, athletics, and other sports.
+
+**Q: What clubs does the school have?**
+A: Chemistry, English Literature, Hindi Literature, IT, Nature and Bio, and Physics clubs.
+
+**Q: Are girls admitted?**
+A: Yes, under the co-education policy introduced in recent years.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Jharkhand](/blog/sainik-schools-jharkhand/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
+- [NDA Exam Preparation](/blog/nda-exam-preparation/)

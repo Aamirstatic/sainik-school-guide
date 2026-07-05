@@ -1,133 +1,161 @@
 ---
 title: "Sainik School Bhubaneswar - Complete Guide 2026"
-date: 2026-07-01
+date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Bhubaneswar in Odisha. History, admission process, fees, seats, facilities, contact details, and more."
-keywords: ["sainik school bhubaneswar", "sainik school odisha", "sainik school bhubaneswar admission", "sainik school bhubaneswar fees"]
-established: "1962"
+description: "Sainik School Bhubaneswar in Odisha — est. 1961 by Biju Patnaik, 200 acres in the temple city. Odisha's flagship Sainik School. Admission, fees, NDA results."
+keywords: ["sainik school bhubaneswar", "sainik school odisha", "sainik school bhubaneswar admission", "sainik school bhubaneswar fees", "sainik school bhubaneswar NDA", "sainik school khurda"]
 state: "Odisha"
+established: "1961"
 ---
 
-# Sainik School Bhubaneswar
+# Sainik School Bhubaneswar — Biju Patnaik's Vision for Odisha's Defence Preparedness
 
-Sainik School Bhubaneswar Odisha ka ek premier Sainik School hai jo 1962 mein establish hua. Yeh school Bhubaneswar (Odisha ki capital) mein sthit hai aur India ke oldest Sainik Schools mein se ek hai. School CBSE se affiliated hai aur 60+ years ka legacy hai.
+Biju Patnaik was not just a politician — he was a pilot, a freedom fighter, and a man who understood military capability from the cockpit. When the Indonesian independence movement needed supplies in 1947, it was Biju Patnaik who flew the Dakota aircraft into Indonesian territory, earning him the title of Indonesian national hero. So when the Government of India decided to establish Sainik Schools, it was Biju Patnaik — then Chief Minister of Odisha — who ensured that Bhubaneswar got one.
 
-## 📍 Location & Contact
+Sainik School Bhubaneswar was established in 1961 on a 200-acre campus in the Khurda district of Odisha's capital city. The school was among the first wave of Sainik Schools, and its establishment reflected Biju Patnaik's belief that Odisha's youth — many from rural and tribal backgrounds — deserved access to military-oriented education.
 
-- **Address:** Sainik School Bhubaneswar, Bhubaneswar, Odisha - 751005
-- **Phone:** 0674-2915070
-- **Email:** sainikschoolbhubaneswar@gmail.com
-- **Website:** [sainikschoolbhubaneswar.edu.in](https://sainikschoolbhubaneswar.edu.in)
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Bhubaneswar+Odisha)
+The school, located in Bhubaneswar — India's "Temple City" with over 700 temples — operates in a state that has a significant military contribution through the Odisha Regiment and other units. The 200-acre campus provides space for academic buildings, sports facilities, dormitories, and training grounds.
 
-## 🏫 About the School
+## Quick Facts
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 1962 |
-| **State** | Odisha |
-| **District** | Khurda (Bhubaneswar) |
-| **Campus Area** | 200+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+| Detail | Info |
+|--------|------|
+| Established | 1961 |
+| Location | Khurda District, Bhubaneswar, Odisha – 751005 |
+| Campus | 200 acres |
+| CBSE Affiliation | Yes |
+| Classes | VI to XII |
+| Medium | English |
+| Type | Residential (now co-educational) |
+| Website | [sainikschoolbhubaneswar.edu.in](https://sainikschoolbhubaneswar.edu.in/) |
 
-Sainik School Bhubaneswar की स्थापना 1962 में हुई थी। यह Odisha ka sabse purana Sainik School hai (doosra Sambalpur mein hai) और India ke oldest Sainik Schools mein se ek hai. School Bhubaneswar city mein hai, jo Odisha ki capital hai.
+## History & Legacy
 
-## 🎯 Admission Process
+### Biju Patnaik's Initiative
 
-### Eligibility Criteria
+Sainik School Bhubaneswar owes its existence to Biju Patnaik's foresight. As Chief Minister, Patnaik recognized that Odisha needed a military feeder school to ensure the state's youth had access to the National Defence Academy pipeline. The school was established in 1961, making it one of the earliest Sainik Schools in India.
 
-**For Class 6:**
-- Age: 10-12 years as on March 31
-- Currently studying in Class 5
+The 200-acre campus in Khurda district was developed with residential blocks, academic buildings, sports facilities, and a swimming pool. The school was initially a purely residential school for boys, but has since become co-educational with the admission of girls.
 
-**For Class 9:**
-- Age: 13-15 years as on March 31
-- Currently studying in Class 8
+### The Odisha Regiment Connection
 
-### Admission Steps
-1. Apply Online through NTA website
-2. Appear for AISSEE (January)
-3. Check Results on NTA website
-4. Medical Test for shortlisted candidates
-5. Final Merit List
-6. Admission with required documents
+Odisha has a significant military contribution through the Odisha Regiment (formerly the 1st Odia Infantry). Sainik School Bhubaneswar draws on this tradition, producing officers who serve in the Indian Army, Navy, and Air Force.
 
-### Odisha Domicile Reservation
+### Relocation Controversy
 
-Odisha ke students ko **67% seats reserved** hain.
+In recent years, there have been discussions about relocating the school from its current 200-acre campus in prime Bhubaneswar location. Parents and alumni have opposed the move, arguing that the school's heritage and location are integral to its identity. The Odisha Parents Federation has demanded that the Chief Minister stop the relocation and preserve the heritage of the school.
 
-## 💰 Fee Structure (शुल्क संरचना)
+## Location & Contact
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹82,000 |
-| Hostel Fee | ₹40,000 |
-| Mess Charges | ₹55,000 |
-| Uniform | ₹13,000 |
-| Books & Stationery | ₹10,000 |
-| Other Charges | ₹10,000 |
-| **Total** | **₹2,10,000** |
+- **Address:** Khurda District, Bhubaneswar, Odisha – 751005
+- **Website:** [sainikschoolbhubaneswar.edu.in](https://sainikschoolbhubaneswar.edu.in/)
+- **Nearest Airport:** Biju Patnaik International Airport, Bhubaneswar
+- **Nearest Railway:** Bhubaneswar Railway Station
+- **Social Media:** [Twitter](https://twitter.com/ssbhubaneswar) | [YouTube](https://www.youtube.com/channel/UCU1k1P5xja3NzX_atqKcIeQ) | [Facebook](https://www.facebook.com/sainikschool.bhubaneswar.376/)
 
-*Note: Fees are subject to change. SC/ST candidates get fee concessions.*
+## Admission Details
 
-## 🏗️ Facilities (सुविधाएं)
+### Eligibility
+
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
+
+**Class IX:**
+- Age: 13–15 years as on 31 March
+- Currently in Class VIII
+
+### Process
+
+1. AISSEE registration through NTA portal
+2. AISSEE examination (January)
+3. AISSAC counselling — the school conducts multiple offline rounds for remaining vacancies
+4. Medical examination
+5. Document verification
+
+The school publishes detailed offline admission lists and waiting lists on its website, including category-wise (Home State SC, OBC, Defence, Other States) merit lists.
+
+### Reservation
+
+67% seats for Odisha domicile. 33% for other states.
+
+## Fee Structure
+
+Fee structure is available on the [Fee Structure page](https://www.sainikschoolbhubaneswar.edu.in/feestructure.php). Online fee payment is available through the school's [payment portal](https://sainikschoolbhubaneswar.edu.in/onlinepayment.php). Scholarships from the Ministry of Defence and Odisha state government are available — details on the [Scholarship page](https://sainikschoolbhubaneswar.edu.in/scholarship.php).
+
+## Facilities
 
 ### Academic
-- Smart classrooms
-- Science, Maths, and Computer labs
-- Library with extensive collection
 
-### Sports & Activities
-- Athletic track
-- Football and hockey grounds
-- NCC training (compulsory)
-- Swimming pool
+- CBSE-affiliated curriculum
+- [Classrooms](https://www.sainikschoolbhubaneswar.edu.in/classrooms.php) — modern teaching facilities
+- [Laboratories](https://sainikschoolbhubaneswar.edu.in/labs.php)
+- [Library](https://sainikschoolbhubaneswar.edu.in/library.php)
+- [Conference Hall](https://sainikschoolbhubaneswar.edu.in/Conference-Hall.php)
 
-### Hostel & Mess
-- Separate hostels
-- Nutritious meals
-- 24/7 medical facility
+### Sports & Training
 
-## 📊 Academic Performance
+- [Playground](https://sainikschoolbhubaneswar.edu.in/playground.php) — extensive sports facilities
+- [Swimming Pool](https://sainikschoolbhubaneswar.edu.in/swimmingpool.php)
+- [Gymnasium](https://sainikschoolbhubaneswar.edu.in/Gymnasium.php)
+- [NCC Activities](https://sainikschoolbhubaneswar.edu.in/ncc-activity.php)
+- [Sports](https://sainikschoolbhubaneswar.edu.in/sports.php)
 
-| Year | 10th Board (%) | 12th Board (%) | NDA Selections |
-|------|----------------|----------------|----------------|
-| 2025 | 97% | 94% | 7+ |
-| 2024 | 96% | 93% | 6+ |
-| 2023 | 95% | 92% | 5+ |
+### Residential
 
-## 🎖️ Notable Alumni
+- [House System](https://sainikschoolbhubaneswar.edu.in/housesystem.php) — organized by boarding houses
+- [Mess](https://sainikschoolbhubaneswar.edu.in/mess.php)
+- [Infirmary](https://sainikschoolbhubaneswar.edu.in/infirmary.php)
+- [Transport](https://sainikschoolbhubaneswar.edu.in/transport.php)
+- [Auditorium](https://sainikschoolbhubaneswar.edu.in/auditorium.php)
 
-Sainik School Bhubaneswar ke alumni Indian Armed Forces mein important positions pe rahe hain. School ka 60+ years ka legacy hai.
+### Activities
 
-## ❓ FAQs
+- [Cultural Activities](https://sainikschoolbhubaneswar.edu.in/cultural-activity.php)
+- [Co-curricular Activities](https://sainikschoolbhubaneswar.edu.in/co-curicular.php)
+- [Workshops](https://sainikschoolbhubaneswar.edu.in/workshop.php)
+- [Seminars](https://sainikschoolbhubaneswar.edu.in/seminar.php)
+- [Clubs](https://sainikschoolbhubaneswar.edu.in/club.php)
 
-### Sainik School Bhubaneswar mein admission kaise lein?
-Admission AISSEE ke through hota hai jo NTA conduct karti hai.
+## Academic & NDA Performance
 
-### Odisha mein kitne Sainik Schools hain?
-Odisha mein **do Sainik Schools** hain:
-1. Sainik School Bhubaneswar (established 1962)
-2. Sainik School Sambalpur (established 2009)
+The school publishes:
+- [NDA Results](https://sainikschoolbhubaneswar.edu.in/nda-result.php)
+- [UPSC Results](https://sainikschoolbhubaneswar.edu.in/upsc-result.php)
+- [Examination Results](https://sainikschoolbhubaneswar.edu.in/examination-result.php)
+- [Achievements](https://sainikschoolbhubaneswar.edu.in/achievements.php)
 
-## 🔗 Related Links
+The school participates in Pariksha Pe Charcha and other national-level academic events.
 
-- [Sainik School Bhubaneswar Official Website](https://sainikschoolbhubaneswar.edu.in)
-- [Sainik School Sambalpur (Odisha's other Sainik School)](/schools/sainik-school-sambalpur/)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in India](/sainik-schools/)
+## Notable Alumni
 
+The school maintains an [Alumni List](https://sainikschoolbhubaneswar.edu.in/alumni.php) and [Alumni Registration](https://sainikschoolbhubaneswar.edu.in/alumni/auth-cover-signin.php) portal. Alumni serve in the Indian Armed Forces across all three services.
+
+## FAQs
+
+**Q: Who established Sainik School Bhubaneswar?**
+A: The school was established in 1961 under the initiative of Biju Patnaik, then Chief Minister of Odisha and a former pilot and freedom fighter.
+
+**Q: What is the campus area?**
+A: 200 acres in Khurda district, Bhubaneswar.
+
+**Q: Is there a relocation controversy?**
+A: Yes. There have been discussions about relocating the school from its current prime location. Parents and alumni have opposed the move.
+
+**Q: Are girls admitted?**
+A: Yes. The school has become co-educational with the admission of girls.
+
+**Q: What is the nearest airport?**
+A: Biju Patnaik International Airport, Bhubaneswar.
+
+**Q: Does the school have a swimming pool?**
+A: Yes. The campus includes a swimming pool, gymnasium, and extensive sports facilities.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Odisha](/blog/sainik-schools-odisha/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
+- [NDA Exam Preparation](/blog/nda-exam-preparation/)

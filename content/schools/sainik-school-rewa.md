@@ -1,177 +1,154 @@
 ---
 title: "Sainik School Rewa - Complete Guide 2026"
-date: 2026-07-01
+date: 2026-07-05
 draft: false
-description: "Get complete information about Sainik School Rewa in Madhya Pradesh. Admission process, fees, facilities, contact details, and more."
-keywords: ["sainik school rewa", "sainik school madhya pradesh", "AISSEE rewa", "sainik school rewa admission", "sainik school rewa fees"]
-established: "1962"
+description: "Sainik School Rewa in Madhya Pradesh — the land of White Tigers. Est. 1962, 242-acre campus in Civil Lines. Admission, fees, NDA results, notable alumni."
+keywords: ["sainik school rewa", "sainik school madhya pradesh", "sainik school rewa admission", "sainik school rewa fees", "sainik school rewa contact", "sainik school rewa NDA"]
 state: "Madhya Pradesh"
+established: "1962"
 ---
 
-# Sainik School Rewa
+# Sainik School Rewa — From the Land of White Tigers to the Ranks of the Armed Forces
 
-Sainik School Rewa is a prestigious Sainik School located in the historical city of Rewa, Madhya Pradesh. Established in 1962, the school has been instrumental in producing officers for the Indian Armed Forces for over six decades. The school is spread across a sprawling campus amidst the natural beauty of the Vindhya region.
+Rewa is known for one extraordinary claim to fame: in 1951, a white tiger named Mohan was captured in the forests near Rewa by Maharaja Martand Singh. That white tiger lineage — the only one in captivity — put this quiet Vindhyan city on the global map. A decade later, in 1962, the Government of India added another distinction: a Sainik School, established on 242.77 acres of land allotted by the Madhya Pradesh state government in the Civil Lines area.
 
-## 📍 Location & Contact
+Sainik School Rewa is a purely residential, English-medium school affiliated to CBSE, New Delhi. Its campus sits at Latitude 24.55°N, Longitude 81.30°E — a dry, continental climate with hot summers and cold winters that toughens cadets for the rigors of military life. Located 550 km from Bhopal, 235 km from Jabalpur, and just 3 km from the Rewa bus stand, the school is accessible yet set apart — a deliberate design for focused residential education.
 
-- **Address:** Sainik School Rewa, Satna Road, Rewa, Madhya Pradesh - 486001
-- **Phone:** +91-7862-248024
-- **Email:** ssrewa@gmail.com
-- **Website:** sainikschoolrewa.edu.in
-- **Google Maps:** [View Location](https://maps.google.com/?q=Sainik+School+Rewa)
+## Quick Facts
 
-## 🏫 About the School
+| Detail | Info |
+|--------|------|
+| Established | 1962 |
+| Location | Civil Lines, Rewa, Madhya Pradesh |
+| Campus | 242.77 acres (allotted by MP State Government) |
+| CBSE Affiliation | Yes |
+| Classes | VI to XII |
+| Medium | English |
+| Type | Purely Residential |
+| Website | [sainikschoolrewa.ac.in](https://www.sainikschoolrewa.ac.in/) |
+| Phone | Available on website |
+| Email | Available on website |
+| Nearest Railway | Rewa (6 km); Satna (54 km) — major junction |
 
-| Feature | Details |
-|---------|---------|
-| **Established** | 1962 |
-| **State** | Madhya Pradesh |
-| **District** | Rewa |
-| **Campus Area** | 275+ acres |
-| **Affiliation** | CBSE |
-| **Classes** | 6 to 12 |
-| **Medium** | English |
+## History & Legacy
 
-Sainik School Rewa की स्थापना 1962 में हुई थी। यह मध्य प्रदेश का एकमात्र सैनिक स्कूल है। विंध्य क्षेत्र की प्राकृतिक सुंदरता से घिरा यह campus बच्चों को अनुशासित और शारीरिक रूप से मजबूत बनाने के लिए आदर्श माहौल प्रदान करता है।
+### Establishment and Early Years
 
-## 🎯 Admission Process
+Sainik School Rewa was established in 1962, making it part of the second wave of Sainik Schools created after the initial batch of 1961. The Madhya Pradesh government allotted 242.77 acres in the Civil Lines area — a prime location in what was then a relatively small city. The school was designed to serve the Hindi-speaking heartland of central India, drawing cadets from Madhya Pradesh and neighboring states.
 
-### Eligibility Criteria (पात्रता मानदंड)
+### The Vindhyan Connection
 
-**For Class 6 (कक्षा 6 के लिए):**
-- Age (आयु): 10-12 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 5
-- Exam (परीक्षा): AISSEE conducted by NTA
+The school's location in Rewa, at the edge of the Vindhya Range, gives it a unique geographical character. The terrain is undulating, with scrubland and rocky outcrops that provide natural obstacles for outdoor training. The climate — extreme heat in summer, near-freezing temperatures in winter — builds physical resilience in cadets from an early age.
 
-**For Class 9 (कक्षा 9 के लिए):**
-- Age (आयु): 13-15 years as on March 31 of admission year
-- Class (कक्षा): Currently studying in Class 8
-- Exam (परीक्षा): AISSEE conducted by NTA
+### Notable Military Connections
 
-### Admission Steps (प्रवेश प्रक्रिया)
-1. **Apply Online (ऑनलाइन आवेदन)** through NTA website (exams.nta.nic.in/sainik-school-society)
-2. **Appear for AISSEE (AISSEE परीक्षा दें)** — usually held in January
-3. **Check Results (परिणाम जांचें)** on NTA website
-4. **Medical Test (मेडिकल टेस्ट)** for shortlisted candidates
-5. **Final Merit List (अंतिम मेरिट सूची)** based on AISSEE score + medical fitness
-6. **Admission (प्रवेश)** with required documents
+Sainik School Rewa has produced several senior officers. Gen Upendra Dwivedi, PVSM, AVSM, who assumed the appointment of Chief of the Army Staff, is among the most prominent military leaders associated with the school's feeder network. Lt Gen K.T. Parnaik, PVSM, UYSM, YSM (Retd), former GOC-in-C Northern Command, assumed the appointment of Governor of Arunachal Pradesh in February 2023 — a career trajectory from soldier to statesman that exemplifies the Sainik School ethos.
 
-### Important Dates (Tentative for 2027)
-- **Application Start:** October 2026
-- **Last Date:** November 2026
-- **Exam Date:** January 2027
-- **Results:** February 2027
-- **Medical Test:** March 2027
-- **Session Start:** April 2027
+The school's alumni include gallantry award winners whose citations are displayed on the campus.
 
-## 💰 Fee Structure (शुल्क संरचना)
+## Location & Contact
 
-| Fee Component | Annual Amount (Approx.) |
-|---------------|------------------------|
-| Tuition Fee | ₹80,000 |
-| Hostel Fee | ₹40,000 |
-| Mess Charges | ₹55,000 |
-| Uniform | ₹12,000 |
-| Books & Stationery | ₹8,000 |
-| **Total** | **₹1,95,000** |
+- **Address:** Sainik School Rewa, Civil Lines, Rewa, Madhya Pradesh
+- **Website:** [sainikschoolrewa.ac.in](https://www.sainikschoolrewa.ac.in/)
+- **Nearest Railway Stations:** Rewa (6 km), Satna (54 km — major junction with trains to Bhopal, Jabalpur, Bilaspur, Allahabad, New Delhi, Nagpur, Rajkot)
+- **Nearest Airport:** Khajuraho Airport (approx. 130 km); Prayagraj Airport (approx. 200 km)
+- **Road Connectivity:** On Allahabad-Mumbai highway; 550 km from Bhopal, 235 km from Jabalpur, 578 km from Raipur
 
-*Note: Fees are subject to change. SC/ST candidates ko fee concession milta hai. Defense personnel ke bachchon ke liye vishesh chhoot hai. (रक्षा कर्मियों के बच्चों के लिए विशेष छूट है।)*
+## Admission Details
 
-## 🏗️ Facilities (सुविधाएं)
+### Eligibility
 
-### Academic (शैक्षणिक)
-- Smart classrooms with modern teaching aids
-- Well-equipped Science, Computer, and Language labs
-- Library with 15,000+ books
-- Digital learning resources
-- Separate study rooms for senior students
+**Class VI:**
+- Age: 10–12 years as on 31 March
+- Currently in Class V
+- Both boys and girls eligible
 
-### Sports & Activities (खेल और गतिविधियां)
-- 400-meter athletic track
-- Football and hockey grounds
-- Swimming pool
+**Class IX:**
+- Age: 13–15 years as on 31 March
+- Currently in Class VIII
+
+### Admission Process
+
+1. **AISSEE Registration:** Through NTA portal (October–November)
+2. **AISSEE Exam:** January (computer-based test)
+3. **AISSAC Counselling:** Online counselling through NCOG portal
+4. **Spot Round Counselling:** The school conducts offline spot rounds for remaining vacancies
+5. **Medical & Document Verification**
+
+The school publishes detailed admission notices and spot round lists on its website, including instructions in Hindi for local candidates.
+
+### Reservation
+
+67% seats for Madhya Pradesh domicile. 33% for other states. Category-wise reservations (SC/ST/OBC/Defence) as per Government of India norms.
+
+## Fee Structure
+
+Fee structure for each academic session is published on the school website under [Fees Structure](https://www.sainikschoolrewa.ac.in/fees_Structure.aspx). Online fee payment is available through [PNB portal](https://www.mypnb.in/payfee/). Scholarship details and income certificate requirements are published under the Scholarship section.
+
+## Facilities
+
+### Academic
+
+- Classrooms with modern teaching aids
+- Science laboratories (Physics, Chemistry, Biology)
+- Computer Science laboratory
+- Library
+- NDA training classes integrated into the academic schedule
+
+### Sports & Outdoor
+
+- Playgrounds for hockey, football, cricket, and athletics
 - Basketball and volleyball courts
-- NCC training
-- Horse riding
-- Shooting range
-- Boxing and wrestling training
+- Swimming pool
+- Horse riding facility
+- NCC training ground
 
-### Hostel & Mess (हॉस्टल और मेस)
-- Spacious dormitories with modern amenities
-- Nutritious vegetarian and non-vegetarian meals
-- 24/7 medical facility with qualified doctor
-- Laundry service
-- RO purified drinking water
+### Residential
 
-### Other Facilities (अन्य सुविधाएं)
-- Auditorium for cultural events
-- Music and art rooms
-- Career counseling cell
-- Strong alumni network
-- Yoga and meditation hall
+- Separate boarding houses for cadets
+- Cadet mess with balanced nutrition
+- Medical infirmary
+- School routine structured from morning PT to evening prep
 
-## 📊 Academic Performance (शैक्षणिक प्रदर्शन)
+### Training
 
-| Year | 10th Board (%) | 12th Board (%) | AISSEE Selection Rate |
-|------|----------------|----------------|----------------------|
-| 2025 | 97.5% | 94.8% | 82% |
-| 2024 | 96.8% | 93.5% | 79% |
-| 2023 | 95.2% | 92.8% | 76% |
+- **NDA Training:** Dedicated coaching for NDA written examination
+- **NCC:** Active NCC company with regular camps and activities
+- **Sports Corner:** Regular inter-house and inter-school competitions
+- **Games & Sports:** Comprehensive program covering major sports
 
-## 🎖️ Notable Alumni (प्रसिद्ध पूर्व छात्र)
+## Academic & NDA Performance
 
-- **Lt. Gen. (Retd.) R.K. Singh** - Former GOC-in-C, Central Command
-- **Air Marshal (Retd.) A.K. Mishra** - Former AOC-in-C, South Western Air Command
-- **Brigadier (Retd.) S.S. Thakur** - Shaurya Chakra Awardee
+Sainik School Rewa publishes its academic results and NDA selection data on the school website under the [NDA section](https://www.sainikschoolrewa.ac.in/NDA.aspx) and [Cadets Academic Result](https://www.sainikschoolrewa.ac.in/Cadets_Academic_Result.aspx). The school has a consistent record of sending cadets to the National Defence Academy.
 
-## ❓ Frequently Asked Questions (अक्सर पूछे जाने वाले सवाल)
+## Notable Alumni
 
-### Sainik School Rewa mein admission kaise lein?
-Admission AISSEE (All India Sainik School Entrance Exam) ke through hota hai jo NTA conduct karti hai. Students ko online apply karna hota hai, exam dena hota hai, medical test clear karna hota hai, aur phir merit ke basis par admission milta hai.
+The school maintains a [Distinguished Alumni](https://www.sainikschoolrewa.ac.in/Distinguished_Alumnae.aspx) page and a [Gallantry Award Winners](https://www.sainikschoolrewa.ac.in/Gallantry_award_winners.aspx) section. Alumni are encouraged to register through the school's Alumni portal.
 
-### Kya Madhya Pradesh ke students ko reservation milta hai?
-Haan, 67% seats Madhya Pradesh domicile students ke liye reserved hain. Baaki 33% seats other states ke students ke liye hain.
+## FAQs
 
-### Medium of instruction kya hai?
-Medium of instruction English hai. Hindi compulsory language ke roop mein padhai jaati hai.
+**Q: Why is Sainik School Rewa called the "White Tiger" school?**
+A: Rewa is the birthplace of the white tiger lineage — the only white tigers in captivity today descend from Mohan, captured near Rewa in 1951. The school draws its identity from this unique association with the city.
 
-### Kya girls bhi apply kar sakti hain?
-Haan, 2021 se girls bhi Class 6 mein admission ke liye apply kar sakti hain.
+**Q: How far is the school from Rewa railway station?**
+A: 6 km. The school is 3 km from the Rewa bus stand.
 
-### Sainik School Rewa ki fees kitni hai?
-Annual fees approximately ₹1,95,000 hai (Tuition + Hostel + Mess + Uniform + Books). SC/ST candidates aur defense personnel ke bachchon ko fee concession milta hai.
+**Q: What is the campus area?**
+A: 242.77 acres, allotted by the Madhya Pradesh state government in 1962.
 
-### Sainik School ke baad kya career options hain?
-Students join kar sakte hain:
-- National Defence Academy (NDA)
-- Indian Military Academy (IMA)
-- Naval Academy
-- Air Force Academy
-- Civil services
-- Engineering and medical fields
+**Q: Is the school purely residential?**
+A: Yes. Sainik School Rewa is a purely residential school — all cadets live on campus.
 
-## 🔗 Related Links
+**Q: Are girls admitted?**
+A: Yes, girls are admitted to Class VI under the co-education policy.
 
-- [Sainik School Rewa Official Website](https://sainikschoolrewa.edu.in)
-- [AISSEE 2027 Preparation Guide](/blog/aissee-2027-preparation-tips/)
-- [All Sainik Schools in Madhya Pradesh](/states/madhya-pradesh/)
-- [Compare with Other Sainik Schools](/sainik-schools/)
-
-## 📞 Contact Us
-
-For any queries about Sainik School Rewa, feel free to reach out to us:
-- **Email:** info@sainikschooleastsiang.in
-- **WhatsApp:** [Click to Chat](https://wa.me/91XXXXXXXXXX)
-
+**Q: How do I pay fees?**
+A: Online through the PNB portal (mypnb.in/payfee/) or as per instructions on the school website.
 
 ## Related Articles
 
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School vs RIMC vs RMS](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-- [All Sainik Schools in India](/schools/)
-
----
-
-*Last Updated: July 2026*
+- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
+- [Sainik Schools in Madhya Pradesh](/blog/sainik-schools-madhya-pradesh/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
+- [NDA Exam Preparation Guide](/blog/nda-exam-preparation/)

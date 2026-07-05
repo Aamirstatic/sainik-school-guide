@@ -4,12 +4,38 @@
   .news-hero {
     background: linear-gradient(135deg, #01263b, #0367a1);
     color: white;
-    padding: 50px 20px;
+    padding: 0;
+    overflow: hidden;
   }
-  .news-hero-inner { max-width: 1200px; margin: 0 auto; }
+  .news-hero-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 500px;
+    align-items: center;
+  }
+  .hero-text { padding: 50px 40px; }
+  .hero-image {
+    position: relative;
+    height: 100%;
+    min-height: 500px;
+    overflow: hidden;
+  }
+  .hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .hero-image-overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(90deg, #01263b 0%, transparent 30%);
+  }
   .news-hero h1 { font-size: 36px; font-weight: 800; line-height: 1.2; margin-bottom: 12px; }
   .news-hero h1 span { color: #F6D835; }
-  .news-hero p { font-size: 16px; opacity: 0.9; margin-bottom: 20px; max-width: 600px; }
+  .news-hero p { font-size: 16px; opacity: 0.9; margin-bottom: 20px; max-width: 500px; }
   .news-hero-btns { display: flex; gap: 12px; flex-wrap: wrap; }
   .btn-hero { padding: 12px 24px; border-radius: 8px; font-weight: 600; font-size: 15px; text-decoration: none; transition: transform 0.2s; }
   .btn-hero:hover { transform: translateY(-2px); }
@@ -67,6 +93,10 @@
   }
   @media (max-width: 768px) {
     .news-hero h1 { font-size: 24px; }
+    .news-hero-inner { grid-template-columns: 1fr; min-height: auto; }
+    .hero-text { padding: 30px 20px; }
+    .hero-image { min-height: 250px; }
+    .hero-image-overlay { background: linear-gradient(180deg, transparent 50%, #01263b 100%); }
     .blog-grid { grid-template-columns: 1fr; }
     .schools-grid { grid-template-columns: repeat(2, 1fr); }
     .hero-stats { gap: 15px; }
@@ -77,18 +107,28 @@
 <!-- Hero -->
 <section class="news-hero">
   <div class="news-hero-inner">
-    <h1>Sainik School Guide India <span>Complete Directory</span></h1>
-    <p>Everything you need to know about 33+ Sainik Schools. AISSEE preparation, admission guides, fees, and daily articles.</p>
-    <div class="news-hero-btns">
-      <a href="javascript:void(0)" onclick="openLead('📝 Get Admission Guide 2027', 'Enter details to download the complete guide', '/blog/sainik-school-admission-2027-guide/')" class="btn-hero btn-hero-primary">📥 Download Admission Guide</a>
-      <a href="/tools/age-calculator/" class="btn-hero" style="background: #4CAF50; color: white;">🧮 Age Calculator</a>
-      <a href="/schools/" class="btn-hero btn-hero-outline">All 33+ Schools</a>
+    <div class="hero-text">
+      <h1>Sainik School Guide India <span>Complete Directory</span></h1>
+      <p>Everything you need to know about 33+ Sainik Schools. AISSEE preparation, admission guides, fees, and daily articles.</p>
+      <div class="news-hero-btns">
+        <a href="javascript:void(0)" onclick="openLead('📝 Get Admission Guide 2027', 'Enter details to download the complete guide', '/blog/sainik-school-admission-2027-guide/')" class="btn-hero btn-hero-primary">📥 Download Admission Guide</a>
+        <a href="/tools/age-calculator/" class="btn-hero" style="background: #4CAF50; color: white;">🧮 Age Calculator</a>
+        <a href="/schools/" class="btn-hero btn-hero-outline">All 33+ Schools</a>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat"><div class="hero-stat-num">33+</div><div class="hero-stat-label">Sainik Schools</div></div>
+        <div class="hero-stat"><div class="hero-stat-num">14</div><div class="hero-stat-label">Articles</div></div>
+        <div class="hero-stat"><div class="hero-stat-num">₹2L</div><div class="hero-stat-label">Avg. Fee</div></div>
+        <div class="hero-stat"><div class="hero-stat-num">25%</div><div class="hero-stat-label">NDA Officers</div></div>
+      </div>
     </div>
-    <div class="hero-stats">
-      <div class="hero-stat"><div class="hero-stat-num">33+</div><div class="hero-stat-label">Sainik Schools</div></div>
-      <div class="hero-stat"><div class="hero-stat-num">14</div><div class="hero-stat-label">Articles</div></div>
-      <div class="hero-stat"><div class="hero-stat-num">₹2L</div><div class="hero-stat-label">Avg. Annual Fee</div></div>
-      <div class="hero-stat"><div class="hero-stat-num">25%</div><div class="hero-stat-label">NDA Officers</div></div>
+    <div class="hero-image">
+      <picture>
+        <source srcset="/images/hero-students.avif" type="image/avif">
+        <source srcset="/images/hero-students.webp" type="image/webp">
+        <img src="/images/hero-students.jpeg" alt="Sainik School Students" width="1200" height="630" loading="eager" fetchpriority="high">
+      </picture>
+      <div class="hero-image-overlay"></div>
     </div>
   </div>
 </section>
