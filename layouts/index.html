@@ -239,34 +239,6 @@
     font-weight: 600;
   }
 
-  /* Stats Bar */
-  .stats-bar {
-    background: white;
-    padding: 20px;
-    border-top: 1px solid #E5E7EB;
-    border-bottom: 1px solid #E5E7EB;
-  }
-  .stats-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
-    text-align: center;
-  }
-  .stat-item {
-    padding: 12px;
-  }
-  .stat-num {
-    font-size: 28px;
-    font-weight: 800;
-    color: #00BCD4;
-  }
-  .stat-label {
-    font-size: 12px;
-    color: #6B7280;
-  }
-
   /* Responsive */
   @media (max-width: 992px) {
     .news-hero-inner, .news-section {
@@ -292,9 +264,26 @@
       <div class="news-hero-meta">📰 Sainik School News & Updates</div>
       <h1>Sainik School East Siang Complete Guide 2026</h1>
       <p>Your trusted source for Sainik School admission information, AISSEE preparation tips, fee details, and daily updates about all 33+ Sainik Schools across India.</p>
-      <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+      <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 24px;">
         <a href="/blog/sainik-school-admission-2027-guide/" class="btn-primary" style="background: #F6D835; color: #111;">Read Admission Guide →</a>
         <a href="/aissee/" class="btn-primary" style="background: transparent; border: 2px solid rgba(255,255,255,0.3);">AISSEE 2027</a>
+      </div>
+      
+      <!-- Latest Articles in Hero -->
+      <div style="margin-top: 20px;">
+        <h3 style="font-size: 16px; margin-bottom: 12px; opacity: 0.8;">📰 Latest Articles</h3>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+          <a href="{{ .Permalink }}" style="display: flex; gap: 12px; align-items: center; background: rgba(255,255,255,0.1); border-radius: 8px; padding: 10px 14px; text-decoration: none; color: white; transition: background 0.2s;">
+            <span style="font-size: 20px;">📄</span>
+            <div>
+              <div style="font-size: 13px; font-weight: 600;">{{ .Title | truncate 50 }}</div>
+              <div style="font-size: 11px; opacity: 0.7;">{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</div>
+            </div>
+          </a>
+          {{ end }}
+          <a href="/blog/" style="font-size: 12px; color: #F6D835; text-decoration: none; font-weight: 600;">View All Articles →</a>
+        </div>
       </div>
     </div>
     <div class="news-hero-sidebar">
@@ -314,28 +303,6 @@
     </div>
   </div>
 </section>
-
-<!-- Stats Bar -->
-<div class="stats-bar">
-  <div class="stats-inner">
-    <div class="stat-item">
-      <div class="stat-num">33+</div>
-      <div class="stat-label">Sainik Schools</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-num">5000+</div>
-      <div class="stat-label">Students Guided</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-num">95%</div>
-      <div class="stat-label">Success Rate</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-num">10+</div>
-      <div class="stat-label">Years Experience</div>
-    </div>
-  </div>
-</div>
 
 <!-- News Section -->
 <div class="news-section">
