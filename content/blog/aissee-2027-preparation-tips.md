@@ -112,7 +112,7 @@ GK sabse **underestimated subject** hai. Bahut students isko ignore karte hain â
 
 Language section mein **reading comprehension, grammar, aur vocabulary** aata hai. Yeh section relatively easy hai agar daily practice karo.
 
-**Key Areas:**
+**Main Areas:**
 - Reading Comprehension (Passage padh ke questions answer karo)
 - Grammar (Tenses, Articles, Prepositions, Subject-Verb Agreement)
 - Vocabulary (Synonyms, Antonyms, One-word substitutions)
@@ -159,7 +159,7 @@ Intelligence section mein **logical reasoning, pattern recognition, aur mental a
 | Intelligence | 30 minutes | Basic patterns |
 | **Total** | **3 hours** | |
 
-**Key Actions:**
+**Main Actions:**
 - NCERT Class 5/8 ki har exercise solve karo
 - Ek notebook mein formulas aur important points likho
 - Weak areas identify karo aur unpe extra time do
@@ -176,7 +176,7 @@ Intelligence section mein **logical reasoning, pattern recognition, aur mental a
 | Intelligence | 45 minutes | Advanced patterns |
 | **Total** | **3.5 hours** | |
 
-**Key Actions:**
+**Main Actions:**
 - Last 5 years ke AISSEE papers solve karo
 - Topic-wise tests lo (weekly 2-3 tests)
 - GK ke liye monthly magazines padho
@@ -195,7 +195,7 @@ Intelligence section mein **logical reasoning, pattern recognition, aur mental a
 | Mock Tests | 2 hours | Full-length mock (alternate days) |
 | **Total** | **4.2 hours** | |
 
-**Key Actions:**
+**Main Actions:**
 - Alternate days full mock test lo
 - Har mock test ke baad analysis karo (kahaan galti hui?)
 - Formula sheet aur GK notes daily revise karo

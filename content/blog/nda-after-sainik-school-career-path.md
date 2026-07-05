@@ -215,7 +215,7 @@ NDA ke baad students ko **service academy** mein 1 year ki training milti hai:
 **Additional Benefits:**
 - Free accommodation (or HRA)
 - Free medical for family
-- Canteen facilities ( subsidised)
+- Canteen facilities (subsidised)
 - Leave Travel Concession
 - Pension after retirement
 - Children education allowance

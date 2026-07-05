@@ -121,7 +121,7 @@ Many students clear the written exam but fail the medical test. This is heartbre
 
 ## Mistake 5: Wrong School Selection
 
-Many parents choose Sainik Schools based on location only. This is not the best approach.
+Many parents choose Sainik Schools based on location only. That alone is not enough.
 
 ### What to Consider
 
@@ -174,9 +174,9 @@ Research all Sainik Schools before making a choice. Don't just pick the nearest 
 
 ## Conclusion
 
-Avoiding these 5 mistakes can significantly increase your child's chances of getting into Sainik School. Start early, stay informed, and prepare well.
+Avoiding these 5 mistakes can really improve your child's chances of getting into Sainik School. Start early, stay informed, and prepare well.
 
-**Remember:** Every year, students from ordinary backgrounds get selected. Your child can too. The key is proper planning and avoiding common mistakes.
+**Remember:** Every year, students from ordinary backgrounds get selected. Your child can too. What matters is proper planning and avoiding common mistakes.
 
 ---
 
