@@ -114,10 +114,10 @@
     list-style: disc;
     padding-left: 20px;
     margin-top: 12px;
-    display: none;
-  }
-  .toc-list.open {
     display: block;
+  }
+  .toc-list.closed {
+    display: none;
   }
   .toc-list li {
     margin-bottom: 8px;
@@ -1004,7 +1004,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function toggleTOC() {
   const list = document.getElementById('tocList');
   const title = document.querySelector('.toc-title');
-  list.classList.toggle('open');
+  list.classList.toggle('closed');
   title.classList.toggle('open');
 }
 
