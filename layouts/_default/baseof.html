@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light">
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   <meta name="description" content="{{ .Description }}">
   
@@ -38,11 +39,24 @@
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#1a1a2e">
   
-  <!-- Fonts - Preload to reduce CLS -->
+  <!-- Resource Hints: DNS, preconnect, prefetch -->
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=optional" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=optional" rel="stylesheet"></noscript>
+  <link rel="preconnect" href="https://www.google-analytics.com">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
+  <!-- Fonts - Preload with font-display: swap for LCP -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" as="style" crossorigin onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"></noscript>
+
+  <!-- Preload critical CSS (inline style is render-critical, no external file to preload) -->
+
+  <!-- Prefetch likely next navigations -->
+  <link rel="prefetch" href="/sainik-schools/">
+  <link rel="prefetch" href="/aissee/">
+  <link rel="prefetch" href="/blog/">
   
   <style>
     :root {
@@ -85,11 +99,25 @@
     .newsletter-form button {
       contain: layout;
     }
-    
-    /* Font display optional - no layout shift */
-    .font-loading * {
-      opacity: 0;
+
+    /* LCP: content-visibility for off-screen sections */
+    .newsletter,
+    .footer {
+      content-visibility: auto;
+      contain-intrinsic-size: auto 400px;
     }
+
+    /* FID: contain layout/paint for independent components */
+    .card,
+    .feature-card,
+    .blog-card,
+    .school-card,
+    .testimonial {
+      contain: layout style paint;
+    }
+    
+    /* Font display swap - text visible immediately with fallback font */
+    /* Removed .font-loading opacity trick: display=swap keeps text visible during font load */
     
     /* Skeleton loader for images */
     .blog-card-img,
@@ -1171,6 +1199,52 @@
         nav.classList.remove('active');
       }
     });
+
+    // CWV: Lazy load all images except first (LCP) image
+    (function() {
+      document.addEventListener('DOMContentLoaded', function() {
+        var images = document.querySelectorAll('img');
+        for (var i = 0; i < images.length; i++) {
+          var img = images[i];
+          // First image is likely LCP - mark it for high priority fetch
+          if (i === 0) {
+            img.setAttribute('fetchpriority', 'high');
+            img.removeAttribute('loading');
+          } else {
+            img.setAttribute('loading', 'lazy');
+            img.setAttribute('decoding', 'async');
+          }
+          // Set default width/height from CSS if not present to prevent CLS
+          if (!img.hasAttribute('width') && !img.hasAttribute('height')) {
+            if (img.naturalWidth && img.naturalHeight) {
+              img.setAttribute('width', img.naturalWidth);
+              img.setAttribute('height', img.naturalHeight);
+            }
+          }
+        }
+
+        // Lazy load videos and iframes
+        var media = document.querySelectorAll('video[poster], iframe');
+        for (var j = 0; j < media.length; j++) {
+          media[j].setAttribute('loading', 'lazy');
+        }
+      });
+    })();
+
+    // FID: Defer non-critical event listeners
+    (function() {
+      function onIdle(fn) {
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(fn, { timeout: 2000 });
+        } else {
+          setTimeout(fn, 1);
+        }
+      }
+      // Defer analytics and non-essential scripts
+      onIdle(function() {
+        // Place deferred scripts here (analytics, social widgets, etc.)
+      });
+    })();
   </script>
 </body>
 </html>
