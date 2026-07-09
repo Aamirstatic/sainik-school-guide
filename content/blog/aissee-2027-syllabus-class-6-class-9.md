@@ -30,6 +30,16 @@ faq_schema: true
 
 # AISSEE 2027 Syllabus: Complete Subject-Wise Guide for Class 6 and Class 9
 
+
+
+> **📢 Latest Updates** — This article is updated regularly with the latest information for 2027.
+
+| Date | Update |
+|------|--------|
+| **9 July 2026** | Article published with complete information for AISSEE 2027 session |
+
+---
+
 > **Key Takeaway:** The AISSEE 2027 syllabus for Class 6 covers Mathematics, English, General Knowledge, and Intelligence. For Class 9, it covers Mathematics, English, General Science, Social Studies, and Intelligence. The syllabus is largely based on NCERT textbooks. Mathematics carries the highest marks weightage in both classes, making it the most critical subject to prepare thoroughly.
 
 The All India Sainik Schools Entrance Examination (AISSEE) is conducted by the National Testing Agency (NTA) for admission to Class 6 and Class 9 in Sainik Schools across India. Understanding the complete syllabus and exam pattern is the first step toward effective preparation. This guide provides a detailed, subject-wise breakdown of the AISSEE 2027 syllabus for both Class 6 and Class 9.

@@ -17,6 +17,16 @@ featured_image: "/images/blog/sainik-school-medical-test-2027.webp"
 
 # Sainik School Medical Test 2027: Height, Weight & Vision Requirements
 
+
+
+> **📢 Latest Updates** — This article is updated regularly with the latest information for 2027.
+
+| Date | Update |
+|------|--------|
+| **9 July 2026** | Article published with complete information for AISSEE 2027 session |
+
+---
+
 **Har saal AISSEE qualify karne ke baad lagbhag 15-20% bacche medical test mein fail ho jaate hain.** Yeh shocking isliye hai kyunki zyaada tar parents aur students medical test ko seriously nahi lete. AISSEE crack karna sirf aadhi ladhai hai — baaki aadhi medical fitness hai.
 
 > **Key Takeaway:** Sainik School medical test AISSEE exam qualify karne ke baad hota hai. Height-weight chart age-wise hai (boys aur girls ke liye alag). Minimum vision 6/6 hona chahiye. Common disqualification reasons hain flat foot, knock knee, colour blindness, aur hearing issues. Pehle se preparation zaroori hai.
