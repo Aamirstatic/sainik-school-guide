@@ -1,307 +1,315 @@
 ---
-title: "Sainik School Admission 2027: Age Limit, Fees & Step-by-Step Guide"
-date: 2026-07-05
-draft: false
-description: "Complete guide for Sainik School admission 2027. Check age limit, fees, eligibility, and step-by-step process for AISSEE exam. Updated for 2027 session."
-keywords: ["sainik school admission 2027", "AISSEE 2027", "sainik school age limit", "sainik school fees", "sainik school eligibility"]
-author_name: "Nisha"
-author_title: "Education Content Specialist"
-author_image: "/images/authors/nisha.avif"
-featured_image: "/images/thumbnails/sainik-school-admission-2027.svg"
+title: "Sainik School Admission 2027: Complete Guide"
+description: "Complete Sainik School admission 2027 guide. Check age limit, fees, eligibility, step-by-step process, important dates, and tips for AISSEE 2027."
+slug: "sainik-school-admission-2027-guide"
+date: 2026-07-09T20:27:00+05:30
+lastmod: 2026-07-09T20:27:00+05:30
+author: "Sainik School East Siang Team"
+keywords:
+  - "sainik school admission 2027"
+  - "AISSEE 2027"
+  - "sainik school age limit"
+  - "sainik school fees"
+  - "sainik school eligibility"
+  - "AISSEE application form 2027"
+  - "sainik school admission process"
+  - "sainik school entrance exam 2027"
+featured_image: "/images/blog/sainik-school-admission-2027-guide.webp"
+categories:
+  - "Admission Guide"
+  - "Sainik Schools"
+tags:
+  - "AISSEE 2027"
+  - "Admission Process"
+  - "Eligibility"
+  - "Important Dates"
+schema_type: "Article"
+faq_schema: true
 ---
 
-## Sainik School Admission 2027: The Real Numbers You Need
+# Sainik School Admission 2027: Complete Guide for Parents and Students
 
-Sainik School admission for 2027 costs between ₹2-2.5 lakh per year. That is cheaper than most private boarding schools, but still a stretch for many families. This guide covers the fees, the eligibility rules, the exam pattern, and the exact steps to apply, so you can plan before the October deadline.
+> **Key Takeaway:** Sainik School admission for 2027 is through the All India Sainik Schools Entrance Examination (AISSEE) conducted by NTA. Students must meet age eligibility (10–12 years for Class 6, 13–15 years for Class 9), fill the online application form on the NTA website, and qualify in the entrance exam. The process typically starts in October–November with the exam in January.
 
-All facts below are verified from the [NTA website](https://exams.nta.nic.in/sainik-school-society/) and Sainik Schools Society notifications.
+Sainik Schools are residential schools across India that prepare students academically and physically for careers in the Indian Armed Forces. Admission to these prestigious institutions is through the All India Sainik Schools Entrance Examination (AISSEE), conducted annually by the National Testing Agency (NTA). If you're planning for Sainik School admission in 2027, this comprehensive guide covers everything you need to know.
 
-## What is AISSEE?
+## What Are Sainik Schools?
 
-AISSEE is the All India Sainik School Entrance Exam. It is the only way to get into any Sainik School in India.
+Sainik Schools are a system of military-style residential schools established by the Ministry of Defence, Government of India. Currently, there are **33 Sainik Schools** spread across various states of India. The primary objective of these schools is to prepare students for entry into the National Defence Academy (NDA) and other military institutions.
 
-- **Conducted by:** National Testing Agency (NTA)
-- **Exam level:** National (all India)
-- **Frequency:** Once a year, usually in January
-- **Mode:** Pen and paper (OMR sheet)
-- **Classes:** Class 6 and Class 9
+Key features of Sainik Schools include:
+- **Military-style discipline** and structured daily routine
+- **Quality education** following CBSE curriculum
+- **Physical fitness training** alongside academics
+- **Holistic development** through sports, NCC, and extracurricular activities
+- **Affordable fees** subsidized by the government
+- **High success rate** in NDA and military career selections
 
-**Source:** Official NTA website - exams.nta.nic.in/sainik-school-society/
+For a firsthand look at what life is like, read our [Sainik School Hostel Life guide](/blog/sainik-school-hostel-life/).
 
-## Age Limit for AISSEE 2027
+## Sainik School Admission 2027: Important Dates
 
-Get this wrong and nothing else matters. Age is calculated as on April 1, 2027, not the exam date.
+While the official notification for AISSEE 2027 is expected in October–November 2026, here are the **tentative dates** based on previous year trends:
 
-### For Class 6 Admission
-
-| Criteria | Requirement |
-|----------|-------------|
-| **Minimum Age** | 10 years |
-| **Maximum Age** | 12 years |
-| **Age Date** | As on April 1, 2027 |
-| **Born Between** | April 1, 2015 to March 31, 2017 |
-
-### For Class 9 Admission
-
-| Criteria | Requirement |
-|----------|-------------|
-| **Minimum Age** | 13 years |
-| **Maximum Age** | 15 years |
-| **Age Date** | As on April 1, 2027 |
-| **Born Between** | April 1, 2012 to March 31, 2014 |
-
-SC/ST candidates get 2 years of age relaxation.
-
-**Source:** Sainik Schools Society official notification pattern
-
-## Sainik School Fees 2027
-
-Sainik Schools are cheaper than most private boarding schools, but ₹2+ lakh per year is still real money. Here is the breakdown.
-
-### Fee Structure (Approximate)
-
-| Fee Component | Annual Amount |
-|---------------|---------------|
-| Tuition Fee | ₹87,000 |
-| Hostel Fee | ₹45,000 |
-| Mess Charges | ₹60,000 |
-| Uniform | ₹15,000 |
-| Books & Stationery | ₹10,000 |
-| **Total** | **₹2,17,000** |
-
-### Fee Concessions Available
-
-- **SC/ST students:** Up to 50% fee reduction
-- **Defence personnel children:** Special concessions
-- **Meritorious students:** Scholarships available
-- **State government schemes:** Additional support
-
-Fees vary by school. Always check the specific school's website for exact amounts.
-
-**Also Read:** [Sainik School Scholarship 2027: Complete Fee Concession Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-
-**Source:** Sainik School official websites and Sainik Schools Society guidelines
-
-## Eligibility Criteria
-
-Check these before you apply. If your child does not meet these, the rest of this guide does not matter.
-
-### Academic Eligibility
-
-| Class | Current Class | Minimum Marks |
-|-------|---------------|---------------|
-| Class 6 | Studying in Class 5 | No minimum marks |
-| Class 9 | Studying in Class 8 | No minimum marks |
-
-### Other Requirements
-
-- **Nationality:** Indian citizen
-- **Gender:** Both boys and girls can apply (since 2021)
-- **Medical fitness:** Must pass medical examination
-- **Domicile:** 67% seats reserved for home state students
-
-**Source:** AISSEE official notification pattern
-
-## Step-by-Step Admission Process
-
-Each step has a deadline. Miss it and you wait another year.
-
-### Step 1: Check Eligibility (September 2026)
-
-- Verify your child's age against the April 1, 2027 cut-off
-- Confirm current class (Class 5 for Class 6 entry, Class 8 for Class 9 entry)
-- Gather required documents (Aadhaar, birth certificate, category certificate if applicable)
-
-### Step 2: Online Application (October 2026)
-
-- Visit [exams.nta.nic.in](https://exams.nta.nic.in/sainik-school-society/)
-- Register with email and mobile number
-- Fill personal and academic details
-- Upload documents (photo, signature, certificates)
-- Pay application fee: ₹850 for General, ₹700 for SC/ST
-
-### Step 3: Download Admit Card (December 2026)
-
-- Login to NTA website
-- Download and print admit card
-- Check exam center details
-
-### Step 4: Appear for Exam (January 2027)
-
-- Reach exam center 1 hour early
-- Carry admit card and photo ID
-- Bring black/blue pen
-
-### Step 5: Check Results (February 2027)
-
-- Visit NTA website
-- Enter roll number and date of birth
-- Download scorecard
-
-### Step 6: Medical Test (March 2027)
-
-- Physical fitness check
-- Document verification
-- Vision, height, weight, and general health assessment
-
-### Step 7: Final Admission (April 2027)
-
-- Pay fees
-- Submit original documents
-- Join the school
-
-**Also Read:** [5 Mistakes Parents Make During Sainik School Admission](/blog/sainik-school-admission-mistakes/)
-
-**Source:** NTA AISSEE admission process guidelines
-
-## AISSEE Exam Pattern
-
-Knowing the exam pattern saves weeks of wasted effort. Here is exactly what your child will face.
-
-### Class 6 Exam Pattern
-
-| Subject | Questions | Marks | Duration |
-|---------|-----------|-------|----------|
-| Mathematics | 50 | 150 | 2 hours |
-| General Knowledge | 25 | 50 | |
-| Language | 25 | 50 | |
-| Intelligence | 25 | 50 | |
-| **Total** | **125** | **300** | **2 hours** |
-
-### Class 9 Exam Pattern
-
-| Subject | Questions | Marks | Duration |
-|---------|-----------|-------|----------|
-| Mathematics | 50 | 200 | 2.5 hours |
-| English | 25 | 50 | |
-| Intelligence | 25 | 50 | |
-| General Science | 25 | 50 | |
-| Social Studies | 25 | 50 | |
-| **Total** | **150** | **400** | **2.5 hours** |
-
-There is **no negative marking** in AISSEE. Attempt every question, even if you are guessing.
-
-**Source:** AISSEE official exam pattern
-
-## Best Books for AISSEE Preparation
-
-### For Class 6
-
-| Subject | Book | Author |
-|---------|------|--------|
-| Mathematics | NCERT Class 5 | NCERT |
-| Mathematics | Sainik School Entrance Exam Guide | Arihant |
-| GK | Lucent's General Knowledge | Lucent |
-| English | Wren & Martin Grammar | S. Chand |
-| Reasoning | Mental Ability Test | R.S. Aggarwal |
-
-### For Class 9
-
-| Subject | Book | Author |
-|---------|------|--------|
-| Mathematics | NCERT Class 8 | NCERT |
-| Science | NCERT Class 8 | NCERT |
-| Mathematics | Sainik School Class 9 Guide | Arihant |
-| GK | Lucent's General Knowledge | Lucent |
-| Reasoning | R.S. Aggarwal Reasoning | S. Chand |
-
-Start with NCERT books. They are the foundation. Guide books are useless if the basics are weak.
-
-**Source:** Recommended by education experts and previous year toppers
-
-## How to Prepare for AISSEE 2027
-
-### 6-Month Study Plan
-
-**Month 1-2: Foundation**
-- Complete NCERT textbooks for the relevant class
-- Identify weak areas through a diagnostic test
-
-**Month 3-4: Practice**
-- Solve previous year AISSEE papers (last 5 years minimum)
-- Take topic-wise tests
-- Focus extra time on weak subjects
-
-**Month 5-6: Revision and Mock Tests**
-- Take full-length mock tests under timed conditions
-- Revise formulas, GK notes, and vocabulary
-- Work on time management, not new topics
-
-### Daily Study Routine
-
-| Time | Activity |
-|------|----------|
-| 6:00 AM - 7:00 AM | Morning revision (formulas, GK notes) |
-| 4:00 PM - 6:00 PM | Mathematics practice |
-| 6:00 PM - 7:00 PM | GK and Language |
-| 8:00 PM - 9:00 PM | Reasoning practice |
-
-4 hours of focused study beats 8 hours of distracted reading.
-
-**Also Read:** [AISSEE 2027 Preparation Tips: Complete Strategy Guide](/blog/aissee-2027-preparation-tips/)
-
-**Source:** Study plan recommended by AISSEE toppers and education experts
-
-## Important Dates for AISSEE 2027
-
-These dates are based on previous year patterns. Official dates will be announced by NTA.
-
-| Event | Expected Date |
+| Event | Tentative Date |
 |-------|---------------|
-| Notification Release | September 2026 |
-| Application Start | October 2026 |
-| Last Date to Apply | November 2026 |
-| Admit Card | December 2026 |
-| Exam Date | January 2027 |
-| Results | February 2027 |
-| Medical Test | March 2027 |
-| Session Start | April 2027 |
+| AISSEE 2027 Notification | October 2026 |
+| Online Application Start | October–November 2026 |
+| Last Date for Application | November–December 2026 |
+| Application Correction Window | December 2026 |
+| Admit Card Release | January 2027 (1st week) |
+| AISSEE 2027 Exam Date | January 2027 (2nd or 3rd week) |
+| Answer Key Release | February 2027 |
+| Result Declaration | February–March 2027 |
+| Counselling & Admission | March–April 2027 |
+| New Academic Session | April–July 2027 |
 
-**Source:** Previous year AISSEE notification patterns
+**Note:** These dates are indicative. Always check the official NTA AISSEE website for confirmed dates. Bookmark [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) for official updates.
 
-## Frequently Asked Questions
+## Sainik School Age Limit and Eligibility Criteria 2027
 
-### What is the age limit for Sainik School Class 6?
-For Class 6 admission in 2027, your child should be between 10-12 years old as on April 1, 2027. This means they should be born between April 1, 2015 and March 31, 2017.
+### Age Limit
 
-### How much does Sainik School cost per year?
-The total annual cost is approximately ₹2,00,000 to ₹2,50,000. This includes tuition, hostel, mess, uniform, and books. SC/ST students get fee concessions.
+The age eligibility for AISSEE 2027 is as follows:
 
-### Can girls apply for Sainik School?
-Yes. From 2021 onwards, girls can also apply for admission to Sainik Schools. Both boys and girls are eligible for Class 6 and Class 9 admissions.
+| Class | Minimum Age (as on 31 March 2027) | Maximum Age (as on 31 March 2027) |
+|-------|-----------------------------------|----------------------------------|
+| Class 6 | 10 years | 12 years |
+| Class 9 | 13 years | 15 years |
 
-### Is there negative marking in AISSEE?
-No. There is no negative marking in AISSEE. You should attempt all questions even if you are not sure about the answer.
+**Important Notes on Age:**
+- Age is calculated as on **31st March of the year of admission**
+- For Class 6 admission in 2027, the student should have been born between **1 April 2015 and 31 March 2017** (approximately)
+- For Class 9 admission in 2027, the student should have been born between **1 April 2012 and 31 March 2014** (approximately)
+- **SC/ST candidates** may get age relaxation as per government norms
+- Dates may vary slightly — always verify with the official notification
 
-### How many Sainik Schools are there in India?
-There are currently 33+ Sainik Schools across India. Each state has at least one Sainik School.
+### Educational Eligibility
 
-### What is the reservation policy?
-- 67% seats for home state students
-- 33% seats for other states
-- 15% seats for SC candidates
-- 7.5% seats for ST candidates
-- 25% seats for defence personnel children
+| Class | Eligibility |
+|-------|------------|
+| Class 6 | Studying in Class 5 or equivalent in a recognized school |
+| Class 9 | Studying in Class 8 or equivalent in a recognized school |
 
-## Related Articles
+### Category-Wise Eligibility
 
-- [AISSEE Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Application Form Guide](/blog/aissee-application-form-2027-guide/)
-- [Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Best Books](/blog/best-books-aissee-2027/)
-- [Counselling Process](/blog/sainik-school-counselling-2027/)
+- **General Category:** Must meet the standard age and educational criteria
+- **SC/ST:** Age relaxation of up to 2 years may be available; lower qualifying marks
+- **OBC (Non-Creamy Layer):** As per central government norms
+- **Defence Category:** Children of defence/paramilitary personnel may have separate quotas
+- **Home State Quota:** 67% of seats are reserved for students from the home state where the Sainik School is located
 
+## Sainik School Fees Structure 2027
+
+Sainik School fees are significantly lower than most private residential schools due to government subsidies. Here's an approximate fee structure:
+
+### Annual Fee Breakdown (Approximate)
+
+| Fee Component | Amount (Approx.) |
+|--------------|-----------------|
+| Tuition Fee | ₹15,000 – ₹25,000 |
+| Boarding & Lodging | ₹20,000 – ₹35,000 |
+| Clothing | ₹5,000 – ₹10,000 |
+| Pocket Money | ₹3,000 – ₹5,000 |
+| Caution Money (refundable) | ₹3,000 – ₹5,000 |
+| Other Charges | ₹5,000 – ₹10,000 |
+| **Total Annual Fee** | **₹50,000 – ₹90,000** |
+
+**Important Notes:**
+- Fees vary by school — some Sainik Schools charge more than others
+- SC/ST students receive fee concessions
+- Defence personnel children may get additional concessions
+- Scholarships are available for meritorious and economically weaker students
+- Fees are subject to revision — check individual school websites for exact figures
+
+### Fee Comparison: Sainik School vs Private Boarding Schools
+
+| Parameter | Sainik School | Private Boarding School |
+|-----------|--------------|------------------------|
+| Annual Fee | ₹50,000 – ₹90,000 | ₹3,00,000 – ₹10,00,000 |
+| Quality of Education | High (CBSE) | Varies |
+| Physical Training | Excellent | Limited |
+| Military Preparation | Core Focus | Not Available |
+| Discipline Level | Very High | Moderate |
+| NDA Success Rate | Very High | Low |
+
+This makes Sainik Schools one of the best value-for-money residential education options in India.
+
+## Step-by-Step Sainik School Admission Process 2027
+
+### Step 1: Check Eligibility
+
+Before applying, verify that your child meets:
+- Age criteria for the desired class
+- Educational qualification requirements
+- Category-specific requirements (if applicable)
+
+### Step 2: Online Application
+
+1. Visit the official NTA AISSEE website: [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)
+2. Click on "Apply Online for AISSEE 2027"
+3. Register with valid email ID and mobile number
+4. Fill in personal, academic, and communication details
+5. Upload required documents:
+   - Recent passport-size photograph
+   - Scanned signature
+   - Date of birth certificate
+   - Category certificate (if applicable)
+6. Pay the application fee online:
+   - **General/OBC:** ₹550 (approximate)
+   - **SC/ST:** ₹400 (approximate)
+7. Submit the form and download the confirmation page
+8. Print the application form for future reference
+
+### Step 3: Download Admit Card
+
+- Admit cards are typically released 1–2 weeks before the exam
+- Download from the NTA website using your application number and date of birth
+- Verify all details on the admit card
+- Carry the printed admit card to the exam center
+
+### Step 4: Appear for AISSEE 2027
+
+- Reach the exam center at least 30 minutes before the scheduled time
+- Carry admit card, photo ID, and required stationery
+- The exam is conducted in offline (OMR-based) mode
+- Duration: 2.5 hours for Class 6, 3 hours for Class 9
+
+For preparation strategies, check our [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/) and [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/) guides.
+
+### Step 5: Check Results
+
+- Results are published on the NTA website
+- Enter your application number and date of birth to check
+- Download and print the scorecard
+- Check the merit list for your preferred Sainik School
+
+### Step 6: Counselling and Document Verification
+
+- Shortlisted candidates are called for counselling
+- Bring original documents for verification:
+  - Birth certificate
+  - Class 5/8 marksheet
+  - Transfer certificate
+  - Category certificate (if applicable)
+  - Domicile certificate
+  - Passport-size photographs
+- School preference is submitted during counselling
+
+### Step 7: Final Admission
+
+- Based on AISSEE merit, counselling, and seat availability
+- Pay the admission fee to confirm the seat
+- Complete medical examination
+- Join the school as per the notified schedule
+
+## Documents Required for Sainik School Admission 2027
+
+Keep the following documents ready:
+
+1. **Birth Certificate** — issued by municipal authority or competent government body
+2. **Domicile/Residence Certificate** — proof of state/UT residence
+3. **Transfer Certificate** — from the current school
+4. **Mark Sheet** — of the last examination passed
+5. **Category Certificate** — SC/ST/OBC certificate (if applicable)
+6. **Defence Certificate** — for defence category (if applicable)
+7. **Aadhaar Card** — of the student
+8. **Passport-size Photographs** — recent, as per specifications
+9. **Medical Fitness Certificate** — from a registered medical practitioner
+
+## Sainik School State-Wise Quota System
+
+Sainik Schools follow a specific quota system for admissions:
+
+| Quota Type | Percentage of Seats |
+|-----------|-------------------|
+| Home State/Domicile | 67% |
+| Other States/UTs | 33% |
+| SC Reservation | 15% of total seats |
+| ST Reservation | 7.5% of total seats |
+| OBC (Non-Creamy Layer) | 27% of total seats |
+| Defence Category | As per school policy |
+| Wards of School Staff | As per school policy |
+
+**Key Points:**
+- Home state candidates have a significant advantage due to the 67% quota
+- Students can apply to any Sainik School regardless of their home state
+- For the 33% "Outside State" quota, competition is typically higher
+- Check individual school notifications for exact seat matrices
+
+## List of All 33 Sainik Schools in India
+
+Here is a list of Sainik Schools across India. Each school's admission details may vary slightly:
+
+| S. No. | School Name | State | Year Established |
+|--------|-----------|-------|-----------------|
+| 1 | Sainik School Korukonda | Andhra Pradesh | 1961 |
+| 2 | Sainik School Kalikiri | Andhra Pradesh | 2014 |
+| 3 | Sainik School East Siang | Arunachal Pradesh | 2018 |
+| 4 | Sainik School Goalpara | Assam | 1964 |
+| 5 | Sainik School Nalanda | Bihar | 2003 |
+| 6 | Sainik School Gopalganj | Bihar | 2003 |
+| 7 | Sainik School Ambikapur | Chhattisgarh | 2008 |
+| 8 | Sainik School Rewari | Haryana | 2008 |
+| 9 | Sainik School Kunjpura | Haryana | 1961 |
+| 10 | Sainik School Sujanpur Tira | Himachal Pradesh | 1978 |
+| 11 | Sainik School Nagrota | Jammu & Kashmir | 1970 |
+| 12 | Sainik School Tilaiya | Jharkhand | 1963 |
+| 13 | Sainik School Bijapur | Karnataka | 2007 |
+| 14 | Sainik School Kodagu | Karnataka | 2007 |
+| 15 | Sainik School Kazhakootam | Kerala | 1962 |
+| 16 | Sainik School Rewa | Madhya Pradesh | 1962 |
+| 17 | Sainik School Satna | Madhya Pradesh | 2018 |
+| 18 | Sainik School Chhingchhip | Mizoram | 2017 |
+| 19 | Sainik School Punglwa | Nagaland | 2007 |
+| 20 | Sainik School Bhubaneswar | Odisha | 1962 |
+| 21 | Sainik School Sambalpur | Odisha | 2010 |
+| 22 | Sainik School Kapurthala | Punjab | 1961 |
+| 23 | Sainik School Chittorgarh | Rajasthan | 1961 |
+| 24 | Sainik School Jhunjhunu | Rajasthan | 2012 |
+| 25 | Sainik School Amaravathinagar | Tamil Nadu | 1962 |
+| 26 | Sainik School Mainpuri | Uttar Pradesh | 2019 |
+| 27 | Sainik School Jhansi | Uttar Pradesh | 2019 |
+| 28 | Sainik School Amethi | Uttar Pradesh | 2020 |
+| 29 | Sainik School Chandrapur | Maharashtra | 2020 |
+| 30 | Sainik School Balachadi | Gujarat | 1961 |
+| 31 | Sainik School Purulia | West Bengal | 1962 |
+| 32 | Sainik School Imphal | Manipur | 1971 |
+| 33 | Sainik School Darjeeling | West Bengal | 2003 |
+
+## Tips to Increase Chances of Sainik School Admission
+
+1. **Start preparation early** — Begin at least 6–8 months before the exam
+2. **Focus on NCERT** — AISSEE is largely based on the NCERT syllabus
+3. **Practice previous year papers** — Understand the exam pattern and difficulty level
+4. **Physical fitness matters** — While AISSEE is a written exam, Sainik Schools value overall fitness
+5. **Apply to multiple schools** — Increase your chances by applying to several Sainik Schools
+6. **Understand the quota system** — Apply strategically based on your domicile state
+7. **Prepare documents in advance** — Keep all certificates and documents ready before the application deadline
+8. **Take mock tests regularly** — Simulate exam conditions to build confidence and improve speed
+
+## Frequently Asked Questions (FAQ)
+
+### What is the age limit for Sainik School Class 6 admission in 2027?
+
+For Sainik School Class 6 admission in 2027, the candidate must be between 10 and 12 years of age as on 31st March 2027. This means the student should have been born between approximately 1 April 2015 and 31 March 2017. SC/ST candidates may receive age relaxation as per government rules.
+
+### What is the total fee for Sainik School per year?
+
+The total annual fee for Sainik Schools ranges from approximately ₹50,000 to ₹90,000, which includes tuition, boarding, lodging, clothing, and other charges. This is significantly lower than private boarding schools, which can charge ₹3–10 lakhs annually. The exact fee varies by school and is revised periodically.
+
+### How many seats are available in Sainik Schools?
+
+Each Sainik School typically has 80–120 seats for Class 6 and 10–25 seats for Class 9 admission, depending on the school. Across all 33 Sainik Schools, there are approximately 3,000–3,500 total seats for Class 6 and 500–700 seats for Class 9. Competition is intense with lakhs of students appearing for AISSEE.
+
+### Can girls apply for Sainik School admission?
+
+Yes, girls can apply for Sainik School admission. The Government of India has been progressively opening Sainik Schools to girl students. Currently, several Sainik Schools have started admitting girls for Class 6. The number of seats for girls varies by school. Check the specific school notification for details on girls' admission.
+
+### What happens after clearing the AISSEE exam?
+
+After clearing AISSEE, candidates are called for counselling and document verification based on their merit rank. During counselling, candidates can indicate their preferred Sainik Schools. Seats are allotted based on merit, category, domicile, and school preference. After seat allotment, candidates must pay the admission fee, undergo a medical fitness examination, and join the school as per the notified schedule.
 
 ---
 
-**Last Updated:** July 2026
-
-**Author:** Nisha, Education Content Specialist at Sainik School Guide India
-
-**Disclaimer:** This is an informational guide. For official information, please visit [NTA website](https://exams.nta.nic.in/sainik-school-society/) and [Sainik Schools Society](https://sainikschoolsociety.in/).
-
-**Fact-Check Sources:**
-1. NTA Official Website - exams.nta.nic.in
-2. Sainik Schools Society - sainikschoolsociety.in
-3. Previous year AISSEE notifications
-4. Education expert recommendations
+*Ready to start preparing? Check out our [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/) and the complete [AISSEE 2027 Syllabus for Class 6 and Class 9](/blog/aissee-2027-syllabus-class-6-class-9/). Curious about life at Sainik School? Read about [Sainik School Hostel Life](/blog/sainik-school-hostel-life/) to know what to expect.*

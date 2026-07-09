@@ -1,78 +1,100 @@
 ---
-title: "About Sainik School Guide India"
-date: 2026-07-05
-draft: false
-description: "Learn about Sainik School Guide India. Our mission, team, and commitment to helping parents and students with Sainik School admissions and AISSEE preparation."
-keywords: ["about sainik school guide", "sainik school guide india", "who we are"]
+title: "About Us | Sainik School East Siang Guide Team"
+date: 2026-07-09T10:00:00+05:30
+lastmod: 2026-07-09T10:00:00+05:30
+description: "Meet the team behind Sainik School East Siang Guide. Learn about our mission to help students crack AISSEE and get into Sainik Schools across India."
+keywords: ["about Sainik School East Siang", "Sainik School guide team", "AISSEE preparation team", "Sainik School information portal", "who runs Sainik School East Siang guide"]
+aliases: ["/about/"]
+type: "page"
 ---
 
-## Who We Are
+# About Sainik School East Siang Guide
 
-Sainik School Guide India is a free educational resource for parents and students preparing for Sainik School admissions across India. We cover all 33+ Sainik Schools with detailed information on admission processes, fees, facilities, and preparation strategies.
+**Sainik School East Siang Guide (sainikschooleastsiang.in) is a dedicated information portal that provides comprehensive, accurate, and up-to-date information about the All India Sainik School Entrance Exam (AISSEE) and all 33+ Sainik Schools in India.** Our mission is to help every aspiring student and their parents navigate the Sainik School admission process with confidence.
 
-We are not affiliated with the Ministry of Defence, Sainik Schools Society, or NTA. We are an independent team of education researchers, content writers, and defense education experts who believe that every parent deserves access to clear, accurate information about Sainik Schools.
+---
 
 ## Our Mission
 
-To make Sainik School admission information accessible to every Indian family, regardless of their location, language, or financial background.
+We believe that every child deserves access to quality information about Sainik School admissions. Our goal is to:
 
-Every year, 4 lakh students appear for AISSEE. Many of them come from rural areas where access to quality information is limited. Parents rely on word of mouth, coaching centers, or outdated websites. We want to change that.
-
-## What We Cover
-
-| Content Type | Description |
-|-------------|-------------|
-| **School Profiles** | Detailed information about all 33+ Sainik Schools including history, fees, seats, facilities, and contact details |
-| **AISSEE Preparation** | Syllabus, exam pattern, best books, previous year papers, and study strategies |
-| **Admission Guides** | Step-by-step guides for the entire admission process from application to counselling |
-| **Career Guidance** | Information about NDA, defense careers, and life after Sainik School |
-| **Tools** | Free tools like the Age Eligibility Calculator for instant eligibility checks |
-
-## Our Team
-
-Our content is created by a team of education specialists:
-
-- **Aamir** — Defense Education Expert with 8+ years of experience in military school admissions
-- **Nisha** — Education Content Specialist who writes about AISSEE preparation and student life
-- **Sameer** — Education Researcher who analyzes exam patterns and admission data
-- **Rifaul Hasan** — Student Counselor who guides students on mental health and academic success
-
-[Meet Our Authors →](/authors/)
-
-## How We Work
-
-Every article on this site goes through a three-step process:
-
-1. **Research** — We gather data from official sources including NTA notifications, Sainik Schools Society websites, school official websites, and government press releases
-2. **Writing** — Our team writes clear, actionable content in Hinglish (Hindi + English) that parents can easily understand
-3. **Verification** — Every fact is cross-checked against official sources before publishing
-
-We update our content regularly to reflect the latest changes in admission rules, fee structures, and exam patterns.
-
-## Our Sources
-
-| Source | What We Use It For |
-|--------|-------------------|
-| NTA AISSEE Official Website | Exam dates, application process, results |
-| Sainik Schools Society | School list, admission rules, reservation policies |
-| Individual School Websites | Fees, facilities, contact details |
-| PIB Press Releases | Government announcements, new school approvals |
-| Education Experts | Preparation strategies, career guidance |
-
-## Disclaimer
-
-Sainik School Guide India is an informational guide only. We are not an official Sainik School website and are not affiliated with the Ministry of Defence, Sainik Schools Society, NTA, or any Sainik School.
-
-Always verify information from official sources before making decisions about admissions. We strive for accuracy but cannot guarantee that all information is current or complete.
-
-## Contact Us
-
-Have questions, suggestions, or found an error? Reach out to us:
-
-- **Email:** info@sainikschooleastsiang.in
-- **Phone:** 9436409766
-- **Website:** [sainikschooleastsiang.in](https://sainikschooleastsiang.in)
+- **Democratize AISSEE information** — Making exam details, syllabus, eligibility, and preparation strategies freely available to all
+- **Simplify the admission process** — Breaking down complex procedures into easy-to-understand guides
+- **Provide accurate school data** — Offering detailed profiles of all 33+ Sainik Schools with fee structures, facilities, and admission statistics
+- **Support exam preparation** — Sharing study materials, previous year analysis, and expert tips for AISSEE success
 
 ---
 
-*Last Updated: July 2026*
+## Meet Our Team
+
+Our content is created and reviewed by a team of education enthusiasts with deep knowledge of the Sainik School system and Indian defence education.
+
+### Aamir — Content Strategist & Editor
+
+Aamir leads content strategy and editorial oversight for the Sainik School East Siang Guide. With a passion for education and a deep understanding of the Indian defence school ecosystem, Aamir ensures that every article on the site is accurate, well-researched, and actionable. He specializes in exam pattern analysis and admission strategy.
+
+**Areas of expertise:** AISSEE exam analysis, admission counselling, education policy
+
+### Nisha — Research & Data Analyst
+
+Nisha handles research, data verification, and school database management. She maintains the comprehensive directory of all 33+ Sainik Schools, including fee structures, cut-off data, and admission statistics. Her meticulous approach to data accuracy ensures that parents and students get reliable information.
+
+**Areas of expertise:** School data management, cut-off analysis, eligibility verification
+
+### Sameer — Technical Lead & Developer
+
+Sameer manages the technical infrastructure of sainikschooleastsiang.in, ensuring the website is fast, accessible, and user-friendly across all devices. He implements structured data, SEO optimizations, and interactive tools that help students find the information they need quickly.
+
+**Areas of expertise:** Web development, technical SEO, user experience
+
+### Rifaul Hasan — Content Writer & Researcher
+
+Rifaul Hasan creates in-depth articles, guides, and analysis covering AISSEE preparation, school comparisons, and admission processes. His writing combines thorough research with a clear, student-friendly style that makes complex information accessible to young readers and their parents.
+
+**Areas of expertise:** AISSEE preparation guides, school reviews, educational content writing
+
+---
+
+## Our Sources
+
+We are committed to accuracy and transparency. Our content is sourced from:
+
+| Source Type | Examples |
+|---|---|
+| **Official Government Sources** | Ministry of Defence, Sainik Schools Society, NTA AISSEE portal |
+| **School Administration** | Official school websites, prospectus documents, admission notifications |
+| **Educational Bodies** | CBSE guidelines, National Testing Agency (NTA) notifications |
+| **Verified Media** | Press Information Bureau (PIB), major national newspapers |
+| **Student & Parent Feedback** | Verified reviews and experiences from AISSEE aspirants and Sainik School alumni |
+
+> **Disclaimer:** While we strive for accuracy, all information should be verified with official sources before making admission decisions. We are an independent information portal and are not officially affiliated with any Sainik School or the Sainik Schools Society. See our [disclaimer page](/disclaimer/) for complete details.
+
+---
+
+## Why Trust Us?
+
+- **Comprehensive Coverage:** We cover all 33+ Sainik Schools with detailed profiles
+- **Regular Updates:** Content is updated regularly to reflect the latest AISSEE notifications and policy changes
+- **Data-Driven:** Our guides are backed by official data, previous year analysis, and verified statistics
+- **Student-Centric:** Every piece of content is written with the student's and parent's perspective in mind
+- **Free Access:** All information on our platform is completely free — no hidden paywalls
+
+---
+
+## Frequently Asked Questions
+
+### 1. Is Sainik School East Siang Guide officially affiliated with any Sainik School?
+
+No. Sainik School East Siang Guide (sainikschooleastsiang.in) is an independent information portal. We are not officially affiliated with any Sainik School, the Sainik Schools Society, or the National Testing Agency (NTA). We provide information sourced from official public sources to help students and parents.
+
+### 2. How often is the content on this website updated?
+
+We update our content regularly, especially during key AISSEE notification periods (October–January for applications, March–April for results). School profiles, fee structures, and cut-off data are updated as soon as new official information becomes available.
+
+### 3. Can I contact the team for personalized admission advice?
+
+While we provide comprehensive guides, we do not offer personalized counselling services. For official and personalized guidance, please contact the respective Sainik School administration directly or visit the official NTA AISSEE portal.
+
+---
+
+**→ [Contact us](/contact/) | [Read our privacy policy](/privacy/) | [View disclaimer](/disclaimer/)**

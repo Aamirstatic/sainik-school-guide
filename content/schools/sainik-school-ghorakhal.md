@@ -1,161 +1,345 @@
 ---
-title: "Sainik School Ghorakhal Nainital - Admission, Fees & Campus Details"
-date: 2026-07-05
-draft: false
-description: "Sainik School Ghorakhal near Nainital, Uttarakhand — est. 1966 on the Nawab of Rampur's estate. The hill station Sainik School. Admission, fees, NDA results."
-keywords: ["sainik school ghorakhal", "sainik school uttarakhand", "sainik school ghorakhal admission", "sainik school ghorakhal fees", "sainik school nainital", "sainik school ghorakhal NDA"]
-state: "Uttarakhand"
-established: "1966"
+title: "Sainik School Ghorakhal – Uttarakhand's Hill Station School"
+description: "Sainik School Ghorakhal, est. 1966 near Nainital, Uttarakhand. 500-acre campus on former Nawab of Rampur estate. CBSE residential school for NDA. Full profile."
+keywords:
+  - Sainik School Ghorakhal
+  - Sainik School Uttarakhand
+  - NDA preparation school Uttarakhand
+  - CBSE boarding school Nainital
+  - Sainik School admission 2026
+  - residential school Uttarakhand
+  - defence school Ghorakhal
+  - Sainik School Nainital
+date: 2026-07-09
+lastmod: 2026-07-09
+sitemap:
+  priority: 0.8
+  changefreq: monthly
+layout: school
+school_name: "Sainik School Ghorakhal"
+state: Uttarakhand
+established: 1966
+aliases:
+  - /schools/ssghorakhal/
+  - /schools/sainik-school-ghorakhal-uttarakhand/
 ---
 
-# Sainik School Ghorakhal — Where a Horse Died and a School Was Born
+> **Key Takeaway:** Sainik School Ghorakhal was founded on 21 March 1966 on the magnificent estate of the Nawab of Rampur, near Nainital in Uttarakhand. The name "Ghorakhal" originates from an incident during the 1857 uprising when a British General's horse died while drinking water from a pond in the area — "Ghora" meaning horse and "Khal" meaning pond. Spread across 500 acres, the school is one of the largest Sainik School campuses in India. It is affiliated with the Central Board of Secondary Education (CBSE) and operates under the Sainik Schools Society, Ministry of Defence, Government of India.
 
-The name tells a story. In 1857, during the Indian Rebellion, a British General fleeing the revolutionaries of Awadh rode desperately into the hills near Nainital. His horse, exhausted and dying, collapsed while drinking water from a pond. The place came to be known as Ghora (Horse) Khal (Pond) — Ghorakhal. Nearly a century later, in 1966, the Government of India established Sainik School on the magnificent estate of the Nawab of Rampur at this very location.
+## Quick Facts About Sainik School Ghorakhal
 
-Sainik School Ghorakhal, established on 21st March 1966, is one of the most uniquely situated Sainik Schools in India. Located near Nainital in the Kumaon hills of Uttarakhand (formerly Uttar Pradesh), the school sits at an altitude that provides cool summers, cold winters, and the kind of mountain air that builds respiratory fitness. The campus, on the Nawab of Rampur's former estate, carries the grandeur of princely India — a fitting setting for a school that produces officers.
+| Feature | Details |
+|---|---|
+| **Full Name** | Sainik School Ghorakhal |
+| **Location** | Ghorakhal, District Nainital, Uttarakhand – 263156 |
+| **State** | Uttarakhand |
+| **Year Established** | 21 March 1966 |
+| **Historic Estate** | Former estate of the Nawab of Rampur |
+| **Campus Area** | 500 acres |
+| **Elevation** | Hill station setting near Nainital |
+| **CBSE Affiliation** | Permanent Affiliation under CBSE, New Delhi |
+| **Medium of Instruction** | English |
+| **Type** | Fully Residential |
+| **Gender** | Boys and Girls (co-educational) |
+| **Classes Offered** | Class VI to Class XII |
+| **Principal** | Group Captain Madhu Sengar |
+| **Phone** | +91-05942-220051 |
+| **Website** | [ssghorakhal.org](https://ssghorakhal.org) |
+| **Alumni Association** | [ssgkoba.com](https://www.ssgkoba.com/home) |
+| **Twitter** | [@SSGK1966](https://x.com/SSGK1966) |
+| **Managing Body** | Sainik Schools Society, Ministry of Defence |
+| **Nearest Airport** | Pantnagar Airport (PGH) |
+| **Nearest Railway Station** | Kathgodam Railway Station |
+| **Annual Fee** | Approximately ₹1,00,000–₹1,40,000 per year |
 
-## Quick Facts
+## History and Foundation
 
-| Detail | Info |
-|--------|------|
-| Established | 21 March 1966 |
-| Location | Ghorakhal, Near Nainital, Uttarakhand |
-| Campus | On the Nawab of Rampur's estate |
-| CBSE Affiliation | Yes |
-| Classes | VI to XII |
-| Medium | English |
-| Type | Residential |
-| Website | [ssghorakhal.org](https://ssghorakhal.org/) |
-| Phone | +91-05942-220051 |
-| Social Media | [Instagram](https://www.instagram.com/ssgkweb/) | [X/Twitter](https://x.com/SSGK1966) | [Facebook](https://www.facebook.com/share/18DSUNTrTo/) | [YouTube](https://www.youtube.com/@SainikSchoolGhorakhal-x8c) |
+### The Origin of the Name "Ghorakhal"
 
-## History & Legacy
+The name "Ghorakhal" carries a fascinating historical origin rooted in the events of 1857 — India's First War of Independence. According to local lore, a British General, in a desperate bid to escape the revolutionaries of Awadh (modern-day Uttar Pradesh), strayed into this hilly area. His horse, exhausted from the flight, stopped to drink water from a nearby pond and died. The incident gave the place its name: **"Ghora"** (horse) and **"Khal"** (pond) — literally, "the pond of the horse."
 
-### The Nawab of Rampur's Estate
+This historical connection to the 1857 uprising adds a layer of patriotic significance to the school's location, making it a fitting site for an institution dedicated to producing future defenders of the nation.
 
-The campus that houses Sainik School Ghorakhal was originally the estate of the Nawab of Rampur — one of the most prominent princely families of British India. The Nawabs of Rampur were known for their patronage of arts, literature, and education. The estate at Ghorakhal, near Nainital, was a summer retreat — a place where the Nawab could escape the heat of the plains.
+### Establishment on the Nawab of Rampur Estate
 
-After independence, the estate was acquired by the government. When the decision was made to establish a Sainik School in the hill region of Uttar Pradesh (Uttarakhand was carved out in 2000), the Nawab's estate at Ghorakhal was identified as the ideal location. The existing infrastructure — grand buildings, landscaped grounds, and the natural beauty of the Kumaon hills — provided a ready-made campus.
+Sainik School Ghorakhal was founded on 21 March 1966 on the magnificent estate of the **Nawab of Rampur**. The sprawling estate, set amidst the Kumaon hills near Nainital, provided an ideal setting for a residential school with military orientation. The estate's existing infrastructure was adapted and expanded to create the school's campus, which now spans an impressive 500 acres — one of the largest among all Sainik Schools in India.
 
-### The Hill Station Advantage
+### The Hill Station Setting
 
-Ghorakhal's altitude (approximately 2,000 meters above sea level) gives it a climate that is unique among Sainik Schools:
-- **Summers** are cool and pleasant — a natural advantage for physical training
-- **Winters** are cold, with occasional snowfall — building cold-weather resilience
-- **Air quality** is excellent — the mountain air is a natural fitness enhancer
+Located near Nainital, one of India's most famous hill stations, Sainik School Ghorakhal enjoys a unique geographic advantage. The school is situated in the Kumaon region of Uttarakhand, surrounded by pine and oak forests, with panoramic views of the Himalayan foothills. The clean mountain air, pleasant climate, and serene environment provide an ideal setting for the physical and mental development of cadets.
 
-This climate makes Ghorakhal one of the most physically demanding Sainik Schools — cadets train in conditions that are closer to the high-altitude postings of the Indian Army than to the plains schools.
+## Academics and Curriculum
 
-### The Old Boys' Association
+### CBSE Academic Programme
 
-Ghorakhal's alumni, known as "Old Boys," maintain an active association through the [Old Boy's Association (OBA)](https://ssghorakhal.org/oba) and the [SSGK OBA Portal](https://www.ssgkoba.com/home). The association organizes reunions, maintains alumni records, and supports current cadets.
+Sainik School Ghorakhal is affiliated with the Central Board of Secondary Education (CBSE), New Delhi. The school follows the CBSE curriculum from Class VI through Class XII, with English as the medium of instruction.
 
-## Location & Contact
+**Senior Secondary Subject Streams:**
 
-- **Address:** Sainik School Ghorakhal, Near Nainital, Uttarakhand
-- **Phone:** +91-05942-220051
-- **Website:** [ssghorakhal.org](https://ssghorakhal.org/)
-- **Nearest City:** Nainital (approx. 10 km)
-- **Nearest Railway:** Kathgodam Railway Station (approx. 30 km)
-- **Nearest Airport:** Pantnagar Airport (approx. 60 km)
-- **Social Media:** [Instagram](https://www.instagram.com/ssgkweb/) | [X/Twitter](https://x.com/SSGK1966) | [Facebook](https://www.facebook.com/share/18DSUNTrTo/) | [YouTube](https://www.youtube.com/@SainikSchoolGhorakhal-x8c)
+- **Science Stream** — Physics, Chemistry, Mathematics, Biology, Computer Science
+- **Commerce Stream** — Accountancy, Business Studies, Economics
+- **Humanities** — History, Geography, Political Science, Economics
 
-## Admission Details
+### Academic Assessment
 
-### Eligibility
+The school follows the CBSE assessment pattern:
 
-**Class VI:**
-- Age: 10–12 years as on 31 March
-- Currently in Class V
-- Both boys and girls eligible
+- **Periodic Tests** — Conducted at regular intervals throughout the session
+- **Term Examinations** — Mid-term and end-of-term assessments
+- **CBSE Board Examinations** — Class X and Class XII final board exams
+- **Pre-Board Examinations** — Mock board exams for Class X and XII students
 
-**Class IX:**
-- Age: 13–15 years as on 31 March
-- Currently in Class VIII
+### Academic Results
 
-### Process
+Sainik School Ghorakhal publishes its Class X and Class XII CBSE results on its official website. The school has consistently maintained a strong academic record, with cadets performing well in board examinations and competitive entrance tests.
 
-1. AISSEE registration through [NTA portal](https://aissee.nta.nic.in/)
-2. AISSEE examination (January)
-3. AISSAC counselling
-4. Medical examination
-5. Admission
+### NDA and Defence Preparation
 
-### Reservation
+The primary objective of Sainik School Ghorakhal is to prepare cadets for entry into the National Defence Academy (NDA) and other officer training institutions. The school's NDA preparation programme includes:
 
-67% seats for Uttarakhand domicile. 33% for other states.
+- Dedicated coaching for the UPSC NDA written examination
+- Physical fitness training aligned with NDA standards
+- Personality development and leadership grooming
+- SSB (Services Selection Board) interview preparation
+- Guidance from experienced faculty and visiting defence officers
 
-## Fee Structure
+The school publishes its NDA results and maintains a Hall of Fame celebrating alumni who have joined the armed forces.
 
-Fee structure is available as a [PDF on the school website](https://ssghorakhal.org/storage/page_pdf/uqquFGvvL6leMsqVYsi4DSxk0wguP6WKKqolzSUK.pdf). Scholarships from the Ministry of Defence and Uttarakhand state government are available — [details](https://ssghorakhal.org/storage/announcements/0tNH4QgVjdBQqbWDJRQLwdSKvi3WCAvOO335JPvs.pdf).
+## Campus and Infrastructure
 
-Online fee payment is available through [SBI Collect](https://www.onlinesbi.sbi/sbicollect/).
+### 500-Acre Hill Station Campus
 
-## Facilities
+The campus of Sainik School Ghorakhal spans 500 acres, making it one of the largest Sainik School campuses in India. The expansive grounds, set at an elevation in the Kumaon hills, include:
 
-### Academic
-
-- CBSE-affiliated curriculum
-- [School Affiliation](https://ssghorakhal.org/page/school-affiliation)
-- [Syllabus](https://ssghorakhal.org/page/syllabus)
-- Science and Computer laboratories
-- Library
-- E-Class facilities — [online learning](https://ssghorakhal.org/e-class)
-
-### Sports & Training
-
-- Playgrounds adapted for hilly terrain
-- [Infrastructure](https://ssghorakhal.org/infrastructure) — comprehensive facilities
-- NDA training
-- Physical fitness program adapted for mountain conditions
-
-### Residential
-
-- [Houses](https://ssghorakhal.org/houses) — organized by house system
+- Academic buildings and classrooms
+- Residential hostels and dormitories
+- Sports fields and playgrounds
+- Laboratories and library
 - Medical facilities
-- Parents' Corner — [information for parents](https://ssghorakhal.org/page/parents-corner)
+- Administrative buildings
 
-### Additional
+### Academic Facilities
 
-- [Achievements](https://ssghorakhal.org/page/achievements)
-- [NDA page](https://ssghorakhal.org/nda)
-- Information for visitors — [guidelines](https://ssghorakhal.org/storage/announcements/nu6pRuzUANxNYtU3RvQeB7TBppydNuStJ5YWISiC.pdf)
+- **Classrooms** — Well-equipped with modern teaching aids and technology
+- **Science Laboratories** — Fully equipped Physics, Chemistry, Biology, and Computer Science labs
+- **Library** — Comprehensive collection of books, reference materials, and periodicals
+- **E-Class Facilities** — Digital and online learning resources
 
-## Academic & NDA Performance
+### Residential Infrastructure
 
-The school publishes:
-- Class X and XII results (available as PDFs on the website)
-- NDA selections
-- [Achievements](https://ssghorakhal.org/page/achievements)
+- **Separate Hostels** — For boys and girls with modern amenities
+- **House System** — Multiple houses with dedicated House Masters and tutors
+- **Cadets' Mess** — Providing nutritious vegetarian meals
+- **Medical Centre** — 24x7 medical facility with trained staff
+- **Wi-Fi Hostels** — Internet connectivity for academic purposes
 
-## Notable Alumni
+### Sports and Extra-Curricular Facilities
 
-The school's Old Boys' Association maintains an active database at [ssgkoba.com](https://www.ssgkoba.com/home). Alumni serve in the Indian Armed Forces, with the school's hill-country training giving them an edge in high-altitude postings.
+The 500-acre campus provides ample space for a wide range of sports and activities:
 
-## FAQs
+- **Cricket Ground** — For cricket practice and matches
+- **Football Field** — Well-maintained turf for football
+- **Hockey Field** — For hockey training and tournaments
+- **Basketball Court** — For basketball
+- **Badminton Court** — For badminton
+- **Tennis Court** — For lawn tennis
+- **Squash Court** — Indoor squash facility
+- **Swimming Pool** — For aquatic training
+- **Gymnasium** — For physical fitness and conditioning
+- **Athletic Track** — For track and field events
 
-**Q: What does "Ghorakhal" mean?**
-A: "Ghora" means horse, "Khal" means pond. The name comes from an incident during the 1857 Rebellion when a British General's horse died while drinking from a pond at this location.
+### Adventure and Outdoor Activities
 
-**Q: Why is the school on the Nawab of Rampur's estate?**
-A: The estate was acquired by the government after independence. When a Sainik School was needed in the hill region, the Nawab's estate at Ghorakhal was identified as the ideal location due to its existing infrastructure and scenic setting.
+Leveraging its hill station location, Sainik School Ghorakhal offers:
 
-**Q: Does it snow at the school?**
-A: Yes. Ghorakhal, at approximately 2,000 meters altitude, experiences cold winters with occasional snowfall.
+- **Trekking** — Nature trails and mountain treks in the Kumaon hills
+- **Rock Climbing** — Adventure activities in the natural terrain
+- **Nature Club** — Environmental awareness and outdoor education
+- **Scouts and Guides** — Camping and survival skills
 
-**Q: How far is Nainital?**
-A: Approximately 10 km from the school.
+### Specialised Clubs and Activities
 
-**Q: What is the nearest railway station?**
-A: Kathgodam Railway Station, approximately 30 km away.
+- **Adventure Club**
+- **Art and Craft Club**
+- **Computer Club**
+- **Dance and Music**
+- **Dramatics and Theatre**
+- **Literary Club**
+- **Nature Club**
+- **NCC (National Cadet Corps)**
+- **NSS (National Service Scheme)**
+- **Scouts and Guides**
+- **Social Service Club**
+- **Sports Club**
 
-**Q: What is the SSGK OBA?**
-A: The Sainik School Ghorakhal Old Boys' Association — the alumni network accessible at ssgkoba.com.
+## Admission Process
 
-## Related Articles
+### AISSEE — All India Sainik Schools Entrance Examination
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Uttarakhand](/blog/sainik-schools-uttarakhand/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
-- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
-- [NDA Exam Preparation](/blog/nda-exam-preparation/)
+Admission to Sainik School Ghorakhal is through the All India Sainik Schools Entrance Examination (AISSEE), conducted annually by the National Testing Agency (NTA).
+
+**Eligibility:**
+
+- **Class VI:** Boys and girls aged 10–12 years as on 31 March of the admission year
+- **Class IX:** Boys aged 13–15 years as on 31 March (against vacant seats)
+
+**Reservation Policy:**
+
+- **67% seats** reserved for Uttarakhand domicile candidates
+- **33% seats** open to candidates from other states
+- Category-wise reservations: SC (15%), ST (7.5%), OBC (27%), Defence (25%)
+
+### Admission Procedure
+
+1. **Online Registration** — Through the NTA website (issue.nta.nic.in)
+2. **Entrance Examination** — Conducted on the first Sunday of January each year
+3. **Result Declaration** — Merit list published by NTA
+4. **Medical Examination** — Shortlisted candidates undergo medical fitness assessment
+5. **Document Verification and Admission** — Final counselling and admission
+
+### Documents Required
+
+- Student's photograph
+- Student's signature
+- Student's left-hand thumb impression
+- Birth certificate
+- Domicile certificate
+- Caste certificate (if applicable)
+
+### Fee Structure
+
+The annual fee at Sainik School Ghorakhal is approximately ₹1,00,000 to ₹1,40,000 per year, inclusive of messing and all incidental charges. Fee payment can be made online through the SBI Collect portal.
+
+### Scholarships
+
+Scholarships are available from:
+
+- **Ministry of Defence** — For wards of defence personnel
+- **Government of Uttarakhand** — State-level scholarships for eligible candidates
+- Detailed scholarship information is available on the school's website under the Parents Corner section
+
+## Student Life at Sainik School Ghorakhal
+
+### Daily Routine
+
+Cadets follow a structured daily routine that balances academics, physical training, and personal development:
+
+- **Early Morning** — Wake-up, physical training, and drill
+- **Morning** — Breakfast and academic classes
+- **Afternoon** — Lunch and sports/games
+- **Evening** — Supervised study (prep time)
+- **Night** — Dinner, roll call, and lights out
+
+### Houses and House System
+
+The school operates a house system where cadets are assigned to different houses upon admission. Each house is led by a House Captain (a senior cadet) and supervised by a House Master and tutors. Inter-house competitions in academics, sports, drill, and cultural activities are held throughout the year, fostering healthy competition and teamwork.
+
+### NCC and Military Training
+
+- **National Cadet Corps (NCC)** — A core component of the school's training programme
+- **Drill and Parade** — Regular drill sessions and ceremonial parades
+- **Leadership Camps** — Outdoor leadership and adventure camps
+
+### Social and Cultural Life
+
+- **Annual Day Celebrations** — Major school event with cultural performances
+- **Sports Day** — Annual athletic meet with inter-house competitions
+- **Festival Celebrations** — National and regional festivals celebrated on campus
+- **Community Service** — Social outreach programmes in nearby villages
+
+## Achievements and Legacy
+
+### Defence Services Record
+
+Over its six decades of existence, Sainik School Ghorakhal has produced numerous officers for the Indian Armed Forces. Alumni have served with distinction in:
+
+- **Indian Army** — Including senior officers and gallantry award winners
+- **Indian Navy** — Officers serving on ships and shore establishments
+- **Indian Air Force** — Pilots and ground duty officers
+- **Indian Coast Guard**
+- **Paramilitary Forces**
+
+### Hall of Fame
+
+The school maintains a Hall of Fame on its website, celebrating the achievements of its alumni in defence services, civil services, and other fields.
+
+### Old Boys' Association (OBA)
+
+The Sainik School Ghorakhal Old Boys' Association (OBA), accessible at [ssgkoba.com](https://www.ssgkoba.com/home), connects alumni across generations. The OBA organises:
+
+- Annual reunions
+- Mentoring programmes for current cadets
+- Fundraising for school development
+- Career guidance sessions
+
+### Newsletters and Publications
+
+The school publishes regular newsletters documenting school activities, achievements, and alumni updates. Recent newsletters are available on the school's website.
+
+## The Ghorakhal and Nainital Region
+
+### Geographic Setting
+
+Sainik School Ghorakhal is located in the Kumaon region of Uttarakhand, near the famous hill station of Nainital. The school's setting at elevation provides:
+
+- **Pleasant Climate** — Cool summers and cold winters, ideal for physical training
+- **Natural Beauty** — Surrounded by pine and oak forests with Himalayan views
+- **Clean Environment** — Pollution-free mountain air
+- **Outdoor Adventure** — Trekking, nature walks, and exploration opportunities
+
+### Connectivity
+
+| Transport | Details |
+|---|---|
+| **Nearest Airport** | Pantnagar Airport (PGH) |
+| **Nearest Railway Station** | Kathgodam Railway Station |
+| **Nearest Town** | Nainital |
+| **State** | Uttarakhand |
+
+## Contact Information
+
+| Contact Type | Details |
+|---|---|
+| **Address** | Sainik School Ghorakhal, District Nainital, Uttarakhand – 263156 |
+| **Phone** | +91-05942-220051 |
+| **Website** | [ssghorakhal.org](https://ssghorakhal.org) |
+| **Alumni Portal** | [ssgkoba.com](https://www.ssgkoba.com/home) |
+| **Twitter** | [@SSGK1966](https://x.com/SSGK1966) |
+| **Instagram** | [@ssgkweb](https://www.instagram.com/ssgkweb/) |
+| **Facebook** | [Sainik School Ghorakhal](https://www.facebook.com/share/18DSUNTrTo/) |
+| **YouTube** | [Sainik School Ghorakhal](https://www.youtube.com/@SainikSchoolGhorakhal-x8c) |
+| **AISSEE Registration** | [issue.nta.nic.in](https://aissee.nta.nic.in/) |
+
+## Frequently Asked Questions (FAQ)
+
+### When was Sainik School Ghorakhal established?
+
+Sainik School Ghorakhal was founded on 21 March 1966 on the estate of the Nawab of Rampur, near Nainital in Uttarakhand. It is one of the established Sainik Schools under the Sainik Schools Society, Ministry of Defence, Government of India, and has been operating for over sixty years.
+
+### What is the meaning of "Ghorakhal"?
+
+The name "Ghorakhal" comes from two Hindi words: "Ghora" (horse) and "Khal" (pond). According to local history, during the 1857 uprising, a British General fleeing from revolutionaries of Awadh reached this area, and his horse died while drinking water from a nearby pond. The incident gave the place its name, which literally means "the pond of the horse."
+
+### What is the campus area of Sainik School Ghorakhal?
+
+The campus of Sainik School Ghorakhal spans 500 acres, making it one of the largest Sainik School campuses in India. The school is situated on the former estate of the Nawab of Rampur, near Nainital, at an elevation in the Kumaon hills of Uttarakhand.
+
+### Is Sainik School Ghorakhal co-educational?
+
+Yes, Sainik School Ghorakhal admits both boys and girls, making it a co-educational residential school. The school has separate hostel facilities for boys and girls. Girls are admitted to Class VI through the AISSEE entrance examination.
+
+### How do I reach Sainik School Ghorakhal?
+
+Sainik School Ghorakhal is located near Nainital in Uttarakhand. The nearest airport is Pantnagar Airport (PGH), and the nearest railway station is Kathgodam Railway Station. From Kathgodam, the school is accessible by road through the Nainital route.
+
+### What is the fee for Sainik School Ghorakhal?
+
+The annual fee at Sainik School Ghorakhal is approximately ₹1,00,000 to ₹1,40,000 per year, inclusive of messing and all incidental charges. Scholarships are available from the Ministry of Defence and the Government of Uttarakhand for eligible candidates. Fee payment can be made online through the SBI Collect portal.
+
+### What sports facilities does Sainik School Ghorakhal offer?
+
+Sainik School Ghorakhal offers extensive sports facilities across its 500-acre campus, including cricket, football, hockey, basketball, badminton, tennis, squash, swimming, and athletics. The school's hill station location also enables adventure activities such as trekking, rock climbing, and nature expeditions.
+
+---
+
+*Explore more Sainik Schools in northern India. Visit our complete directory of [all Sainik Schools in India](/schools/) or browse [Sainik Schools in Uttarakhand](/states/uttarakhand/). For AISSEE preparation tips and admission guidance, see our [AISSEE guide](/admission/aissee/).*

@@ -1,161 +1,275 @@
 ---
-title: "Sainik School Chittorgarh Rajasthan - 272 Acres, Archery Range & NDA Results"
-date: 2026-07-05
-draft: false
-description: "Sainik School Chittorgarh — Rajasthan's Sainik School with 272 acres, archery range, shooting range, 11 houses, and equitation program. Admission, fees, NDA results."
-keywords: ["sainik school chittorgarh", "sainik school rajasthan", "sainik school chittorgarh admission", "sainik school chittorgarh fees", "sainik school chittorgarh contact number", "chittorgarh sainik school NDA"]
-state: "Rajasthan"
-established: "1961"
+title: "Sainik School Chittorgarh – Rajasthan's Premier Defence School"
+description: "Sainik School Chittorgarh, est. 1961 in Rajasthan. 272-acre campus with 11 boarding houses, archery range, shooting range & equitation centre. AISSEE admission details."
+keywords:
+  - Sainik School Chittorgarh
+  - Sainik School Rajasthan
+  - NDA preparation school Rajasthan
+  - CBSE boarding school Chittorgarh
+  - Sainik School admission 2026
+  - residential school Rajasthan
+  - defence school Chittorgarh
+  - Chittorian alumni
+date: 2026-07-09
+lastmod: 2026-07-09
+sitemap:
+  priority: 0.8
+  changefreq: monthly
+layout: school
+school_name: "Sainik School Chittorgarh"
+state: Rajasthan
+established: 1961
+aliases:
+  - /schools/sschittorgarh/
+  - /schools/sainik-school-chittorgarh-rajasthan/
 ---
 
-# Sainik School Chittorgarh — Fort City's Fortress of Future Officers
+> **Key Takeaway:** Sainik School Chittorgarh, established on 7 August 1961, is one of the earliest Sainik Schools in India. Spread across a sprawling 272-acre campus on Bhilwara Road in the historic city of Chittorgarh, Rajasthan, it holds the distinction of having 11 boarding houses — the most of any Sainik School in the country. The school features specialised facilities including an archery range, a shooting range, and an equitation centre, alongside a strong academic and NDA preparation programme.
 
-Stand at the gates of Sainik School Chittorgarh and you see the silhouette of India's largest fort — Chittorgarh Fort — rising in the distance. The symbolism is not lost on anyone who knows Rajasthan's history: this is the land of Maharana Pratap, Rani Padmini, and warriors who chose death over surrender. It is fitting, then, that Rajasthan's only Sainik School sits in the shadow of that fort, preparing a new generation of defenders.
+## Quick Facts About Sainik School Chittorgarh
 
-Established in 1961, Sainik School Chittorgarh operates on a sprawling 272-acre campus that is among the largest in the Sainik Schools network. But what truly distinguishes this school is its infrastructure for military-style training: a dedicated archery range (Brig Ransher Archery Range), a shooting range (Gen Mandhata Shooting Range), an equitation (horse riding) facility, and 11 boarding houses — the most of any Sainik School in India. These are not amenities; they are training grounds designed to produce officers.
+| Feature | Details |
+|---|---|
+| **Full Name** | Sainik School Chittorgarh |
+| **Location** | Bhilwara Road, Chittorgarh, Rajasthan |
+| **State** | Rajasthan |
+| **Year Established** | 1961 (7 August 1961) |
+| **Campus Area** | 272 acres |
+| **Boarding Houses** | 11 (highest among all Sainik Schools) |
+| **CBSE Affiliation** | Permanent Affiliation under CBSE, New Delhi |
+| **Medium of Instruction** | English |
+| **Type** | Fully Residential |
+| **Gender** | Boys (Co-ed admissions in recent years) |
+| **Classes Offered** | Class VI to Class XII |
+| **Principal** | Colonel Anil Dev Singh Jasrotia |
+| **Phone** | Available on official website |
+| **Email** | Available on official website |
+| **Website** | [sschittorgarh.edu.in](https://sschittorgarh.edu.in) |
+| **Alumni Association** | [chittorian.in](https://chittorian.in) |
+| **School Magazine** | The Chittorian |
+| **Managing Body** | Sainik Schools Society, Ministry of Defence |
+| **Nearest City** | Chittorgarh (within city limits) |
 
-## Quick Facts
+## History and Foundation
 
-| Detail | Info |
-|--------|------|
-| Established | 1961 |
-| Location | Nimbahera Road, Chittorgarh, Rajasthan – 312001 |
-| Campus | 272 acres |
-| CBSE Affiliation | Yes |
-| Classes | VI to XII |
-| Medium | English |
-| Boarding Houses | 11 (Ashok I, Ashok II, Badal, Hamir, Jaimal, Kumbha, Kush, Luv, Padmini, Pratap, Sanga) |
-| Website | [sschittorgarh.edu.in](https://sschittorgarh.edu.in/) |
+### Establishment on Sacred Ground
 
-## History & Legacy
+Sainik School Chittorgarh was established on 7 August 1961 on what the school's own history describes as "pious land replete with laudable history." The city of Chittorgarh itself is synonymous with Rajput valour, sacrifice, and honour — home to the legendary Chittorgarh Fort, a UNESCO World Heritage Site. The school was founded to channel this spirit of courage and service into a modern educational framework that prepares young cadets for careers in the Indian Armed Forces.
 
-### Born in the Land of Rajput Valor
+As one of the earliest Sainik Schools established under the Sainik Schools Society, Ministry of Defence, Government of India, Sainik School Chittorgarh has played a pivotal role in Rajasthan's defence education landscape for over six decades.
 
-Sainik School Chittorgarh was established in 1961 as part of the Government of India's initiative to create military feeder schools across the country. Rajasthan, with its deep martial traditions and the highest per-capita representation in the Indian Army among all states, was a natural choice for a Sainik School.
+### The Chittorgarh Legacy
 
-The school was established on the outskirts of Chittorgarh city, on a 272-acre campus that provided ample room for the kind of expansive training facilities that would become its hallmark. Unlike some Sainik Schools that were shoehorned into existing buildings, Chittorgarh was designed from the ground up as a military academy school.
+The choice of Chittorgarh as the location for a Sainik School was deliberate. The city's history — marked by the legendary sacrifices of Maharana Pratap, Rani Padmini, and the warrior kings of Mewar — provides a living backdrop of patriotism and martial tradition. Cadets at the school grow up immersed in an environment where tales of valour are not just textbook stories but part of the local landscape.
 
-### The 11 Houses — A Unique System
+## Academics and Curriculum
 
-Most Sainik Schools have 4-6 boarding houses. Chittorgarh has 11 — each named after legendary Rajput rulers and figures:
+### CBSE Affiliated Academic Programme
 
-1. **Ashok I** & **Ashok II** — Named after Emperor Ashoka
-2. **Badal** — After the Rajput warrior Badal
-3. **Hamir** — After Rana Hamir, the ruler who restored Mewar's glory
-4. **Jaimal** — After Jaimal Rathore, the defender of Chittorgarh Fort against Akbar
-5. **Kumbha** — After Maharana Kumbha, the builder king
-6. **Kush** & **Luv** — After the sons of Lord Rama
-7. **Padmini** — After Rani Padmini, the legendary queen
-8. **Pratap** — After Maharana Pratap, Rajasthan's greatest hero
-9. **Sanga** — After Rana Sanga, the warrior king
+Sainik School Chittorgarh is affiliated with the Central Board of Secondary Education (CBSE), New Delhi, and follows the CBSE curriculum from Class VI through Class XII. The medium of instruction is English.
 
-This house system is not merely organizational — it is pedagogical. Each house carries the weight of its namesake's legacy, instilling pride and a sense of duty in cadets.
+**Subject Streams at Senior Secondary Level (Class XI–XII):**
 
-## Location & Contact
+- **Science Stream** — Physics, Chemistry, Mathematics, Biology / Computer Science
+- **Commerce Stream** — Accountancy, Business Studies, Economics, Mathematics
+- **Humanities Stream** — History, Geography, Political Science, Economics
 
-- **Address:** Sainik School Chittorgarh, Nimbahera Road, Chittorgarh, Rajasthan – 312001
-- **Website:** [sschittorgarh.edu.in](https://sschittorgarh.edu.in/)
-- **Nearest Railway Station:** Chittorgarh Junction (5 km)
-- **Nearest Airport:** Maharana Pratap Airport, Udaipur (110 km)
-- **Alumni Association:** [chittorian.in](https://chittorian.in/)
+### Academic Assessment Pattern
 
-## Admission Details
+The school follows the CBSE assessment structure:
 
-### Eligibility
+- **Periodic Test 1 (PT-1)** and **Periodic Assessment 1 (PA-1)** — First term evaluation
+- **Mid-Term Examination** — Mid-year comprehensive assessment
+- **Periodic Test 2 (PT-2)** — Second term evaluation
+- **Final Examination** — End-of-year assessment following CBSE board exam pattern
 
-**Class VI:**
-- Age: 10–12 years as on 31 March of the admission year
-- Currently studying in Class V
-- Both boys and girls eligible
+### NDA and SSB Preparation
 
-**Class IX:**
-- Age: 13–15 years as on 31 March
-- Currently studying in Class VIII
+Sainik School Chittorgarh has a dedicated NDA preparation programme. The school provides:
 
-### Process
+- Systematic coaching for the UPSC NDA entrance examination
+- Physical fitness training aligned with NDA standards
+- Personality development and communication skills for SSB interviews
+- Mock SSB interview sessions
+- Guidance from former defence officers and experienced faculty
 
-1. Register for AISSEE through [NTA portal](https://exams.nta.nic.in/sainik-school-society/)
-2. Appear for AISSEE (January)
-3. AISSAC online counselling
-4. Medical examination — [guidelines available on school website](https://sschittorgarh.edu.in/wp-content/uploads/2026/03/GUIDELINES-FOR-MEDICAL-EXAMINATION.pdf)
-5. Document verification and admission
+The school publishes its NDA Honour Roll, showcasing cadets who have successfully joined the National Defence Academy.
 
-### Reservation
-
-67% seats reserved for Rajasthan domicile candidates. 33% open to other states.
-
-## Fee Structure
-
-Fee details are available on the school website under the [Admission section](https://sschittorgarh.edu.in/admission-procedure/). Online fee payment is accepted through [SBI Collect](https://onlinesbi.sbi.bank.in/sbicollect/icollecthome.htm). Scholarships from the Ministry of Defence and Rajasthan state government are available for eligible families.
-
-## Facilities
-
-### Training Infrastructure
-
-- **Brig Ransher Archery Range** — Dedicated archery facility, a rarity among Sainik Schools
-- **Gen Mandhata Shooting Range** — Professional shooting range for marksmanship training
-- **Equitation Centre** — Horse riding facility, reflecting Rajasthan's equestrian traditions
-- **Swimming Pool** — For aquatic training and fitness
-- **Indoor Stadium** — For basketball, badminton, and other indoor sports
-- **Sports Arena** — Multi-sport complex
-- **Gymnasium** — Fully equipped fitness centre
+## Campus and Infrastructure
 
 ### Academic Infrastructure
 
-- Smart classrooms
-- Physics, Chemistry, Biology, Computer Science, and Language laboratories
-- Well-stocked library
-- Auditorium for events and performances
-- Parents' Hall for visitor interactions
+The 272-acre campus of Sainik School Chittorgarh houses comprehensive academic facilities:
 
-### Residential Facilities
+- **Smart Classrooms** — Modern teaching aids and audio-visual equipment
+- **Science Laboratories** — Separate Physics, Chemistry, Biology, and Computer Science labs
+- **Language Laboratory** — For English language and communication skills development
+- **Library** — An extensive collection of books, periodicals, and digital resources
 
-- 11 boarding houses with dedicated house masters
-- Cadets' Mess with nutritious meal plans
-- School Infirmary for medical care
-- Guest Houses for visiting parents
-- Cadets' Facility Centre
+### Residential Infrastructure — 11 Boarding Houses
 
-### NCC & Training
+Sainik School Chittorgarh holds the distinction of having **11 boarding houses** — the most among all Sainik Schools in India. Each house is named after legendary Rajput warriors and rulers:
 
-The school has a robust NCC and APTC (Army Physical Training Corps) program. NDA preparation is integrated into the school's academic calendar with dedicated coaching and SSB interview preparation.
+1. **Ashok-I House**
+2. **Ashok-II House**
+3. **Badal House**
+4. **Hamir House**
+5. **Jaimal House**
+6. **Kumbha House**
+7. **Kush House**
+8. **Luv House**
+9. **Padmini House**
+10. **Pratap House**
+11. **Sanga House**
 
-## Academic & NDA Performance
+Each house has a dedicated House Master, tutors, and support staff who provide pastoral care, academic guidance, and moral support to cadets. The house system fosters inter-house competition, teamwork, and leadership skills.
 
-Sainik School Chittorgarh maintains a strong record in CBSE board examinations and NDA selections. The school publishes its [NDA Honour Roll](https://sschittorgarh.edu.in/nda-honour-roll/) on its website, listing cadets who have been selected for the National Defence Academy.
+### Specialised Training Facilities
 
-The school's achievements span academic excellence, sporting excellence, and inter-school competitions, with detailed records available on the [Achievements page](https://sschittorgarh.edu.in/achievements/).
+What sets Sainik School Chittorgarh apart from many other Sainik Schools is its range of specialised training infrastructure:
 
-## Notable Alumni
+- **Brigadier Ransher Archery Range** — A dedicated archery range for training in this traditional sport
+- **General Mandhata Shooting Range** — A shooting range for marksmanship training
+- **Equitation Centre** — Horse riding and equestrian training facility
+- **Indoor Stadium** — For badminton, basketball, and other indoor sports
+- **Swimming Pool** — For aquatic training and recreational swimming
+- **Gymnasium** — For physical fitness and strength conditioning
+- **Sports Arena** — Multi-sport complex for athletics and team sports
 
-The school maintains a [Distinguished Alumni](https://sschittorgarh.edu.in/distinguished-alumni/) section, along with a [Gallantry Awardees](https://sschittorgarh.edu.in/gallantry-awardees/) and [Martyrs](https://sschittorgarh.edu.in/martyrs/) page — honoring those who served and sacrificed. The alumni association operates through [chittorian.in](https://chittorian.in/).
+### Mess and Dining
 
-The school magazine, *The Chittorian*, is published annually and is available on the website for [2024-25](https://sschittorgarh.edu.in/the-chittorian-2024-25/) and [2023-24](https://sschittorgarh.edu.in/the-chittorian/).
+The Cadets' Mess provides nutritious meals with both vegetarian and non-vegetarian options. The mess is managed by dedicated kitchen staff and supervised by the school administration to ensure quality and hygiene.
 
-## FAQs
+### Medical and Health Facilities
 
-**Q: How many boarding houses does Sainik School Chittorgarh have?**
-A: 11 boarding houses — the most among all Sainik Schools in India. Each is named after a legendary Rajput figure.
+- **School Infirmary** — Staffed with trained medical personnel
+- **24x7 Medical Facility** — For emergency and routine medical care
+- **Visiting Doctors** — Regular health check-ups and specialist consultations
 
-**Q: Does the school have a shooting range?**
-A: Yes. The Gen Mandhata Shooting Range is a professional facility on campus for marksmanship training.
+## Admission Process
 
-**Q: Is horse riding available at Sainik School Chittorgarh?**
-A: Yes. The school has a dedicated equitation centre, reflecting Rajasthan's equestrian heritage.
+### AISSEE — All India Sainik Schools Entrance Examination
 
-**Q: What is the campus size?**
-A: 272 acres — one of the largest Sainik School campuses in India.
+Admission to Sainik School Chittorgarh is through the All India Sainik Schools Entrance Examination (AISSEE), conducted by the National Testing Agency (NTA).
 
-**Q: Are girls admitted?**
-A: Yes. Girls are admitted to Class VI under the co-education policy introduced from 2021.
+**Eligibility:**
 
-**Q: What is the school's magazine called?**
-A: *The Chittorian*, published annually.
+- **Class VI:** Boys and girls aged 10–12 years as on 31 March of the admission year
+- **Class IX:** Boys aged 13–15 years as on 31 March (against vacant seats)
 
-## Related Articles
+**Reservation:**
 
-- [All 33 Sainik Schools in India — Complete List](/blog/all-sainik-schools-india/)
-- [Sainik School Admission Process 2026](/blog/sainik-school-admission-process/)
-- [Sainik Schools in Rajasthan — Complete Guide](/blog/sainik-schools-rajasthan/)
-- [AISSEE 2026 — Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
-- [Sainik School Fees Comparison](/blog/sainik-school-fees-comparison/)
+- 67% seats for Rajasthan domicile candidates
+- 33% seats for candidates from other states
+- Category reservations: SC (15%), ST (7.5%), OBC (27%), Defence (25%)
+
+### Application Process
+
+1. **Online Registration** — Through NTA website (exams.nta.nic.in/sainik-school-society)
+2. **Entrance Exam** — First Sunday of January each year
+3. **Result and Merit List** — Published by NTA
+4. **Medical Examination** — As per guidelines published on the school website
+5. **Document Verification and Admission** — Final counselling and admission
+
+## Student Life and Activities
+
+### Daily Routine
+
+Cadets at Sainik School Chittorgarh follow a disciplined daily schedule:
+
+- **05:30 AM** — Wake-up and morning PT
+- **06:30 AM** — Breakfast
+- **07:30 AM – 01:30 PM** — Academic classes
+- **02:00 PM** — Lunch
+- **03:00 PM – 05:00 PM** — Sports and games
+- **05:30 PM – 07:30 PM** — Evening study (prep)
+- **08:00 PM** — Dinner
+- **09:00 PM – 10:00 PM** — Night study
+- **10:00 PM** — Lights out
+
+### Co-Curricular Activities
+
+The school offers a rich array of co-curricular activities through its Hobby Clubs:
+
+- **NCC (National Cadet Corps)** — Compulsory for cadets, with regular camps and training
+- **Debating and Public Speaking**
+- **Music and Dance**
+- **Art and Craft**
+- **Dramatics and Theatre**
+- **Social Service and Community Outreach**
+- **Scouts and Guides**
+- **Computer Club**
+
+### Inter-House and Inter-School Competitions
+
+Regular inter-house competitions are held in:
+
+- Academics (quizzes, debates, essay writing)
+- Sports (football, hockey, basketball, athletics, swimming)
+- Cultural activities (music, dance, drama)
+- Drill and parade competitions
+
+## Achievements and Distinguished Alumni
+
+### Academic Excellence
+
+Sainik School Chittorgarh consistently produces strong CBSE Board Examination results. The school takes pride in its academic record and the number of cadets who qualify for competitive examinations.
+
+### Defence Services
+
+The school has a long and distinguished record of sending cadets to:
+
+- **National Defence Academy (NDA)**, Khadakwasla, Pune
+- **Indian Naval Academy (INA)**, Ezhimala, Kerala
+- **Indian Military Academy (IMA)**, Dehradun
+- **Officers Training Academy (OTA)**, Chennai
+
+Alumni have served with distinction across the Indian Army, Indian Navy, and Indian Air Force. The school honours its fallen heroes through its **Martyrs' page** and recognises gallantry award winners.
+
+### The Chittorian — School Magazine
+
+The school publishes its annual magazine, **The Chittorian**, which serves as a chronicle of school life, achievements, literary works, and alumni updates. The magazine is available on the school website and is a treasured keepsake for the Chittorian community.
+
+### Alumni Association — Chittorian.in
+
+The alumni association, accessible at [chittorian.in](https://chittorian.in), connects former students across generations. The association organises reunions, mentoring programmes, and contributes to the school's development.
+
+## Contact Information
+
+| Contact Type | Details |
+|---|---|
+| **Address** | Sainik School Chittorgarh, Bhilwara Road, Chittorgarh, Rajasthan |
+| **Website** | [sschittorgarh.edu.in](https://sschittorgarh.edu.in) |
+| **Alumni Portal** | [chittorian.in](https://chittorian.in) |
+| **AISSEE Registration** | [exams.nta.nic.in](https://exams.nta.nic.in/sainik-school-society/) |
+| **Fee Payment** | SBI Collect Portal |
+
+## Frequently Asked Questions (FAQ)
+
+### When was Sainik School Chittorgarh established?
+
+Sainik School Chittorgarh was established on 7 August 1961 in the historic city of Chittorgarh, Rajasthan. It is one of the earliest Sainik Schools founded under the Sainik Schools Society, Ministry of Defence, Government of India.
+
+### How many boarding houses does Sainik School Chittorgarh have?
+
+Sainik School Chittorgarh has 11 boarding houses — the highest number among all Sainik Schools in India. The houses are named after legendary Rajput warriors and rulers: Ashok-I, Ashok-II, Badal, Hamir, Jaimal, Kumbha, Kush, Luv, Padmini, Pratap, and Sanga.
+
+### What specialised facilities does Sainik School Chittorgarh offer?
+
+Sainik School Chittorgarh offers three specialised facilities rare among Sainik Schools: the Brigadier Ransher Archery Range for archery training, the General Mandhata Shooting Range for marksmanship, and an Equitation Centre for horse riding and equestrian training. The school also has an indoor stadium, swimming pool, and gymnasium.
+
+### What is the campus area of Sainik School Chittorgarh?
+
+The campus of Sainik School Chittorgarh spans 272 acres on Bhilwara Road in Chittorgarh, Rajasthan. The expansive campus accommodates 11 boarding houses, academic buildings, sports facilities, specialised training ranges, and residential quarters.
+
+### How can I get admission in Sainik School Chittorgarh?
+
+Admission is through the All India Sainik Schools Entrance Examination (AISSEE) conducted by the National Testing Agency (NTA). The exam is held annually on the first Sunday of January. Candidates aged 10–12 years can apply for Class VI and those aged 13–15 for Class IX. Registration is done online at the NTA website.
+
+### What is The Chittorian?
+
+The Chittorian is the annual school magazine of Sainik School Chittorgarh. It features school news, academic achievements, literary contributions from cadets, sports results, and alumni updates. The magazine is published on the school website and serves as a cultural chronicle of the school community.
+
+---
+
+*Explore more Sainik Schools in Rajasthan and neighbouring states. Visit our complete directory of [all Sainik Schools in India](/schools/) or learn about [Sainik Schools in Rajasthan](/states/rajasthan/). For AISSEE preparation tips and guidance, see our [admission guide](/admission/aissee/).*
