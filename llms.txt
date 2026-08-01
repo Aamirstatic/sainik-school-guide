@@ -1,55 +1,85 @@
 # Sainik School Guide India
 
-> India's most comprehensive Sainik School directory. AISSEE preparation tips, school information, admission guides, and daily articles for defense aspirants.
+> India's most comprehensive Sainik School directory. AISSEE preparation tips, school information, admission guides, and daily articles for defense aspirants. Updated August 2026.
 
 ## Overview
 
 Sainik School Guide India is a free educational resource for parents and students preparing for AISSEE (All India Sainik School Entrance Exam). We cover all 33+ Sainik Schools across India with detailed information on admissions, fees, facilities, and preparation strategies.
 
+**Key Facts:**
+- Total Sainik Schools: 33+ traditional + 69 PPP model
+- Exam: AISSEE conducted by NTA (National Testing Agency)
+- Classes: Class 6 (age 10-12) and Class 9 (age 13-15)
+- Exam Frequency: Once a year (January)
+- Application Period: October-November
+- Official Website: https://exams.nta.nic.in/sainik-school-society/
+
+## Blog Articles (18 Articles — Updated August 2026)
+
+### Admission & Application
+- [Sainik School Admission 2027 — Complete Guide](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE Application Form 2027 — Step-by-Step Guide](/blog/aissee-application-form-2027-guide/)
+- [5 Mistakes Parents Make During Admission](/blog/sainik-school-admission-mistakes/)
+- [Sainik School Counselling 2027 — E-Counselling Process](/blog/sainik-school-counselling-2027/)
+
+### AISSEE Preparation
+- [AISSEE 2027 Preparation Tips — Complete Strategy](/blog/aissee-2027-preparation-tips/)
+- [AISSEE 2027 Syllabus — Class 6 & Class 9](/blog/aissee-2027-syllabus-class-6-class-9/)
+- [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/)
+- [AISSEE Previous Year Question Papers — Free PDF](/blog/aissee-previous-year-papers-pdf/)
+
+### Fees & Scholarships
+- [Sainik School Fees 2027 — Complete Fee Comparison](/blog/sainik-school-fee-comparison-all-schools/)
+- [Sainik School Scholarship 2027 — Fee Concession Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+
+### School Life & Experience
+- [Sainik School Daily Routine 2027 — Complete Timetable](/blog/sainik-school-daily-routine-timetable/)
+- [Sainik School Hostel Life — Complete Guide](/blog/sainik-school-hostel-life/)
+- [Sainik School Medical Test 2027 — Requirements](/blog/sainik-school-medical-test-2027/)
+- [Sainik School for Girls 2027 — Admission Guide](/blog/sainik-school-for-girls-2027/)
+
+### Career & Comparison
+- [NDA After Sainik School — Complete Career Path](/blog/nda-after-sainik-school-career-path/)
+- [Sainik School NDA Success Stories — Officers & Alumni](/blog/sainik-school-nda-success-stories/)
+- [Sainik School vs Military School — Which Is Better](/blog/sainik-school-vs-military-school/)
+- [Sainik School vs RIMC vs RMS — 3-Way Comparison](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
+
+## Sainik Schools Directory
+
+- [All 33+ Schools](/schools/)
+- [Amaravathinagar, Tamil Nadu](/schools/sainik-school-amaravathinagar/)
+- [Kapurthala, Punjab](/schools/sainik-school-kapurthala/)
+- [Chittorgarh, Rajasthan](/schools/sainik-school-chittorgarh/)
+- [Ghorakhal, Uttarakhand](/schools/sainik-school-ghorakhal/)
+- [Bhubaneswar, Odisha](/schools/sainik-school-bhubaneswar/)
+- [Rewa, Madhya Pradesh](/schools/sainik-school-rewa/)
+- [Korukonda, Andhra Pradesh](/schools/sainik-school-korukonda/)
+- [Kazhakootam, Kerala](/schools/sainik-school-kazhakootam/)
+- [Balachadi, Gujarat](/schools/sainik-school-balachadi/)
+- [Satara, Maharashtra](/schools/sainik-school-satara/)
+- [Goalpara, Assam](/schools/sainik-school-goalpara/)
+- [Gopalganj, Bihar](/schools/sainik-school-gopalganj/)
+- [Purulia, West Bengal](/schools/sainik-school-purulia/)
+- [Kunjpura, Haryana](/schools/sainik-school-kunjpura/)
+- [Nagrota, J&K](/schools/sainik-school-nagrota/)
+- [East Siang, Arunachal Pradesh](/schools/sainik-school-east-siang/)
+
+## Tools
+
+- [Age Eligibility Calculator](/tools/age-calculator/)
+
 ## Key Sections
 
-- **Sainik Schools Directory**: Complete profiles of all Sainik Schools in India with admission details, fees, facilities, and contact information.
-  - [All Schools](/schools/)
-  - [Amaravathinagar, Tamil Nadu](/schools/sainik-school-amaravathinagar/)
-  - [Kapurthala, Punjab](/schools/sainik-school-kapurthala/)
-  - [Rewa, Madhya Pradesh](/schools/sainik-school-rewa/)
-  - [Chittorgarh, Rajasthan](/schools/sainik-school-chittorgarh/)
-  - [Korukonda, Andhra Pradesh](/schools/sainik-school-korukonda/)
-  - [Gopalganj, Bihar](/schools/sainik-school-gopalganj/)
-
-- **AISSEE Guide**: Complete preparation guide for AISSEE 2027 exam.
-  - [AISSEE Overview](/aissee/)
-  - [Preparation Tips](/blog/aissee-2027-preparation-tips/)
-  - [Application Form Guide](/blog/aissee-application-form-2027-guide/)
-  - [Best Books for AISSEE](/blog/best-books-aissee-2027/)
-
-- **Blog**: Daily articles on Sainik School admissions, preparation, and student life.
-  - [All Articles](/blog/)
-  - [Admission Guide 2027](/blog/sainik-school-admission-2027-guide/)
-  - [Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-  - [NDA Career Path](/blog/nda-after-sainik-school-career-path/)
-  - [Hostel Life](/blog/sainik-school-hostel-life/)
-  - [Common Mistakes](/blog/sainik-school-admission-mistakes/)
-  - [Sainik vs Military School](/blog/sainik-school-vs-military-school/)
-
-- **States**: Sainik Schools organized by state.
-  - [All States](/states/)
-  - [Rajasthan](/states/rajasthan/)
-  - [Tamil Nadu](/states/tamil-nadu/)
-  - [Punjab](/states/punjab/)
-
-## Important Facts
-
-- **Exam**: AISSEE (All India Sainik School Entrance Exam) conducted by NTA
-- **Classes**: Class 6 and Class 9 admissions
-- **Frequency**: Once a year (usually January)
-- **Official Website**: [exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/)
-- **Total Sainik Schools**: 33+ across India
-- **Eligibility**: Age 10-12 for Class 6, Age 13-15 for Class 9
-- **Application Period**: October-November each year
+- [Blog](/blog/) — 18+ articles on AISSEE preparation
+- [AISSEE Guide](/aissee/) — Complete exam information
+- [Schools](/schools/) — All Sainik Schools directory
+- [States](/states/) — Schools organized by state
+- [Authors](/authors/) — Meet our expert team
 
 ## Contact
 
 - **Email**: info@sainikschooleastsiang.in
 - **Phone**: 9436409766
-- **Website**: [sainikschooleastsiang.in](https://sainikschooleastsiang.in)
+- **Website**: https://sainikschooleastsiang.in
+- **Twitter**: https://twitter.com/sainikschoolguide
+- **YouTube**: https://youtube.com/@sainikschoolguide
