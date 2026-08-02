@@ -1,0 +1,55 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "twitter",
+    "whatsapp",
+    "facebook",
+    "linkedin"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More from Sainik School Guide"
+    },
+    {
+      "type": "small",
+      "title": "AISSEE 2027 Preparation Guide",
+      "url": "/blog/aissee-2027-preparation-tips/",
+      "image": "/images/webstories/aissee-preparation-cover.jpg"
+    },
+    {
+      "type": "small",
+      "title": "All Sainik Schools in India",
+      "url": "/schools/",
+      "image": "/images/webstories/top10-sainik-schools-cover.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Sainik School Admission 2027",
+      "url": "/blog/sainik-school-admission-2027-guide/",
+      "image": "/images/webstories/admission-process-cover.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Best Books for AISSEE",
+      "url": "/blog/best-books-aissee-2027/",
+      "image": "/images/webstories/aissee-books.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "Follow Us"
+    },
+    {
+      "type": "social",
+      "icon": "youtube",
+      "provider": "youtube",
+      "data-action": "https://youtube.com/@sainikschoolguide"
+    },
+    {
+      "type": "social",
+      "icon": "instagram",
+      "provider": "instagram",
+      "data-action": "https://instagram.com/sainikschoolguide"
+    }
+  ]
+}
