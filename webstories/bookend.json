@@ -25,13 +25,7 @@
     },
     {
       "type": "small",
-      "title": "Sainik School Admission 2027",
-      "url": "/blog/sainik-school-admission-2027-guide/",
-      "image": "/images/webstories/admission-process-cover.jpg"
-    },
-    {
-      "type": "small",
-      "title": "Best Books for AISSEE",
+      "title": "Best Books for AISSEE 2027",
       "url": "/blog/best-books-aissee-2027/",
       "image": "/images/webstories/aissee-books.jpg"
     },
@@ -47,9 +41,9 @@
     },
     {
       "type": "social",
-      "icon": "instagram",
-      "provider": "instagram",
-      "data-action": "https://instagram.com/sainikschoolguide"
+      "icon": "twitter",
+      "provider": "twitter",
+      "data-action": "https://twitter.com/sainikschoolguide"
     }
   ]
 }
