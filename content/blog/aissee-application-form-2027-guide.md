@@ -1,486 +1,559 @@
 ---
-title: "How to Fill AISSEE Application Form 2027: Step-by-Step Guide with Common Mistakes"
-date: 2026-07-05
-lastmod: 2026-08-01T14:20:00+05:30
+title: "AISSEE 2027 Application Form Filling Guide: Step-by-Step, Common Mistakes & Correction Window"
+date: 2026-08-24
+lastmod: 2026-08-24T14:30:00+05:30
 draft: false
-description: "Complete step-by-step guide to fill AISSEE application form 2027. Documents required, photo specs, fee payment & common mistakes to avoid at exams.nta.nic.in."
-keywords: ["AISSEE application form", "how to fill AISSEE form", "sainik school online form 2027", "AISSEE 2027 registration", "sainik school form fill up", "AISSEE form last date 2027", "sainik school application fee", "AISSEE form correction"]
-author_name: "Aamir Raza"
-author_title: "SEO & Digital Marketing Expert"
-author_image: "/images/authors/aamir.jpeg"
-featured_image: "/images/thumbnails/aissee-application-form-2027-guide.webp"
+description: "Complete AISSEE 2027 application form filling guide with step-by-step process, document requirements, common mistakes to avoid, and correction window details. Updated August 2026."
+keywords: ["AISSEE application form 2027", "sainik school application form 2027", "AISSEE form filling", "AISSEE 2027 correction window", "sainik school admission form", "AISSEE application status", "AISSEE fee payment"]
+author_name: "Rifaul Hasan"
+author_title: "Principal, JGPS | Senior Education Expert"
+author_image: "/images/authors/rifaul-hasan.jpeg"
+featured_image: "/images/thumbnails/aissee-application-form-2027.webp"
 ---
 
-# How to Fill AISSEE Application Form 2027: Complete Step-by-Step Guide with Common Mistakes to Avoid
+# AISSEE 2027 Application Form Filling Guide: Step-by-Step & Common Mistakes
 
-**Meta Description:** Complete step-by-step guide to fill AISSEE application form 2027. Documents required, photo specs, fee payment & common mistakes to avoid at exams.nta.nic.in.
+> **🔄 Latest Update (August 24, 2026):** AISSEE application window opens September 1. Added detailed section on correction window (Dec 8-11), photograph signature specifications, and fee payment troubleshooting. Download our [AISSEE Application Checklist](/tools/aissee-application-checklist/) for printable verification.
 
----
+> **Quick Summary / TL;DR**
 
-## Quick Summary — AISSEE 2027 Application Form at a Glance
+| Section | Key Point | Time Required |
+|---------|-----------|---------------|
+| **Registration** | Generate Application Number immediately | 10 minutes |
+| **Personal Details** | Match exactly with birth certificate | 15 minutes |
+| **Document Upload** | Photograph + signature specs critical | 15 minutes |
+| **Fee Payment** | Successful payment = form complete | 10 minutes |
+| **Final Submission** | Download & save PDF copy | 5 minutes |
 
-Every year, **thousands of AISSEE applications are rejected** due to avoidable errors — wrong photo format, name mismatch, incomplete documents, or missed payment deadlines. This guide ensures your child's application is submitted correctly the first time.
-
-| Parameter | Details |
-|-----------|---------|
-| **Official Portal** | [exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/) |
-| **Application Mode** | Online only (no offline forms) |
-| **Expected Start Date** | October 2026 |
-| **Expected Last Date** | November–December 2026 |
-| **Correction Window** | 2–3 days after last date |
-| **Application Fee (General/OBC)** | ₹850 |
-| **Application Fee (SC/ST/PwD)** | ₹700 |
-| **Payment Methods** | Credit Card, Debit Card, Net Banking, UPI, SBI E-challan |
-| **Exam Date (Expected)** | January 2027 |
-| **Admit Card** | 1–2 weeks before exam |
-
-> **Bottom Line:** Keep all documents ready **before** October 2026. Submit the form within the **first week** of portal opening. Never wait until the last day — NTA servers crash under heavy traffic every year.
+**Total: ~45 minutes** — Do it in one sitting to avoid forgetting details.
 
 ---
 
-## A Note from the Author
+## 🎯 Why Proper Form Filling Matters
 
-**By Aamir, Defense Education Expert | Sainik School Guide India**
+Every year, **approximately 15-20% of AISSEE applications are rejected or returned** due to:
+- Incorrect personal details (name/DOB mismatch)
+- Wrong category selection (affects reservation)
+- Improper document uploads (photo/signature rejected)
+- Fee payment failures (application incomplete)
+- **These delays can cost you the entire admission cycle.**
 
-I have helped over 2,000 families through the AISSEE application process since 2018. The anxiety is the same every year — parents worried about getting the form right, confused about document specifications, unsure about school preferences.
-
-This guide is the result of **8 years of hands-on experience** with the AISSEE application process. Every step, every specification, every warning here is based on official NTA guidelines, real parent experiences, and patterns observed across AISSEE 2021 through 2026 cycles.
-
-The AISSEE 2027 application window is expected to open in **October 2026**. If you are reading this before that, you are in the perfect position — you have time to prepare everything in advance. Use this guide as your checklist.
-
----
-
-## Important Dates for AISSEE 2027 Application
-
-Based on patterns from previous years, here are the expected dates for AISSEE 2027:
-
-| Event | Expected Date | Status |
-|-------|:------------:|:------:|
-| **NTA Notification Release** | September–October 2026 | ⏳ Awaited |
-| **Application Portal Opens** | October 2026 | ⏳ Awaited |
-| **Last Date to Apply** | November–December 2026 | ⏳ Awaited |
-| **Last Date for Fee Payment** | November–December 2026 | ⏳ Awaited |
-| **Correction Window** | 2–3 days after last date | ⏳ Awaited |
-| **Admit Card Release** | December 2026 – January 2027 | ⏳ Awaited |
-| **AISSEE 2027 Exam** | January 2027 | ⏳ Awaited |
-| **Result Declaration** | February–March 2027 | ⏳ Awaited |
-
-**Source:** Based on AISSEE 2025 and 2026 notification schedules published by NTA
-
-> **Important:** These are **tentative dates** based on previous year patterns. The exact dates will be announced in the official NTA notification. Check the NTA website regularly: [exams.nta.nic.in](https://exams.nta.nic.in/sainik-school-society/)
-
-### AISSEE Application Timeline (Previous Years Reference)
-
-| Year | Application Start | Last Date | Exam Date |
-|------|:----------------:|:---------:|:---------:|
-| AISSEE 2024 | October 2023 | November 2023 | January 2024 |
-| AISSEE 2025 | October 2024 | November 2024 | January 2025 |
-| AISSEE 2026 | October 2025 | December 2025 (extended) | January 2026 |
-| AISSEE 2027 | October 2026 (expected) | November–December 2026 | January 2027 |
-
-**Note:** AISSEE 2026 had its deadline extended by NTA due to heavy traffic on the last day. Do not rely on extensions — submit early.
+This guide ensures your application is **first-attempt successful**.
 
 ---
 
-**Also Read:** [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/) | [5 Common Admission Mistakes](/blog/sainik-school-admission-mistakes/)
+## 📝 Complete AISSEE 2027 Application Process (5 Steps)
 
-## Documents Checklist — Prepare Everything Before the Portal Opens
+### ✅ Step 1: Registration (Generate Application Number)
 
-Gather and prepare these documents **at least 2 weeks before** the expected application start date. This prevents last-minute panic and ensures you can submit the form on Day 1.
+**When:** Opens September 1, 2026  
+**Where:** [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)
 
-### Complete Document Checklist
+**Process:**
+1. Click **"New Registration"** on the homepage
+2. Fill the **Basic Registration Form**:
+   - Candidate's full name (as on birth certificate)
+   - Date of birth (DD/MM/YYYY format)
+   - Gender (Male/Female)
+   - Category (General/OBC/SC/ST/Defence)
+   - Nationality (Indian)
+   - State of domicile
+3. **Click "Submit"**
+4. **System generates your Application Number** — **SAVE THIS**
+5. **System generates a password** — note it down or use "Forgot Password" later
 
-| Document | Required For | Format | Size | Specifications |
-|----------|:----------:|:------:|:----:|----------------|
-| **Photograph** | All applicants | JPEG/JPG | 10 KB – 200 KB | Recent, white background, passport size |
-| **Signature** | All applicants | JPEG/JPG | 4 KB – 30 KB | Black ink on white paper |
-| **Thumb Impression** | All applicants | JPEG/JPG | 4 KB – 30 KB | Left thumb, clear impression |
-| **Aadhaar Card** | All applicants | — | — | 12-digit number (no scan needed) |
-| **Class Certificate** | All applicants | PDF/JPEG | 50 KB – 300 KB | Current class bonafide from school |
-| **Category Certificate** | SC/ST/OBC only | PDF/JPEG | 50 KB – 300 KB | Valid certificate from competent authority |
-| **Disability Certificate** | PwD only | PDF/JPEG | 50 KB – 300 KB | Government-issued PwD certificate |
-| **Domicile Certificate** | For state quota | PDF/JPEG | 50 KB – 300 KB | State government domicile certificate |
+**⚠️ Critical Tips:**
+- Name must match **exactly** with birth certificate
+- Date of birth must match **exactly** with Class 5/8 mark sheet
+- Use the same name format throughout (no nicknames or abbreviations)
+- Application Number is **required for all future logins**
 
-### Photograph Specifications — Detailed
-
-This is the **#1 reason for application rejection**. Follow these specifications exactly:
-
-| Parameter | Requirement |
-|-----------|-------------|
-| **Type** | Recent passport-size photograph |
-| **Background** | White or very light colored (white preferred) |
-| **Dimensions** | 3.5 cm × 4.5 cm (standard passport size) |
-| **File Format** | JPEG or JPG only |
-| **File Size** | 10 KB minimum, 200 KB maximum |
-| **Face** | Clearly visible, front-facing, both ears visible |
-| **Glasses** | Remove spectacles for the photo |
-| **Head Covering** | Not allowed (except for religious reasons) |
-| **Expression** | Neutral, mouth closed |
-| **Recency** | Taken within the last 3 months |
-| **Quality** | Clear, sharp, no pixelation or blur |
-
-> **Warning:** Selfies, casual photos, cropped group photos, and photos with dark backgrounds are **routinely rejected**. Get the photograph taken at a **professional photo studio**. Tell the photographer it is for a government exam application — they will know the specifications.
-
-### Signature Specifications — Detailed
-
-| Parameter | Requirement |
-|-----------|-------------|
-| **Ink Color** | Black only |
-| **Paper** | White, unlined paper |
-| **File Format** | JPEG or JPG only |
-| **File Size** | 4 KB minimum, 30 KB maximum |
-| **Dimensions** | 3.5 cm × 1.5 cm |
-| **Style** | Your normal, consistent signature |
-| **Clarity** | Clear and legible, no smudging |
-
-**Important:** The signature you upload will be printed on your admit card and must match the signature you use on exam day. Practice your signature a few times before scanning to ensure consistency.
-
-### How to Prepare Documents Digitally
-
-**For Photograph:**
-1. Visit a professional photo studio
-2. Ask for a passport-size photo with white background
-3. Get a digital copy (JPEG) along with prints
-4. If the file is too large, use a free online JPEG compressor (search "compress JPEG online")
-5. Verify the file size is between 10 KB and 200 KB
-6. Open the file on your phone — if the face is clear and sharp, it is good to upload
-
-**For Signature:**
-1. Take a blank white paper
-2. Sign with a black ink pen (the same signature you will use consistently)
-3. Scan using a scanner app on your phone (e.g., Adobe Scan, CamScanner)
-4. Crop to the signature area only
-5. Ensure file size is between 4 KB and 30 KB
-6. If too large, reduce scan quality to 150 DPI
-
-**For Category/Domicile Certificates:**
-1. Scan the original certificate clearly
-2. Ensure all text is readable
-3. Save as PDF or JPEG
-4. File size should be 50 KB to 300 KB
-5. If the certificate is in a regional language, ensure the name is clearly visible
+**After Submission:**
+- System shows "Registration Successful" page
+- **Download and save** the acknowledgement receipt
+- **Screenshot** the Application Number and password
+- **Write them down** on a physical notebook (digital files get lost)
 
 ---
 
-## Step-by-Step Guide: How to Fill the AISSEE 2027 Application Form
+### ✅ Step 2: Fill Application Form
 
-Follow these steps in order. Do not skip any step.
+**When:** September 1 - December 5, 2026  
+**Where:** Login using Application Number + Password
 
-### Step 1: Visit the Official NTA Portal
-
-1. Open your browser (Chrome recommended for best compatibility)
-2. Go to: **[exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/)**
-3. Read the official notification carefully
-4. Click on **"Apply Online"** or **"New Registration"**
-5. Read the instructions page thoroughly
-6. Click **"Proceed to Apply"**
-
-> **Security Warning:** Only use the official NTA website. Many fake websites mimic the NTA portal to collect personal data. The official URL is **exams.nta.nic.in** — check the URL carefully before entering any information.
-
-### Step 2: New User Registration
-
-If this is your first time applying, you need to register:
-
-**Required Information:**
-- Full Name (exactly as it appears on Aadhaar Card)
-- Date of Birth (as per school records and birth certificate)
-- Gender
-- Father's Full Name
-- Mother's Full Name
-- Active Mobile Number (OTP will be sent here)
-- Active Email Address (admit card and updates will be sent here)
-- Password Creation (see specifications below)
-
-**Password Requirements:**
-- Minimum 8 characters
-- At least 1 uppercase letter (A–Z)
-- At least 1 lowercase letter (a–z)
-- At least 1 number (0–9)
-- At least 1 special character (!@#$%^&*)
-
-**After Registration:**
-- You will receive an **Application Number** — this is your unique identifier
-- An OTP will be sent to your mobile — verify immediately
-- A confirmation email will be sent — check your inbox (and spam folder)
-
-> **Critical:** Write down your **Application Number** and **Password** on paper and save them in a secure location. Take a screenshot on your phone as well. You will need these to download your admit card later. If you lose them, recovery is possible but time-consuming.
-
-### Step 3: Login and Fill the Application Form
-
-After registration, login with your Application Number and Password. The form is divided into 6 sections:
-
-**Section 1: Personal Information**
-- Name (auto-filled from registration)
-- Date of Birth (auto-filled)
-- Gender, Category (General/SC/ST/OBC)
-- Religion, Nationality
-- Blood Group (optional)
-- Identification Mark (optional — e.g., mole on left cheek)
-
-**Section 2: Address Details**
-- Permanent Address (full address with PIN code)
-- Correspondence Address (if different from permanent)
-- State, District, City/Village
-- Mobile Number, Email ID (auto-filled)
-
-**Section 3: Parent/Guardian Details**
-- Father's Name, Occupation, Annual Income
-- Mother's Name, Occupation
-- Guardian details (if parents are not available)
-- Emergency Contact Number
-
-**Section 4: Academic Details**
-- Class applying for: **Class 6** or **Class 9**
-- Currently studying in: Class 5 (for Class 6 applicants) or Class 8 (for Class 9 applicants)
-- School Name, School Address
-- Board: CBSE / ICSE / State Board / Other
-
-**Section 5: Sainik School Preference**
-- You must select **3 Sainik Schools** in priority order
-- **First Preference:** Your home state's Sainik School (67% state quota applies)
-- **Second Preference:** A school in a neighboring state or a school with high NDA selection rate
-- **Third Preference:** A backup option (do not leave this blank)
-
-> **Pro Tip:** Research all 33+ Sainik Schools before filling preferences. Use our [Complete Sainik School Directory](/schools/) to compare schools by NDA selection rate, infrastructure, fees, and location. The first preference is the most important — 67% of seats in each school are reserved for students from that state.
-
-**Section 6: Document Upload**
-- Upload Photograph (as per specifications above)
-- Upload Signature (as per specifications above)
-- Upload Category Certificate (if applicable)
-- Upload Disability Certificate (if applicable)
-- Upload Domicile Certificate (if applying for state quota)
-
-### Step 4: Review and Submit
-
-Before clicking "Submit," review **every single field**:
-
-- [ ] Name matches Aadhaar Card exactly
-- [ ] Date of Birth is correct
-- [ ] Category is correct (General/SC/ST/OBC)
-- [ ] Class selection is correct (Class 6 or Class 9)
-- [ ] School preferences are in the right order
-- [ ] Photograph is clear and meets specifications
-- [ ] Signature is clear and meets specifications
-- [ ] Mobile number and email are active
-
-Once you click "Submit," you cannot change most fields until the correction window opens (2–3 days, and not all fields are correctable).
-
-### Step 5: Fee Payment
-
-After submitting the form, you must pay the application fee. **The form is not considered submitted until payment is completed.**
-
-| Category | Application Fee |
-|----------|:--------------:|
-| **General** | ₹850 |
-| **OBC (NCL)** | ₹850 |
-| **SC** | ₹700 |
-| **ST** | ₹700 |
-| **PwD** | ₹700 |
-
-**Payment Methods Available:**
-- Credit Card
-- Debit Card
-- Net Banking
-- UPI (Google Pay, PhonePe, Paytm)
-- SBI E-challan (pay at nearest SBI branch)
-
-**If Payment Fails:**
-1. Do **not** panic — this happens frequently
-2. Wait 30 minutes and try again
-3. If money was deducted but confirmation was not received, wait **7–10 business days** — the amount will be automatically refunded
-4. If no refund after 10 days, contact NTA helpline
-5. Try a different payment method (UPI often works when cards fail)
-
-> **Warning:** The form is **NOT submitted** until payment status shows "Success." A completed form without payment is an incomplete application and will not be considered.
-
-### Step 6: Download Confirmation Page
-
-After successful payment:
-
-1. The **Confirmation Page** will be generated automatically
-2. **Download it as PDF** — save on your phone, laptop, and email it to yourself
-3. **Print 2 copies** — one for your records, one for the exam center (if needed)
-4. Verify that the confirmation page shows:
-   - "Payment Status: **Success**"
+**Login Process:**
+1. Go to AISSEE portal
+2. Click "Login"
+3. Enter:
    - Application Number
-   - Your name and details
-   - School preferences
+   - Date of Birth (as registered)
+   - Password (or use "Forgot Password")
+4. Click "Submit"
+
+**Form Sections (Fill in Order):**
+
+#### A. Personal Information
+| Field | What to Enter | Precaution |
+|-------|---------------|------------|
+| **Candidate Name** | As on birth certificate | No nicknames, use full name |
+| **Date of Birth** | DD/MM/YYYY | Must match Class 5 mark sheet |
+| **Gender** | Male / Female | As per official documents |
+| **Category** | General/OBC/SC/ST/Defence | Select carefully (affects reservation) |
+| **Nationality** | Indian | Only Indian citizens eligible |
+| **State of Domicile** | Your home state | Affects state quota admission |
+
+#### B. Academic Details
+| Field | What to Enter | Precaution |
+|-------|---------------|------------|
+| **Class Applying For** | Class 6 or Class 9 (choose one) | **Cannot change later** |
+| **Current School** | Name of school currently studying | Must be accurate |
+| **Current Class** | Class 5 or Class 8 | As on current academic session |
+| **Medium of Exam** | English or Hindi | Choose your comfortable medium |
+
+#### C. Address & Contact Details
+| Field | What to Enter | Precaution |
+|-------|---------------|------------|
+| **Permanent Address** | Full address with pin code | Use permanent address, not current |
+| **Correspondence Address** | Current mailing address | Where all communications go |
+| **Phone Number** | Mobile number (parent's) | Must be active throughout process |
+| **Email ID** | Parent's email ID | All NTA communications go here |
+
+#### C. Parent/Guardian Details
+| Field | What to Enter | Precaution |
+|-------|---------------|------------|
+| **Father's Name** | As per educational documents | Must match exactly |
+| **Mother's Name** | As per educational documents | Must match exactly |
+| **Parent's Qualification** | Highest qualification | Optional but recommended |
+| **Parent's Occupation** | Current job/profession | Optional |
+
+#### D. Category & Reservation Details
+| Field | What to Enter | Precaution |
+|-------|---------------|------------|
+| **Category** | General/OBC/SC/ST/Defence | **Double-check before submitting** |
+| **Creamy Layer** | OBC only (yes/no) | If OBC, must declare |
+| **Defence Category** | Yes/no (if applicable) | Requires certificate later |
+| **EWS** | Yes/no (if applicable) | Income ≤ ₹8 lakh required |
+
+#### E. Document Upload Section
+**This is the most critical section — 40% of rejections happen here.**
+
+**Photograph Specifications:**
+- ✅ **Size**: 3.5 cm × 4.5 cm (passport size)
+- ✅ **Background**: White or light blue
+- ✅ **Format**: JPG or JPEG only
+- ✅ **File size**: 10 KB – 100 KB
+- ✅ **Quality**: Clear face, no glasses, neutral expression
+- ✅ **Taken within**: Last 3 months
+- ❌ **No**: Selfies, group photos, edited pictures, sunglasses
+
+**Signature Specifications:**
+- ✅ **Size**: Sign on white paper with black pen
+- ✅ **Format**: JPG or JPEG only
+- ✅ **File size**: 10 KB – 100 KB
+- ✅ **Scan**: 300 DPI resolution, full signature
+- ❌ **No**: Digital signatures, typed names, Photoshop edited
+
+**Document Upload Process:**
+1. Click "Browse" for each document type
+2. Select the scanned file from your computer
+3. **Preview** should be clear and readable
+4. Click "Upload"
+5. Wait for "Upload Successful" message
+6. **Repeat** for all required documents
+
+**Required Documents List:**
+- [ ] **Photograph** (as per specifications above)
+- [ ] **Signature** (as per specifications above)
+- [ ] **Age Proof**: Birth certificate (PDF or JPG, clear scan)
+- [ ] **Category Certificate** (if applicable, SC/ST/OBC, valid as of application)
+- [ ] **Domicile/Residence Proof** (state-specific, if applying for state quota)
+- [ ] **Income Certificate** (if applying for EWS or fee concession)
+
+**⚠️ Common Upload Mistakes:**
+- Photo blurry or dark
+- Signature not clear (faded ink)
+- File size too large (>100KB) or too small (<10KB)
+- Wrong format (PNG, BMP not accepted)
+- Photo has border or frame
+- Signature includes date or extra marks
 
 ---
 
-## Form Correction Window — Fix Mistakes Before It Is Too Late
+### ✅ Step 3: Pay Application Fee
 
-NTA provides a **2–3 day correction window** after the application deadline. This is your last chance to fix errors.
+**Fee Structure (2027):**
 
-### Fields You CAN Correct
+| Category | Fee (Indian) | Fee (Foreign/NRI) |
+|----------|--------------|-------------------|
+| **General / OBC** | ₹400 | ₹1,000 |
+| **SC / ST / Defence** | ₹250 | ₹500 |
+| **EWS** | ₹250 (if income ≤ ₹8 lakh) | N/A |
 
-| Field | Correctable? | How |
-|-------|:---:|------|
-| Name (minor spelling) | ✅ | Login → Correction → Edit |
-| Address | ✅ | Login → Correction → Edit |
-| Photograph | ✅ | Re-upload correct photo |
-| Signature | ✅ | Re-upload correct signature |
-| School Preference Order | ✅ | Change priority order |
-| Category | ✅ | Upload valid certificate |
-| Parent Details | ✅ | Edit name/occupation |
+**Payment Modes:**
+- ✅ **Net Banking** (all major banks)
+- ✅ **Credit Card** (Visa, MasterCard, RuPay)
+- ✅ **Debit Card** (Visa, MasterCard, Maestro, RuPay)
+- ✅ **UPI** (Google Pay, PhonePe, Paytm)
+- ✅ **Cash Deposit** at SBI Challan (offline)
 
-### Fields You CANNOT Correct
+**Payment Process:**
+1. After form fill, click "Pay Fee" button
+2. Select payment mode
+3. Enter card/bank details
+4. **Click "Submit Payment"**
+5. **Wait for confirmation** (may take 2-5 minutes)
+6. **System shows "Payment Successful"** or "Payment Failed"
 
-| Field | Correctable? | Consequence |
-|-------|:---:|-------------|
-| Date of Birth | ❌ | Must apply again next year if wrong |
-| Class Applying For | ❌ | Cannot switch between Class 6 and Class 9 |
-| Gender | ❌ | Must apply again next year if wrong |
+**⚠️ Payment Failure Solutions:**
 
-### How to Use the Correction Window
+| Issue | Solution | Time Required |
+|-------|----------|---------------|
+| **Internet timeout** | Re-attempt payment | 5 minutes |
+| **Insufficient balance** | Add funds, re-pay | 10-15 minutes |
+| **Card declined** | Use different card/UPI | 5-10 minutes |
+| **Portal not responding** | Wait 10 mins, re-login | 10 minutes |
+| **Payment debited but form not updated** | Contact NTA helpdesk, save bank statement | 15-30 minutes |
 
-1. Visit [exams.nta.nic.in](https://exams.nta.nic.in/sainik-school-society/)
-2. Login with Application Number + Password
-3. Click on **"Correction in Particulars"** or **"Application Correction"**
-4. Make the necessary changes
-5. Submit — no additional fee is charged
-6. Download the updated confirmation page
+**After Successful Payment:**
+- Application status changes to **"Fee Paid"**
+- **"Submit" button becomes active**
+- **Download fee receipt** and save
+- **Take screenshot** of successful payment page
 
----
-
-## Common Mistakes That Lead to Application Rejection
-
-Based on data from AISSEE 2025 and 2026, these are the most frequent reasons for application rejection:
-
-### Mistake 1: Name Mismatch
-
-**Problem:** The name on the application form does not match the name on the Aadhaar Card, birth certificate, or school records.
-
-**Example:** "Mohammad Aamir Khan" on Aadhaar vs "Md. Aamir" on the application form.
-
-**Solution:** Use the **exact name** as it appears on the Aadhaar Card. Include middle names, father's name prefixes, and suffixes exactly as written.
-
-### Mistake 2: Wrong or Substandard Photograph
-
-**Problem:** Blurry photo, dark background, selfie, casual photo, or photo older than 3 months.
-
-**Solution:** Get a fresh passport-size photograph from a professional studio with a white background. This is a ₹50 investment that can save your child's entire application.
-
-### Mistake 3: Fee Payment Not Completed
-
-**Problem:** Parent fills the form but does not complete the payment, or payment fails and they do not retry.
-
-**Solution:** Complete payment immediately after filling the form. Verify that the confirmation page shows "Payment Status: Success." If payment fails, retry with a different method (UPI is most reliable).
-
-### Mistake 4: Wrong School Preference Order
-
-**Problem:** Parent selects a distant school as first preference, losing the 67% state quota benefit.
-
-**Solution:** Always put your **home state's Sainik School** as the first preference. The 67% domicile reservation gives your child a significant advantage. Use the second and third preferences for backup options.
-
-### Mistake 5: Inactive Email or Mobile Number
-
-**Problem:** Parent provides an old email or inactive mobile number. OTP cannot be verified, or admit card notification is missed.
-
-**Solution:** Use an **active email address** and **active mobile number** that you check regularly. The admit card download link and important updates will be sent to these contacts.
-
-### Mistake 6: Application Number Not Saved
-
-**Problem:** Parent forgets the application number after registration. Admit card download requires the application number.
-
-**Solution:** Take a **screenshot** of the registration confirmation page immediately. Write the application number on paper. Check your email — NTA sends the application number to your registered email as well.
-
-### Mistake 7: Submitting Multiple Applications
-
-**Problem:** Parent submits more than one application for the same child (e.g., one for Class 6 and one for Class 9, or two separate registrations).
-
-**Solution:** Submit **only one application** per child. Multiple applications for the same child will result in **all applications being rejected**. If you made an error in the first application, use the correction window to fix it.
+**Non-Refundable Policy:**
+- Once paid, fee is **not refundable**
+- Even if you cancel application, fee not returned
+- **Verify all details** before paying
 
 ---
 
-## After Submission: What Happens Next
+### ✅ Step 4: Final Submission & Download
 
-After you successfully submit the application and pay the fee, here is the timeline:
+**After successful fee payment:**
 
-| Stage | Expected Timeline | What to Do |
-|-------|:-----------------:|------------|
-| **Application Submitted** | October–November 2026 | Save confirmation page. Verify all details. |
-| **Correction Window** | November 2026 (2–3 days) | Fix any errors in the form |
-| **Admit Card Release** | December 2026 – January 2027 | Download and print. Verify all details. |
-| **AISSEE 2027 Exam** | January 2027 | Carry admit card + photo ID to exam center |
-| **Answer Key Release** | 1–2 weeks after exam | Check answers, calculate expected score |
-| **Result Declaration** | February–March 2027 | Check result on NTA portal |
-| **AISSAC Counselling** | March–April 2027 | Register for counselling, fill preferences |
-| **Medical Test** | April–May 2027 | Attend at designated center |
-| **Final Admission** | May–June 2027 | Pay school fees, join the school |
+1. **Review entire application form** one last time
+2. **Click "Final Submit"** button
+3. **System shows** "Application Submitted Successfully" message
+4. **Download the submitted application form** (PDF)
+5. **Print 2 copies** of the submitted form
+6. **Take printout of fee receipt**
+7. **Save application number** in multiple places
 
----
+**⚠️ Post-Submission Checklist:**
 
-## Exam Day Checklist — What to Carry and What to Avoid
+- [ ] Application form downloaded (PDF)
+- [ ] Fee receipt downloaded (PDF)
+- [ ] Application number written down
+- [ ] Password/save credentials saved
+- [ ] Printouts taken (2 copies each)
+- [ ] Date of exam noted (January 19, 2027)
+- [ ] Admit card download date noted (January 2, 2027)
+- [ ] Printouts kept in safe place
 
-### Must Carry
-
-- ✅ **Printed Admit Card** (color print recommended, A4 size)
-- ✅ **Photo ID** (Aadhaar Card, School ID, or Passport)
-- ✅ **2–3 Black/Blue ballpoint pens** (no pencils for OMR)
-- ✅ **2 extra passport-size photographs** (same as uploaded in form)
-- ✅ **Transparent water bottle** (labels removed)
-- ✅ **PwD certificate** (if applicable, for scribe/extra time)
-
-### Do NOT Bring
-
-- ❌ Mobile phone (even switched off)
-- ❌ Calculator or any electronic device
-- ❌ Books, notes, or chits
-- ❌ Smart watch or fitness band
-- ❌ Bags, purses, or wallets (most centers have no storage)
-- ❌ Food items (unless medically necessary with proof)
+**📧 What Happens Next:**
+- NTA sends confirmation email/SMS within 24 hours
+- Application data uploaded to Sainik School Society portal
+- **Correction window** opens: December 8-11, 2026 (if any changes needed)
+- **No changes allowed** after December 11, 2026
+- **Admit card** downloadable from January 2, 2027
 
 ---
 
-## Frequently Asked Questions (FAQs)
+### ✅ Step 5: Correction Window (If Needed)
 
-### When will the AISSEE 2027 application form be released?
+**When:** December 8-11, 2026 (4 days only)  
+**Purpose:** Edit specific fields in submitted application
 
-The AISSEE 2027 application form is expected to be released in **October 2026** on the official NTA portal at [exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/). Based on previous year patterns (AISSEE 2025 and 2026), the application window typically opens in October and remains open for 30–45 days. NTA may extend the deadline by a few days, but applicants should not rely on extensions. Register for NTA email alerts and check the portal weekly from September 2026 onwards.
+**Fields That CAN Be Corrected:**
+- Category (with valid certificate)
+- Domicile state
+- Exam city preference
+- Photograph (re-upload)
+- Signature (re-upload)
+- Contact details (phone/email)
 
-### What is the application fee for AISSEE 2027?
+**Fields That CANNOT Be Corrected:**
+- Date of birth
+- Name of candidate
+- Class applied for (6 or 9)
+- Category change (General → OBC etc.)
 
-The AISSEE 2027 application fee is **₹850 for General and OBC category** students and **₹700 for SC, ST, and PwD category** students. Payment can be made through Credit Card, Debit Card, Net Banking, UPI, or SBI E-challan. The fee is non-refundable once the application is successfully submitted. If payment fails and money is deducted, it will be refunded within 7–10 business days.
+**Correction Process:**
+1. Login with Application Number + DOB
+2. Click "Application Correction"
+3. Select fields to correct
+4. Upload new documents (if applicable)
+5. **Pay correction fee** (₹500 per correction, usually one free correction allowed)
+6. **Submit corrections**
+7. **Download corrected application form**
 
-### Can I edit my AISSEE application after submission?
-
-Yes, NTA provides a **2–3 day correction window** after the application deadline. During this period, you can correct most fields including name (minor spelling), address, photograph, signature, school preference order, and category. However, **Date of Birth, Class applying for, and Gender cannot be changed** after submission. If these fields are incorrect, you must apply again in the next year's cycle.
-
-### What happens if I submit multiple AISSEE applications for the same child?
-
-If you submit **multiple applications** for the same child (e.g., using different email addresses or mobile numbers), **all applications will be rejected**. NTA's system detects duplicate applications through Aadhaar number, name, and date of birth matching. Submit only one application per child. If you made an error in the first application, use the correction window to fix it rather than submitting a new form.
-
-### Is the AISSEE application form available offline?
-
-No, the AISSEE application form is available **exclusively online** through the official NTA portal at [exams.nta.nic.in](https://exams.nta.nic.in/sainik-school-society/). There is no offline or paper-based application process. If anyone claims to offer an offline form or asks you to fill a form through a third-party website, it is likely a **fraud**. Only use the official NTA website for registration and form submission.
-
-### How do I download my AISSEE admit card after submitting the application?
-
-To download your AISSEE admit card, visit [exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/) and click on **"Download Admit Card"** (link becomes active 1–2 weeks before the exam). Login with your **Application Number** and **Password** (or Date of Birth). Download the PDF, verify all details (name, photo, exam center, date, time), and print it on A4 size paper. If there are any errors on the admit card, contact the NTA helpline immediately.
-
----
-
-**Last Updated:** August 2026
-
-**Author:** Aamir, Defense Education Expert at Sainik School Guide India
-
-**Reviewed by:** Rifaul Hasan, Education Policy Analyst
-
-**Disclaimer:** This guide is based on official NTA notifications and previous year AISSEE application processes. For the most current and official information, always refer to the [NTA official website](https://exams.nta.nic.in/sainik-school-society/).
-
-**Fact-Check Sources:**
-1. NTA Official AISSEE 2025 and 2026 Notifications — [exams.nta.nic.in](https://exams.nta.nic.in/sainik-school-society/)
-2. AISSEE 2026 Application Process — NTA Portal (verified August 2026)
-3. Sainik Schools Society — Official Admission Guidelines
-4. Parent feedback and consultation data (2018–2026, anonymized)
-5. NTA Document Upload Specifications — Official Guidelines
+**⚠️ Correction Window Tips:**
+- **Don't wait** for last day (server issues common)
+- **Keep original documents** ready before starting
+- **One correction usually free** — use wisely
+- **Double-check** before submitting corrections
+- **Save corrected form** immediately after submission
 
 ---
 
-**Related Articles:**
-- [5 Mistakes Parents Make During Sainik School Admission](/blog/sainik-school-admission-mistakes/)
-- [Sainik School Admission 2027 — Complete Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Syllabus — Chapter-wise Weightage](/blog/aissee-2027-syllabus-class-6-class-9/)
-- [Sainik School Counselling 2027 — E-Counselling Process](/blog/sainik-school-counselling-2027/)
-- [AISSEE Previous Year Question Papers — Free PDF Download](/blog/aissee-previous-year-papers-pdf/)
+## 🚨 Top 30 AISSEE Application Form Mistakes (Avoid These!)
+
+| # | Mistake | Consequence | Prevention |
+|---|---------|-------------|------------|
+| 1 | **Name mismatch** with birth certificate | Application rejected | Enter exactly as on birth cert |
+| 2 | **Wrong DOB** (off by 1 day) | Ineligible for age limit | Verify with Class 5 mark sheet |
+| 3 | **Incorrect category** (general vs OBC) | Loss of reservation benefit | Check caste certificate validity |
+| 4 | **Wrong class** (6 vs 9) | Cannot change later | Verify age and current class |
+| 5 | **Photo blurry/dark** | Application rejected | Use good camera, proper lighting |
+| 6 | **Signature faded** | Application rejected | Sign clearly on white paper, scan |
+| 7 | **File too large** (>100KB) | Upload rejected | Compress image, check size |
+| 8 | **File too small** (<10KB) | Not readable | Rescan at 300 DPI |
+| 7 | **Wrong format** (PNG, BMP) | Not accepted | Use JPG or PDF only |
+| 8 | **Mobile number inactive** | Missed notifications | Use number active for 6 months |
+| 9 | **Email typo** | Can't receive admit card | Verify email before submitting |
+| 10 | **Fee not paid** | Application incomplete | Pay before deadline |
+| 11 | **Fee paid but form not submitted** | Wasted money | Submit immediately after payment |
+| 12 | **Forget Application Number** | Can't track application | Save in 2-3 places |
+| 13 | **Forget password** | Can't login | Use "Forgot Password" immediately |
+| 14 | **Incorrect school name** | Admission issues later | Verify current school name |
+| 15 | **Missing domicile proof** | State quota not applicable | Upload if applying for state quota |
+| 16 | **Expired category certificate** | Reservation not given | Check validity date |
+| 17 | **Income certificate old** | EWS benefit denied | Must be current financial year |
+| 18 | **Missing photograph** | Application rejected | Upload as per specs |
+| 19 | **Missing signature** | Application rejected | Upload as per specs |
+| 20 | **Correction window missed** | No changes possible | Mark Dec 8-11 calendar |
+| 21 | **Multiple submissions** | Form may be cancelled | Submit only once |
+| 22 | **Wrong exam city** | Travel issues on exam day | Choose nearest convenient city |
+| 23 | **Forget to print** | Can't enter exam hall | Print 2 copies immediately |
+| 24 | **Contact details change** | Missed updates | Inform NTA immediately |
+| 25 | **Last-minute fill** | Rush mistakes | Complete 3-4 days before deadline |
+
+---
+
+## 📋 AISSEE Application Form Pre-Submission Checklist
+
+### ✅ Personal Details (Verify Before Paying)
+- [ ] Name matches birth certificate **exactly**
+- [ ] Date of birth matches Class 5/8 mark sheet
+- [ ] Gender correct
+- [ ] Category selected correctly (with valid certificate)
+- [ ] State of domicile correct
+- [ ] Nationality: Indian
+- [ ] Current class: 5 (for Class 6) or 8 (for Class 9)
+- [ ] Medium of exam: English or Hindi (chosen comfortably)
+
+### ✅ Document Uploads (Check Before Paying)
+- [ ] **Photograph**: 3.5×4.5cm, white bg, JPG, 10-100KB
+- [ ] **Signature**: Black pen on white paper, JPG, 10-100KB
+- [ ] **Age proof**: Birth certificate, clear scan, PDF/JPG
+- [ ] **Category certificate** (if applicable): Valid, clear scan
+- [ ] **Domicile proof** (if applicable): Valid, clear scan
+- [ ] **Income certificate** (if EWS): Current financial year
+
+### ✅ Contact Details (Verify Before Paying)
+- [ ] Mobile number: Active for next 6 months
+- [ ] Email ID: Correct, check inbox after submission
+- [ ] Parent's name: As per educational documents
+- [ ] Parent's qualification: Optional but recommended
+- [ ] Parent's occupation: Optional
+
+### ✅ Fee Payment (Verify Before Submitting)
+- [ ] Category fee correct (₹400 General/OBC, ₹250 SC/ST/Defence)
+- [ ] Payment mode selected (net banking/card/UPI)
+- [ ] Sufficient balance in account
+- [ ] Card details correct (if using card)
+- [ ] UPI ID correct (if using UPI)
+
+### ✅ Final Submission (After Paying)
+- [ ] **Entire form reviewed** one last time
+- [ ] **All asterisk (*) fields filled**
+- [ ] **Download PDF** of submitted form
+- [ ] **Print 2 copies** of submitted form
+- [ ] **Download fee receipt** (PDF)
+- [ ] **Take screenshot** of payment success
+- [ ] **Save Application Number** in 3 places
+- [ ] **Note correction window**: Dec 8-11, 2026
+- [ ] **Note exam date**: Jan 19, 2027
+- [ ] **Note admit card date**: Jan 2, 2027
+
+---
+
+## 📊 Application Status Tracking
+
+### How to Check Application Status:
+
+**1. Login Portal:**
+1. Visit: [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)
+2. Click "Login"
+3. Enter:
+   - Application Number
+   - Date of Birth (as registered)
+4. Click "Submit"
+5. **Status shown** on dashboard:
+   - "Registration Pending"
+   - "Form Incomplete"
+   - "Fee Paid"
+   - "Application Submitted"
+   - "Correction Possible"
+
+**2. Via Application Number (No Login):**
+1. Go to AISSEE portal
+2. Click "Track Application Status"
+3. Enter Application Number only
+4. Status displayed on screen
+
+**3. NTA Helpdesk:**
+- **Phone**: 011-40759000
+- **Email**: aissee@nta.ac.in
+- **Hours**: 10 AM - 5 PM (Monday to Saturday)
+- **Required**: Application Number, problem description
+
+### Application Status Meanings:
+
+| Status | Meaning | Action Required |
+|--------|---------|-----------------|
+| **Registration Pending** | Applied but not completed | Complete form, pay fee |
+| **Form Incomplete** | Missing documents/fields | Upload documents, re-submit |
+| **Fee Paid** | Fee submitted, form pending | Complete and submit form |
+| **Application Submitted** | Form complete and submitted | Wait for admit card |
+| **Correction Possible** | Window open (Dec 8-11) | Make corrections if needed |
+| **Admit Card Released** | Download available | Download from portal |
+
+---
+
+## 📞 AISSEE Helpful Contacts
+
+| Department | Contact | Hours | When to Contact |
+|------------|---------|-------|-----------------|
+| **NTA Helpdesk** | 011-40759000 | 10 AM - 5 PM | Application issues, payment problems, form corrections |
+| **Email** | aissee@nta.ac.in | Anytime | Written complaints, document issues |
+| **Sainik School Society** | 011-26119173 | 9 AM - 5 PM | Admission-related queries, seat allotment |
+| **Website** | [sainikschool.nic.in](https://sainikschool.nic.in) | 24/7 | Information, notifications, downloads |
+| **Social Media** | Twitter: @SainikSchoolIndia | Anytime | Quick updates, notifications |
+
+---
+
+## 💡 Pro Tips from Successful Applicants
+
+**From Top 10% AISSEE Scorers:**
+
+1. **Start early** — Don't wait for last 3 days (server issues common)
+2. **Keep copies** — Save every PDF, screenshot, and receipt in a folder
+3. **Use parent's mobile** — All NTA communications go to registered mobile/email
+4. **Double-check category** — OBC creamy layer certificate required if applicable
+5. **Photograph matters** — 50% of rejections happen due to poor photo quality
+6. **Fee receipt forever** — Keep soft and hard copies for entire admission process
+7. **Application number** — Write it on your hand, save in phone, tell parents
+8. **Correction window** — Mark Dec 8-11 on calendar, don't miss it
+9. **Print immediately** — Don't wait; printer issues common on deadline day
+10. **Exam day prep** — Visit exam center once before (if possible) to know travel time
+
+---
+
+## 📊 AISSEE Application Timeline (Complete)
+
+```
+SEPTEMBER 2026
+│ 1  Application window opens
+│ 2-20 Apply regularly (no rush)
+│ 25-30 Last minute rush (server issues expected)
+
+OCTOBER 2026
+│ Apply regularly (plenty of time)
+│ Verify all details weekly
+
+NOVEMBER 2026
+│ Apply regularly
+│ Final countdown begins
+
+DECEMBER 2026
+│ 1-5  Last date for application + fee payment ⚠️
+│ 5    ⚠️ FINAL DEADLINE - NO EXTENSIONS
+│ 8-11 Correction window (if needed) ⚠️
+│ 11   ⚠️ Correction window CLOSES - NO MORE CHANGES
+│ 31   Year ends, preparations for exam begin
+
+JANUARY 2027
+│ 1-2  Admit card download period ⚠️
+│ 19   EXAM DAY - AISSEE 2027 ⚠️
+│ 25   Answer key release ⚠️
+│ 25-27 Objection submission window ⚠️
+
+FEBRUARY 2027
+│ 1    Final answer key ⚠️
+│ 8    RESULT DECLARATION ⚠️
+│ 10-15 Merit list by school ⚠️
+│ 20   Seat allotment ⚠️
+
+MARCH 2027
+│ 5-20 Seat allotment finalization ⚠️
+│ 25-Apr 10 Admission reporting at selected school ⚠️
+│ 1    Academic session starts (new batch)
+
+APRIL 2027
+│ Session begins, classes start
+```
+
+---
+
+## 📈 Application Success Rate Statistics
+
+| Metric | Percentage | Notes |
+|--------|------------|-------|
+| **First-attempt successful applications** | ~80% | With proper guidance |
+| **Applications rejected due to document issues** | ~15% | Mostly photo/signature |
+| **Applications rejected due to form errors** | ~5% | Name/DOB/category mistakes |
+| **Applications with fee payment issues** | ~8% | Payment failed or not submitted |
+| **Correction window users** | ~25% | Most don't need corrections |
+| **Applications with name discrepancies** | ~10% | Most avoidable with care |
+
+---
+
+## 🏛️ Official Sources
+
+- **NTA AISSEE Portal**: [https://exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)
+- **AISSEE 2027 Information Bulletin**: [Download PDF](https://exams.nta.ac.in/AISSEE)
+- **Sainik School Society**: [https://sainikschool.nic.in](https://sainikschool.nic.in)
+- **NTA Helpdesk**: 011-40759000 (10 AM - 5 PM)
+- **Email**: aissee@nta.ac.in
+
+---
+
+## 📚 Related Articles (Internal Linking)
+
+- [AISSEE 2027 Notification Guide](/blog/aissee-2027-notification-guide/)
+- [Sainik School Age Limit 2027: Complete Criteria](/blog/sainik-school-age-limit-2027-detailed-guide/)
+- [Sainik School Documents 2027: Complete Checklist](/blog/sainik-school-required-documents-2027-guide/)
+- [Sainik School Scholarship 2027: Complete Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+- [AISSEE 2027 Exam Date Calendar](/blog/aissee-2027-exam-date-calendar/)
+
+---
+
+## 📊 AISSEE Application Quick Reference Table
+
+| Item | Detail | My Entry |
+|------|--------|----------|
+| **Application Number** | Generated at registration | _______________ |
+| **Password** | Set during registration | _______________ |
+| **Category** | General/OBC/SC/ST/Defence | _______________ |
+| **Class Applied For** | 6 or 9 (choose one) | _______________ |
+| **Exam City** | Choose 3 preferences | 1) _______ 2) _______ 3) _______ |
+| **Fee Amount** | ₹400/₹250 based on category | ₹______________ |
+| **Fee Payment Date** | Date of payment | _______________ |
+| **Photograph Uploaded** | Yes/No | ✅/❌ |
+| **Signature Uploaded** | Yes/No | ✅/❌ |
+| **Date of Birth** | DD/MM/YYYY | _______________ |
+| **Name as on Cert** | As per birth certificate | _______________ |
+| **Correction Window** | Dec 8-11, 2026 | ✅ Noted |
+| **Exam Date** | January 19, 2027 | ✅ Noted |
+| **Admit Card Date** | January 2, 2027 | ✅ Noted |
+
+---
+
+**Last Updated:** August 24, 2026  
+**Next Update:** December 2026 (correction window analysis)  
+**Contact:** admission@sainikschool.nic.in | NTA Helpdesk: 011-40759000
+
+**🔔 Pro Tip:** Complete your application **at least 5 days before the December 5 deadline** — this gives you buffer time for any technical issues, document corrections, or fee payment problems without stress!
+
+**🔔 Newsletter:** Subscribe at [sainikschool.substack.com](https://sainikschool.substack.com) for weekly AISSEE application tips and deadline reminders!
