@@ -1,0 +1,43 @@
+---
+title: "NDA After Sainik School — How This Path Leads to Defense Career"
+date: 2026-08-02
+description: "How Sainik School prepares students for NDA and defense career. NDA selection rate, military training, SSB interview preparation and career path after Sainik School."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/army-officer.webp"
+story_type: "image"
+category: "Career"
+tags: ["NDA after sainik school", "sainik school NDA selection", "defense career after sainik school", "NDA preparation", "sainik school career path", "how to join NDA"]
+slides:
+  - type: "video"
+    video_url: "/videos/army-video.webm"
+    poster: "/images/webstories/army-officer.webp"
+    title: "From Sainik School to NDA"
+    subtitle: "Watch how this path leads to defense career"
+    credit: "Video from Pexels"
+  - image: "/images/webstories/army-officer.webp"
+    title: "Why Sainik School for NDA?"
+    subtitle: "Sainik School students have 3x higher NDA selection rate than regular schools. The military environment gives them an edge."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/military-school.webp"
+    title: "Military Training From Day 1"
+    subtitle: "NCC training, parade practice, physical fitness and discipline — Sainik School prepares you for military life from childhood."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/classroom.webp"
+    title: "NDA Written Exam Preparation"
+    subtitle: "Math and GAT (General Ability Test) — both covered in Sainik School curriculum. You're already ahead of others."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/army-officer.webp"
+    title: "SSB Interview Advantage"
+    subtitle: "Leadership, teamwork, confidence and communication — Sainik School builds these qualities naturally. SSB becomes easier."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/school-campus.webp"
+    title: "Career After NDA"
+    subtitle: "Become an Army Officer, Navy Officer or Air Force Pilot. Serve the nation with pride and honor."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/children-uniform.webp"
+    title: "Start Your Journey Today"
+    subtitle: "Get your child admitted to Sainik School. The path to NDA and defense career starts here. Visit sainikschooleastsiang.in"
+    credit: "Photo from Pexels"
+---
+
+How Sainik School prepares students for NDA and defense career. Learn about the 3x higher NDA selection rate, military training from childhood and how Sainik School gives you an edge in SSB interview.

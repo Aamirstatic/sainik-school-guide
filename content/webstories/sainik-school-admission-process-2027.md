@@ -1,0 +1,43 @@
+---
+title: "Sainik School Admission Process 2027 — Step by Step Guide for Parents"
+date: 2026-08-02
+description: "Complete Sainik School admission process 2027 explained step by step. From online application to final counselling — everything parents need to know about AISSEE admission."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/school-admission.webp"
+story_type: "image"
+category: "Admission"
+tags: ["sainik school admission process", "sainik school admission 2027", "how to get admission in sainik school", "AISSEE admission process", "sainik school application form", "sainik school counselling process"]
+slides:
+  - type: "video"
+    video_url: "/videos/school-video.webm"
+    poster: "/images/webstories/school-admission.webp"
+    title: "Admission Process Explained"
+    subtitle: "Watch before you apply"
+    credit: "Video from Pexels"
+  - image: "/images/webstories/children-uniform.webp"
+    title: "Step 1: Check Eligibility"
+    subtitle: "Verify age limit, class requirement and domicile eligibility. Use our free tool at sainikschooleastsiang.in to check instantly."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Step 2: Fill Online Application"
+    subtitle: "Apply at aissee.nta.ac.in. Keep documents ready — photo, signature, Aadhaar, domicile certificate. Double-check before submitting."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/student-books.webp"
+    title: "Step 3: Prepare for AISSEE"
+    subtitle: "The written exam has Math, English, GK, Intelligence and Hindi. Start preparation 6 months before the exam."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/army-officer.webp"
+    title: "Step 4: Medical Test"
+    subtitle: "After clearing AISSEE, your child needs to pass a medical fitness test. Height, weight, vision and overall health are checked."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/counselling.webp"
+    title: "Step 5: Counselling & Seat Allotment"
+    subtitle: "Register for AISSAC counselling. Fill school choices based on your rank. Seats are allotted based on merit and preference."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/school-campus.webp"
+    title: "Welcome to Sainik School!"
+    subtitle: "Once selected, your child begins a life-changing journey. Military training, academics and personality development — all in one place."
+    credit: "Photo from Pexels"
+---
+
+Complete Sainik School admission process 2027 explained step by step for parents. From online application to final counselling — this guide covers everything you need to know about getting your child into a Sainik School.

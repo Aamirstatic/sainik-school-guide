@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7C3AED"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#bg4)"/>
+  
+  <!-- Decorative -->
+  <circle cx="100" cy="100" r="150" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="1180" cy="620" r="200" fill="rgba(255,255,255,0.05)"/>
+  
+  <!-- Badge -->
+  <rect x="60" y="50" width="180" height="36" rx="18" fill="white"/>
+  <text x="150" y="74" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7C3AED" text-anchor="middle">🏠 STUDENT LIFE</text>
+  
+  <!-- Title -->
+  <text x="60" y="140" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="white">Sainik School</text>
+  <text x="60" y="195" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#F6D835">Hostel Life</text>
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.8)">What Your Child Will Experience</text>
+  
+  <!-- Daily Routine Card -->
+  <rect x="60" y="290" width="350" height="300" rx="16" fill="rgba(255,255,255,0.95)"/>
+  <text x="235" y="330" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#7C3AED" text-anchor="middle">📅 Daily Routine</text>
+  
+  <rect x="80" y="350" width="310" height="1" fill="#E5E7EB"/>
+  
+  <text x="90" y="385" font-family="Arial, sans-serif" font-size="15" fill="#374151">5:30 AM - Wake Up</text>
+  <text x="90" y="415" font-family="Arial, sans-serif" font-size="15" fill="#374151">6:00 AM - Physical Training</text>
+  <text x="90" y="445" font-family="Arial, sans-serif" font-size="15" fill="#374151">7:00 AM - Breakfast</text>
+  <text x="90" y="475" font-family="Arial, sans-serif" font-size="15" fill="#374151">7:30 AM - Classes</text>
+  <text x="90" y="505" font-family="Arial, sans-serif" font-size="15" fill="#374151">4:00 PM - Sports</text>
+  <text x="90" y="535" font-family="Arial, sans-serif" font-size="15" fill="#6B7280">+5 more activities...</text>
+  
+  <!-- Facilities Card -->
+  <rect x="440" y="290" width="350" height="300" rx="16" fill="rgba(255,255,255,0.95)"/>
+  <text x="615" y="330" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#7C3AED" text-anchor="middle">🏠 Facilities</text>
+  
+  <rect x="460" y="350" width="310" height="1" fill="#E5E7EB"/>
+  
+  <text x="470" y="385" font-family="Arial, sans-serif" font-size="15" fill="#374151">✅ Spacious Dormitories</text>
+  <text x="470" y="415" font-family="Arial, sans-serif" font-size="15" fill="#374151">✅ Nutritious Meals</text>
+  <text x="470" y="445" font-family="Arial, sans-serif" font-size="15" fill="#374151">✅ 24/7 Security</text>
+  <text x="470" y="475" font-family="Arial, sans-serif" font-size="15" fill="#374151">✅ Medical Facility</text>
+  <text x="470" y="505" font-family="Arial, sans-serif" font-size="15" fill="#374151">✅ Laundry Service</text>
+  <text x="470" y="535" font-family="Arial, sans-serif" font-size="15" fill="#374151">✅ Sports Complex</text>
+  
+  <!-- Sports Card -->
+  <rect x="820" y="290" width="400" height="300" rx="16" fill="rgba(255,255,255,0.95)"/>
+  <text x="1020" y="330" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#7C3AED" text-anchor="middle">🏏 Sports & Activities</text>
+  
+  <rect x="840" y="350" width="360" height="1" fill="#E5E7EB"/>
+  
+  <text x="850" y="385" font-family="Arial, sans-serif" font-size="15" fill="#374151">⚽ Football & Cricket</text>
+  <text x="850" y="415" font-family="Arial, sans-serif" font-size="15" fill="#374151">🏀 Basketball</text>
+  <text x="850" y="445" font-family="Arial, sans-serif" font-size="15" fill="#374151">🏊 Swimming</text>
+  <text x="850" y="475" font-family="Arial, sans-serif" font-size="15" fill="#374151">🏃 Athletics</text>
+  <text x="850" y="505" font-family="Arial, sans-serif" font-size="15" fill="#374151">🎯 NCC Training</text>
+  <text x="850" y="535" font-family="Arial, sans-serif" font-size="15" fill="#374151">🎭 Cultural Activities</text>
+  
+  <!-- Author -->
+  <circle cx="60" cy="650" r="24" fill="#7C3AED"/>
+  <text x="60" y="657" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">R</text>
+  <text x="95" y="645" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="white">Rifaul Hasan</text>
+  <text x="95" y="665" font-family="Arial, sans-serif" font-size="13" fill="rgba(255,255,255,0.7)">Student Counselor</text>
+  
+  <!-- CTA -->
+  <rect x="400" y="640" width="300" height="45" rx="22" fill="#F6D835"/>
+  <text x="550" y="668" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111" text-anchor="middle">Read Complete Guide →</text>
+</svg>

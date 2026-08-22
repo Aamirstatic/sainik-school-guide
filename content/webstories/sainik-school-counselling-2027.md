@@ -1,0 +1,43 @@
+---
+title: "Sainik School Counselling 2027 — How AISSAC Seat Allotment Works"
+date: 2026-08-02
+description: "Sainik School counselling process 2027 explained. AISSAC e-counselling registration, school choice filling, seat allotment and document verification — complete guide."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/counselling.webp"
+story_type: "image"
+category: "Admission"
+tags: ["sainik school counselling", "AISSAC counselling 2027", "sainik school seat allotment", "sainik school counselling process", "AISSEE counselling", "sainik school document verification"]
+slides:
+  - type: "video"
+    video_url: "/videos/school-video.webm"
+    poster: "/images/webstories/counselling.webp"
+    title: "Counselling Process Explained"
+    subtitle: "Watch how seat allotment works"
+    credit: "Video from Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Check Your AISSEE Result"
+    subtitle: "Download your scorecard from NTA portal. Check your All India Rank and category rank carefully."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/student-books.webp"
+    title: "Register for AISSAC Counselling"
+    subtitle: "Visit the AISSAC portal and register with your AISSEE roll number and date of birth. Keep all documents ready."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/library-students.webp"
+    title: "Fill Your School Choices"
+    subtitle: "Select your preferred Sainik Schools in order of priority. Research each school's location, facilities and NDA results before choosing."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/classroom.webp"
+    title: "Seat Allotment Based on Merit"
+    subtitle: "Seats are allotted based on your rank, category and school preference. Higher rank = better chance of getting your first choice."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/children-uniform.webp"
+    title: "Document Verification"
+    subtitle: "Carry original documents — marksheet, Aadhaar, domicile, category certificate and medical fitness report to the allotted school."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/school-campus.webp"
+    title: "Admission Confirmed!"
+    subtitle: "After document verification, your child's admission is confirmed. Welcome to the Sainik School family!"
+    credit: "Photo from Pexels"
+---
+
+Sainik School counselling process 2027 explained step by step. Learn how AISSAC e-counselling works, how to fill school choices and how seat allotment is done based on merit and preference.

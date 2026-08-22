@@ -1,0 +1,409 @@
+{{ define "main" }}
+
+<style>
+  .author-hero {
+    background: linear-gradient(135deg, #01263b 0%, #0367a1 100%);
+    color: white;
+    padding: 50px 20px 40px;
+  }
+  .author-hero-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  .author-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #00BCD4, #F6D835);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    flex-shrink: 0;
+    border: 4px solid rgba(255,255,255,0.3);
+    overflow: hidden;
+  }
+  .author-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .author-info h1 {
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 6px;
+    line-height: 1.2;
+  }
+  .author-info .author-role {
+    font-size: 15px;
+    color: #F6D835;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .author-info .author-exp {
+    font-size: 13px;
+    opacity: 0.8;
+    margin-bottom: 12px;
+  }
+  .author-social {
+    display: flex;
+    gap: 10px;
+  }
+  .author-social a {
+    background: rgba(255,255,255,0.15);
+    color: white;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+  .author-social a:hover {
+    background: rgba(255,255,255,0.25);
+  }
+
+  .author-breadcrumb {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    font-size: 13px;
+    color: #6B7280;
+  }
+  .author-breadcrumb a { color: #0097A7; text-decoration: none; }
+  .author-breadcrumb a:hover { text-decoration: underline; }
+
+  .author-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  /* Bio Section */
+  .author-bio-card {
+    background: white;
+    border-radius: 12px;
+    padding: 28px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    border: 1px solid #F3F4F6;
+    margin-bottom: 30px;
+  }
+  .author-bio-card h2 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #111928;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .author-bio-text {
+    font-size: 15px;
+    color: #374151;
+    line-height: 1.7;
+    margin-bottom: 20px;
+  }
+
+  /* Expertise Tags */
+  .expertise-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+  .expertise-tag {
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 500;
+  }
+
+  /* Stats */
+  .author-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-top: 20px;
+  }
+  .author-stat {
+    text-align: center;
+    padding: 16px;
+    background: #F7F9FB;
+    border-radius: 10px;
+  }
+  .author-stat-num {
+    font-size: 24px;
+    font-weight: 800;
+    color: #00BCD4;
+  }
+  .author-stat-label {
+    font-size: 12px;
+    color: #6B7280;
+    margin-top: 2px;
+  }
+
+  /* Articles Section */
+  .author-articles-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 3px solid #00BCD4;
+  }
+  .author-articles-header h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #111928;
+  }
+  .author-articles-count {
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  /* Article Cards */
+  .author-article {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    border: 1px solid #F3F4F6;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    transition: all 0.25s;
+  }
+  .author-article:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  }
+  .author-article-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    flex-shrink: 0;
+  }
+  .author-article-icon-1 { background: linear-gradient(135deg, #667eea, #764ba2); }
+  .author-article-icon-2 { background: linear-gradient(135deg, #f093fb, #f5576c); }
+  .author-article-icon-3 { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+  .author-article-icon-4 { background: linear-gradient(135deg, #43e97b, #38f9d7); }
+  .author-article-icon-5 { background: linear-gradient(135deg, #fa709a, #fee140); }
+  .author-article-body { flex: 1; }
+  .author-article-tag {
+    display: inline-block;
+    background: #E6F3FA;
+    color: #0097A7;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .author-article-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #111928;
+    margin-bottom: 6px;
+    line-height: 1.4;
+  }
+  .author-article-title a { text-decoration: none; color: inherit; }
+  .author-article-title a:hover { color: #00BCD4; }
+  .author-article-excerpt {
+    font-size: 13px;
+    color: #6B7280;
+    line-height: 1.5;
+    margin-bottom: 8px;
+  }
+  .author-article-meta {
+    font-size: 11px;
+    color: #9CA3AF;
+    display: flex;
+    gap: 12px;
+  }
+  .author-article-arrow {
+    color: #00BCD4;
+    font-size: 20px;
+    flex-shrink: 0;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  /* Empty State */
+  .author-empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: #6B7280;
+  }
+  .author-empty-icon { font-size: 48px; margin-bottom: 16px; }
+  .author-empty h3 { font-size: 18px; color: #111928; margin-bottom: 8px; }
+
+  /* CTA */
+  .author-cta {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    border-radius: 12px;
+    padding: 30px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .author-cta h3 { font-size: 20px; font-weight: 700; margin-bottom: 8px; }
+  .author-cta p { font-size: 14px; opacity: 0.85; margin-bottom: 16px; }
+  .author-cta-btn {
+    display: inline-block;
+    background: #F6D835;
+    color: #111;
+    padding: 10px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+  }
+
+  @media (max-width: 768px) {
+    .author-hero-inner { flex-direction: column; text-align: center; }
+    .author-avatar { width: 90px; height: 90px; font-size: 36px; }
+    .author-info h1 { font-size: 22px; }
+    .author-social { justify-content: center; }
+    .author-stats { grid-template-columns: repeat(3, 1fr); gap: 10px; }
+    .author-stat { padding: 12px 8px; }
+    .author-stat-num { font-size: 20px; }
+    .author-article { flex-direction: column; text-align: center; }
+    .author-article-icon { width: 48px; height: 48px; font-size: 22px; }
+    .author-article-meta { justify-content: center; }
+  }
+</style>
+
+<!-- Author Hero -->
+<section class="author-hero">
+  <div class="author-hero-inner">
+    <div class="author-avatar">
+      {{ if .Params.author_image }}
+        <img src="{{ .Params.author_image }}" alt="{{ .Params.author_name }}">
+      {{ else }}
+        👤
+      {{ end }}
+    </div>
+    <div class="author-info">
+      <h1>{{ .Params.author_name | default .Title }}</h1>
+      <div class="author-role">{{ .Params.author_title | default "Content Writer" }}</div>
+      <div class="author-exp">{{ .Params.author_experience | default "" }}</div>
+      <div class="author-social">
+        <a href="mailto:{{ .Params.author_name | lower }}@sainikschooleastsiang.in">📧 Email</a>
+        <a href="#articles">📝 Articles</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Breadcrumb -->
+<div class="author-breadcrumb">
+  <a href="/">Home</a> / <a href="/authors/">Authors</a> / <span>{{ .Params.author_name }}</span>
+</div>
+
+<div class="author-container">
+
+  <!-- Bio Card -->
+  <div class="author-bio-card">
+    <h2>👤 About {{ .Params.author_name }}</h2>
+    <div class="author-bio-text">
+      {{ .Params.author_bio | default .Content }}
+    </div>
+
+    <!-- Expertise -->
+    <div class="expertise-grid">
+      {{ if .Content }}
+        {{ range findRE `<li>(.*?)</li>` .Content 10 }}
+          <span class="expertise-tag">{{ . | plainify }}</span>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <!-- Stats -->
+    {{ $authorName := .Params.author_name }}
+    {{ $authorPage := . }}
+    {{ $articles := where .Site.RegularPages "Section" "blog" }}
+    {{ $authorArticles := slice }}
+    {{ range $articles }}
+      {{ if eq .Params.author_name $authorName }}
+        {{ $authorArticles = $authorArticles | append . }}
+      {{ end }}
+    {{ end }}
+    <div class="author-stats">
+      <div class="author-stat">
+        <div class="author-stat-num">{{ len $authorArticles }}</div>
+        <div class="author-stat-label">Articles</div>
+      </div>
+      <div class="author-stat">
+        <div class="author-stat-num">{{ .Params.author_experience | default "5+" }}</div>
+        <div class="author-stat-label">Experience</div>
+      </div>
+      <div class="author-stat">
+        <div class="author-stat-num">⭐</div>
+        <div class="author-stat-label">Expert</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Author's Articles -->
+  <div id="articles">
+    <div class="author-articles-header">
+      <h2>📝 Articles by {{ .Params.author_name }}</h2>
+      <span class="author-articles-count">{{ len $authorArticles }} articles</span>
+    </div>
+
+    {{ if $authorArticles }}
+      {{ $icons := slice "author-article-icon-1" "author-article-icon-2" "author-article-icon-3" "author-article-icon-4" "author-article-icon-5" }}
+      {{ $emojis := slice "📝" "📚" "🎯" "🏫" "📖" }}
+      {{ range $index, $page := $authorArticles }}
+      {{ $icon := index $icons (mod $index (len $icons)) }}
+      {{ $emoji := index $emojis (mod $index (len $emojis)) }}
+      <a href="{{ .Permalink }}" style="text-decoration: none;">
+      <div class="author-article">
+        <div class="author-article-icon {{ $icon }}">{{ $emoji }}</div>
+        <div class="author-article-body">
+          <span class="author-article-tag">{{ .Section | upper }}</span>
+          <h3 class="author-article-title">{{ .Title }}</h3>
+          <p class="author-article-excerpt">{{ .Description | truncate 120 }}</p>
+          <div class="author-article-meta">
+            <span>📅 {{ .Date.Format "Jan 2, 2006" }}</span>
+            <span>⏱️ {{ .ReadingTime }} min read</span>
+          </div>
+        </div>
+        <span class="author-article-arrow">→</span>
+      </div>
+      </a>
+      {{ end }}
+    {{ else }}
+      <div class="author-empty">
+        <div class="author-empty-icon">📝</div>
+        <h3>No articles yet</h3>
+        <p>{{ .Params.author_name }} hasn't published any articles yet. Check back soon!</p>
+      </div>
+    {{ end }}
+  </div>
+
+  <!-- CTA -->
+  <div class="author-cta">
+    <h3>Want to write for us?</h3>
+    <p>Join our team of education experts and help students achieve their dreams.</p>
+    <a href="mailto:info@sainikschooleastsiang.in" class="author-cta-btn">Contact Us →</a>
+  </div>
+
+</div>
+
+{{ end }}

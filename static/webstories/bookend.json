@@ -1,0 +1,49 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "twitter",
+    "whatsapp",
+    "facebook",
+    "linkedin"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More from Sainik School Guide"
+    },
+    {
+      "type": "small",
+      "title": "AISSEE 2027 Preparation Guide",
+      "url": "/blog/aissee-2027-preparation-tips/",
+      "image": "/images/webstories/exam-preparation.jpg"
+    },
+    {
+      "type": "small",
+      "title": "All Sainik Schools in India",
+      "url": "/schools/",
+      "image": "/images/webstories/indian-military-academy.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Best Books for AISSEE 2027",
+      "url": "/blog/best-books-aissee-2027/",
+      "image": "/images/webstories/student-books.jpg"
+    },
+    {
+      "type": "heading",
+      "text": "Follow Us"
+    },
+    {
+      "type": "social",
+      "icon": "youtube",
+      "provider": "youtube",
+      "data-action": "https://youtube.com/@sainikschoolguide"
+    },
+    {
+      "type": "social",
+      "icon": "twitter",
+      "provider": "twitter",
+      "data-action": "https://twitter.com/sainikschoolguide"
+    }
+  ]
+}

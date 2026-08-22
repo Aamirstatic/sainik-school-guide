@@ -1,0 +1,282 @@
+{{ if .IsPage }}
+{{ if eq .Section "blog" }}
+<!-- Article Schema for Blog Posts (optimized for SEO/AEO/GEO/AIO) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "image": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author_name | default "Sainik School Guide Team" }}",
+    "url": "https://sainikschooleastsiang.in/authors/{{ (.Params.author_name | default "team") | urlize }}/",
+    "sameAs": [
+      "https://twitter.com/sainikschoolguide",
+      "https://youtube.com/@sainikschoolguide",
+      "https://instagram.com/sainikschoolguide"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India",
+    "url": "https://sainikschooleastsiang.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sainikschooleastsiang.in/images/hero-sainik-school.svg",
+      "width": 1200,
+      "height": 630
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "keywords": [{{ range $i, $k := .Params.keywords }}{{ if $i }}, {{ end }}"{{ $k }}"{{ end }}],
+  "articleSection": "{{ .Section }}",
+  "wordCount": {{ .WordCount }},
+  "inLanguage": "en-IN",
+  "encodingFormat": "text/html",
+  "alternativeHeadline": "{{ if .Params.alternative_headline }}{{ .Params.alternative_headline }}{{ else }}{{ .Title }}{{ end }}",
+  "about": "{{ .Summary | default (printf "Complete guide to %s" (.Params.keywords | default "AISSEE")) }}",
+  "temporal": "{{ .Date.Format "2006" }}",
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}",
+    "width": 1200,
+    "height": 630
+  }
+}
+</script>
+
+<!-- QA Schema for blog posts with Q&A sections -->
+{{ if (or (in .Content "Q&A") (in .Content "faq") (in .Content "FAQ") (in .Content "frequently asked") ) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "{{ .Title }}",
+    "text": "{{ .Summary | default .Content }}",
+    "answerCount": 0
+  }],
+  "suggestedAnswer": []
+}
+</script>
+{{ end }}
+
+<!-- How-to Schema for preparation guides -->
+{{ if (or (in .Content "preparation") (in .Content "strategy") (in .Content "tips") (in .Content "step-by-step") (in .Content "guide") ) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "totalTime": "{{ .Params.estimated_reading_time | default "PT30M" }}",
+  "supply": [],
+  "step": []
+}
+</script>
+{{ end }}
+{{ else if eq .Section "schools" }}
+<!-- School Schema (enhanced for GEO/AEO) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "School",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "alternateName": "{{ .Params.alternate_name | default "" }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ .Params.city | default "" }}",
+    "addressRegion": "{{ .Params.state }}{{ if .Params.state }} {{ end }}",
+    "addressCountry": "IN",
+    "addressPostalCode": "{{ .Params.pincode | default "" }}"
+  },
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Sainik Schools Society",
+    "url": "https://sainikschoolsociety.in"
+  },
+  "educationalLevel": "{{ .Params.educational_level | default "High School" }}",
+  "audience": "{{ .Params.audience | default " boys and girls" }}",
+  "knowsAbout": [{{ range $i, $k := .Params.keywords }}{{ if $i }}, {{ end }}"{{ replace $k " " "-" }}"{{ end }}],
+  "areaServed": "{{ .Params.state | default "India" }}",
+  "founded": "{{ .Params.established | default "1961" }}",
+  "curriculum": "CBSE"
+}
+</script>
+
+{{ else if eq .Section "authors" }}
+<!-- Person Schema for Authors (expanded for AIO) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ .Params.author_name | default .Title }}",
+  "jobTitle": "{{ .Params.author_title | default "Content Writer" }}",
+  "description": "{{ .Params.author_bio | default .Description }}",
+  "url": "{{ .Permalink }}",
+  "image": "{{ .Params.author_image | absURL }}",
+  "sameAs": [
+    "https://twitter.com/sainikschoolguide",
+    "https://youtube.com/@sainikschoolguide",
+    "https://instagram.com/sainikschoolguide"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India",
+    "url": "https://sainikschooleastsiang.in/"
+  },
+  "knowsAbout": [{{ if .Params.author_name }}"Sainik School", "AISSEE", "Defence Education", "NDA Preparation"{{ end }}],
+  "authorOf": [{
+    "@type": "CreativeWork",
+    "name": "{{ .Title }}"
+  }],
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India"
+  }
+}
+</script>
+{{ end }}
+{{ else }}
+<!-- WebSite Schema for Homepage/Listing Pages -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Sainik School Guide India",
+  "url": "https://sainikschooleastsiang.in/",
+  "description": "India's comprehensive guide to Sainik Schools. AISSEE preparation, admission details, fees, and daily articles.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://sainikschooleastsiang.in/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India",
+    "url": "https://sainikschooleastsiang.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sainikschooleastsiang.in/images/hero-sainik-school.svg",
+      "width": 1200,
+      "height": 630
+    }
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9436409766",
+    "contactType": "customer service",
+    "email": "info@sainikschooleastsiang.in",
+    "availableLanguage": ["English", "Hindi"]
+  }
+}
+</script>
+
+<!-- Organization Schema (enhanced for AIO/GEO) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Sainik School Guide India",
+  "url": "https://sainikschooleastsiang.in/",
+  "logo": "https://sainikschooleastsiang.in/images/hero-sainik-school.svg",
+  "sameAs": [
+    "https://twitter.com/sainikschoolguide",
+    "https://youtube.com/@sainikschoolguide",
+    "https://instagram.com/sainikschoolguide",
+    "https://facebook.com/sainikschoolguide",
+    "https://linkedin.com/company/sainik-school-guide-india"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9436409766",
+    "contactType": "customer service",
+    "email": "info@sainikschooleastsiang.in",
+    "availableLanguage": ["English", "Hindi", " regional languages"]
+  },
+  "legalName": "Sainik School Guide India",
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Ministry of Defence",
+    "url": "https://www.defenceministry.gov.in/"
+  },
+  "brand": "Sainik School Guide India",
+  "url": "https://sainikschooleastsiang.in/"
+}
+</script>
+
+<!-- BreadcrumbList Schema -->
+{{ if .IsSection }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://sainikschooleastsiang.in/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
+
+<!-- Article Schema fallback for non-blog pages -->
+{{ if eq .Section "blog" }}
+<!-- Already handled above -->
+{{ else if or (in .Section "blog") (eq .Kind "article") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "image": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author_name | default "Sainik School Guide Team" }}",
+    "url": "https://sainikschooleastsiang.in/authors/team/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sainik School Guide India",
+    "url": "https://sainikschooleastsiang.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sainikschooleastsiang.in/images/hero-sainik-school.svg",
+      "width": 1200,
+      "height": 630
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "keywords": [{{ range $i, $k := .Params.keywords }}{{ if $i }}, {{ end }}"{{ $k }}"{{ end }}],
+  "articleSection": "{{ .Section }}",
+  "wordCount": {{ .WordCount }},
+  "inLanguage": "en-IN"
+}
+</script>
+{{ end }}
+{{ end }}

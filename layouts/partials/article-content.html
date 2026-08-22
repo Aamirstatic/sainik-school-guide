@@ -1,0 +1,339 @@
+<style>
+/* Article - Minimal CWV Optimized */
+.art-hero{background:#E6F3FA;padding:24px 16px;min-height:80px}
+@media(min-width:768px){.art-hero{padding:40px 20px}}
+.art-hero-inner{max-width:1000px;margin:0 auto}
+.art-crumb{font-size:12px;color:#6B7280;margin-bottom:10px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.art-crumb a{color:#6B7280;text-decoration:none}
+.art-crumb a:hover{color:#00BCD4}
+.art-crumb span{color:#9CA3AF}
+.art-title{font-size:22px;font-weight:700;color:#000;line-height:1.3;margin-bottom:10px}
+@media(min-width:768px){.art-title{font-size:28px}}
+.art-meta{font-size:13px;color:#6B7280;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.art-meta .author{color:#00BCD4;font-weight:500}
+.art-wrap{max-width:1000px;margin:0 auto;padding:20px 16px}
+@media(min-width:768px){.art-wrap{padding:30px 20px}}
+.feat-img{margin-bottom:20px;border-radius:10px;overflow:hidden;aspect-ratio:800/420;background:#e5e7eb}
+.feat-img img{width:100%;height:100%;object-fit:cover;display:block}
+.upd-box{background:#E6F3FA;border-radius:8px;padding:10px 14px;margin-bottom:14px;font-size:13px;min-height:20px}
+.upd-box strong{color:#0288D1}
+.upd-box a{color:#00BCD4}
+.toc-box{background:#E6F3FA;border-radius:8px;margin-bottom:16px;overflow:hidden}
+.toc-btn{width:100%;display:flex;align-items:center;gap:8px;padding:10px 14px;background:none;border:none;cursor:pointer;font-size:14px;font-weight:600;color:#111928}
+.toc-items{list-style:disc;padding:0 14px 14px 32px;display:none;margin:0}
+.toc-items.show{display:block}
+.toc-items li{margin-bottom:5px}
+.toc-items a{font-size:13px;color:#374151;text-decoration:none}
+.toc-items a:hover{color:#00BCD4}
+.art-body{font-size:15px;line-height:1.7;color:#374151;overflow-wrap:break-word}
+.art-body h2{font-size:20px;font-weight:600;color:#00BCD4;margin:24px 0 10px;scroll-margin-top:70px}
+@media(min-width:768px){.art-body h2{font-size:22px}}
+.art-body h3{font-size:17px;font-weight:600;color:#111928;margin:18px 0 8px;scroll-margin-top:70px}
+.art-body p{margin-bottom:12px}
+.art-body ul,.art-body ol{margin-bottom:12px;padding-left:20px}
+.art-body li{margin-bottom:5px}
+.art-body strong{color:#111928}
+.art-body a{color:#00BCD4;text-decoration:none}
+.tbl-wrap{width:100%;overflow-x:auto;margin:14px 0;border:1px solid #DEDEDE;border-radius:8px}
+.tbl-wrap table{width:100%;min-width:500px;border-collapse:collapse;font-size:13px;text-align:center;margin:0}
+@media(min-width:768px){.tbl-wrap table{min-width:auto;font-size:14px}}
+.tbl-wrap thead{background:#00BCD4;color:white}
+.tbl-wrap th{padding:8px 10px;font-weight:600;border:1px solid #0097A7}
+.tbl-wrap td{padding:8px 10px;border:1px solid #DEDEDE}
+.tbl-wrap tbody tr:hover{background:#F9FAFB}
+.faq-box{margin:24px 0}
+.faq-box h2{font-size:20px;font-weight:600;color:#111928;margin-bottom:12px}
+.faq-list{display:flex;flex-direction:column;gap:6px}
+.faq-item{background:white;border:1px solid #DEDEDE;border-radius:10px;overflow:hidden}
+.faq-q{width:100%;display:flex;align-items:center;gap:10px;padding:12px;background:none;border:none;cursor:pointer;text-align:left;font-size:14px;color:#111928}
+.faq-q-icon{width:24px;height:24px;background:#E6F3FA;border-radius:5px;display:flex;align-items:center;justify-content:center;color:#00BCD4;flex-shrink:0;font-size:12px}
+.faq-q-arrow{margin-left:auto;transition:transform 0.2s;font-size:12px}
+.faq-q-arrow.open{transform:rotate(180deg)}
+.faq-a{display:none;padding:0 12px 12px 46px;font-size:13px;color:#374151;line-height:1.6}
+.faq-a.show{display:block}
+.fb-box{border:1px solid #DEDEDE;border-radius:10px;padding:16px;text-align:center;margin:24px 0;min-height:80px}
+.fb-title{font-weight:600;font-size:14px;color:#111928;margin-bottom:10px}
+.fb-btns{display:flex;justify-content:center;gap:8px}
+.fb-btn{width:40px;height:40px;border-radius:8px;border:1px solid #DEDEDE;background:white;cursor:pointer;font-size:20px}
+.fb-btn:hover{border-color:#00BCD4;background:#E6F3FA}
+.rel-box{margin:24px 0;min-height:200px}
+.rel-box h2{font-size:18px;font-weight:600;color:#111928;margin-bottom:12px}
+.rel-grid{display:grid;grid-template-columns:1fr;gap:10px}
+@media(min-width:640px){.rel-grid{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:900px){.rel-grid{grid-template-columns:repeat(3,1fr)}}
+.rel-card{background:white;border:1px solid #DEDEDE;border-radius:10px;padding:12px;transition:box-shadow 0.2s}
+.rel-card:hover{box-shadow:0 4px 12px rgba(0,0,0,.1)}
+.rel-card-img{height:80px;background:linear-gradient(135deg,#00BCD4,#0097A7);border-radius:6px;margin-bottom:8px}
+.rel-card-tag{display:inline-block;background:#E6F3FA;color:#0097A7;padding:2px 7px;border-radius:4px;font-size:10px;font-weight:500;margin-bottom:4px}
+.rel-card h3{font-size:13px;font-weight:600;color:#111928;line-height:1.3}
+.also-read-inline:hover{box-shadow:0 4px 16px rgba(0,0,0,.12);border-color:#00BCD4;transform:translateY(-2px)}
+.s-bar{position:fixed;bottom:0;left:0;right:0;background:white;box-shadow:0 -2px 8px rgba(0,0,0,.1);z-index:1000;padding:8px 14px;display:flex;align-items:center;justify-content:space-between;min-height:44px}
+.s-bar-text{font-size:13px;font-weight:600;color:#111928}
+.s-bar-sub{font-size:11px;color:#6B7280}
+.s-bar-btn{background:#00BCD4;color:white;padding:7px 14px;border-radius:6px;text-decoration:none;font-weight:600;font-size:12px}
+@media(max-width:768px){
+.art-hero{padding:18px 12px}
+.art-title{font-size:19px}
+.art-meta{font-size:11px;gap:4px}
+.art-wrap{padding:12px}
+.art-body{font-size:14px}
+.art-body h2{font-size:17px;margin:18px 0 8px}
+.art-body h3{font-size:15px}
+.art-body p{font-size:14px}
+.tbl-wrap table{font-size:11px;min-width:400px}
+.tbl-wrap th,.tbl-wrap td{padding:6px 5px;font-size:11px}
+.faq-q{padding:10px;font-size:13px}
+.faq-a{padding:0 10px 10px 40px;font-size:12px}
+.fb-btn{width:36px;height:36px;font-size:18px}
+.rel-card{padding:10px}
+.rel-card-img{height:70px}
+.s-bar{padding:6px 10px}
+.s-bar-text{font-size:12px}
+.s-bar-btn{padding:6px 10px;font-size:11px}
+.upd-box{padding:8px 10px;font-size:12px}
+}
+</style>
+
+<div class="art-hero">
+<div class="art-hero-inner">
+<div class="art-crumb">
+<a href="/">Home</a> <span>›</span>
+{{ if eq .Section "blog" }}<a href="/blog/">Blog</a> <span>›</span>{{ end }}
+<span>{{ .Title | truncate 40 }}</span>
+</div>
+<h1 class="art-title">{{ .Title }}</h1>
+<div class="art-meta">
+{{ if .Params.author_image }}
+<img src="{{ .Params.author_image }}" alt="{{ .Params.author_name }}" style="width:28px;height:28px;border-radius:50%;object-fit:cover;" loading="lazy">
+{{ end }}
+{{ if .Params.author_name }}
+<a href="/authors/{{ .Params.author_name | urlize }}/" class="author">{{ .Params.author_name }}</a>
+{{ else }}
+<span class="author">Sainik School Guide Team</span>
+{{ end }}
+<span>•</span>
+<span>📅 {{ .Date.Format "Jan 2, 2006" }}</span>
+{{ if and .Lastmod (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }}
+<span>•</span>
+<span style="color:#0097A7;font-weight:600;">🔄 Updated: {{ .Lastmod.Format "Jan 2, 2006" }} at {{ .Lastmod.Format "3:04 PM" }} IST</span>
+{{ end }}
+<span>•</span>
+<span>⏱️ {{ .ReadingTime }} min read</span>
+</div>
+</div>
+</div>
+
+<div class="art-wrap">
+{{ if .Params.featured_image }}
+<div class="feat-img">
+<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" width="800" height="420" loading="eager" fetchpriority="high">
+</div>
+{{ end }}
+
+<div class="upd-box">
+<strong>📢 Last Updated:</strong> {{ if .Lastmod }}{{ .Lastmod.Format "January 2, 2006" }} at {{ .Lastmod.Format "3:04 PM" }} IST{{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }} — This article is updated regularly with the latest AISSEE 2027 information, official notifications & expert insights.
+</div>
+
+<div class="toc-box" id="tocBox" style="display:none">
+<button class="toc-btn" onclick="toggleToc()">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+Table of Contents
+<svg class="toc-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><polyline points="6 9 12 15 18 9"/></svg>
+</button>
+<ul class="toc-items" id="tocList"></ul>
+</div>
+
+<div class="art-body" id="artBody">
+{{ .Content }}
+
+<!-- AIO-Optimized Key Takeaways Box -->
+{{ if .Params.keywords }}
+{{ $keywords := .Params.keywords | first 3 }}
+<div class="aio-key-takeaways" style="background:#FFF3E0;border-left:4px solid #F4511E;border-radius:8px;padding:16px 20px;margin:24px 0;overflow:hidden;">
+  <p style="font-size:14px;color:#B71C1C;margin:0 0 12px 0;"><strong>🎯 Key Takeaways for AI Readers:</strong></p>
+  <ul style="margin:0;padding-left:20px;">
+    {{ range $keywords }}
+    <li style="margin-bottom:8px;line-height:1.5;"><strong>{{ . }}</strong> — Sainik School entrance exam preparation guide</li>
+    {{ end }}
+  </ul>
+  <p style="font-size:12px;color:#7B1F00;margin:8px 0 0 0;">This content is optimized for AI discoverability and search engine understanding.</p>
+</div>
+{{ end }}
+
+<div class="fb-box">
+<p class="fb-title">How helpful was this article?</p>
+<div class="fb-btns">
+<button class="fb-btn" onclick="fb(1)">😞</button>
+<button class="fb-btn" onclick="fb(2)">😐</button>
+<button class="fb-btn" onclick="fb(3)">🙂</button>
+<button class="fb-btn" onclick="fb(4)">😊</button>
+<button class="fb-btn" onclick="fb(5)">🤩</button>
+</div>
+</div>
+
+<div class="rel-box">
+<h2>Related Articles</h2>
+<div class="rel-grid">
+{{ $sec := .Section }}
+{{ $cur := .Title }}
+{{ range first 3 (where (where .Site.RegularPages "Section" $sec) "Title" "!=" $cur) }}
+<a href="{{ .Permalink }}" class="rel-card">
+{{ if .Params.featured_image }}
+<div class="rel-card-img" style="background:url('{{ .Params.featured_image }}') center/cover no-repeat;"></div>
+{{ else }}
+<div class="rel-card-img"></div>
+{{ end }}
+<span class="rel-card-tag">{{ .Section | upper }}</span>
+<h3>{{ .Title | truncate 50 }}</h3>
+</a>
+{{ end }}
+</div>
+</div>
+</div>
+
+<div class="also-read-box" id="alsoReadBox" style="display:none;margin:24px 0;padding:0;">
+<h3 style="font-size:16px;font-weight:700;color:#111928;margin-bottom:12px;border-left:4px solid #e94560;padding-left:12px;">📖 Also Read</h3>
+<div class="rel-grid" id="alsoReadGrid"></div>
+</div>
+
+<div class="s-bar">
+<div>
+<div class="s-bar-text">AISSEE 2027 Preparation</div>
+<div class="s-bar-sub">Complete guide for Class 6 & 9</div>
+</div>
+<a href="/aissee/" class="s-bar-btn">Get Started →</a>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+var body=document.getElementById('artBody');
+var tocBox=document.getElementById('tocBox');
+var tocList=document.getElementById('tocList');
+body.querySelectorAll('h2, h3').forEach(function(h){
+if(h.textContent.indexOf('Table of Contents')>=0){
+h.style.display='none';
+var next=h.nextElementSibling;
+while(next&&(next.tagName==='UL'||next.tagName==='OL')){
+next.style.display='none';
+next=next.nextElementSibling;
+}
+}
+});
+var headings=body.querySelectorAll('h2, h3');
+if(headings.length>1){
+tocBox.style.display='block';
+headings.forEach(function(h,i){
+if(h.style.display==='none')return;
+var id='h'+i;
+h.id=id;
+var li=document.createElement('li');
+li.style.marginLeft=h.tagName==='H3'?'14px':'0';
+var a=document.createElement('a');
+a.href='#'+id;
+a.textContent=h.textContent;
+a.onclick=function(e){
+e.preventDefault();
+document.getElementById(id).scrollIntoView({behavior:'smooth'});
+};
+li.appendChild(a);
+tocList.appendChild(li);
+});
+}
+body.querySelectorAll('table').forEach(function(t){
+if(!t.parentElement.classList.contains('tbl-wrap')){
+var w=document.createElement('div');
+w.className='tbl-wrap';
+t.parentNode.insertBefore(w,t);
+w.appendChild(t);
+}
+});
+var faqBox=document.createElement('div');
+faqBox.className='faq-box';
+var faqH2=null;
+var faqItems=[];
+body.querySelectorAll('h2').forEach(function(h){
+if(h.textContent.indexOf('FAQ')>=0||h.textContent.indexOf('Frequently')>=0){
+faqH2=h;
+}
+});
+if(faqH2){
+var el=faqH2.nextElementSibling;
+while(el&&el.tagName!=='H2'){
+if(el.tagName==='H3'){
+var q=el.textContent;
+var a='';
+var next=el.nextElementSibling;
+while(next&&next.tagName!=='H3'&&next.tagName!=='H2'){
+a+=next.outerHTML;
+var tmp=next.nextElementSibling;
+next.remove();
+next=tmp;
+}
+el.remove();
+faqItems.push({q:q,a:a});
+el=next;
+}else{
+el=el.nextElementSibling;
+}
+}
+if(faqItems.length>0){
+faqH2.remove();
+var h2=document.createElement('h2');
+h2.textContent='Frequently Asked Questions';
+faqBox.appendChild(h2);
+var list=document.createElement('div');
+list.className='faq-list';
+faqItems.forEach(function(item){
+var div=document.createElement('div');
+div.className='faq-item';
+div.innerHTML='<button class="faq-q" onclick="toggleFaq(this)">'+'<span class="faq-q-icon">?</span>'+'<span>'+item.q+'</span>'+'<span class="faq-q-arrow">▼</span></button>'+'<div class="faq-a">'+item.a+'</div>';
+list.appendChild(div);
+});
+faqBox.appendChild(list);
+body.appendChild(faqBox);
+/* FAQ Schema - handled by partial */
+}
+}
+});
+function toggleToc(){
+var list=document.getElementById('tocList');
+list.classList.toggle('show');
+}
+function toggleFaq(btn){
+btn.nextElementSibling.classList.toggle('show');
+btn.querySelector('.faq-q-arrow').classList.toggle('open');
+}
+// Also Read - inject between H2 sections
+var relatedArticles=[
+{{ $cur := .Title }}
+{{ $count := 0 }}
+{{ range first 6 (where (where .Site.RegularPages "Section" "blog") "Title" "!=" $cur) }}
+{{ if lt $count 5 }}
+{title:"{{ .Title | truncate 55 }}",url:"{{ .Permalink }}",img:"{{ .Params.featured_image | default "" }}",tag:"ARTICLE"},
+{{ $count = (add $count 1) }}
+{{ end }}
+{{ end }}
+];
+if(relatedArticles.length>0){
+var h2s=body.querySelectorAll('h2');
+var insertCount=0;
+var maxInserts=Math.min(3,Math.floor(h2s.length/2));
+for(var i=1;i<h2s.length&&insertCount<maxInserts;i+=2){
+var card=relatedArticles[insertCount%relatedArticles.length];
+div=document.createElement('div');
+div.className='also-read-inline';
+div.style.cssText='background:#fff;border:1px solid #E5E7EB;border-radius:10px;padding:14px;margin:20px 0;display:flex;gap:14px;align-items:center;transition:all .2s;cursor:pointer;text-decoration:none;';
+div.onclick=function(){window.location.href=card.url;};
+var imgHtml=card.img?'<div style="width:100px;height:70px;border-radius:8px;background:url(\''+card.img+'\') center/cover no-repeat;flex-shrink:0;"></div>':'';
+div.innerHTML=imgHtml+'<div><span style="display:inline-block;background:#FEF3C7;color:#D97706;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;margin-bottom:4px;">📖 ALSO READ</span><h4 style="font-size:14px;font-weight:600;color:#111928;margin:0;line-height:1.4;">'+card.title+'</h4><span style="font-size:12px;color:#00BCD4;font-weight:600;">Read More →</span></div>';
+h2s[i].parentNode.insertBefore(div,h2s[i]);
+insertCount++;
+}
+}
+function fb(n){
+document.querySelectorAll('.fb-btn').forEach(function(b,i){
+b.style.borderColor=i===n-1?'#F59E0B':'#DEDEDE';
+b.style.background=i===n-1?'#FEF3C7':'white';
+});
+}
+</script>

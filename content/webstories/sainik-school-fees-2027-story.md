@@ -1,0 +1,43 @@
+---
+title: "Sainik School Fees 2027 — Complete Cost Breakdown & Scholarship Info"
+date: 2026-08-02
+description: "Sainik School fees 2027 complete breakdown. Annual fees, hostel charges, mess fees, uniform cost and scholarship options. Compare fees across all 33+ Sainik Schools."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/scholarship.webp"
+story_type: "image"
+category: "Fees"
+tags: ["sainik school fees", "sainik school fee structure", "sainik school scholarship", "sainik school fee concession", "sainik school annual fees", "sainik school hostel fees"]
+slides:
+  - type: "video"
+    video_url: "/videos/school-video.webm"
+    poster: "/images/webstories/scholarship.webp"
+    title: "How Much Does Sainik School Cost?"
+    subtitle: "Watch the complete fee breakdown"
+    credit: "Video from Pexels"
+  - image: "/images/webstories/scholarship.webp"
+    title: "Annual Fee Structure"
+    subtitle: "Sainik School fees range from ₹1.5 lakh to ₹3 lakh per year. This includes tuition, hostel, mess, uniform and books."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/military-school.webp"
+    title: "What's Included in Fees?"
+    subtitle: "Tuition fees, hostel accommodation, mess food, school uniform, books, sports facilities and medical care — all covered."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/student-books.webp"
+    title: "Merit Scholarship Available"
+    subtitle: "Top rankers in AISSEE get fee concession up to 100%. Meritorious students can study almost free."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/army-officer.webp"
+    title: "Defense Ward Concession"
+    subtitle: "Children of defense personnel get special fee reduction. Apply with service certificate during admission."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/classroom.webp"
+    title: "State Government Scholarships"
+    subtitle: "Many state governments offer additional scholarships for Sainik School students. Check your state's education department website."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/school-campus.webp"
+    title: "Compare All Schools"
+    subtitle: "Get detailed fee comparison of all 33+ Sainik Schools at sainikschooleastsiang.in. Make an informed decision."
+    credit: "Photo from Pexels"
+---
+
+Sainik School fees 2027 complete breakdown with scholarship information. Compare annual fees, hostel charges and get details about merit scholarships, defense ward concession and state government schemes.

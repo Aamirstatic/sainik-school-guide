@@ -1,0 +1,43 @@
+---
+title: "Sainik School Scholarship 2027 — How to Get Up to 100% Fee Waiver"
+date: 2026-08-02
+description: "Sainik School scholarship and fee concession 2027. Learn about merit scholarship, SC/ST scholarship, defense ward concession and state government schemes. Get up to 100% fee waiver."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/scholarship.webp"
+story_type: "image"
+category: "Scholarship"
+tags: ["sainik school scholarship", "sainik school fee concession", "sainik school fee waiver", "SC ST scholarship sainik school", "defense ward concession", "sainik school scholarship 2027"]
+slides:
+  - type: "video"
+    video_url: "/videos/study-video.webm"
+    poster: "/images/webstories/scholarship.webp"
+    title: "Can You Study for Free?"
+    subtitle: "Watch how scholarships work"
+    credit: "Video from Pexels"
+  - image: "/images/webstories/scholarship.webp"
+    title: "Up to 100% Fee Waiver Available"
+    subtitle: "Sainik School offers scholarship up to 100% for meritorious students. Don't let fees stop your child's dream."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/student-books.webp"
+    title: "Merit-Based Scholarship"
+    subtitle: "Top rankers in AISSEE entrance exam get automatic fee concession. Score high and study at reduced fees."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/classroom.webp"
+    title: "SC/ST/OBC Scholarship"
+    subtitle: "Government scholarship for SC, ST and OBC students. Apply through National Scholarship Portal with required documents."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/army-officer.webp"
+    title: "Defense Ward Concession"
+    subtitle: "Children of serving and retired defense personnel get special fee reduction. Apply with service certificate."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "State Government Schemes"
+    subtitle: "Many states offer additional scholarships for Sainik School students. Check your state education department for details."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/school-campus.webp"
+    title: "Apply Early — Limited Seats"
+    subtitle: "Scholarship seats are limited. Apply during admission process itself. Visit sainikschooleastsiang.in for complete details."
+    credit: "Photo from Pexels"
+---
+
+Sainik School scholarship and fee concession 2027. Learn about merit scholarship, SC/ST/OBC scholarship, defense ward concession and state government schemes. Get up to 100% fee waiver for your child.

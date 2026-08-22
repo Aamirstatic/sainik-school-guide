@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#01263b"/><stop offset="100%" style="stop-color:#e94560"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="600" y="220" text-anchor="middle" fill="#F6D835" font-family="Arial,sans-serif" font-size="48" font-weight="bold">Sainik School vs RIMC vs RMS</text>
+  <text x="600" y="290" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="26">Which Military School is Best?</text>
+  <text x="600" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22">Fees · Eligibility · NDA Results · Difficulty</text>
+  <text x="600" y="460" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial,sans-serif" font-size="20">sainikschooleastsiang.in</text>
+  <rect x="500" y="390" width="200" height="4" rx="2" fill="#F6D835"/>
+</svg>

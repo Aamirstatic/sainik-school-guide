@@ -1,0 +1,326 @@
+{{ define "main" }}
+
+<style>
+/* Hero */
+.hero{background:linear-gradient(135deg,#01263b 0%,#0367a1 50%,#01263b 100%);color:#fff;padding:0}
+.hero-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1.1fr .9fr;min-height:500px;align-items:center}
+.hero-text{padding:48px 40px}
+.hero-text h1{font-size:34px;font-weight:800;line-height:1.2;margin-bottom:14px}
+.hero-text h1 span{color:#F6D835}
+.hero-text p{font-size:15px;opacity:.9;margin-bottom:20px;max-width:520px;line-height:1.6}
+.hero-btns{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
+.btn-h{padding:11px 22px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;transition:transform .2s;display:inline-flex;align-items:center;gap:6px}
+.btn-h:hover{transform:translateY(-2px)}
+.btn-h-gold{background:#F6D835;color:#111}
+.btn-h-green{background:#4CAF50;color:#fff}
+.btn-h-outline{background:0 0;border:2px solid rgba(255,255,255,.3);color:#fff}
+.btn-h-cyan{background:#00BCD4;color:#fff;padding:12px 28px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;display:inline-block}
+.hero-stats{display:flex;gap:28px}
+.h-stat{text-align:center}
+.h-stat b{display:block;font-size:26px;font-weight:800;color:#F6D835}
+.h-stat small{font-size:11px;opacity:.8}
+
+/* Hero Form */
+.hero-form-wrap{padding:40px;display:flex;align-items:center;justify-content:center}
+.hf{background:#fff;border-radius:16px;width:100%;max-width:400px;box-shadow:0 16px 48px rgba(0,0,0,.25)}
+.hf-head{background:linear-gradient(135deg,#01263b,#0367a1);color:#fff;padding:18px 22px;text-align:center;border-radius:16px 16px 0 0}
+.hf-head h3{font-size:17px;font-weight:700;margin-bottom:3px}
+.hf-head p{font-size:11px;opacity:.85}
+.hf-body{padding:18px 22px}
+.hf-body label{display:block;font-size:12px;font-weight:600;color:#374151;margin-bottom:4px}
+.hf-body input,.hf-body select{width:100%;padding:10px 12px;border:2px solid #E5E7EB;border-radius:8px;font-size:14px;outline:0;transition:border .2s;box-sizing:border-box;margin-bottom:12px}
+.hf-body input:focus,.hf-body select:focus{border-color:#00BCD4}
+.hf-btn{width:100%;background:linear-gradient(135deg,#F6D835,#FFD700);color:#111;border:none;padding:12px;border-radius:8px;font-size:15px;font-weight:700;cursor:pointer;transition:transform .2s}
+.hf-btn:hover{transform:translateY(-2px)}
+.hf-note{text-align:center;font-size:10px;color:#9CA3AF;margin-top:8px}
+.hf-ok{display:none;text-align:center;padding:28px 20px}
+.hf-ok-icon{font-size:36px;margin-bottom:6px}
+.hf-ok h3{font-size:17px;font-weight:700;color:#2E7D32;margin-bottom:4px}
+.hf-ok p{font-size:13px;color:#6B7280}
+
+/* Sections */
+.sec{max-width:1200px;margin:0 auto;padding:40px 20px}
+.sec-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px;padding-bottom:10px;border-bottom:3px solid #00BCD4}
+.sec-hdr h2{font-size:21px;font-weight:700;color:#111928}
+.sec-hdr a{color:#00BCD4;font-size:13px;font-weight:600;text-decoration:none}
+.sec-hdr a:hover{text-decoration:underline}
+
+/* Stats */
+.stats-bar{background:#F7F9FB;padding:28px 20px}
+.stats-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:16px;text-align:center}
+.st{background:#fff;padding:18px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+.st b{display:block;font-size:30px;font-weight:800;color:#00BCD4}
+.st small{font-size:12px;color:#6B7280}
+
+/* Blog Cards */
+.blog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.bc{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.05);border:1px solid #F3F4F6;transition:all .25s;text-decoration:none;display:block;color:inherit}
+.bc:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.1)}
+.bc-img{height:130px;display:flex;align-items:center;justify-content:center;font-size:34px}
+.bc-img-1{background:linear-gradient(135deg,#667eea,#764ba2)}.bc-img-2{background:linear-gradient(135deg,#f093fb,#f5576c)}.bc-img-3{background:linear-gradient(135deg,#4facfe,#00f2fe)}
+.bc-img-4{background:linear-gradient(135deg,#43e97b,#38f9d7)}.bc-img-5{background:linear-gradient(135deg,#fa709a,#fee140)}.bc-img-6{background:linear-gradient(135deg,#a18cd1,#fbc2eb)}
+.bc-body{padding:14px}
+.bc-tag{display:inline-block;background:#E6F3FA;color:#0097A7;padding:2px 7px;border-radius:4px;font-size:9px;font-weight:600;text-transform:uppercase;margin-bottom:5px}
+.bc-title{font-size:13px;font-weight:600;color:#111928;margin-bottom:4px;line-height:1.4}
+.bc-meta{font-size:10px;color:#9CA3AF}
+
+/* School Cards */
+.sch-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.sc{background:#fff;border-radius:10px;padding:18px;text-align:center;box-shadow:0 2px 10px rgba(0,0,0,.05);border:1px solid #F3F4F6;transition:all .25s;text-decoration:none;display:block;color:inherit}
+.sc:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.1)}
+.sc-icon{font-size:28px;margin-bottom:8px}
+.sc h3{font-size:12px;font-weight:600;color:#111928;margin-bottom:3px}
+.sc p{font-size:10px;color:#6B7280}
+.sc-st{display:inline-block;background:#E6F3FA;color:#0097A7;padding:2px 7px;border-radius:4px;font-size:9px;font-weight:600;margin-top:5px}
+
+/* Quick Links */
+.ql-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.ql{color:#fff;padding:22px;border-radius:10px;text-decoration:none;text-align:center;transition:transform .2s}
+.ql:hover{transform:translateY(-3px)}
+.ql-icon{font-size:28px;margin-bottom:6px}
+.ql-title{font-weight:700;font-size:14px}
+.ql-desc{font-size:11px;opacity:.8;margin-top:3px}
+.sch-bg{background:#F7F9FB;padding:40px 20px}
+.sch-wrap{max-width:1200px;margin:0 auto}
+.sch-btn-wrap{text-align:center;margin-top:20px}
+.ql-1{background:linear-gradient(135deg,#667eea,#764ba2)}
+.ql-2{background:linear-gradient(135deg,#4facfe,#00f2fe)}
+.ql-3{background:linear-gradient(135deg,#43e97b,#38f9d7)}
+.ql-4{background:linear-gradient(135deg,#fa709a,#fee140)}
+.ql-5{background:linear-gradient(135deg,#a18cd1,#fbc2eb)}
+
+/* Responsive */
+@media(max-width:992px){
+  .blog-grid{grid-template-columns:repeat(2,1fr)}
+  .sch-grid{grid-template-columns:repeat(3,1fr)}
+  .stats-grid{grid-template-columns:repeat(2,1fr)}
+  .ql-grid{grid-template-columns:repeat(3,1fr)}
+}
+@media(max-width:768px){
+  .hero-inner{grid-template-columns:1fr;min-height:auto}
+  .hero-text{padding:28px 18px}
+  .hero-text h1{font-size:22px}
+  .hero-text p{font-size:13px}
+  .hero-form-wrap{display:none!important}
+  .hero-btns{display:none}
+  .hero-stats{gap:12px;flex-wrap:wrap}
+  .h-stat b{font-size:20px}
+  .h-stat small{font-size:10px}
+  .blog-grid{grid-template-columns:1fr}
+  .sch-grid{grid-template-columns:repeat(2,1fr)}
+  .ql-grid{grid-template-columns:repeat(2,1fr)}
+  .sec{padding:28px 14px}
+  .sec-hdr h2{font-size:18px}
+}
+</style>
+
+<!-- Hero -->
+<section class="hero" itemscope itemtype="https://schema.org/WebPage">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <h1 itemprop="headline">Sainik School <span>Admission 2027</span> — Eligibility, Results & AISSEE Guide</h1>
+      <p itemprop="description">Complete guide to all 33+ Sainik Schools in India. AISSEE 2027 preparation tips, age eligibility, fee structure, scholarship info, and daily articles for defence aspirants.</p>
+      <div class="hero-btns">
+        <a href="/tools/age-calculator/" class="btn-h btn-h-gold">🧮 Check Age Eligibility</a>
+        <a href="/schools/" class="btn-h btn-h-green">🏫 All 33+ Schools</a>
+        <a href="/blog/" class="btn-h btn-h-outline">📖 AISSEE Guide</a>
+      </div>
+      <div class="hero-stats">
+        <div class="h-stat"><b>33+</b><small>Sainik Schools</small></div>
+        <div class="h-stat"><b>10-12</b><small>Class 6 Age</small></div>
+        <div class="h-stat"><b>13-15</b><small>Class 9 Age</small></div>
+        <div class="h-stat"><b>67%</b><small>Home State</small></div>
+      </div>
+    </div>
+    <div class="hero-form-wrap">
+      <div class="hf">
+        <div class="hf-head">
+          <h3>📝 Get Free AISSEE 2027 Guide</h3>
+          <p>Enter your details to access the resource</p>
+        </div>
+        <div class="hf-body" id="hfForm">
+          <label>Full Name *</label>
+          <input type="text" id="hfName" placeholder="Enter your name" required>
+          <label>WhatsApp Number *</label>
+          <input type="tel" id="hfPhone" placeholder="10-digit number" pattern="[0-9]{10}" required>
+          <label>Email Address</label>
+          <input type="email" id="hfEmail" placeholder="Email (optional)">
+          <label>Interested In</label>
+          <select id="hfInt">
+            <option value="class6">Class 6 Admission</option>
+            <option value="class9">Class 9 Admission</option>
+            <option value="nda">NDA Preparation</option>
+            <option value="coaching">Coaching Info</option>
+          </select>
+          <button class="hf-btn" id="hfBtn" onclick="hfSubmit()">📥 Download Free Guide</button>
+          <div class="hf-note">🔒 Your info is safe. We never spam.</div>
+        </div>
+        <div class="hf-ok" id="hfOk">
+          <div class="hf-ok-icon">✅</div>
+          <h3>Thank You!</h3>
+          <p>Your guide is being downloaded...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Stats -->
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="st"><b>33+</b><small>Sainik Schools</small></div>
+    <div class="st"><b>69</b><small>New Schools (PPP)</small></div>
+    <div class="st"><b>4L+</b><small>AISSEE Applicants</small></div>
+    <div class="st"><b>10K</b><small>Seats Available</small></div>
+  </div>
+</div>
+
+<!-- Latest Articles -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>📰 Latest Articles</h2>
+    <a href="/blog/">View All →</a>
+  </div>
+  <div class="blog-grid">
+    {{ range $i, $p := first 6 (sort (where .Site.RegularPages "Section" "blog") "Lastmod" "desc") }}
+    <a href="{{ $p.Permalink }}" class="bc">
+      {{ if $p.Params.featured_image }}
+      <div class="bc-img" style="background:url('{{ $p.Params.featured_image }}') center/cover no-repeat;"></div>
+      {{ else }}
+      <div class="bc-img bc-img-{{ mod $i 6 }}">📝</div>
+      {{ end }}
+      <div class="bc-body">
+        <span class="bc-tag">Article</span>
+        <div class="bc-title">{{ $p.Title }}</div>
+        <div class="bc-meta">{{ $p.Date.Format "Jan 2, 2006" }} · {{ $p.ReadingTime }} min</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<!-- Schools -->
+<div class="sch-bg">
+  <div class="sch-wrap">
+    <div class="sec-hdr">
+      <h2>🏫 All Sainik Schools in India</h2>
+      <a href="/schools/">View All →</a>
+    </div>
+    <div class="sch-grid">
+      {{ range first 12 (where .Site.RegularPages "Section" "schools") }}
+      <a href="{{ .Permalink }}" class="sc">
+        <div class="sc-icon">🏫</div>
+        <h3>{{ .Title | replaceRE "Sainik School " "" | replaceRE " - Complete Guide 2026" "" }}</h3>
+        <p>Est. {{ .Params.established | default .Date.Year }}</p>
+        {{ with .Params.state }}<span class="sc-st">{{ . }}</span>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+    <div class="sch-btn-wrap">
+      <a href="/schools/" class="btn-h btn-h-cyan">View All 33+ Schools →</a>
+    </div>
+  </div>
+</div>
+
+<!-- Web Stories -->
+<style>
+.ws-section{background:linear-gradient(135deg,#1a1a2e 0%,#0f3460 100%);padding:40px 20px}
+.ws-section .sec-hdr{border-bottom-color:#e94560}
+.ws-section .sec-hdr h2{color:#fff}
+.ws-section .sec-hdr a{color:#e94560}
+.ws-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px}
+.ws-card{position:relative;border-radius:14px;overflow:hidden;aspect-ratio:3/4;display:block;text-decoration:none;box-shadow:0 4px 16px rgba(0,0,0,.2);transition:transform .25s,box-shadow .25s}
+.ws-card:hover{transform:translateY(-4px);box-shadow:0 8px 28px rgba(0,0,0,.3)}
+.ws-card img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.ws-card:hover img{transform:scale(1.04)}
+.ws-card-info{position:absolute;bottom:0;left:0;right:0;padding:28px 10px 10px;background:linear-gradient(0deg,rgba(0,0,0,.88) 0%,rgba(0,0,0,.4) 55%,transparent 100%);color:#fff}
+.ws-card-info h3{font-size:13px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:5px;font-family:'Montserrat',sans-serif}
+.ws-card-meta{font-size:10px;color:rgba(255,255,255,.65);display:flex;gap:6px;align-items:center}
+.ws-card-cat{background:#e94560;padding:2px 6px;border-radius:3px;font-size:9px;font-weight:700;text-transform:uppercase}
+@media(max-width:768px){.ws-grid{grid-template-columns:repeat(2,1fr);gap:10px}.ws-card-info h3{font-size:11px}}
+</style>
+<div class="ws-section">
+  <div style="max-width:1200px;margin:0 auto;">
+    <div class="sec-hdr">
+      <h2>📰 Web Stories</h2>
+      <a href="/webstories/">View All →</a>
+    </div>
+  </div>
+  <div class="ws-grid">
+    {{ range first 6 (where .Site.RegularPages "Section" "webstories") }}
+    <a href="{{ .Permalink }}" class="ws-card" title="{{ .Title }}">
+      <img src="{{ .Params.featured_image | absURL }}" alt="{{ .Title }}" loading="lazy" width="180" height="240">
+      <div class="ws-card-info">
+        {{ with .Params.category }}<span class="ws-card-cat">{{ . }}</span>{{ end }}
+        <h3>{{ .Title }}</h3>
+        <div class="ws-card-meta">
+          <span>{{ .Date.Format "Jan 2" }}</span>
+          <span>{{ len .Params.slides }} slides</span>
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<!-- Quick Links -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>🔗 Quick Access</h2>
+  </div>
+  <div class="ql-grid">
+    <a href="/tools/age-calculator/" class="ql ql-1">
+      <div class="ql-icon">🧮</div>
+      <div class="ql-title">Age Calculator</div>
+      <div class="ql-desc">Check eligibility</div>
+    </a>
+    <a href="/blog/" class="ql ql-2">
+      <div class="ql-icon">📚</div>
+      <div class="ql-title">AISSEE Prep</div>
+      <div class="ql-desc">Strategy guide</div>
+    </a>
+    <a href="/schools/" class="ql ql-3">
+      <div class="ql-icon">🏫</div>
+      <div class="ql-title">All Schools</div>
+      <div class="ql-desc">33+ schools list</div>
+    </a>
+    <a href="/blog/sainik-school-fees-comparison/" class="ql ql-4">
+      <div class="ql-icon">💰</div>
+      <div class="ql-title">Fees</div>
+      <div class="ql-desc">Fee comparison</div>
+    </a>
+    <a href="/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/" class="ql ql-5">
+      <div class="ql-icon">⚖️</div>
+      <div class="ql-title">Compare</div>
+      <div class="ql-desc">RIMC vs Sainik vs RMS</div>
+    </a>
+  </div>
+</div>
+
+<!-- Lead Modal -->
+{{ partial "lead-form.html" . }}
+
+<!-- Hero Form JS -->
+<script>
+function hfSubmit(){
+  var n=document.getElementById('hfName').value.trim(),
+      p=document.getElementById('hfPhone').value.trim(),
+      e=document.getElementById('hfEmail').value.trim(),
+      i=document.getElementById('hfInt').value,
+      b=document.getElementById('hfBtn');
+  if(!n){alert('Please enter your name');return}
+  if(!p||p.length!==10){alert('Enter valid 10-digit number');return}
+  b.textContent='Submitting...';b.disabled=true;
+  var d=new FormData();d.append('name',n);d.append('phone',p);d.append('email',e);d.append('interest',i);d.append('page',location.pathname);
+  fetch('https://script.google.com/macros/s/AKfycbwVATOFg1nbimUGLWivpkoX8dZhvhwGGTDf827loTi9J193fDFPb9hb31_adpJpAKzyCQ/exec',{method:'POST',body:d})
+  .then(function(r){return r.json()}).then(function(){hfOk()}).catch(function(){hfOk()});
+}
+function hfOk(){
+  document.getElementById('hfForm').style.display='none';
+  document.getElementById('hfOk').style.display='block';
+  document.getElementById('hfName').value='';document.getElementById('hfPhone').value='';document.getElementById('hfEmail').value='';
+  document.getElementById('hfBtn').textContent='📥 Download Free Guide';document.getElementById('hfBtn').disabled=false;
+}
+</script>
+
+{{ end }}

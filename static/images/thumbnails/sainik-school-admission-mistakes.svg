@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DC2626"/>
+      <stop offset="50%" style="stop-color:#F59E0B"/>
+      <stop offset="100%" style="stop-color:#F6D835"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#bg2)"/>
+  
+  <!-- Decorative -->
+  <circle cx="1100" cy="150" r="200" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="150" cy="600" r="180" fill="rgba(255,255,255,0.08)"/>
+  
+  <!-- Warning badge -->
+  <rect x="60" y="60" width="160" height="40" rx="20" fill="white"/>
+  <text x="140" y="86" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#DC2626" text-anchor="middle">⚠️ WARNING</text>
+  
+  <!-- Main Title -->
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="white">5 Mistakes</text>
+  <text x="60" y="220" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#111">Parents Make</text>
+  <text x="60" y="280" font-family="Arial, sans-serif" font-size="28" fill="rgba(255,255,255,0.9)">During Sainik School Admission</text>
+  
+  <!-- Mistakes list -->
+  <rect x="60" y="330" width="550" height="250" rx="16" fill="rgba(255,255,255,0.15)"/>
+  
+  <text x="90" y="370" font-family="Arial, sans-serif" font-size="18" fill="white">❌ Wrong Age Calculation</text>
+  <rect x="90" y="380" width="480" height="1" fill="rgba(255,255,255,0.2)"/>
+  
+  <text x="90" y="410" font-family="Arial, sans-serif" font-size="18" fill="white">❌ Late Application Submission</text>
+  <rect x="90" y="420" width="480" height="1" fill="rgba(255,255,255,0.2)"/>
+  
+  <text x="90" y="450" font-family="Arial, sans-serif" font-size="18" fill="white">❌ Wrong Document Upload</text>
+  <rect x="90" y="460" width="480" height="1" fill="rgba(255,255,255,0.2)"/>
+  
+  <text x="90" y="490" font-family="Arial, sans-serif" font-size="18" fill="white">❌ Not Preparing for Medical Test</text>
+  <rect x="90" y="500" width="480" height="1" fill="rgba(255,255,255,0.2)"/>
+  
+  <text x="90" y="530" font-family="Arial, sans-serif" font-size="18" fill="white">❌ Wrong School Selection</text>
+  
+  <!-- Right side - Solution -->
+  <rect x="700" y="60" width="520" height="600" rx="20" fill="rgba(255,255,255,0.95)"/>
+  
+  <text x="960" y="120" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#DC2626" text-anchor="middle">How to Avoid?</text>
+  
+  <rect x="730" y="150" width="460" height="1" fill="#E5E7EB"/>
+  
+  <rect x="730" y="180" width="32" height="32" rx="8" fill="#16B364"/>
+  <text x="746" y="202" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="775" y="202" font-family="Arial, sans-serif" font-size="16" fill="#111928">Calculate age correctly</text>
+  
+  <rect x="730" y="230" width="32" height="32" rx="8" fill="#16B364"/>
+  <text x="746" y="252" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="775" y="252" font-family="Arial, sans-serif" font-size="16" fill="#111928">Apply early, not last day</text>
+  
+  <rect x="730" y="280" width="32" height="32" rx="8" fill="#16B364"/>
+  <text x="746" y="302" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="775" y="302" font-family="Arial, sans-serif" font-size="16" fill="#111928">Prepare documents properly</text>
+  
+  <rect x="730" y="330" width="32" height="32" rx="8" fill="#16B364"/>
+  <text x="746" y="352" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="775" y="352" font-family="Arial, sans-serif" font-size="16" fill="#111928">Get medical checkup early</text>
+  
+  <rect x="730" y="380" width="32" height="32" rx="8" fill="#16B364"/>
+  <text x="746" y="402" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="775" y="402" font-family="Arial, sans-serif" font-size="16" fill="#111928">Research all schools properly</text>
+  
+  <!-- Author -->
+  <circle cx="760" cy="480" r="24" fill="#DC2626"/>
+  <text x="760" y="487" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">A</text>
+  <text x="795" y="475" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#111928">Aamir</text>
+  <text x="795" y="495" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">Defense Education Expert</text>
+  
+  <!-- CTA -->
+  <rect x="730" y="540" width="460" height="50" rx="25" fill="#DC2626"/>
+  <text x="960" y="571" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Read Full Guide →</text>
+  
+  <!-- Bottom -->
+  <rect x="730" y="610" width="460" height="40" rx="8" fill="#F3F4F6"/>
+  <text x="960" y="636" font-family="Arial, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle">Powered by SS Guide | sainikschooleastsiang.in</text>
+</svg>

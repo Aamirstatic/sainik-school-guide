@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light">
+  <title>{{ if .IsPage }}{{ .Title | truncate 55 }}{{ else }}{{ .Site.Title | truncate 55 }}{{ end }}</title>
+  <meta name="description" content="{{ .Description | truncate 155 }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  
+  
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="Sainik School Eligibility & Results">
+  <meta property="og:image" content="{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ .Title }}">
+  <meta property="og:locale" content="en_IN">
+  {{ if .Params.keywords }}<meta name="news_keywords" content="{{ delimit .Params.keywords ", " }}">{{ end }}
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="{{ .Description }}">
+  <meta name="twitter:image" content="{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}">
+  <meta name="twitter:image:alt" content="{{ .Title }}">
+  
+  
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  
+  
+  {{ if .IsPage }}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:author" content="{{ .Params.author_name | default "Sainik School Guide Team" }}">
+  <meta property="article:section" content="{{ .Section }}">
+  {{ if .Params.keywords }}{{ range .Params.keywords }}<meta property="article:tag" content="{{ . }}">{{ end }}{{ end }}
+  {{ end }}
+  
+  <!-- Google Analytics -->
+  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-3G7ZT7E5X7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3G7ZT7E5X7');
+  </script>
+
+  {{ partial "schema.html" . }}
+  
+  
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#1a1a2e">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" as="style" crossorigin onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet"></noscript>
+
+  
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    img{max-width:100%;height:auto;display:block;aspect-ratio:attr(width)/attr(height)}
+    body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;color:#333;line-height:1.6;background:#fff}
+    
+    /* Header - Clean */
+    .hdr{background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.1);position:sticky;top:0;z-index:1000;height:56px}
+    .hdr-inner{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;align-items:center;justify-content:space-between;height:100%}
+    .logo{display:flex;align-items:center;text-decoration:none;gap:8px}
+    .logo-icon{width:36px;height:36px;background:#e94560;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:16px}
+    .logo-text{font-size:16px;font-weight:700;color:#1a1a2e;line-height:1.2}
+    .logo-text small{display:block;font-size:10px;font-weight:400;color:#666}
+    
+    /* Nav */
+    .nav{display:flex;align-items:center;gap:20px}
+    .nav a{text-decoration:none;color:#333;font-size:13px;font-weight:500;transition:color .2s}
+    .nav a:hover{color:#e94560}
+    .nav .btn-cta{background:#e94560;color:#fff;padding:8px 16px;border-radius:6px;font-weight:600;font-size:13px}
+    .nav .btn-cta:hover{background:#d63851}
+    
+    /* Mobile Menu */
+    .menu-btn{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;background:none;border:none}
+    .menu-btn span{width:22px;height:2px;background:#333;transition:all .3s}
+    .menu-btn.open span:nth-child(1){transform:rotate(45deg) translate(5px,5px)}
+    .menu-btn.open span:nth-child(2){opacity:0}
+    .menu-btn.open span:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
+    
+    @media(max-width:768px){
+        .menu-btn{display:flex}
+        .nav{display:none;position:fixed;top:56px;left:0;right:0;background:#fff;flex-direction:column;padding:16px;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:999;gap:0}
+        .nav.open{display:flex}
+        .nav a{padding:12px 0;border-bottom:1px solid #f3f4f6;font-size:15px;width:100%}
+        .nav .btn-cta{margin-top:8px;text-align:center;display:block}
+    }
+</style>
+<link rel="preload" href="/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/css/style.css"></noscript>
+</head>
+<body>
+
+  {{ partial "lead-form.html" . }}
+
+  <!-- Floating Lead Button -->
+  
+
+  <header class="hdr">
+    <div class="hdr-inner">
+      <a href="/" class="logo">
+        <div class="logo-icon">SS</div>
+        <div class="logo-text">Sainik School<small>Eligibility, Results & More</small></div>
+      </a>
+      <nav class="nav" id="mainNav">
+        <a href="/tools/age-calculator/">Eligibility</a>
+        <a href="/schools/">Results</a>
+        <a href="/blog/sainik-school-fees-comparison/">Fees</a>
+        <a href="/blog/">Blog</a>
+        <a href="/schools/">All Schools</a>
+        <a href="/blog/sainik-school-admission-2027-guide/" class="btn-cta">Admission 2027 →</a>
+      </nav>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  {{ block "main" . }}{{ end }}
+
+  
+  <section class="newsletter">
+    <h2>Stay Updated with AISSEE 2027</h2>
+    <p>Get daily preparation tips and important updates in your inbox</p>
+    <form class="newsletter-form">
+      <input type="email" placeholder="Enter your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  
+  <footer class="footer" id="contact">
+    <div class="footer-inner">
+      
+      <div class="footer-brand">
+        <div class="logo">
+          <div class="logo-icon">SS</div>
+          <div class="logo-text">Sainik School<small>Eligibility, Results & More</small></div>
+        </div>
+        <p>Your trusted guide to all 33+ Sainik Schools across India. AISSEE preparation tips, admission guides, fees, and daily articles for defense aspirants.</p>
+        <p style="margin-top: 12px;">
+          <strong>Powered by:</strong> <a href="https://jgps.in/" style="color: #F6D835;">JGPS Coaching</a>
+        </p>
+      </div>
+      
+      <div>
+        <h4>Popular Schools</h4>
+        <ul>
+          <li><a href="/schools/sainik-school-kapurthala/">Kapurthala, Punjab</a></li>
+          <li><a href="/schools/sainik-school-chittorgarh/">Chittorgarh, Rajasthan</a></li>
+          <li><a href="/schools/sainik-school-rewa/">Rewa, MP</a></li>
+          <li><a href="/schools/sainik-school-amaravathinagar/">Amaravathinagar, TN</a></li>
+          <li><a href="/schools/sainik-school-korukonda/">Korukonda, AP</a></li>
+          <li><a href="/schools/sainik-school-gopalganj/">Gopalganj, Bihar</a></li>
+          <li><a href="/schools/">All 33+ Schools →</a></li>
+        </ul>
+      </div>
+      
+      <div>
+        <h4>AISSEE 2027</h4>
+        <ul>
+          <li><a href="/blog/aissee-2027-preparation-tips/">Preparation Tips</a></li>
+          <li><a href="/blog/aissee-2027-syllabus-class-6-class-9/">Syllabus & Weightage</a></li>
+          <li><a href="/blog/best-books-aissee-2027/">Best Books</a></li>
+          <li><a href="/blog/aissee-application-form-2027-guide/">Application Form</a></li>
+          <li><a href="/blog/aissee-previous-year-papers-pdf/">Previous Year Papers</a></li>
+          <li><a href="/blog/sainik-school-counselling-2027/">Counselling Process</a></li>
+        </ul>
+      </div>
+      
+      <div>
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="/blog/sainik-school-admission-2027-guide/">Admission Guide</a></li>
+          <li><a href="/blog/sainik-school-scholarship-fee-concession-2027/">Scholarships</a></li>
+          <li><a href="/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/">Sainik vs RIMC</a></li>
+          <li><a href="/blog/nda-after-sainik-school-career-path/">NDA Career Path</a></li>
+          <li><a href="/blog/sainik-school-hostel-life/">Hostel Life</a></li>
+          <li><a href="/authors/">Our Authors</a></li>
+        </ul>
+      </div>
+      
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="mailto:info@sainikschooleastsiang.in">📧 info@sainikschooleastsiang.in</a></li>
+          <li><a href="tel:9436409766">📞 9436409766</a></li>
+          <li><a href="https://jgps.in/" target="_blank">🎓 JGPS Coaching</a></li>
+          <li><a href="https://twitter.com/sainikschoolguide" target="_blank">🐦 Twitter</a></li>
+          <li><a href="https://youtube.com/@sainikschoolguide" target="_blank">▶️ YouTube</a></li>
+          <li><a href="/llms.txt">🤖 AI Agents</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    
+    <div class="footer-bottom">
+      <div class="footer-logo">
+        <div class="logo">
+          <div class="logo-icon">SS</div>
+          <div class="logo-text">Sainik School Guide</div>
+        </div>
+      </div>
+      
+      <div class="footer-copy">
+        &copy; 2026 Sainik School Guide India. All rights reserved.<br>
+        <small>Informational guide, not an official Sainik School website. Not affiliated with Ministry of Defence or Sainik Schools Society.</small>
+        <br><small>
+          <a href="/about/" style="color: rgba(255,255,255,0.5);">About</a> · 
+          <a href="/contact/" style="color: rgba(255,255,255,0.5);">Contact</a> · 
+          <a href="/privacy/" style="color: rgba(255,255,255,0.5);">Privacy</a> · 
+          <a href="/terms/" style="color: rgba(255,255,255,0.5);">Terms</a> · 
+          <a href="/disclaimer/" style="color: rgba(255,255,255,0.5);">Disclaimer</a>
+        </small>
+      </div>
+      
+      <div class="footer-social">
+        <a href="https://twitter.com/sainikschoolguide" aria-label="Twitter" target="_blank">🐦</a>
+        <a href="https://youtube.com/@sainikschoolguide" aria-label="YouTube" target="_blank">▶️</a>
+        <a href="https://instagram.com/sainikschoolguide" aria-label="Instagram" target="_blank">📷</a>
+        <a href="https://facebook.com/sainikschoolguide" aria-label="Facebook" target="_blank">📘</a>
+        <a href="https://jgps.in/" aria-label="JGPS" target="_blank">🎓</a>
+      </div>
+    </div>
+  </footer>
+  <style>
+    .footer {
+      background: #01263b;
+      color: white;
+      padding: 50px 20px 24px;
+    }
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+      gap: 40px;
+    }
+    .footer-brand p {
+      font-size: 13px;
+      opacity: 0.7;
+      margin-top: 12px;
+      line-height: 1.6;
+    }
+    .footer h4 {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      color: #F6D835;
+    }
+    .footer ul {
+      list-style: none;
+    }
+    .footer li {
+      margin-bottom: 10px;
+    }
+    .footer a {
+      color: white;
+      opacity: 0.7;
+      text-decoration: none;
+      font-size: 13px;
+      transition: opacity 0.2s;
+    }
+    .footer a:hover { opacity: 1; color: #F6D835; }
+    .footer-bottom {
+      max-width: 1200px;
+      margin: 30px auto 0;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .footer-copy {
+      font-size: 12px;
+      opacity: 0.5;
+      text-align: center;
+    }
+    .footer-copy small { font-size: 11px; }
+    .footer-social {
+      display: flex;
+      gap: 12px;
+    }
+    .footer-social a {
+      width: 36px;
+      height: 36px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .footer-social a:hover {
+      background: rgba(255,255,255,0.2);
+    }
+    @media (max-width: 992px) {
+      .footer-inner { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 768px) {
+      .footer-inner { grid-template-columns: 1fr; }
+      .footer-bottom { flex-direction: column; text-align: center; }
+    }
+  </style>
+  <script>
+    // Mobile menu toggle
+    function toggleMenu() {
+      const nav = document.getElementById('mainNav');
+      const btn = document.getElementById('menuBtn');
+      nav.classList.toggle('open');
+      btn.classList.toggle('open');
+    }
+    
+    // Close menu when clicking a link
+    document.querySelectorAll('.nav a').forEach(link => {
+      link.addEventListener('click', () => {
+        document.getElementById('mainNav').classList.remove('active');
+      });
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+      const nav = document.getElementById('mainNav');
+      const toggle = document.getElementById('menuBtn');
+      if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+        nav.classList.remove('active');
+      }
+    });
+
+    // CWV: Lazy load all images except first (LCP) image
+    (function() {
+      document.addEventListener('DOMContentLoaded', function() {
+        var images = document.querySelectorAll('img');
+        for (var i = 0; i < images.length; i++) {
+          var img = images[i];
+          // First image is likely LCP - mark it for high priority fetch
+          if (i === 0) {
+            img.setAttribute('fetchpriority', 'high');
+            img.removeAttribute('loading');
+          } else {
+            img.setAttribute('loading', 'lazy');
+            img.setAttribute('decoding', 'async');
+          }
+          // Set default width/height from CSS if not present to prevent CLS
+          if (!img.hasAttribute('width') && !img.hasAttribute('height')) {
+            if (img.naturalWidth && img.naturalHeight) {
+              img.setAttribute('width', img.naturalWidth);
+              img.setAttribute('height', img.naturalHeight);
+            }
+          }
+        }
+
+        // Lazy load videos and iframes
+        var media = document.querySelectorAll('video[poster], iframe');
+        for (var j = 0; j < media.length; j++) {
+          media[j].setAttribute('loading', 'lazy');
+        }
+      });
+    })();
+
+    // FID: Defer non-critical event listeners
+    (function() {
+      function onIdle(fn) {
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(fn, { timeout: 2000 });
+        } else {
+          setTimeout(fn, 1);
+        }
+      }
+      // Defer analytics and non-essential scripts
+      onIdle(function() {
+        // Place deferred scripts here (analytics, social widgets, etc.)
+      });
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669"/>
+      <stop offset="50%" style="stop-color:#00BCD4"/>
+      <stop offset="100%" style="stop-color:#0284C7"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#bg3)"/>
+  
+  <!-- Decorative -->
+  <circle cx="640" cy="360" r="350" fill="rgba(255,255,255,0.03)"/>
+  
+  <!-- Badge -->
+  <rect x="60" y="50" width="160" height="36" rx="18" fill="white"/>
+  <text x="140" y="74" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669" text-anchor="middle">COMPARISON</text>
+  
+  <!-- Title -->
+  <text x="640" y="140" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">Sainik School vs Military School</text>
+  <text x="640" y="185" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.8)" text-anchor="middle">Which is Better for Your Child?</text>
+  
+  <!-- VS Divider -->
+  <circle cx="640" cy="350" r="40" fill="white"/>
+  <text x="640" y="360" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#059669" text-anchor="middle">VS</text>
+  
+  <!-- Left - Sainik School -->
+  <rect x="60" y="230" width="540" height="350" rx="16" fill="rgba(255,255,255,0.95)"/>
+  <text x="330" y="280" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#059669" text-anchor="middle">Sainik School</text>
+  
+  <rect x="90" y="300" width="480" height="1" fill="#E5E7EB"/>
+  
+  <text x="100" y="340" font-family="Arial, sans-serif" font-size="16" fill="#374151">🏫 <tspan font-weight="600">33+</tspan> Schools</text>
+  <text x="100" y="380" font-family="Arial, sans-serif" font-size="16" fill="#374151">💰 <tspan font-weight="600">₹2-2.5L</tspan> Annual Fee</text>
+  <text x="100" y="420" font-family="Arial, sans-serif" font-size="16" fill="#374151">👦👧 <tspan font-weight="600">Boys & Girls</tspan></text>
+  <text x="100" y="460" font-family="Arial, sans-serif" font-size="16" fill="#374151">📝 <tspan font-weight="600">AISSEE</tspan> Exam</text>
+  <text x="100" y="500" font-family="Arial, sans-serif" font-size="16" fill="#374151">🎯 <tspan font-weight="600">NDA Focus</tspan></text>
+  
+  <!-- Right - Military School -->
+  <rect x="680" y="230" width="540" height="350" rx="16" fill="rgba(255,255,255,0.95)"/>
+  <text x="950" y="280" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0284C7" text-anchor="middle">Military School</text>
+  
+  <rect x="710" y="300" width="480" height="1" fill="#E5E7EB"/>
+  
+  <text x="720" y="340" font-family="Arial, sans-serif" font-size="16" fill="#374151">🏫 <tspan font-weight="600">5</tspan> Schools Only</text>
+  <text x="720" y="380" font-family="Arial, sans-serif" font-size="16" fill="#374151">💰 <tspan font-weight="600">₹1-1.5L</tspan> Annual Fee</text>
+  <text x="720" y="420" font-family="Arial, sans-serif" font-size="16" fill="#374151">👦 <tspan font-weight="600">Boys Only</tspan></text>
+  <text x="720" y="460" font-family="Arial, sans-serif" font-size="16" fill="#374151">📝 <tspan font-weight="600">RMS CET</tspan> Exam</text>
+  <text x="720" y="500" font-family="Arial, sans-serif" font-size="16" fill="#374151">🎯 <tspan font-weight="600">Military Training</tspan></text>
+  
+  <!-- Recommendation -->
+  <rect x="200" y="610" width="880" height="60" rx="30" fill="#F6D835"/>
+  <text x="640" y="646" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#111" text-anchor="middle">Read Full Comparison to Decide →</text>
+  
+  <!-- Author -->
+  <circle cx="60" cy="660" r="20" fill="#059669"/>
+  <text x="60" y="667" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">S</text>
+  <text x="90" y="655" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="white">Sameer</text>
+  <text x="90" y="675" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.7)">Education Researcher</text>
+</svg>

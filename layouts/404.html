@@ -1,0 +1,201 @@
+{{ define "main" }}
+
+<style>
+  .error-page {
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e8f4f8 100%);
+  }
+  .error-container {
+    max-width: 700px;
+    text-align: center;
+  }
+  .error-icon {
+    font-size: 100px;
+    margin-bottom: 10px;
+    line-height: 1;
+  }
+  .error-code {
+    font-size: 80px;
+    font-weight: 800;
+    color: #00BCD4;
+    line-height: 1;
+    margin-bottom: 10px;
+  }
+  .error-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #111928;
+    margin-bottom: 12px;
+  }
+  .error-desc {
+    font-size: 16px;
+    color: #6B7280;
+    margin-bottom: 30px;
+    line-height: 1.6;
+  }
+  .error-search {
+    display: flex;
+    max-width: 450px;
+    margin: 0 auto 30px;
+    gap: 8px;
+  }
+  .error-search input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 2px solid #E5E7EB;
+    border-radius: 8px;
+    font-size: 14px;
+    outline: none;
+    transition: border 0.2s;
+  }
+  .error-search input:focus {
+    border-color: #00BCD4;
+  }
+  .error-search button {
+    background: #00BCD4;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .error-search button:hover {
+    background: #0097A7;
+  }
+  .error-links-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 16px;
+  }
+  .error-links {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    max-width: 500px;
+    margin: 0 auto 30px;
+  }
+  .error-link {
+    background: white;
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+    padding: 16px;
+    text-decoration: none;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .error-link:hover {
+    border-color: #00BCD4;
+    box-shadow: 0 4px 12px rgba(0,188,212,0.15);
+    transform: translateY(-2px);
+  }
+  .error-link-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+  .error-link-icon-1 { background: #E3F2FD; }
+  .error-link-icon-2 { background: #FFF3E0; }
+  .error-link-icon-3 { background: #E8F5E9; }
+  .error-link-icon-4 { background: #FCE4EC; }
+  .error-link-text h3 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #111928;
+    margin-bottom: 2px;
+  }
+  .error-link-text p {
+    font-size: 11px;
+    color: #9CA3AF;
+    margin: 0;
+  }
+  .error-home-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    padding: 14px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    transition: transform 0.2s;
+  }
+  .error-home-btn:hover {
+    transform: translateY(-2px);
+  }
+
+  @media (max-width: 768px) {
+    .error-code { font-size: 60px; }
+    .error-icon { font-size: 70px; }
+    .error-title { font-size: 22px; }
+    .error-links { grid-template-columns: 1fr; }
+    .error-search { flex-direction: column; }
+  }
+</style>
+
+<section class="error-page">
+  <div class="error-container">
+    <div class="error-icon">🔍</div>
+    <div class="error-code">404</div>
+    <h1 class="error-title">Page Not Found</h1>
+    <p class="error-desc">
+      The page you are looking for does not exist or has been moved.<br>
+      Let us help you find what you need.
+    </p>
+
+    <form class="error-search" action="/search/" method="get">
+      <input type="text" name="q" placeholder="Search for Sainik Schools, AISSEE, admissions...">
+      <button type="submit">Search</button>
+    </form>
+
+    <p class="error-links-title">Popular Pages</p>
+    <div class="error-links">
+      <a href="/blog/sainik-school-admission-2027-guide/" class="error-link">
+        <div class="error-link-icon error-link-icon-1">📝</div>
+        <div class="error-link-text">
+          <h3>Admission Guide 2027</h3>
+          <p>Age limit, fees, process</p>
+        </div>
+      </a>
+      <a href="/blog/aissee-2027-preparation-tips/" class="error-link">
+        <div class="error-link-icon error-link-icon-2">📚</div>
+        <div class="error-link-text">
+          <h3>AISSEE Prep Tips</h3>
+          <p>Strategy & study plan</p>
+        </div>
+      </a>
+      <a href="/schools/" class="error-link">
+        <div class="error-link-icon error-link-icon-3">🏫</div>
+        <div class="error-link-text">
+          <h3>All Sainik Schools</h3>
+          <p>33+ schools directory</p>
+        </div>
+      </a>
+      <a href="/blog/" class="error-link">
+        <div class="error-link-icon error-link-icon-4">📰</div>
+        <div class="error-link-text">
+          <h3>Latest Articles</h3>
+          <p>Daily tips & guides</p>
+        </div>
+      </a>
+    </div>
+
+    <a href="/" class="error-home-btn">← Back to Home</a>
+  </div>
+</section>
+
+{{ end }}

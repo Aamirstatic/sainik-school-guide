@@ -1,0 +1,179 @@
+{{ define "main" }}
+
+<style>
+  /* Hero */
+  .tool-hero {
+    background: linear-gradient(135deg, #01263b, #0367a1);
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  .tool-hero h1 { font-size: 32px; font-weight: 800; margin-bottom: 10px; }
+  .tool-hero p { font-size: 16px; opacity: 0.9; max-width: 600px; margin: 0 auto; }
+
+  /* Calculator Card */
+  .tool-wrap { max-width: 1100px; margin: 0 auto; padding: 30px 20px; display: grid; grid-template-columns: 350px 1fr; gap: 30px; }
+  .calc-card { background: white; border-radius: 16px; padding: 28px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); border: 1px solid #E5E7EB; position: sticky; top: 80px; height: fit-content; }
+  .calc-label { display: block; font-size: 13px; font-weight: 600; color: #374151; margin-bottom: 6px; }
+  .calc-input { width: 100%; padding: 12px 14px; border: 2px solid #E5E7EB; border-radius: 8px; font-size: 15px; outline: none; transition: border 0.2s; box-sizing: border-box; }
+  .calc-input:focus { border-color: #00BCD4; }
+  .calc-select { width: 100%; padding: 12px 14px; border: 2px solid #E5E7EB; border-radius: 8px; font-size: 15px; outline: none; background: white; cursor: pointer; box-sizing: border-box; }
+  .calc-btn { width: 100%; background: linear-gradient(135deg, #00BCD4, #0097A7); color: white; border: none; padding: 14px; border-radius: 8px; font-size: 16px; font-weight: 700; cursor: pointer; margin-top: 12px; transition: transform 0.2s; }
+  .calc-btn:hover { transform: translateY(-2px); }
+  .calc-info { background: #E6F3FA; border-left: 4px solid #00BCD4; padding: 14px; border-radius: 0 8px 8px 0; margin-top: 16px; font-size: 12px; color: #374151; line-height: 1.7; }
+
+  /* Result */
+  .calc-result { display: none; margin-top: 20px; padding: 20px; border-radius: 10px; animation: fadeIn 0.3s; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .result-yes { background: #E8F5E9; border: 2px solid #4CAF50; }
+  .result-no { background: #FFEBEE; border: 2px solid #F44336; }
+  .result-maybe { background: #FFF3E0; border: 2px solid #FF9800; }
+  .result-icon { font-size: 36px; text-align: center; margin-bottom: 8px; }
+  .result-title { font-size: 18px; font-weight: 700; text-align: center; margin-bottom: 12px; }
+
+  /* Article Content */
+  .tool-content { background: white; border-radius: 16px; padding: 32px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); border: 1px solid #E5E7EB; }
+  .tool-content h2 { font-size: 24px; font-weight: 700; color: #01263b; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 2px solid #E5E7EB; }
+  .tool-content h2:first-child { margin-top: 0; }
+  .tool-content h3 { font-size: 18px; font-weight: 600; color: #111928; margin: 24px 0 12px; }
+  .tool-content p { font-size: 15px; line-height: 1.8; color: #374151; margin-bottom: 14px; }
+  .tool-content strong { color: #111928; }
+  .tool-content a { color: #00BCD4; text-decoration: none; }
+  .tool-content a:hover { text-decoration: underline; }
+  .tool-content ul, .tool-content ol { margin-bottom: 14px; padding-left: 24px; }
+  .tool-content li { font-size: 15px; line-height: 1.7; color: #374151; margin-bottom: 6px; }
+
+  /* Tables */
+  .tool-content table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 14px; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+  .tool-content thead { background: linear-gradient(135deg, #01263b, #0367a1); }
+  .tool-content th { padding: 12px 14px; text-align: left; font-weight: 600; color: white; font-size: 13px; white-space: nowrap; }
+  .tool-content td { padding: 10px 14px; border-bottom: 1px solid #F3F4F6; color: #374151; }
+  .tool-content tbody tr:hover { background: #F7F9FB; }
+  .tool-content tbody tr:nth-child(even) { background: #FAFBFC; }
+  .tool-content tbody tr:nth-child(even):hover { background: #F0F4F8; }
+
+  /* Info Box */
+  .tool-info { background: #E6F3FA; border-left: 4px solid #00BCD4; padding: 16px; border-radius: 0 8px 8px 0; margin: 20px 0; font-size: 14px; line-height: 1.7; }
+  .tool-tip { background: #FFF3E0; border-left: 4px solid #FF9800; padding: 16px; border-radius: 0 8px 8px 0; margin: 20px 0; font-size: 14px; line-height: 1.7; }
+
+  /* Breadcrumb */
+  .tool-breadcrumb { max-width: 1100px; margin: 0 auto; padding: 12px 20px; font-size: 13px; color: #6B7280; }
+  .tool-breadcrumb a { color: #0097A7; text-decoration: none; }
+
+  @media (max-width: 992px) {
+    .tool-wrap { grid-template-columns: 1fr; }
+    .calc-card { position: static; }
+  }
+  @media (max-width: 768px) {
+    .tool-hero h1 { font-size: 24px; }
+    .tool-content { padding: 20px 16px; }
+    .tool-content h2 { font-size: 20px; }
+    .tool-content table { font-size: 12px; }
+    .tool-content th, .tool-content td { padding: 8px 10px; }
+  }
+</style>
+
+<!-- Hero -->
+<section class="tool-hero">
+  <h1>🎯 {{ .Title }}</h1>
+  <p>Check if your child is eligible for Sainik School Class 6 or Class 9 admission.</p>
+</section>
+
+<!-- Breadcrumb -->
+<div class="tool-breadcrumb">
+  <a href="/">Home</a> / <a href="/tools/">Tools</a> / <span>{{ .Title }}</span>
+</div>
+
+<!-- Main Content -->
+<div class="tool-wrap">
+
+  <!-- Calculator (Left Side - Sticky) -->
+  <div>
+    <div class="calc-card">
+      <h3 style="font-size: 16px; font-weight: 700; color: #01263b; margin-bottom: 16px;">🧮 Quick Check</h3>
+
+      <div style="margin-bottom: 14px;">
+        <label class="calc-label">Date of Birth</label>
+        <input type="date" id="dob" class="calc-input" max="2026-12-31" min="2010-01-01">
+      </div>
+
+      <div style="margin-bottom: 14px;">
+        <label class="calc-label">Admission Year</label>
+        <select id="admissionYear" class="calc-select">
+          <option value="2027" selected>2027</option>
+          <option value="2028">2028</option>
+          <option value="2029">2029</option>
+        </select>
+      </div>
+
+      <button class="calc-btn" onclick="checkEligibility()">Check Eligibility →</button>
+
+      <div id="result" class="calc-result"></div>
+
+      <div class="calc-info">
+        <strong>Official Rules:</strong><br>
+        Class 6: 10-12 years<br>
+        Class 9: 13-15 years<br>
+        SC/ST: +2 years relaxation
+      </div>
+    </div>
+  </div>
+
+  <!-- Article Content (Right Side) -->
+  <div class="tool-content">
+    {{ .Content }}
+  </div>
+
+</div>
+
+<script>
+function checkEligibility() {
+  const dobInput = document.getElementById('dob').value;
+  const year = parseInt(document.getElementById('admissionYear').value);
+  const r = document.getElementById('result');
+  if (!dobInput) { alert('Please enter date of birth'); return; }
+  const dob = new Date(dobInput);
+  const cut = new Date(year, 2, 31);
+  let ay = cut.getFullYear() - dob.getFullYear();
+  let am = cut.getMonth() - dob.getMonth();
+  if (am < 0) { ay--; am += 12; }
+  const ad = ay + (am/12);
+  const c6 = ad >= 10 && ad <= 12;
+  const c9 = ad >= 13 && ad <= 15;
+  const c6r = ad >= 10 && ad <= 14;
+  const c9r = ad >= 13 && ad <= 17;
+  let h = '';
+  if (c6 || c9) {
+    r.className = 'calc-result result-yes';
+    h = '<div class="result-icon">✅</div><div class="result-title" style="color:#2E7D32;">Eligible!</div>';
+    h += '<table style="width:100%;font-size:13px;border-collapse:collapse;">';
+    h += '<tr><td style="padding:8px;border-bottom:1px solid #E8F5E9;"><strong>DOB</strong></td><td style="padding:8px;border-bottom:1px solid #E8F5E9;">'+dob.toLocaleDateString('en-IN')+'</td></tr>';
+    h += '<tr><td style="padding:8px;border-bottom:1px solid #E8F5E9;"><strong>Age</strong></td><td style="padding:8px;border-bottom:1px solid #E8F5E9;">'+ay+'y '+am+'m</td></tr>';
+    if(c6) h += '<tr><td style="padding:8px;border-bottom:1px solid #E8F5E9;"><strong>Class 6</strong></td><td style="padding:8px;border-bottom:1px solid #E8F5E9;color:#2E7D32;font-weight:700;">✅ Eligible</td></tr>';
+    if(c9) h += '<tr><td style="padding:8px;"><strong>Class 9</strong></td><td style="padding:8px;color:#2E7D32;font-weight:700;">✅ Eligible</td></tr>';
+    h += '</table>';
+    h += '<p style="margin-top:10px;font-size:13px;"><a href="/blog/sainik-school-admission-2027-guide/">Admission Guide →</a></p>';
+  } else if (c6r || c9r) {
+    r.className = 'calc-result result-maybe';
+    h = '<div class="result-icon">⚠️</div><div class="result-title" style="color:#E65100;">SC/ST Eligible Only</div>';
+    h += '<table style="width:100%;font-size:13px;border-collapse:collapse;">';
+    h += '<tr><td style="padding:8px;border-bottom:1px solid #FFE0B2;"><strong>Age</strong></td><td style="padding:8px;border-bottom:1px solid #FFE0B2;">'+ay+'y '+am+'m</td></tr>';
+    h += '<tr><td style="padding:8px;"><strong>SC/ST (2yr relax)</strong></td><td style="padding:8px;color:#2E7D32;font-weight:700;">✅ Eligible</td></tr>';
+    h += '</table>';
+  } else {
+    r.className = 'calc-result result-no';
+    h = '<div class="result-icon">❌</div><div class="result-title" style="color:#C62828;">Not Eligible</div>';
+    h += '<table style="width:100%;font-size:13px;border-collapse:collapse;">';
+    h += '<tr><td style="padding:8px;border-bottom:1px solid #FFCDD2;"><strong>Age</strong></td><td style="padding:8px;border-bottom:1px solid #FFCDD2;">'+ay+'y '+am+'m</td></tr>';
+    h += '<tr><td style="padding:8px;border-bottom:1px solid #FFCDD2;"><strong>Class 6</strong></td><td style="padding:8px;border-bottom:1px solid #FFCDD2;">10-12 years</td></tr>';
+    h += '<tr><td style="padding:8px;"><strong>Class 9</strong></td><td style="padding:8px;">13-15 years</td></tr>';
+    h += '</table>';
+    for(let y=year;y<=year+5;y++){const t=new Date(y,2,31);let ta=t.getFullYear()-dob.getFullYear();let tm=t.getMonth()-dob.getMonth();if(tm<0){ta--;tm+=12;}if(ta>=10&&ta<=12){h+='<p style="margin-top:10px;font-size:13px;color:#1565C0;">Eligible for Class 6 in <strong>'+y+'</strong></p>';break;}if(ta>=13&&ta<=15){h+='<p style="margin-top:10px;font-size:13px;color:#1565C0;">Eligible for Class 9 in <strong>'+y+'</strong></p>';break;}}
+  }
+  r.innerHTML = h;
+  r.style.display = 'block';
+  r.scrollIntoView({behavior:'smooth',block:'center'});
+}
+</script>
+
+{{ end }}

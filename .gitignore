@@ -1,0 +1,27 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Hugo
+.hugo_build.lock
+
+# Node modules (if using npm)
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
