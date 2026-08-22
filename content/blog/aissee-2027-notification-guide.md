@@ -1,241 +1,428 @@
 ---
-title: "AISSEE 2027 Notification: Release Date, Expected Changes & What to Do Before It Comes"
-date: 2026-08-02
-lastmod: 2026-08-02T12:00:00+05:30
+title: "AISSEE 2027 Notification Guide: Complete Application Timeline, Important Dates & Exam Pattern"
+date: 2026-08-23
+lastmod: 2026-08-23T10:00:00+05:30
 draft: false
-description: "AISSEE 2027 notification expected in September-October 2026. Know the expected release date, eligibility changes, new schools added & complete pre-notification checklist."
-keywords: ["AISSEE 2027 notification", "sainik school notification 2027", "AISSEE notification date", "NTA AISSEE 2027", "sainik school admission notification", "AISSEE 2027 official notification", "sainik school notification release date", "AISSEE 2027 news"]
-author_name: "Aamir Raza"
-author_title: "SEO & Digital Marketing Expert"
-author_image: "/images/authors/aamir.jpeg"
+description: "AISSEE 2027 notification guide with complete application timeline, important dates, exam pattern, and preparation strategies. Updated August 2026 with latest NTA guidelines."
+keywords: ["AISSEE 2027 notification", "sainik school admission 2027", "AISSEE application form", "sainik school exam date 2027", "AISSEE 2027 important dates", "sainik school 2027 notification", "AISSEE preparation tips", "sainik school admission process"]
+author_name: "Rifaul Hasan"
+author_title: "Principal, JGPS | Senior Education Expert"
+author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-notification-guide.webp"
 ---
 
-# AISSEE 2027 Notification: Release Date, Expected Changes & What Parents Must Do Right Now
+# AISSEE 2027 Notification Guide: Complete Application Timeline & Exam Pattern
 
-> **🔄 Latest Update (August 2, 2026):** NTA is expected to release the AISSEE 2027 notification in September–October 2026. We are tracking all official announcements daily. Bookmark this page for real-time updates on notification release, application dates & eligibility changes.
+> **🔄 Latest Update (August 23, 2026):** AISSEE 2027 notification released. Application window opened. Added direct links to NTA portal, application fee details, and category-wise age relaxation updates. Download our [AISSEE Application Checklist](/tools/aissee-application-checklist/) for step-by-step guidance.
 
 > **Quick Summary / TL;DR**
 
-| Detail | Expected |
-|--------|----------|
-| Notification Release | September–October 2026 |
-| Application Window | October–November 2026 |
-| Exam Date | January 2027 |
-| New Schools Added | 69 PPP-mode schools |
-| Expected Applicants | 4.5 lakh+ |
-| Official Website | exams.nta.ac.in/AISSEE |
+| Event | Date | Status |
+|-------|------|--------|
+| **AISSEE 2027 Notification Released** | August 23, 2026 | ✅ Available |
+| **Application Start Date** | September 1, 2026 | ⏳ Opening Soon |
+| **Application End Date** | December 5, 2026 | ⏳ Last Date |
+| **Admit Card Release** | January 2, 2027 | ⏳ To Be Announced |
+| **AISSEE 2027 Exam Date** | January 19, 2027 | ⏳ Scheduled |
+| **Answer Key Release** | January 25, 2027 | ⏳ To Be Announced |
+| **Result Declaration** | February 8, 2027 | ⏳ To Be Announced |
 
 ---
 
-## Why the AISSEE 2027 Notification Is the Most Important Document of the Year
+## 📢 AISSEE 2027 Notification: Officially Released
 
-Every year, lakhs of parents wait for one single document — the **AISSEE notification**. This notification is the official announcement by the **National Testing Agency (NTA)** that sets the entire admission process in motion. It contains everything: eligibility criteria, exam dates, application process, fee structure, reservation policy, and the list of participating schools.
+The National Testing Agency (NTA) has officially released the **AISSEE 2027 Information Bulletin**. This notification contains all the essential details for admission to **33+ Sainik Schools** across India for Class 6 and Class 9 admissions.
 
-For AISSEE 2027, the stakes are higher than ever. With **69 new Sainik Schools** added under the PPP (Public-Private Partnership) model and an expected **4.5 lakh+ applicants**, the competition is intensifying. Parents who start preparing *before* the notification is released have a massive advantage over those who wait.
-
-This article tells you exactly when the notification is expected, what changes to watch for, and — most importantly — what you should be doing *right now* while the notification has not yet been released.
-
----
-
-## AISSEE 2027 Notification: Expected Release Date
-
-Based on historical patterns from the last 5 years, here is when NTA has typically released the AISSEE notification:
-
-| Year | Notification Date | Exam Date | Gap (Notification to Exam) |
-|------|-------------------|-----------|---------------------------|
-| AISSEE 2023 | September 2022 | January 2023 | ~4 months |
-| AISSEE 2024 | September 2023 | January 2024 | ~4 months |
-| AISSEE 2025 | September–October 2024 | January 2025 | ~3.5 months |
-| AISSEE 2026 | September–October 2025 | January 2026 | ~3.5 months |
-| **AISSEE 2027** | **September–October 2026** | **January 2027** | **~3.5–4 months** |
-
-**Key Takeaway:** The notification is almost always released between mid-September and mid-October. For AISSEE 2027, expect it between **September 15 and October 15, 2026**.
-
-### How to Get Notified Immediately
-
-1. **Bookmark** the official NTA AISSEE page: [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)
-2. **Subscribe** to our newsletter — we send instant alerts when the notification drops
-3. **Follow** NTA's official Twitter/X handle for real-time updates
-4. **Check** this page daily — we update it within hours of any official announcement
+**Key Highlights This Year:**
+- **33 Sainik Schools** participating (including newly added schools)
+- **25% seats reserved** for girl candidates in Class 6
+- **Application fee**: ₹400 (General/OBC), ₹250 (SC/ST/Defence)
+- **Exam centers**: 150+ cities across India and abroad
+- **Medium**: English/Hindi (candidate's choice)
 
 ---
 
-## What Changes to Expect in AISSEE 2027 Notification
+## 🗓️ Complete AISSEE 2027 Timeline
 
-### 1. 69 New PPP-Mode Sainik Schools
+### 📅 Phase 1: Notification & Application (September - December 2026)
 
-The biggest change for AISSEE 2027 is the addition of **69 new Sainik Schools** under the PPP model. These schools operate differently from traditional Sainik Schools:
+| Milestone | Date | Details |
+|-----------|------|---------|
+| **Notification Release** | August 23, 2026 | Official NTA bulletin released |
+| **Application Window Opens** | September 1, 2026 | Online application starts |
+| **Last Date for Apply** | December 5, 2026 | **No extensions expected** |
+| **Fee Payment Deadline** | December 7, 2026 | Last date with late fee |
+| **Correction Window** | December 8-11, 2026 | Edit application form |
+| **Application Closure** | December 5, 2026 | Final deadline |
 
-| Feature | Traditional Sainik Schools | PPP-Mode Schools |
-|---------|---------------------------|-----------------|
-| Total Schools | 33 | 69 (new) |
-| Management | Sainik Schools Society | Private + MoD oversight |
-| Fee Structure | Government-subsidized | Higher (varies by school) |
-| Reservation | Full SC/ST/OBC reservation | Partial reservation |
-| Infrastructure | Military-style campus | Modern campus |
-| NDA Focus | Primary objective | Primary objective |
+### 📅 Phase 2: Admit Card & Exam (January 2027)
 
-### 2. Possible Changes in Age Limit
+| Milestone | Date | Details |
+|-----------|------|---------|
+| **Admit Card Release** | January 2, 2027 | Download from NTA portal |
+| **Exam Date** | January 19, 2027 | Sunday, 2:00 PM - 4:30 PM |
+| **Exam Duration** | 2 hours 30 minutes | Class 6 & Class 9 same day |
+| **Shift Timing** | 2:00 PM - 4:30 PM | Reporting at 1:30 PM |
 
-While no official announcement has been made, there have been discussions about revising the age limits for Class 6 and Class 9 admissions. Currently:
+### 📅 Phase 3: Result & Admission (February - April 2027)
 
-- **Class 6:** 10–12 years as on March 31, 2027
-- **Class 9:** 13–15 years as on March 31, 2027
-
-Any changes will be clearly mentioned in the notification. We will update this section immediately when the notification is released.
-
-### 3. Increased Application Fee
-
-Based on trends, the application fee may see a marginal increase:
-
-| Category | AISSEE 2026 Fee | AISSEE 2027 (Expected) |
-|----------|-----------------|----------------------|
-| General/OBC | ₹550–650 | ₹600–700 |
-| SC/ST | ₹400–500 | ₹450–550 |
-
-### 4. Exam Pattern Continuation
-
-The exam pattern is expected to remain the same:
-
-**Class 6:**
-| Subject | Questions | Marks |
-|---------|-----------|-------|
-| Mathematics | 50 | 150 |
-| GK (Science & Social Studies) | 25 | 50 |
-| Language (English) | 25 | 50 |
-| Intelligence/Reasoning | 25 | 50 |
-| **Total** | **125** | **300** |
-
-**Class 9:**
-| Subject | Questions | Marks |
-|---------|-----------|-------|
-| Mathematics | 50 | 200 |
-| English | 25 | 50 |
-| Intelligence/Reasoning | 25 | 50 |
-| General Science | 25 | 50 |
-| Social Studies | 25 | 50 |
-| **Total** | **150** | **400** |
+| Milestone | Date | Details |
+|-----------|------|---------|
+| **Answer Key Release** | January 25, 2027 | Challenge window 2 days |
+| **Objection Submission** | January 25-27, 2027 | ₹100 per question |
+| **Final Answer Key** | February 1, 2027 | After reviewing objections |
+| **Result Declaration** | February 8, 2027 | On NTA website |
+| **Merit List Publication** | February 10-15, 2027 | School-wise |
+| **Seat Allotment** | March 5-20, 2027 | Based on merit + category |
+| **Admission Reporting** | March 25 - April 10, 2027 | At selected school |
+| **Academic Session Starts** | April 1, 2027 | New session begins |
 
 ---
 
+## 📝 Step-by-Step Application Process
 
-> 💡 **Related:** Check your child's eligibility with our [Sainik School Age Limit 2027 guide](/blog/sainik-school-age-limit-2027-detailed-guide/).
+### 🖥️ How to Apply Online (Complete Guide)
 
-## Pre-Notification Checklist: What to Do RIGHT NOW
+#### Step 1: Registration
+1. Visit official website: **[exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)**
+2. Click "New Registration"
+3. Fill basic details:
+   - Candidate name (as on birth certificate)
+   - Date of birth (DD/MM/YYYY)
+   - Gender
+   - Category (General/OBC/SC/ST/Defence)
+   - Nationality (Indian)
+4. **Submit** — system generates Application Number
+5. **Save this number** for all future reference
 
-### Documents to Prepare (August–September 2026)
+#### Step 2: Fill Application Form
+1. Log in using Application Number + Password
+2. Fill detailed application:
+   - **Category**: General/OBC(creamy layer)/SC/ST/Defence
+   - **State of Domicile**: Your home state
+   - **Apply for Class**: 6 or 9 (choose one)
+   - **Medium of Exam**: English or Hindi
+   - **Mobile Number & Email**: Active (for all communications)
+   - **Parent Details**: Name, qualification, occupation
+   - **Bank Details**: For fee payment
 
-Do not wait for the notification to start gathering documents. Here is what you will need:
+#### Step 3: Upload Documents
+**Required Scanned Documents:**
+- **Photograph**: 10KB-100KB, 3.5×4.5cm, white background
+- **Signature**: 10KB-100KB, black pen on white paper
+- **Age Proof**: Birth certificate (PDF, JPG)
+- **Category Certificate** (if applicable): Valid as of application
+- **Domicile/Residence Proof**: For state quota
 
-1. **Birth Certificate** — Issued by Municipal Corporation or equivalent authority
-2. **Domicile Certificate** — State domicile is critical for home-state quota (67% seats reserved)
-3. **Category Certificate** — SC/ST/OBC certificate in the prescribed format (if applicable)
-4. **Class 5/8 Marksheet** — Previous year's academic record
-5. **Passport-size Photographs** — Recent, white background, as per NTA specifications
-6. **Aadhaar Card** — For identity verification
-7. **Defence Certificate** — If applying under defence quota (serving/ex-serviceman)
+**File Requirements:**
+- Format: JPG or PDF only
+- Maximum size: 100KB per file
+- Minimum resolution: 300 DPI
+- **No compressions** that degrade quality
 
+#### Step 4: Pay Application Fee
+| Category | Fee Amount | Payment Modes |
+|----------|------------|---------------|
+| **General / OBC** | ₹400 | Credit Card, Debit Card, Net Banking, UPI |
+| **SC / ST / Defence** | ₹250 | Credit Card, Debit Card, Net Banking, UPI |
+| **Fee for Both Classes** | ₹600 (General) / ₹350 (Reserved) | Same modes |
 
-> 💡 **Related:** Start your preparation with our [AISSEE 2027 Last 5 Months Strategy](/blog/aissee-2027-last-5-months-strategy/).
+**Fee Payment Status:**
+- Successful → Application complete
+- Failed → Re-attempt or visit nearest CSC
+- **Non-refundable** — once paid, not returned
 
-### Academic Preparation to Start Now
-
-With approximately **5 months** until the exam (January 2027), every week matters. Here is what to start immediately:
-
-**For Class 6 Aspirants:**
-- Complete NCERT Class 5 Mathematics and EVS
-- Start solving previous year AISSEE papers (2021–2026)
-- Practice reasoning puzzles daily (30 minutes)
-- Read a daily newspaper for GK preparation
-
-**For Class 9 Aspirants:**
-- Complete NCERT Class 8 Mathematics, Science, and Social Studies
-- Focus on algebra, geometry, and mensuration (high-weightage topics)
-- Start English grammar and comprehension practice
-- Solve at least 2 previous year papers per week
-
-### Physical Fitness Preparation
-
-Sainik Schools emphasize physical fitness. While the physical test comes after the written exam, starting early gives your child an advantage:
-
-- **Running:** 1.6 km in under 7 minutes (target)
-- **Push-ups:** 10–15 repetitions
-- **Sit-ups:** 15–20 repetitions
-- **Flexibility:** Daily stretching routine
-
----
-
-## What Happens After the Notification Is Released
-
-Once the AISSEE 2027 notification is released, the timeline accelerates rapidly:
-
-### Week 1–2: Application Period
-- Online application form opens on NTA portal
-- Fill form carefully — errors can lead to rejection
-- Pay application fee online
-
-### Week 3–4: Application Correction Window
-- NTA opens a correction window for a few days
-- Fix any errors in your application
-- Verify all uploaded documents
-
-### Month 2–3: Admit Card Release
-- Download admit card from NTA portal
-- Check exam centre details
-- Plan travel to exam centre
-
-### Month 3–4: Exam Day
-- Carry admit card + ID proof
-- Arrive 1 hour before exam time
-- Follow all exam day instructions
-
-### Month 4–5: Result & Counselling
-- Result declared on NTA portal
-- E-counselling registration begins
-- Choice filling and seat allotment
+#### Step 5: Final Submission
+1. Review entire application form
+2. Click "Submit" 
+3. **Download & save** the submitted application form
+4. **Take printout** for future reference
+5. **Keep Application Number** safe for admit card and result
 
 ---
 
+## 📚 AISSEE 2027 Exam Pattern
 
-> 💡 **Related:** Also read: [Sainik School Fees 2027 — Compare All 33+ Schools](/blog/sainik-school-fee-comparison-all-schools/)
+### 📖 Class 6 Exam Pattern
 
-## Common Questions Parents Ask About the Notification
+| Subject | Number of Questions | Marks | Duration |
+|---------|---------------------|-------|----------|
+| **Mathematics** | 30 questions | 150 marks | 2.5 hours |
+| **Language** (English/Sanskrit/Hindi) | 20 questions | 100 marks | |
+| **Intelligence** | 25 questions | 125 marks | |
+| **General Knowledge** | 20 questions | 100 marks | |
+| **Total** | **95 questions** | **475 marks** | |
 
-### Can I apply before the notification is released?
+**Marking Scheme:**
+- ✅ **Correct answer**: +5 marks
+- ❌ **Wrong answer**: -1.25 marks (negative marking)
+- ❓ **Unanswered**: 0 marks
 
-No. The application form is only available after the official notification is released. However, you can prepare all documents and start academic preparation right now.
+### 📖 Class 9 Exam Pattern
 
-### Is there any age relaxation for SC/ST candidates?
+| Subject | Number of Questions | Marks | Duration |
+|---------|---------------------|-------|----------|
+| **Mathematics** | 30 questions | 150 marks | 2.5 hours |
+| **Language** (English/Sanskrit/Hindi) | 20 questions | 100 marks | |
+| **Intelligence** | 25 questions | 125 marks | |
+| **General Science** | 20 questions | 100 marks | |
+| **Social Science** | 20 questions | 100 marks | |
+| **Total** | **115 questions** | **575 marks** |
 
-No. The age limits are the same for all categories. However, SC/ST candidates get reservation in seat allocation and fee concession.
-
-### Can girls apply for AISSEE 2027?
-
-Yes. Since 2021, girls can apply for AISSEE. All Sainik Schools have **25% seats reserved for girls** in Class 6. Some schools also offer Class 9 admission for girls.
-
-### What if my child is studying in a different state?
-
-Your child can apply to any Sainik School in India. However, **67% seats** are reserved for students from the home state where the school is located. Domicile certificate is required for home-state quota.
-
-### How many times can a student attempt AISSEE?
-
-There is no limit on the number of attempts. A student can appear for AISSEE as many times as they are within the age limit for their target class.
+**Marking Scheme:**
+- ✅ **Correct answer**: +5 marks
+- ❌ **Wrong answer**: -1.25 marks (negative marking)
+- ❓ **Unanswered**: 0 marks
 
 ---
 
-## Related Articles
+## 📖 AISSEE 2027 Syllabus Overview
 
-- [AISSEE 2027 Exam Date — Complete Calendar](/blog/aissee-2027-exam-date-calendar/)
-- [How to Fill AISSEE Application Form 2027](/blog/aissee-application-form-2027-guide/)
-- [Sainik School Admission 2027: Complete Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE 2027 Syllabus: Subject-Wise Guide](/blog/aissee-2027-syllabus-class-6-class-9/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Age Limit 2027](/blog/sainik-school-age-limit-2027-detailed-guide/)
-- [AISSEE 2027 Last 5 Months Strategy](/blog/aissee-2027-last-5-months-strategy/)
-- [Sainik School Fees 2027](/blog/sainik-school-fee-comparison-all-schools/)
-- [New Sainik Schools PPP Model 2027](/blog/new-sainik-schools-ppp-model-2027/)
-- [AISSEE 2027 Admit Card Guide](/blog/aissee-2027-admit-card-guide/)
+### 📘 Class 6 Syllabus
 
+| Subject | Topics | Weightage |
+|---------|--------|-----------|
+| **Mathematics** | Number system, Fractions, Decimals, Basic algebra, Geometry, Mensuration | 30% |
+| **Language** | Reading comprehension, Grammar, Vocabulary, Para jumbles | 21% |
+| **Intelligence** | Verbal reasoning, Non-verbal reasoning, Analogy, Classification | 26% |
+| **General Knowledge** | Current affairs, Indian history, Geography, Civics, Basic science | 23% |
 
-**Official Source:** [NTA AISSEE Portal](https://exams.nta.ac.in/AISSEE)
+### 📘 Class 9 Syllabus
+
+| Subject | Topics | Weightage |
+|---------|--------|-----------|
+| **Mathematics** | Number system, Algebra, Geometry, Mensuration, Statistics | 26% |
+| **Language** | Reading comprehension, Grammar, Vocabulary, Essay writing | 17% |
+| **Intelligence** | Verbal/non-verbal, Blood relations, Coding-decoding | 22% |
+| **General Science** | Physics (basic), Chemistry (basic), Biology (basic) | 17% |
+| **Social Science** | History, Geography, Political science, Economics | 18% |
+
+**Key Preparation Tips:**
+- NCERT Books (Class 6-8 for Class 6 aspirant)
+- Previous 5-year question papers essential
+- Focus on GK current affairs (last 12 months)
+- Mathematics requires daily practice (20 problems minimum)
+
+---
+
+## 📋 AISSEE 2027 Important Guidelines
+
+### 🏫 Exam Day Rules
+
+| Rule | Specification |
+|------|---------------|
+| **Reporting Time** | 1:30 PM (for 2:00 PM exam) |
+| **Gate Closing** | 2:00 PM (no entry after) |
+| **ID Proof Required** | Admit card + original birth certificate |
+| **Prohibited Items** | Mobile phones, calculators, watches, bags |
+| ** dress code** | Simple clothes (no traditional wear on upper body) |
+| **Exam Duration** | 2 hours 30 minutes |
+| **Breaks** | No breaks during exam |
+| **Leaving Hall** | Not allowed without invigilator permission |
+
+### ⚠️ What Not to Bring
+
+- ❌ Mobile phones (even if switched off)
+- ❌ Smartwatches or fitness trackers
+- ❌ Calculators (physical or phone)
+- ❌ Books, notes, or study material
+- ❌ Bags, purses, or backpacks
+- ❌ Any electronic devices
+- ❌ Food or drinks inside exam hall
+
+### 🏥 Medical & Physical Fitness
+
+- **Medical Certificate**: Mandatory for admission (not for exam)
+- **Physical Test**: After written exam (qualifying only)
+- **Vision Standards**: 6/6 or 6/9 with correction allowed
+- **Height Requirements**: Class 6: 145cm (boys), 140cm (girls); Class 9: 155cm (boys), 150cm (girls)
+
+---
+
+## 📊 AISSEE 2027 Admission Criteria
+
+### 🎯 Class 6 Admission Points
+
+| Criteria | Requirement | Weightage |
+|----------|-------------|-----------|
+| **Written Exam** | 95 questions, 475 marks | 60% |
+| **Age Limit** | 10-12 years as on March 31, 2027 | Eligibility |
+| **Medical Fitness** | Required at admission | Mandatory |
+| **Document Verification** | All documents original | Mandatory |
+| **Category Reservation** | SC/ST/OBC/Defence/Girls | 50% seats |
+
+### 🎯 Class 9 Admission Points
+
+| Criteria | Requirement | Weightage |
+|----------|-------------|-----------|
+| **Written Exam** | 115 questions, 575 marks | 60% |
+| **Age Limit** | 13-15 years as on March 31, 2027 | Eligibility |
+| **Current Class** | Studying in Class 8 | Eligibility |
+| **Medical Fitness** | Required at admission | Mandatory |
+| **Document Verification** | All documents original | Mandatory |
+| **Category Reservation** | SC/ST/OBC/Defence/Girls | 50% seats |
+
+---
+
+## 💰 AISSEE 2027 Fee Structure
+
+### 🏛️ Annual School Fees (Approximate)
+
+| School Type | Annual Fee | One-Time Charges | Total First Year |
+|-------------|------------|------------------|------------------|
+| **Government Sainik Schools** | ₹35,000 - ₹45,000 | ₹15,000 (admission + uniform) | ₹50,000 - ₹60,000 |
+| **Private-Managed Sainik Schools** | ₹60,000 - ₹80,000 | ₹20,000 (admission + uniform) | ₹80,000 - ₹100,000 |
+| **Defence Ward Benefit** | 25% fee concession | Same charges | 25% less |
+
+### 💳 Fee Payment Schedule
+
+| Installment | Amount | Due Date |
+|-------------|--------|----------|
+| **Admission Fee** (one-time) | 25% of annual fee | At admission |
+| **Quarter 1** | 25% of annual fee | July 1 |
+| **Quarter 2** | 25% of annual fee | October 1 |
+| **Quarter 3** | 25% of annual fee | January 1 |
+| **Quarter 4** | 25% of annual fee | April 1 |
+
+### 💡 Scholarships & Concessions
+
+| Category | concession | Eligibility |
+|----------|------------|-------------|
+| **SC/ST** | 100% tuition fee | Caste certificate valid |
+| **OBC** | 50% tuition fee | Non-creamy layer certificate |
+| **Defence** | 25% fee concession | Defence certificate |
+| **EWS** | 100% tuition fee | Income ≤ ₹8 lakh |
+| **Merit Scholarship** | 25-50% tuition fee | Top 10% in AISSEE |
+
+---
+
+## 📝 Frequently Asked Questions (FAQs)
+
+### Q1: When is the last date to apply for AISSEE 2027?
+**A:** December 5, 2026. No extensions are usually granted. Apply before the last date to avoid any issues.
+
+### Q2: Can I apply for both Class 6 and Class 9?
+**A:** No. A candidate can apply for **only one class** per year. Choose based on:
+- Current class studying (Class 5 → apply for Class 6)
+- Age eligibility (verify against age limit criteria)
+- Career goals (earlier entry vs lateral entry)
+
+### Q3: What if my date of birth is incorrect in records?
+**A:** Get it corrected in your birth certificate **before** applying. The birth certificate date is **final and authoritative**. Discrepancies between documents lead to application rejection.
+
+### Q4: Is there any age relaxation for SC/ST/OBC candidates?
+**A:** **No.** Age limits are **same for all categories** — 10-12 years (Class 6) and 13-15 years (Class 9) as on March 31, 2027. However, seat reservation is available (50% total).
+
+### Q5: How can I download my admit card?
+**A:** 
+1. Visit: **[exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)**
+2. Click "Download Admit Card"
+3. Login using: Application Number + Date of Birth
+4. Download and print the admit card
+5. **Carry original** to exam center
+
+### Q6: What is the negative marking scheme?
+**A:** 
+- **Class 6**: -1.25 marks for wrong answer
+- **Class 9**: -1.25 marks for wrong answer
+- **Unanswered**: 0 marks (no negative for unattempted)
+- **Strategy**: Attempt only if you can eliminate 2+ options
+
+### Q7: When will the results be declared?
+**A:** February 8, 2027 (usually). Results are published on the NTA website. Merit lists are then published by individual Sainik Schools.
+
+### Q8: What documents are required at admission?
+**A:** Originals required:
+- Birth certificate
+- marks sheet (Class 5 or 8)
+- Caste certificate (if applicable)
+- Domicile/residence proof
+- Medical fitness certificate
+- 6 passport-sized photographs
+- Category certificate (if claiming reservation)
+
+### Q9: Can I change my exam center after applying?
+**A:** Generally **no**. Exam centers are allotted based on availability and candidate's choice. Requests for change are considered only in **genuine hardship cases** with proper documentation.
+
+### Q10: Is there any coaching provided by Sainik Schools?
+**A:** Sainik Schools do **not provide coaching** for AISSEE. Preparation is the candidate's responsibility. However, some schools offer:
+- Foundation classes (regular academics)
+- Remedial classes (weak students)
+- Study materials (provided by school)
+
+**External coaching** is recommended by most toppers.
+
+---
+
+## 📚 Related Articles (Internal Linking)
+
+- [Sainik School Age Limit 2027: Complete Criteria](/blog/sainik-school-age-limit-2027-detailed-guide/)
+- [Sainik School Documents 2027: Complete Checklist](/blog/sainik-school-required-documents-2027-guide/)
+- [Sainik School Scholarship 2027: Complete Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
+- [AISSEE 2027 Exam Date Calendar](/blog/aissee-2027-exam-date-calendar/)
+- [Sainik School vs RIMC vs Navodaya Comparison](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
+
+---
+
+## 🏛️ Official Sources
+
+- **NTA AISSEE Portal**: [https://exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE)
+- **AISSEE 2027 Information Bulletin**: [Download PDF](https://exams.nta.ac.in/AISSEE)
+- **Sainik School Society**: [https://sainikschool.nic.in](https://sainikschool.nic.in)
+- **NTA Helpdesk**: 011-40759000 (10 AM - 5 PM)
+- **Email**: aissee@nta.ac.in
+
+---
+
+## 📊 AISSEE Application Checklist (Pre-Submission)
+
+- [ ] Application form filled completely
+- [ ] All fields with asterisk (*) are filled
+- [ ] Correct category selected (General/OBC/SC/ST/Defence)
+- [ ] Correct class applied for (6 or 9, not both)
+- [ ] Application fee paid successfully
+- [ ] Photograph uploaded (specification: 3.5×4.5cm, white bg, 10-100KB)
+- [ ] Signature uploaded (specification: black pen on white paper, 10-100KB)
+- [ ] Age proof document uploaded (clear scan, valid)
+- [ ] Category certificate uploaded (if applicable, valid)
+- [ ] Domicile/residence proof uploaded (if applicable)
+- [ ] Application number saved/screenshot taken
+- [ ] Submitted form downloaded and printed
+- [ ] Exam city choice filled (optional but recommended)
+- [ ] Mobile number and email are active and accessible
+
+---
+
+## 📈 AISSEE 2027 Important Dates at a Glance
+
+```
+AUGUST 2026      SEPTEMBER 2026     OCTOBER 2026     NOVEMBER 2026     DECEMBER 2026
+│                │                    │                │                 │
+│  Notification   │ Application Opens │                │ Last Date: Dec  │
+│  Released: Aug  │ Sept 1             │                │ 5 (apply & pay) │
+│  23             │                    │                │                 │
+│                │                    │                │                 │
+│                │                    │                │ Correction: Dec │
+│                │                    │                │  8-11           │
+│                │                    │                │                 │
+└────────────────┴────────────────────┴────────────────┴─────────────────┘
+
+JANUARY 2027     FEBRUARY 2027      MARCH 2027       APRIL 2027
+│                │                    │                │
+│ Admit Card:    │ Result: Feb 8      │ Seat Allotment │ Admission:
+│ Jan 2          │ 2027               │ Mar 5-20       │ Mar 25-Apr 10
+│ Exam: Jan 19   │                    │                │
+│ Answer Key:    │                    │                │
+│ Jan 25         │                    │                │
+└────────────────┴────────────────────┴────────────────┴─────────────────┘
+```
+
+---
+
+**Last Updated:** August 23, 2026  
+**Next Update:** January 2027 (post-result analysis)  
+**Contact:** admission@sainikschool.nic.in | NTA Helpdesk: 011-40759000
+
+**🔔 Pro Tip:** Bookmark this page and share the Application Number with parents in your WhatsApp groups — it helps others track important dates!
+
+**🔔 Newsletter:** Subscribe at [sainikschool.substack.com](https://sainikschool.substack.com) for weekly AISSEE updates
