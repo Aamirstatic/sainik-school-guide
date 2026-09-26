@@ -1,9 +1,9 @@
 ---
-title: "Sainik School Medical Test 2027: Kya Check Hota Hai Aur Kaise Taiyaar Karein"
+title: "Sainik School Medical Test 2027: What Gets Checked and How to Prepare"
 date: 2026-07-09
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Sainik School medical test 2027 — kya-kya check hota hai, kin wajahon se reject hote hain, documents ki list aur medical se pehle ki taiyaari."
+description: "Sainik School medical test 2027 — what the medical examination covers, common reasons for issues, the documents you need, and how to prepare before the medical."
 keywords:
   - sainik school medical test
   - AISSEE medical fitness
@@ -18,123 +18,98 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-medical-test-2027.webp"
 ---
 
-# Sainik School Medical Test 2027: Kya Check Hota Hai Aur Kaise Taiyaar Karein
+# Sainik School Medical Test 2027: What Gets Checked and How to Prepare
 
-> **✅ Last verified: 26 September 2026** — Medical test counselling ke baad school dwara liya jaata hai. Neeche diye gaye standards pichhle cycles ke aam pattern par aadharit hain (🔶 EXPECTED) — exact criteria aapke school ke call letter mein honge.
+> **Last verified: 26 September 2026** — The medical examination happens after seat allotment in AISSAC counselling. Exact medical standards are set by each school's medical board; this guide covers the standard process and sensible preparation. When in doubt, your family doctor's advice beats any article.
 
-Written exam nikal gaya? Badhai. Lekin abhi ek aur darwaza hai — **medical test**. Har saal kuch bachche yahan atak jaate hain, aur sabse dukh ki baat ye hai ki zyadatar wajahen pehle se pata chal sakti thi.
+Your child cleared the written exam. The counselling allotted a seat. And now there's one final gate: the medical test. Most parents barely think about it until the call letter arrives — and then panic for a week.
 
-Is article mein main bataunga: kya check hota hai, kin wajahon se reject hote hain, aur test se pehle kya karna hai.
+Don't. The medical test is straightforward, and nearly everything it checks can be prepared for in advance. Here's the complete picture.
 
-## Medical Test Kab Aur Kahan Hota Hai?
+## When and Where It Happens
 
-- **Kab:** AISSAC counselling mein seat allot hone ke baad (✅ CONFIRMED process)
-- **Kahan:** Allotted school mein ya uske nirdharit hospital mein
-- **Kaun karta hai:** Medical board (school ke doctor + specialists)
-- **Fees:** Aam taur par school ki taraf se; kuch jagah nominal charge
+After you accept a seat in [AISSAC counselling](/blog/sainik-school-counselling-2027/), the allotted school calls your child for **document verification and a medical examination** — usually at the school itself or a designated military/civil hospital. This is ✅ CONFIRMED procedure per the AISSAC SOP: admission is subject to medical fitness and document verification.
 
-## Kya-Kya Check Hota Hai? (Checklist)
+Miss this step or fail to appear, and the seat can be forfeited. Treat the medical date like the exam date — non-negotiable.
 
-| Check | Kya dekha jaata hai |
-|-------|---------------------|
-| Height & weight | Age ke hisaab se proportionate hona chahiye |
-| Vision (aankhein) | Bina chashme ke drishti, color vision, koi gambhir rog nahi |
-| Hearing (kaan) | Normal sunne ki kshamta |
-| Dental | Gambhir dental problems nahi honi chahiye |
-| Heart & lungs | Stethoscope se jaanch, BP |
-| Hernia / hydrocele | Physical examination mein check hota hai |
-| Flat foot / knock knee | Chalna-daurna affected na ho |
-| Skin | Koi sankramak ya gambhir charm rog nahi |
-| Spine | Koi tedhapan (scoliosis jaisa gambhir) nahi |
-| General fitness | Overall healthy development |
+## What the Medical Examination Covers
 
-**Vision par khaas dhyaan:** Aankhein sabse common rejection wajah hain. 🔶 EXPECTED standard (pichhle pattern): bina chashme ke achhi drishti maangi jaati hai. Agar aapke bachche ko chashma laga hai, to **abhi se eye specialist ko dikhao** — kuch cases mein time par ilaaj se farq padta hai.
+The examination is a general fitness assessment by a medical board. Typically, it includes:
 
-## Kin Wajahon Se Reject Hote Hain? (Sach Suniye)
+| Area | What's checked |
+|------|---------------|
+| General health | Height, weight, overall physical development for age |
+| Vision | Eyesight testing, colour vision |
+| Hearing | Basic hearing assessment |
+| Dental | General dental health |
+| Skin | Visible skin conditions |
+| Chest & heart | Chest measurement, heart and lung check |
+| Limbs & posture | Flat foot, knock knees, spinal alignment, joint mobility |
+| General | Any condition affecting residential school life or physical training |
 
-Seedhi baat — ye wajahen aam hain:
+A word of honesty here: many websites publish exact numbers — "vision must be 6/6," "minimum height X cm" — as if they're universal rules. They're not. Standards can vary, boards exercise judgment, and borderline cases are assessed individually. **Do not trust any website (including this one) quoting precise cutoffs as official.** The school's medical board is the only authority.
 
-1. **Kamzor nazar** — sabse common. Chashme ka number zyada hona
-2. **Color blindness** — iska koi ilaaj nahi, pehle se check karwa lo
-3. **Hernia** — chhota operation se theek ho jaata hai, time par karwa lo
-4. **Zyada kam/mota hona** — age ke hisaab se weight bahut alag hona
-5. **Flat foot (gambhir)** — halka flat foot aksar chalta hai, gambhir nahi
-6. **Chronic bimari** — asthma (gambhir), mirgi, dil ki bimari
-7. **Sunaai mein kami** — kaan ka mail bhi kabhi wajah ban jaata hai!
+## The Most Common Issues (and What You Can Do Now)
 
-Point 7 par dhyaan do — **kaan ka mail saaf karwana** bhool jaate hain log. Itni chhoti cheez par sapna nahi tootna chahiye.
+Most medical rejections aren't dramatic — they're fixable things nobody addressed in time:
 
-## Medical Se Pehle Ki Taiyaari (2-Mahine Ka Plan)
+1. **Vision problems.** The single most common issue. Get your child's eyes tested *now*, not in January. If glasses are needed, get them early so the child is comfortable wearing them.
+2. **Being significantly underweight or overweight.** Six months of regular meals and outdoor play fixes most cases. See our [physical fitness guide](/blog/sainik-school-physical-test-guide/).
+3. **Dental issues.** A checkup and cleaning before the medical is cheap insurance.
+4. **Skin conditions.** Treatable ones should be treated early — don't wait for the medical to discover them.
+5. **Flat foot / posture issues.** A paediatric orthopaedic consultation now is worth more than worry later. Many mild cases are acceptable; only the board decides.
 
-Agar written exam January mein hai (✅ CONFIRMED: 31 Jan 2027 tentative), to abhi se ye karo:
+## Documents to Carry for the Medical
 
-**Abhi (Sept–Oct 2026):**
-- [ ] Eye test karwao — chashme ka number, color vision
-- [ ] General physician se full checkup
-- [ ] Dental checkup — keede lage daant theek karwao
-- [ ] Weight age ke hisaab se set karo (diet + khel)
+Keep these ready in a folder well before the date:
 
-**Result ke baad (Feb–Mar 2027):**
-- [ ] Dobara eye test (number badla to naye chashme ka sawal hi nahi — bina chashme ke standard hai)
-- [ ] Kaan saaf karwao (ENT se)
-- [ ] Hernia jaisi cheez ho to doctor se salah
-- [ ] Saare vaccination records ikatthe karo
-
-**Test wale din:**
-- [ ] Halka nashta karke jao (khaali pet BP gadbad ho sakta hai)
-- [ ] Puraani medical reports saath rakho
-- [ ] Bachche ko relax rakho — ghabrahat se BP badhta hai
-
-## Documents Ki List
-
+- AISSEE admit card and scorecard
+- Seat allotment letter from AISSAC counselling
 - Birth certificate
-- Caste/category certificate (agar lagu)
-- Transfer certificate (TC)
-- Previous class ki marksheet
 - Domicile certificate
-- Passport-size photos (8–10)
-- Medical/fitness certificate (school ke format mein — call letter ke saath aata hai)
-- Aadhaar card (bachche ka)
+- Category certificate (SC/ST/OBC-NCL), if applicable
+- Defence/ex-servicemen documents, if applicable
+- Transfer certificate from previous school
+- Recent passport photographs
+- Any existing medical records (glasses prescription, ongoing treatment details)
 
-## Ek Zaroori Baat: Temporary vs Permanent Rejection
+**Disclose everything.** Hiding a medical condition is far worse than having one — schools need the information to care for your child properly, and non-disclosure discovered later can jeopardise admission.
 
-Kai parents nahi jaante — medical mein do tarah ke faisle hote hain:
+## Preparing in the Next 3 Months: A Checklist
 
-- **Temporary unfit:** Koi theek hone wali cheez (jaise kam weight, chhota hernia) — time diya jaata hai, dobara check hota hai
-- **Permanent unfit:** Koi na theek hone wali sthiti — is par appeal ka niyam school-wise hota hai
+- [ ] Full eye test done; glasses procured if prescribed
+- [ ] Dental checkup and cleaning completed
+- [ ] General paediatric checkup — height, weight, overall development
+- [ ] Daily 30-minute outdoor activity started (see [fitness guide](/blog/sainik-school-physical-test-guide/))
+- [ ] Any skin or orthopaedic concern shown to a doctor
+- [ ] Vaccination record up to date
+- [ ] Medical documents folder prepared
 
-Isliye himmat mat haaro — pehle poori jaankari lo.
+## A Small Story
 
-> 💡 **Related:** [Sainik School Physical Test Guide — fitness taiyaari](/blog/sainik-school-physical-test-guide/)
->
-> 💡 **Related:** [Sainik School Counselling 2027](/blog/sainik-school-counselling-2027/)
->
-> 💡 **Related:** [Sainik School for Girls 2027](/blog/sainik-school-for-girls-2027/)
->
-> 💡 **Related:** [AISSEE 2027 Admit Card Guide](/blog/aissee-2027-admit-card-guide/)
+A parent once called us two days before the medical, terrified because his son had been prescribed glasses a month earlier and he'd hidden it, fearing rejection. We told him the truth: declare it. He did. The board noted the corrected vision, the boy was declared fit, and he joined. The father later said the scariest part wasn't the medical — it was the month of secrecy. Don't do that to yourself.
 
 ## FAQ
 
-**Q1: Kya chashma lagne par reject ho jaate hain?**
-Bina chashme ke drishti ka standard hota hai (🔶 EXPECTED). Halka number kabhi-kabhi chalta hai, zyada number par dikkat. Eye specialist se abhi salah lo.
+**1. Can my child be rejected in the medical test after getting a seat?**
+Yes — admission is subject to medical fitness per the AISSAC SOP. But most issues are minor and many are given time or review. Serious disqualifications are uncommon.
 
-**Q2: Kya medical mein daud ya physical test hota hai?**
-Nahi — medical test health checkup hai, fitness test nahi. Lekin roz ka khel-kood overall health ke liye zaroori hai.
+**2. Is there a minimum height or weight requirement?**
+Boards assess age-appropriate physical development rather than a single universal number. If you're concerned, consult your paediatrician early.
 
-**Q3: Kya private hospital ka certificate chalega?**
-Nahi — test school ke medical board dwara hi hota hai. Private reports sirf reference ke liye saath rakho.
+**3. Are children with glasses rejected?**
+Correctable vision with glasses is generally acceptable. Get the prescription early and declare it honestly.
 
-**Q4: Agar ek school mein unfit huye to dusre mein chance hai?**
-Counselling ke dauraan medical school-wise hota hai. Standards ek jaise hain, lekin faisla us school ke board ka hota hai.
+**4. What if my child has asthma or a similar condition?**
+Disclose it with medical records. Boards assess each case on whether the child can safely handle residential school life and physical training. Your specialist's opinion matters — get it in writing.
 
-**Q5: Kya ladkiyon ke liye medical alag hota hai?**
-Process ek jaisa hai; lady doctor ki upasthiti sunischit ki jaati hai.
-
-**Q6: Medical test ki taiyaari mein kitna kharcha aata hai?**
-Aam checkup (eye, dental, general) mein ₹1,000–3,000. Ye kharcha sapne ke saamne kuch nahi.
+**5. Can we appeal a medical rejection?**
+Schools typically have a review process — ask the school office immediately and in writing. Timelines are tight, so act fast.
 
 ## Sources
 
-- Counselling & medical process — AISSAC 2025 SOP: https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
-- AISSEE 2027 cycle status — edexlive, 8 Sept 2026: https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
-- Sainik Schools Society: https://sainikschool.ncog.gov.in
+- AISSAC SOP 2025 (Sainik Schools Society) — medical fitness requirement: https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
+- Sainik Schools Society — official portal: https://sainikschool.ncog.gov.in
+- AISSEE 2026 pattern (TOI, cites NTA bulletin): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
+
+**Related reading:** [Counselling guide](/blog/sainik-school-counselling-2027/) · [Physical fitness guide](/blog/sainik-school-physical-test-guide/) · [Hostel life](/blog/sainik-school-hostel-life/) · [Daily routine](/blog/sainik-school-daily-routine-timetable/)

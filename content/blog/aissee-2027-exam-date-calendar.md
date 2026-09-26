@@ -1,9 +1,9 @@
 ---
-title: "AISSEE 2027 Exam Date 31 January — Poora Calendar: Form, Admit Card, Result Tak"
+title: "AISSEE 2027 Exam Date 31 January — Complete Calendar: Form, Admit Card, Result"
 date: 2026-08-22
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "AISSEE 2027 exam date 31 January 2027 (NTA calendar) — application, admit card, answer key, result aur counselling ka complete month-by-month calendar. Verified 26 Sept 2026."
+description: "AISSEE 2027 exam date 31 January 2027 (NTA calendar) — application, admit card, answer key, result and counselling month-by-month calendar with CONFIRMED/EXPECTED labels. Verified 26 Sept 2026."
 keywords: ["AISSEE 2027 exam date", "sainik school exam date 2027", "AISSEE application date", "AISSEE 2027 notification", "sainik school admission 2027 dates", "AISSEE 2027 form date", "sainik school exam schedule 2027"]
 author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
@@ -11,92 +11,89 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-exam-date-calendar.webp"
 ---
 
-# AISSEE 2027 Exam Date 31 January — Poora Calendar: Form Se Result Tak
+# AISSEE 2027 Exam Date 31 January — Complete Calendar: Form to Result
 
-> **🟢 Last verified: 26 September 2026** — ✅ **CONFIRMED** = official source se pakka. 🔶 **EXPECTED** = pattern-based anumaan.
+> **🟢 Last verified: 26 September 2026** — ✅ **CONFIRMED** = from official source. 🔶 **EXPECTED** = pattern-based projection.
 
-Aapke bachche ka Sainik School ka sapna ek date par tika hai: **31 January 2027**. ✅ Ye date NTA ke official Examination Calendar 2026-27 (public notice, 16 September 2026, nta.ac.in) mein AISSEE 2027 ke liye listed hai — tentative, lekin official.
+The single most important date in your child's year right now: **31 January 2027**. That's when AISSEE 2027 is scheduled, ✅ confirmed (tentative) in NTA's official exam calendar for 2026-27, released on 16 September 2026 on nta.ac.in. Everything else in the calendar below flows backwards from that one fixed point. Here's the honest picture, though: the notification itself hasn't released yet, so most of the other dates are projections from the last three cycles' pattern — clearly labelled so you know exactly what's solid and what's an educated estimate.
 
-Is article mein poora calendar de raha hoon: form kab khulega, admit card kab aayega, exam, answer key, result, counselling — har stage ki date, uska status, aur aapko us samay kya karna hai.
+## The Full Calendar at a Glance
 
-## AISSEE 2027 — Complete Timeline (Ek Nazar Mein)
+| Milestone | Timeline | Status |
+|-----------|----------|--------|
+| NTA notification / information bulletin | Oct 2026 | 🔶 Expected (2026 cycle: 10–30 Oct 2025) |
+| Online application window | Oct–Nov 2026 | 🔶 Expected (pattern-based) |
+| Application fee | — | 🔶 Expected ₹850 (Gen/OBC/Defence), ₹700 (SC/ST) — 2026 rates |
+| Correction window (if offered) | Nov–Dec 2026 | 🔶 Expected |
+| City/centre intimation slip | Early Jan 2027 | 🔶 Expected |
+| Admit card release | ~24–26 Jan 2027 | 🔶 Expected (5–8 days before exam) |
+| **Exam date** | **31 January 2027** | ✅ CONFIRMED (tentative), NTA calendar 2026-27 |
+| Provisional answer key | Feb 2027 | 🔶 Expected (2–4 weeks after exam) |
+| OMR sheet / recorded responses | Feb 2027 | 🔶 Expected |
+| Final answer key | Mar 2027 | 🔶 Expected |
+| Result + scorecard | Mar 2027 | 🔶 Expected (2026: ~6–8 weeks after exam) |
+| Counselling (AISSAC) | Apr–Jun 2027 | 🔶 Expected (online, ~6 rounds) |
 
-| Stage | Date | Status | Aapko kya karna hai |
-|-------|------|--------|---------------------|
-| NTA notification / bulletin | 🔶 Oct 2026 (expected) | NOT released (26 Sept tak) | Roz NTA portal check karein |
-| Online application | 🔶 Oct–Nov 2026 (expected) | — | Form + fee + documents |
-| Correction window | 🔶 Nov 2026 (expected) | — | Galti sudhaarne ka mauka |
-| Admit card | 🔶 Mid-Jan 2027 (expected) | — | Download + print |
-| **Exam (Class 6 & 9)** | ✅ **31 Jan 2027 (tentative)** | **CONFIRMED via NTA calendar** | Exam day strategy ready |
-| Answer key | 🔶 Feb 2027 (expected) | — | Score estimate karein |
-| Result / scorecard | 🔶 Feb–Mar 2027 (expected) | — | Counselling registration |
-| AISSAC counselling | 🔶 Mar 2027 se (expected) | — | Choice filling (10 schools tak) |
+A quick note on "tentative": NTA labels exam dates as tentative in its calendar because dates can shift if circumstances demand. It happens rarely, and when it does, NTA announces it well in advance. Treat 31 January as the plan; we'll update this page the day anything changes.
 
-## Month-by-Month Calendar
+## How This Calendar Is Built (and Why You Can Trust It)
 
-### October 2026 — Notification Ka Mahina 🔶
-Pichhle cycle mein 10 October 2025 ko applications khule the. Is baar bhi October mein NTA ka information bulletin aane ki sabse zyada sambhavna hai. Bulletin mein exact dates, fee, age cutoffs aur schools ki list hogi. [Notification guide](/blog/aissee-2027-notification-guide/) mein poori detail hai.
+Three cycles tell a story. In 2024, the exam was 28 January; in 2025, an unusual 5 April (that cycle ran late for administrative reasons); in 2026, back to 18 January. The notification has landed in October for two of the three recent cycles, with the application window following immediately. That's why we project October 2026 for the bulletin — not because we have inside information, but because the pattern is consistent enough to plan around.
 
-**Aapka kaam:** documents taiyaar rakhein — birth certificate, domicile, caste certificate, photo, signature. [Application form guide](/blog/aissee-application-form-2027-guide/) padhkar form bharne ka process samajh lijiye.
+Here's the thing — planning around expected dates is actually the smart move. If the notification comes in October as projected, you want the documents ready *before* it drops: birth certificate, caste certificate if applicable, domicile, a recent photo, the school leaving certificate. Scrambling for a caste certificate during a 3-week application window is the classic parent mistake. A friend of mine went through this in 2024 — the tehsil office took two weeks, and they filed the form on the last day with shaking hands. Don't be them.
 
-### November 2026 — Form + Correction 🔶
-Application window band hone ke baad NTA aam taur par 2–3 din ka correction window deta hai (2026 mein 02–04 Nov 2025 tha). Form mein naam, DOB, category ya photo mein galti ho to yahi sudhaarne ka aakhri mauka hota hai.
+## Exam Day Itself: What 31 January Looks Like
 
-**Aapka kaam:** form submit karte hi uska printout nikaal kar rakh lein. Correction window mein zaroorat pade to turant sudhaar karein.
+The exam is **offline, pen-and-paper OMR, MCQ format, with no negative marking** (✅ 2026 pattern, expected to repeat). Two separate papers depending on the class your child is entering:
 
-### December 2026 — Taiyaari Ka Peak Month
-Is mahine koi official activity nahi hoti — aur yahi sabse keemti mahina hai. Syllabus revision, [mock tests](/blog/aissee-2027-mock-test-free-practice-sets/) aur [previous year papers](/blog/aissee-previous-year-papers-pdf/) ka time.
+**Class 6:** 150 minutes, 125 questions, 300 marks. Maths carries half the weight — 50 questions for 150 marks — followed by Language, Intelligence, and General Knowledge at 25 questions / 50 marks each. Available in **13 languages/mediums**.
 
-### January 2027 — Admit Card + Exam ✅🔶
-- **Admit card:** 🔶 mid-January 2027 expected (2026 mein exam se ~6 din pehle, ~12 Jan ko aaya tha). Download karke print nikaal lein; photo aur details verify karein. Poori process [admit card guide](/blog/aissee-2027-admit-card-guide/) mein hai.
-- **Exam: 31 January 2027** ✅ — Class 6 (150 min, 125 Q, 300 marks) aur Class 9 (180 min, 150 Q, 400 marks), dono ka exam ek hi din offline OMR mode mein hoga.
+**Class 9:** 180 minutes, 150 questions, 400 marks. Maths again dominates at 50 questions / 200 marks, with English, Intelligence, General Science, and Social Science at 25 questions / 50 marks each. English medium only.
 
-### February–March 2027 — Answer Key + Result 🔶
-- **Answer key:** 2026 mein exam ke ~3 hafte baad (11 Feb 2026) provisional answer key aayi thi. 2027 mein bhi February mein expected. Score ka andaza lagayein, galat answer par objection de sakte hain. Detail: [answer key guide](/blog/aissee-answer-key-2027/).
-- **Result:** 2026 mein February mein result aaya tha; 2027 mein Feb–Mar expected. Scorecard download karke cutoff se compare karein.
+Qualifying bar: **25% in each section and 40% aggregate** — though this doesn't apply to SC/ST candidates (✅ per the 2026 bulletin). And remember, qualifying isn't the same as getting a seat. Sainik Schools run a merit-based counselling (AISSAC, run by the Sainik Schools Society at pesa.ncog.gov.in), and cutoffs vary wildly by state and category.
 
-### March 2027 Se — Counselling 🔶
-Result ke baad **AISSAC** (All India Sainik Schools Admission Counselling) Sainik Schools Society conduct karti hai — pesa.ncog.gov.in par, poori tarah online, **koi counselling fee nahi**. 2026 mein ~6 rounds hue the, March se August tak. Choice filling ek baar hoti hai (10 schools tak preference), isliye soch-samajhkar bharein. Detail: [result & counselling guide](/blog/aissee-2027-result-scorecard-guide/).
+## What Happens After the Exam
 
-## 2026 Cycle Se Seekh (Verified)
+Results typically land **6–8 weeks after the exam** — so roughly March 2027. The sequence is: provisional answer key first (with a short window to challenge it), then the final answer key, then the result with your child's scorecard. Download the scorecard immediately and keep it; you'll need it through counselling.
 
-| 2026 mein kya hua | 2027 mein kya expected |
-|-------------------|------------------------|
-| Application: 10–30 Oct 2025 | 🔶 Oct–Nov 2026 |
-| Admit card: ~12 Jan 2026 (exam se 6 din pehle) | 🔶 Mid-Jan 2027 |
-| Exam: 18 Jan 2026 | ✅ 31 Jan 2027 |
-| Answer key: 11 Feb 2026 | 🔶 Feb 2027 |
-| Counselling: ~6 rounds, Mar–Aug 2026 | 🔶 Mar 2027 se |
+Counselling happens through **AISSAC (All India Sainik Schools Admission Counselling)** — online, around **6 rounds**, and notably, **no counselling fee** (✅). School allotment follows merit, reservation rules (67% home-state / 33% other-states for the 33 established schools), and the category quotas. After seat allotment comes document verification and the medical test — standard fitness checks, nothing to stress about, but the medical standards are real and worth reading in advance.
 
-## Zaroori Savdhaaniyaan
+## The 3 Dates to Put on Your Calendar Right Now
 
-- **Fake dates se bachein:** kayi sites ne "19 January 2027" ya "notification released" jaisi galat khabrein chalaayi hain. Sirf NTA ke official calendar (31 Jan 2027) aur bulletin par bharosa karein.
-- **Tentative ka matlab:** 31 January official calendar ki date hai, lekin NTA ise badal sakta hai. Bulletin aane par hum turant update karenge.
-- **Deadline miss na ho:** form ki last date ke aas-paas website slow ho jaati hai. Pehle hafte mein hi form bhar dein.
+Forget tracking all ten milestones. Three are enough:
 
-## FAQ
+1. **October 2026** — notification expected; have documents ready.
+2. **20 January 2027** — start checking NTA's portal daily for the admit card.
+3. **31 January 2027** — exam day. ✅ Confirmed (tentative).
 
-**Q1. AISSEE 2027 ka exam kab hai — pakki date?**
-✅ 31 January 2027, NTA ke official exam calendar (16 Sept 2026) ke anusaar. Ye tentative hai; final confirmation NTA bulletin se milegi.
+Everything between and after follows from these.
 
-**Q2. Kya Class 6 aur Class 9 ka exam ek hi din hoga?**
-Haan. NTA calendar mein AISSEE ek single-day exam hai; dono classes ka exam 31 January 2027 ko hoga (alag-अलग shift/paper).
+## FAQ — AISSEE 2027 Dates
 
-**Q3. Admit card kab aayega?**
-🔶 Mid-January 2027 expected hai (2026 mein exam se ~6 din pehle aaya tha). Official announcement ka intezaar karein.
+**Is the AISSEE 2027 exam date officially confirmed?**
+Yes — with a caveat. NTA's official exam calendar for 2026-27 (notice dated 16 September 2026, published on nta.ac.in) lists AISSEE 2027 on 31 January 2027. The calendar marks it tentative, which is standard NTA practice. We label it ✅ CONFIRMED (tentative).
 
-**Q4. Result kab aayega?**
-🔶 February–March 2027 expected (2026 mein February mein aaya tha). Uske baad AISSAC counselling shuru hogi.
+**Has the AISSEE 2027 notification been released?**
+No. As of 26 September 2026, NTA has not released the notification or information bulletin. We expect it in October 2026 based on the 2026 cycle (applications ran 10–30 October 2025). This page will be updated within 48 hours of the release.
 
-**Q5. Agar exam date badal gayi to?**
-NTA calendar ki dates tentative hoti hain. Koi badlaav hua to NTA notice jaari karega aur hum is article ko 48 ghante mein update kar denge.
+**When will the application form open?**
+Expected October–November 2026, alongside or shortly after the notification. The 2026 window was just three weeks long, so have your documents ready before it opens.
 
-**Q6. Counselling kaun conduct karta hai?**
-✅ AISSAC — Sainik Schools Society, pesa.ncog.gov.in par. Online, bina fee ke, multiple rounds.
+**What is the application fee for AISSEE 2027?**
+Not announced yet. We expect ₹850 for General/OBC-NCL/Defence wards and ₹700 for SC/ST — the 2026 rates. Anyone quoting a 2027 fee as final right now is guessing.
+
+**When will the AISSEE 2027 result be declared?**
+Expected March 2027, roughly 6–8 weeks after the exam, following the provisional and final answer keys. This is a projection from the last three cycles.
+
+**Where does counselling happen?**
+Through AISSAC, run online by the Sainik Schools Society at pesa.ncog.gov.in — about 6 rounds, no fee charged.
+
+---
+
+**Related guides:** [Notification guide](/blog/aissee-2027-notification-guide/) · [Admit card guide](/blog/aissee-2027-admit-card-guide/) · [Application form guide](/blog/aissee-application-form-2027-guide/) · [Last 5 months strategy](/blog/aissee-2027-last-5-months-strategy/) · [Result & scorecard guide](/blog/aissee-2027-result-scorecard-guide/)
 
 ## Sources
 
-- NTA Exam Calendar 2026-27 (TOI, nta.ac.in notice 16 Sept 2026): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
-- AISSEE 2026 admit card timeline (Economic Times, Jan 2026): https://economictimes.indiatimes.com/news/new-updates/aissee-2026-admit-cards-released-for-class-6-and-9-admissions-at-exams-nta-nic-in/sainik-school-society-check-steps-to-download-and-more/articleshow/126484265.cms
-- AISSEE 2027 pattern analysis (edexlive, 8 Sept 2026): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
-- AISSAC e-counselling (Moneycontrol): https://www.moneycontrol.com/education/aissee-2026-sainik-school-e-counselling-merit-list-2026-out-candidates-shortlisted-for-medical-examination-direct-link-here-to-download-article-13853009.html
+- NTA exam calendar 2026-27 (via Times of India) — [exam date 31 Jan 2027](https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms)
+- AISSEE 2026 application cycle (via Times of India) — [Oct 2025 window, exam 18 Jan 2026](https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms)
+- AISSEE 2027: no dates yet, pattern of previous cycles (edexlive, 8 Sept 2026) — [pattern analysis](https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern)

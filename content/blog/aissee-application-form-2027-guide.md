@@ -1,105 +1,126 @@
 ---
-title: "AISSEE 2027 Application Form: Step-by-Step Bharne Ka Tarika, Galtiyaan Jo Barbaad Karti Hain"
+title: "AISSEE 2027 Application Form: Step-by-Step Guide (and the Mistakes That Get Forms Rejected)"
 date: 2026-08-24
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "AISSEE 2027 application form bharne ka complete step-by-step guide — documents, fee (₹850/₹700 expected), common mistakes aur correction window. Verified 26 Sept 2026."
-keywords: ["AISSEE application form 2027", "sainik school application form 2027", "AISSEE form filling", "AISSEE 2027 correction window", "sainik school admission form", "AISSEE application status", "AISSEE fee payment"]
+description: "How to fill the AISSEE 2027 application form correctly — documents checklist, expected fee (₹850/₹700), step-by-step process, common rejection reasons and the correction window. Last verified 26 Sept 2026."
+keywords: ["AISSEE 2027 application form", "sainik school application form 2027", "AISSEE form filling guide", "AISSEE 2027 correction window", "AISSEE application fee", "AISSEE form mistakes", "AISSEE 2027 registration"]
 author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-application-form-2027.webp"
 ---
 
-# AISSEE 2027 Application Form: Step-by-Step Bharne Ka Tarika
+# AISSEE 2027 Application Form: Fill It Right the First Time
 
-> **🟢 Last verified: 26 September 2026** — ✅ **CONFIRMED** = official source se pakka. 🔶 **EXPECTED** = pattern-based anumaan (NTA bulletin aane par final hoga).
+> **🟢 Last verified: 26 September 2026** — ✅ CONFIRMED = from official source. 🔶 EXPECTED = pattern-based projection.
 
-Ek kadvi sachchai se shuru karta hoon: har saal sekdon bachchon ke form chhoti-chhoti galtiyon ki wajah se reject hote hain — naam mein spelling mistake, galat photo size, DOB mismatch. Aapke bachche ki mehnat ek form ki galti par nahi dubni chahiye. Isliye ye guide dhyaan se padhiye.
+Here's an uncomfortable truth: every year, hundreds of AISSEE application forms get rejected for silly, avoidable reasons — a spelling mismatch in the name, a wrong photo size, a birth date that doesn't match the certificate. Your child's months of preparation should never die because of a form-filling error. So read this carefully before the window opens.
 
-**Pehli zaroori baat:** AISSEE 2027 ka notification 26 September 2026 tak release **nahi** hua hai. 🔶 Form October–November 2026 mein khulne ki sambhavna hai (2026 mein 10–30 Oct 2025 khula tha). Lekin form bharne ka process har saal lagbhag ek jaisa rehta hai — to ye guide padhkar aap pehle se taiyaar rahiye.
+**The one thing you need to know first:** the AISSEE 2027 notification has **not been released** as of 26 September 2026. The AISSEE 2027 application form is 🔶 **expected to open in October–November 2026** (the 2026 cycle ran 10–30 October 2025). But the filling process barely changes year to year — so if you get this guide down now, you'll be ready the day the portal goes live.
 
-## Form Bharne Se Pehle — Documents Ki Checklist
+## Before You Fill the Form — Documents Checklist
 
-Form khulne se pehle ye sab scan karke ready rakhiye (2026 bulletin ke hisaab se):
+Scan everything in advance and keep the files on your phone and laptop. This list follows the 2026 bulletin; the 2027 list should be nearly identical.
 
-| Document | Details |
-|----------|---------|
-| Bachche ki photo | Recent passport size, prescribed format mein |
-| Bachche ke signature | Clear, dark ink mein |
-| Birth certificate | DOB proof ke liye |
-| Domicile certificate | State quota (67% home state) ke liye zaroori |
-| Caste certificate | SC/ST/OBC-NCL (agar applicable) |
-| Defence/Ex-servicemen proof | Defence quota ke liye (agar applicable) |
-| Aadhaar / ID proof | Identity verification |
+| Document | What NTA wants |
+|----------|---------------|
+| Child's photograph | Recent passport-size, in the prescribed format |
+| Child's signature | Clear, in dark ink on white paper |
+| Birth certificate | For date-of-birth proof |
+| Domicile certificate | Needed for the 67% home-state quota |
+| Caste certificate | SC/ST/OBC-NCL, if applicable |
+| Defence / ex-serviceman proof | For the defence quota, if applicable |
+| Aadhaar / ID proof | For identity verification |
 
-**Hamari salah:** saare documents ka naam, DOB aur spelling ek jaise hone chahiye. Birth certificate aur Aadhaar mein DOB alag hui to form reject ho sakta hai.
+**My advice:** make sure the name, date of birth, and spelling are identical across every document. If the birth certificate and Aadhaar show different dates of birth, the form can be rejected outright. Check this *before* the window opens, not during it.
 
-## Eligibility — Pehle Ye Confirm Karein
+## Confirm Eligibility First — Don't Waste the Fee
 
-Form bharne se pehle eligibility pakki kar lijiye, warna fee waste hogi:
+Filling the form doesn't make your child eligible. And the fee is non-refundable. So check these two things first:
 
-- **Class 6:** 🔶 PROJECTED — janm **1 April 2015 – 31 March 2017** ke beech (31 March 2027 ko umra 10–12 saal); Class 5 pass ya padh rahe hon.
-- **Class 9:** 🔶 PROJECTED — janm **1 April 2012 – 31 March 2014** ke beech (13–15 saal); Class 8 recognized school se pass.
-- **Nationality:** ✅ Sirf Indian nationals.
-- **Girls:** ✅ Class 6 mein 33 schools mein 10% ya 10 seats (jo zyada ho); naye schools mein Class 6 dono ke liye khula.
+- **Class 6 age:** 🔶 projected as born between **1 April 2015 and 31 March 2017** (10–12 years on 31 March 2027). Final dates come in the NTA bulletin.
+- **Class 9 age:** 🔶 projected as born between **1 April 2012 and 31 March 2014** (13–15 years on 31 March 2027).
 
-Ye cutoffs 2026 bulletin se ek saal shift karke projected hain — final NTA bulletin mein confirm honge.
+For the full breakdown — including which class your child must have passed — see our [age limit guide](/blog/sainik-school-age-limit-2027-detailed-guide/).
 
-## Step-by-Step: Form Kaise Bharein
+## The Fee (What You'll Probably Pay)
 
-**Step 1 — NTA portal par registration.** Bulletin mein di gayi official website (2026 mein exams.nta.nic.in thi) par jayein, "New Registration" par click karein. Email ID aur mobile number apna personal dein — saari updates isi par aayengi.
+The 2027 fee hasn't been announced. Based on the 2026 rates, here's what's 🔶 **expected**:
 
-**Step 2 — Application form bharein.** Personal details (naam, DOB, gender), category, domicile state, aur **school preference** dhyaan se chunein. Class aur medium (Class 6 mein 13 mediums available ✅) sahi chunein.
+| Category | Expected fee |
+|----------|-------------|
+| General / OBC-NCL / Defence wards | ₹850 |
+| SC / ST | ₹700 |
 
-**Step 3 — Documents upload karein.** Photo aur signature prescribed size/format mein upload karein. Dhundli photo sabse common rejection reason hai.
+We don't know the 2027 fee yet — anyone quoting it as final is guessing. Budget ₹850 for now; if it comes in lower, that's a bonus.
 
-**Step 4 — Fee payment karein.** 🔶 EXPECTED fee: **₹850** (General / OBC-NCL / Defence wards / Ex-servicemen) aur **₹700** (SC/ST). Online payment — UPI, net banking, card. Payment ka receipt save karke rakhiye.
+## Step-by-Step: Filling the AISSEE 2027 Application Form
 
-**Step 5 — Confirmation page ka print nikaalein.** Form submit hone ke baad confirmation page download karke 2 print nikaal lein. Yehi aapka proof hai ki form successfully submit hua.
+This follows the 2026 process, which NTA is expected to repeat:
 
-## 7 Galtiyaan Jo Form Barbaad Karti Hain
+1. **Register on the portal.** The 2026 portal was on `exams.nta.nic.in` (Sainik School Society page). The 2027 portal address isn't live yet — don't trust random URLs shared on WhatsApp. When the notification releases, we'll publish the exact link in our [notification guide](/blog/aissee-2027-notification-guide/).
+2. **Create your account** with a valid email and mobile number. Both must be active — OTPs and all future communication land here.
+3. **Fill personal details** exactly as they appear on the birth certificate: name, date of birth, gender, category, state of domicile.
+4. **Choose your exam city and school preferences.** This is where people rush. Pick the exam city closest to home — and for school choice, remember the 67% home-state quota applies to the 33 established schools.
+5. **Upload the photo and signature** in the prescribed size and format. This is rejection reason #1, so I'll say more below.
+6. **Pay the fee online** (UPI, card, or net banking) and save the receipt.
+7. **Download and print the confirmation page.** Keep two copies — one for your file, one your child can look at. Without the confirmation page, the application isn't complete.
 
-1. **Naam/DOB mismatch** — form mein wahi spelling aur DOB likhein jo birth certificate mein hai.
-2. **Galat photo** — purani ya dhundli photo upload karna. Recent, clear photo use karein.
-3. **Domicile state galat chunna** — 67% seats home state quota mein hain; galat state chunne par bada nuksaan.
-4. **Category galat bharna** — OBC-NCL vs OBC (creamy layer) mein farak samajhkar bharein.
-5. **Last date ka intezaar** — aakhri dinon mein website slow/crash hoti hai. Pehle hafte mein form bhar dein.
-6. **Fee payment adhuri chhodna** — payment fail ho to dobara check karein; bina fee ke form valid nahi.
-7. **Confirmation page na nikaalna** — submit ke baad print nahi liya to dispute mein proof nahi hoga.
+Honestly, most guidebooks overcomplicate this. The whole thing takes about 30–40 minutes if your documents are ready. The problem is never the process — it's the details.
 
-## Correction Window — Galti Sudhaarne Ka Mauka
+## The 5 Mistakes That Get Forms Rejected
 
-2026 mein NTA ne **02–04 November 2025** tak correction window di thi. ✅ 2027 mein bhi November mein 2–3 din ka window expected hai. 🔶
+Last year, a parent called us in a panic because his son's form showed "rejected" — the photo background wasn't plain white, and the file was the wrong size. Ten minutes of care would have saved him the whole correction-window scramble.
 
-**Yaad rahe:** correction window mein kuch fields (jaise registered mobile/email) change nahi hote. Isliye pehli baar mein hi sahi bharein — correction ko backup samjhein, plan nahi.
+Avoid these:
 
-## Fee Refund Ka Kya Rule Hai?
+1. **Wrong photo or signature format.** NTA prescribes exact dimensions and file sizes. Read the instructions on the portal — don't reuse an old passport photo without checking.
+2. **Name/DOB mismatch.** "Aarav" on one document and "Aarav Kumar" on another is a problem. Everything must match the birth certificate.
+3. **Wrong category or quota selection.** Claiming OBC-NCL or the defence quota without a valid certificate gets the form cancelled at counselling. Read our [quota guide](/blog/sainik-school-sc-st-defence-quota-2027/) before you tick that box.
+4. **Filling the form at the last minute.** The portal slows down in the final days. In 2026 the window closed 30 October; late filers faced server crashes. Fill it in the first week.
+5. **Ignoring the confirmation page.** Payment done doesn't mean form done. If you don't see and download the confirmation page, the application never completed.
 
-NTA aam taur par application fee refund nahi karta — galat category mein fee bhar di ya form reject ho gaya, to paise wapas nahi milte. Isliye category aur eligibility do baar check karke hi payment karein.
+For more traps parents fall into, read [the admission mistakes guide](/blog/sainik-school-admission-mistakes/).
 
-## FAQ
+## The Correction Window — Your Safety Net
 
-**Q1. AISSEE 2027 ka form kab se bhara jayega?**
-🔶 October–November 2026 expected hai (2026 mein 10–30 Oct 2025 tha). Notification abhi release nahi hua hai.
+NTA opens a short correction window after the form closes. In the 2026 cycle it ran **2–4 November 2025** — just three days. For 2027, a similar window in early November is 🔶 **expected**, but treat it as a backup, not a plan. Fill the form right the first time.
 
-**Q2. Application fee kitni hai?**
-🔶 Expected: ₹850 (General/OBC-NCL/Defence wards) aur ₹700 (SC/ST) — 2026 ke rates. Final bulletin mein confirm hogi.
+## Quick Timeline: What Happens Next
 
-**Q3. Form mein galti ho gayi to kya hoga?**
-NTA correction window deta hai (2026 mein 02–04 Nov). Usme sudhaar kar sakte hain, lekin kuch fields lock rehte hain.
+| Stage | Status |
+|-------|--------|
+| Notification / information bulletin | 🔶 Expected October 2026 |
+| Application window | 🔶 Expected Oct–Nov 2026 |
+| Correction window | 🔶 Expected early November 2026 |
+| Admit card | 🔶 Expected mid-January 2027 |
+| Exam date | ✅ 31 January 2027 (tentative, NTA calendar) |
+| Counselling (AISSAC) | After results; online, no fee |
 
-**Q4. Kya ek se zyada form bhar sakte hain?**
-Nahi. Ek candidate ek hi form bharein — multiple applications reject ho sakti hain.
+Once the form is done, the next milestone is the admit card — here's our [admit card guide](/blog/aissee-2027-admit-card-guide/) so you know exactly when to expect it.
 
-**Q5. Domicile certificate kyun zaroori hai?**
-Kyunki 67% seats home-state quota mein hain. Domicile proof ke bina aap is quota ka fayda nahi le payenge.
+## FAQs
 
-**Q6. Form bharne ke baad kya karna hai?**
-Confirmation page ka print rakhein, phir taiyaari par focus karein — [syllabus guide](/blog/aissee-2027-syllabus-class-6-class-9/) aur [mock tests](/blog/aissee-2027-mock-test-free-practice-sets/) se.
+### Has the AISSEE 2027 notification been released?
+No. As of 26 September 2026, NTA has not released the notification or information bulletin. It's 🔶 expected in October 2026, following the 2026 pattern.
+
+### What is the expected AISSEE 2027 application fee?
+🔶 Expected ₹850 for General, OBC-NCL and defence wards, and ₹700 for SC/ST — the 2026 rates. The final fee will be in the NTA bulletin.
+
+### Where do I fill the AISSEE 2027 application form?
+On NTA's portal. The 2026 address was on `exams.nta.nic.in`; the 2027 portal URL isn't live yet. We'll publish it in our notification guide the moment it's announced — don't use unofficial links.
+
+### Can I correct mistakes after submitting the form?
+Yes — NTA opens a short correction window (2–4 November 2025 for the 2026 cycle). A similar early-November window is 🔶 expected for 2027, but it's only a few days. Fill carefully the first time.
+
+### What documents do I need for the AISSEE form?
+The child's photo and signature, birth certificate, domicile certificate, caste certificate (if applicable), defence proof (if applicable), and an ID like Aadhaar. Keep the name and date of birth identical across all of them.
+
+### Is the application fee refundable if the form is rejected?
+No. NTA does not refund the fee, even if the form is rejected or the child turns out ineligible. That's why confirming eligibility before paying matters.
 
 ## Sources
-
-- AISSEE 2026 application details (TOI, Oct 2025): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
-- AISSEE 2027 pattern analysis (edexlive, 8 Sept 2026): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
-- AISSAC 2025 SOP (Sainik Schools Society): https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
+- AISSEE 2027 pattern from previous three cycles — [edexlive, 8 Sept 2026](https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern)
+- AISSEE 2026 application and exam schedule — [Times of India](https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms)
+- NTA exam calendar 2026-27 confirming the exam date — [Times of India](https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms)

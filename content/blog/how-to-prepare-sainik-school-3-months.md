@@ -1,115 +1,120 @@
 ---
-title: "AISSEE 2027 in 3 Months: 12-Week Study Plan — 31 January se Pehle Ye Strategy"
+title: "AISSEE 2027 3 Month Study Plan: Your 12-Week Strategy Before 31 January"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "12-week fast track plan to crack AISSEE 2027 in 3 months. Daily schedule, subject-wise strategy, weekly targets, mock tests, and expert tips for Class 6 & 9."
-keywords: ["sainik school preparation 3 months", "how to crack AISSEE", "sainik school fast track preparation", "AISSEE 3 month study plan", "sainik school preparation strategy"]
+description: "A realistic AISSEE 2027 3 month study plan — a 12-week fast-track strategy with daily schedule, subject-wise targets, mock test routine and expert tips for Class 6 & 9. Verified 26 Sept 2026."
+keywords: ["AISSEE 2027 3 month study plan", "sainik school preparation 3 months", "how to crack AISSEE", "sainik school fast track preparation", "AISSEE 3 month study plan", "sainik school preparation strategy", "AISSEE 2027 preparation plan"]
 author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/how-to-prepare-sainik-school-3-months.webp"
 ---
 
-> **🔄 Last verified: 26 September 2026** — Exam date ✅ **CONFIRMED**: 31 January 2027 (NTA calendar). NTA notification 🔶 **NOT released yet** (expected Oct 2026). Ye 12-week plan Nov 2026 se start karne ke hisaab se bana hai — agar aap aaj se shuru kar rahe hain to aapke paas ~4 mahine hain, aur bhi behtar.
+> **🔄 Last verified: 26 September 2026** — Exam date ✅ **CONFIRMED**: 31 January 2027 (NTA exam calendar 2026-27, notice dated 16 September 2026). NTA notification 🔶 **NOT released yet** (expected October 2026). This 12-week plan is built to start around early November 2026 — and if you're beginning today, you have roughly four months, which is even better.
 
-"3 mahine mein ho jayega?" — ye sawal har saal hazaaron parents poochte hain. Seedha jawab: **haan, ho sakta hai — lekin sirf tab jab ye 3 mahine disciplined hon.** Bina plan ke 6 mahine bhi kam padte hain, aur sahi plan ke saath 3 mahine kaafi hote hain.
+"Can it really be done in three months?" Every year, thousands of parents ask me this, usually in the same anxious tone. So let me give you the straight answer first: **yes, an AISSEE 2027 3 month study plan can work — but only if those three months are disciplined.** Without a plan, even six months fall short. With the right plan, three months are enough.
 
-AISSEE koi rocket science nahi hai. Class 6 ka paper NCERT Class 5 level ka hai, Class 9 ka NCERT Class 8 level ka. Jo bachcha school mein theek-thaak padhta hai, use sirf **exam-pattern ki practice aur speed** chahiye. Ye plan exactly wahi deta hai.
+Here's the thing — AISSEE is not rocket science. The Class 6 paper is at NCERT Class 5 level; the Class 9 paper is at NCERT Class 8 level. A child who pays attention in school doesn't need to learn everything from scratch. They need two things: familiarity with the exam pattern, and speed. This plan delivers exactly that.
 
-## Pehle ye 4 sach samajh lijiye
+A mother once told me her son studied "all day" for two months and still scored poorly in his first mock. We looked closer — he was re-reading chapters he'd already understood, and avoiding maths entirely. "All day" meant nothing because none of it was aimed at the exam. Three focused months beat six drifting ones. Every time.
 
-1. **Koi negative marking nahi** ✅ (2026 bulletin) — matlab har question attempt karna hai. Ye single fact aapki strategy badal deta hai.
-2. **Qualifying marks:** har section mein 25% + total mein 40% ✅ (SC/ST par lagu nahi). Lekin merit ke liye isse kaafi upar chahiye.
-3. **Maths sabse bada section hai** — Class 6 mein 150/300, Class 9 mein 200/400. Maths strong = aadhi ladai jeeti.
-4. **OMR sheet par paper hota hai** — jo bachcha pehli baar OMR bharega, wo 10–15 minute gol karne mein waste karega. Isliye mock tests OMR-style mein dijiye.
+## Four things to get straight before you start
 
-## 12-Week Plan: hafte-dar-hafte
+1. **There is no negative marking** ✅ (2026 bulletin). That single fact changes your whole strategy — your child must attempt every single question.
+2. **Qualifying marks:** 25% in each section and 40% overall ✅ (not applicable to SC/ST candidates). But the merit list needs scores well above this line.
+3. **Maths is the biggest section** — 150 out of 300 in Class 6, 200 out of 400 in Class 9. Strong maths means half the battle is won.
+4. **The paper is on an OMR sheet.** A child filling an OMR sheet for the first time wastes 10–15 minutes just figuring out the circles. That's why mock tests must be practised OMR-style, not on plain paper.
 
-| Weeks | Phase | Focus | Daily Time |
+## The 12-week plan, week by week
+
+| Weeks | Phase | Focus | Daily time |
 |-------|-------|-------|------------|
-| 1–4 | **Foundation** | NCERT revision (Class 5/8), har subject ke concepts clear | 3–4 hrs |
-| 5–8 | **Practice** | Topic-wise questions, R.S. Aggarwal reasoning, har Sunday 1 previous paper | 4–5 hrs |
-| 9–11 | **Mock Phase** | Hafte mein 3 full mock tests, weak topics par wapas | 5–6 hrs |
-| 12 | **Revision** | Sirf revision + 2 light mocks, naye topics bilkul nahi | 3–4 hrs |
+| 1–4 | **Foundation** | NCERT revision (Class 5/8); clear concepts in every subject | 3–4 hrs |
+| 5–8 | **Practice** | Topic-wise questions, reasoning practice, one previous paper every Sunday | 4–5 hrs |
+| 9–11 | **Mock phase** | Three full mock tests per week; revisit weak topics | 5–6 hrs |
+| 12 | **Revision** | Only revision plus two light mocks; no new topics at all | 3–4 hrs |
 
-### Phase 1 (Week 1–4): Foundation — jaldi mat kijiye, gehrai se kijiye
+### Phase 1 (Weeks 1–4): Foundation — go deep, not fast
 
-- **Maths:** NCERT ke har chapter ke examples + exercise. Formula ki ek diary banaiye — roz subah 10 minute revision.
-- **Language:** Grammar rules (tense, articles, prepositions) + roz ek comprehension passage.
-- **Intelligence:** Roz 20 reasoning questions. Ye section 4 hafte mein "free marks" ban jata hai.
-- **GK/Science/SST:** NCERT reading + Lucent's se one-liners. Current affairs: Aug 2026 se Jan 2027 tak ki badi khabrein.
+- **Maths:** every NCERT chapter, examples plus exercises. Start a formula diary — ten minutes of revision every morning.
+- **Language:** grammar rules (tenses, articles, prepositions) plus one comprehension passage daily.
+- **Intelligence:** twenty reasoning questions a day. In four weeks, this section turns into free marks.
+- **GK / Science / SST:** NCERT reading plus Lucent's one-liners. For current affairs, cover the major news from August 2026 to January 2027.
 
-### Phase 2 (Week 5–8): Practice — speed banaiye
+### Phase 2 (Weeks 5–8): Practice — build speed
 
-- Har subject ke topic-wise 50–100 questions roz.
-- **Har Sunday: ek previous year paper**, poori time limit ke saath (Class 6: 150 min, Class 9: 180 min).
-- Galat hue questions ki ek "mistake notebook" banaiye — ye aapki sabse keemti book banegi.
+- Fifty to a hundred topic-wise questions per subject, every day.
+- **Every Sunday: one previous year paper**, under the full time limit (150 minutes for Class 6, 180 for Class 9).
+- Start a "mistake notebook" for every wrong answer. This will become your child's most valuable book.
 
-### Phase 3 (Week 9–11): Mock Phase — exam hall ka mahaul
+### Phase 3 (Weeks 9–11): Mock phase — rehearse the exam hall
 
-- Hafte mein 3 full-length mock tests. [Free practice sets yahan milenge](/blog/aissee-2027-mock-test-free-practice-sets/).
-- Har mock ka analysis: kaunsa section slow hai? Kahan silly mistakes ho rahi hain?
-- Weak topics par wapas jaiye, lekin naye books mat kharidiye.
+- Three full-length mock tests per week. You'll find [free practice sets here](/blog/aissee-2027-mock-test-free-practice-sets/).
+- After every mock, analyse: which section was slow? Where did silly mistakes happen?
+- Go back to weak topics — but don't buy new books at this stage.
 
-### Phase 4 (Week 12): Revision — halka rakhiye
+### Phase 4 (Week 12): Revision — keep it light
 
-- Sirf formula diary, mistake notebook aur short notes.
-- 2 light mock tests, bas confidence ke liye.
-- **Naya topic mat chhuiye.** Exam se 2 din pehle padhai band, neend poori.
+- Only the formula diary, the mistake notebook, and short notes.
+- Two light mocks, just for confidence.
+- **Don't touch a new topic.** Stop studying two days before the exam and sleep properly.
 
-## Daily schedule (school ke saath)
+## A daily schedule that works alongside school
 
-| Time | Kaam |
+| Time | Task |
 |------|------|
-| Subah 6:00–6:30 | Formula/word revision |
-| School ke baad 4:00–6:00 | Maths (sabse fresh mind) |
-| 6:30–7:30 | Language / Intelligence |
-| 8:00–9:00 | GK / Science / SST |
+| 6:00–6:30 am | Formula and vocabulary revision |
+| 4:00–6:00 pm (after school) | Maths — freshest mind of the day |
+| 6:30–7:30 pm | Language / Intelligence |
+| 8:00–9:00 pm | GK / Science / SST |
 | Sunday | Full mock test + analysis |
 
-School homework ko halke mein mat lijiye — school ka syllabus hi AISSEE ka syllabus hai.
+And don't treat school homework lightly — the school syllabus *is* the AISSEE syllabus. Our [syllabus guide for Class 6 & 9](/blog/aissee-2027-syllabus-class-6-class-9/) maps this out chapter by chapter.
 
-## Subject-wise 3-month strategy
+## Subject-wise strategy for three months
 
-**Maths (sabse zyada marks):** Pehle 4 hafte concept, agle 8 hafte sirf speed. Target: Class 6 mein 150 mein se 120+, Class 9 mein 200 mein se 150+. Roz 30 questions minimum.
+**Maths (the most marks):** first four weeks for concepts, the next eight purely for speed. Target 120+ out of 150 (Class 6) or 150+ out of 200 (Class 9). Minimum thirty questions a day, no exceptions. Pick the right books from our [best books for AISSEE list](/blog/best-books-aissee-2027/) and stick to them.
 
-**Intelligence:** Ye sabse scoring section hai kyunki syllabus "padhna" nahi padta — sirf pattern pehchanna hota hai. Roz practice = 40+/50 pakke.
+**Intelligence:** the most scoring section, because there's no syllabus to "study" — only patterns to recognise. Daily practice can lock in 40+ out of 50.
 
-**Language:** Comprehension mein time waste mat kijiye — pehle questions padhiye, phir passage. Grammar ke rules ratne se zyada, previous papers ke questions dekhiye.
+**Language:** don't burn time on comprehension — read the questions first, then the passage. For grammar, studying previous papers' questions teaches more than memorising rules.
 
-**GK / Science / SST:** Last 4 hafte mein roz 30 minute. Facts ratne se zyada, previous papers mein poochhe gaye topics par focus kijiye — repeat pattern hota hai.
+**GK / Science / SST:** thirty minutes a day in the last month. Focus on topics that previous papers actually asked — there's a repeat pattern if you look for it.
 
-## Parents ke liye 5 salah
+## Five notes for parents
 
-1. **Bachche par chillaiye mat** — pressure se performance girti hai, badhti nahi.
-2. **Phone/TV ka time fix kijiye** — poori tarah cheen lena bhi sahi nahi, limit lagana sahi hai.
-3. **Mock test ke marks par overreact mat kijiye** — trend dekhiye, ek test nahi.
-4. **Sehat ka dhyan** — neend 8 ghante, khel 30 minute. Thaka hua dimaag kuch yaad nahi rakhta.
-5. **Form bharna mat bhooliye** — application window 🔶 **EXPECTED** Oct–Nov 2026. [Application guide](/blog/aissee-application-form-2027-guide/) padhkar documents pehle se taiyar rakhiye.
+1. **Don't shout at your child.** Pressure lowers performance; it never raises it.
+2. **Fix phone and TV timings** — taking them away completely backfires; setting a limit works.
+3. **Don't overreact to one mock's marks.** Watch the trend across tests, not a single score.
+4. **Protect their health.** Eight hours of sleep, thirty minutes of play. A tired brain remembers nothing.
+5. **Don't forget the application form.** The application window is 🔶 **EXPECTED** around October–November 2026 (the 2027 fee isn't announced yet — anyone quoting it as final is guessing). Keep documents ready in advance; our [application form guide](/blog/aissee-application-form-2027-guide/) walks you through it.
 
 ## FAQs
 
-**Q1. Kya 3 mahine mein sach mein crack ho sakta hai?**
-Haan, agar bachche ka school-level base theek hai. AISSEE ka syllabus NCERT based hai — jo bachcha class mein dhyan se padhta hai, use sirf pattern practice chahiye. Lekin roz 4–5 ghante disciplined padhai zaroori hai.
+**Q1. Can the exam genuinely be cracked in three months?**
+Yes — if your child's school-level base is decent. The syllabus is NCERT-based, so a child who studies sincerely in class mainly needs pattern practice. But four to five hours of disciplined daily study is non-negotiable.
 
-**Q2. Coaching zaroori hai ya self-study kaafi hai?**
-Self-study kaafi hai, agar plan follow ho. Coaching sirf discipline deta hai, knowledge nahi. [Detailed comparison yahan padhiye](/blog/sainik-school-online-coaching-vs-offline/).
+**Q2. Is coaching necessary, or is self-study enough?**
+Self-study is enough if the plan is followed. Coaching gives you discipline, not knowledge — you still have to build that yourself. Read our [detailed coaching vs self-study comparison](/blog/sainik-school-online-coaching-vs-offline/).
 
-**Q3. Kitne mock tests dene chahiye?**
-Kam se kam 10–12 full mocks + 5 saal ke previous papers. Isse kam mein exam temperament nahi banta.
+**Q3. How many mock tests are enough?**
+At least 10–12 full mocks plus five years of previous papers. Anything less, and exam temperament doesn't develop.
 
-**Q4. Weak subject (jaise maths) ko kitna time dein?**
-Total time ka 40% maths ko, 60% baaki subjects ko. Lekin weak subject ko chhodkar bhaagna sabse badi galti hai — qualifying ke liye har section mein 25% chahiye.
+**Q4. How much time should a weak subject like maths get?**
+Roughly 40% of total study time for maths, 60% for the rest. But never run away from a weak subject — you need 25% in every section just to qualify.
 
-**Q5. Exam se ek hafte pehle kya karein?**
-Sirf revision. Naya topic, naya mock, nayi book — kuch nahi. Confidence high rakhiye.
+**Q5. What should the last week before the exam look like?**
+Only revision. No new topics, no new mocks, no new books. Keep confidence high and sleep well.
 
-**Q6. Class 9 ke liye kya alag strategy hai?**
-Base wahi hai, lekin paper English medium mein hai aur maths tougher hai. English comprehension par extra time dijiye. [Class 9 complete guide](/blog/sainik-school-class-9-admission-2027/) padhiye.
+**Q6. Is the strategy different for Class 9?**
+The base is the same, but the paper is entirely in English medium and the maths is tougher. Give extra time to English comprehension. Our [Class 9 admission guide](/blog/sainik-school-class-9-admission-2027/) covers the differences.
 
 ## Sources
 
-- NTA AISSEE portal: https://exams.nta.nic.in/sainik-school-society/
-- NTA exam calendar 2026-27 (TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
-- AISSEE 2027 pattern analysis (edexlive): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
+- NTA exam calendar 2026-27 (The Times of India): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
+- AISSEE 2026 application and exam schedule (The Times of India): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
+- AISSEE 2027 pattern analysis (EdexLive): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
+- AISSAC 2025 counselling SOP (Sainik Schools Society): https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
+- New Sainik Schools announcement (PIB): https://www.pib.gov.in/PressReleasePage.aspx?PRID=2057614&pli=1&tf=1&pli=1&reg=48&lang=2
+- 100 new Sainik Schools in PPP mode (The Indian Express): https://indianexpress.com/article/education/rajnath-singh-announces-100-new-sainik-schools-in-ppp-mode-10594971/

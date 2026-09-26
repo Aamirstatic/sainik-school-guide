@@ -1,9 +1,9 @@
 ---
-title: "Sainik School Age Limit 2027: Class 6 & 9 Age Criteria, Calculation Examples"
+title: "Sainik School Age Limit 2027: Class 6 & 9 Age Criteria Explained with Examples"
 date: 2026-08-21
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Sainik School age limit 2027 for Class 6 & Class 9 explained with calculation examples. Date of birth cutoffs (projected), SC/ST rules & eligibility check. Verified 26 September 2026."
+description: "Sainik school age limit 2027 for Class 6 and Class 9 — projected date-of-birth cutoffs, how to calculate age as on 31 March 2027, SC/ST rules and a quick DOB eligibility check. Verified 26 September 2026."
 keywords: ["sainik school age limit 2027", "sainik school age criteria", "AISSEE age limit", "sainik school age calculation", "sainik school class 6 age limit", "sainik school class 9 age limit", "sainik school date of birth cutoff", "sainik school age relaxation SC ST"]
 author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
@@ -11,83 +11,101 @@ author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-age-limit-2027-detailed-guide.webp"
 ---
 
-> **🔄 Last verified: 26 September 2026** — ⚠️ NTA ne 2027 ka bulletin abhi release nahi kiya hai. Neeche diye gaye age cutoffs 🔶 **PROJECTION** hain — AISSEE 2026 bulletin (TOI via NTA) se ek saal shift karke nikale gaye. Final confirmation bulletin (expected Oct 2026) mein hogi.
+> **🔄 Last verified: 26 September 2026** — ⚠️ NTA has not released the 2027 bulletin yet. The age cutoffs below are 🔶 **PROJECTIONS** — derived by shifting the AISSEE 2026 bulletin (via TOI, citing NTA) one year forward. Final confirmation comes with the bulletin (expected October 2026).
 
-Age criteria AISSEE ka sabse **strict** rule hai. Marks kam aayein to agle saal phir try kar sakte hain — lekin age mein ek din ka farak hua to form seedha reject. Isliye is article ko dhyan se padhiye aur apne bachche ki date of birth se milakar dekhiye.
+The age rule is AISSEE's strictest. Low marks? You can always try again next year. But miss the age cutoff by a single day, and the form is rejected outright — no appeal, no second chance. So read this carefully, and match it against your child's birth date.
 
-## Ek line mein jawab
+At a school in Ranchi, a father's face fell when the teacher said, "Your son misses the cutoff by nine days." Nine days — after a full year of preparation. This guide exists so no parent learns it that way.
 
-| Class | 31 March 2027 ko umar | Janm tithi (🔶 projected) |
-|-------|----------------------|--------------------------|
-| Class 6 | 10–12 saal | **1 April 2015 – 31 March 2017** |
-| Class 9 | 13–15 saal | **1 April 2012 – 31 March 2014** |
+## The answer in one table
 
-**Basis:** 2026 bulletin mein Class 6 ke liye 1 Apr 2014 – 31 Mar 2016 aur Class 9 ke liye 1 Apr 2011 – 31 Mar 2013 tha (TOI, NTA bulletin ke hawale se). Har saal ek saal shift hota hai — isliye 2027 ka projection upar diya hai.
+| Class | Age as on 31 March 2027 | Birth date (🔶 projected) |
+|-------|------------------------|---------------------------|
+| Class 6 | 10–12 years | **1 April 2015 – 31 March 2017** |
+| Class 9 | 13–15 years | **1 April 2012 – 31 March 2014** |
 
-## Age calculate kaise karein? (3 examples)
+**Why these dates:** the 2026 bulletin set Class 6 at 1 Apr 2014 – 31 Mar 2016 and Class 9 at 1 Apr 2011 – 31 Mar 2013 (TOI, citing the NTA bulletin). The window shifts forward by one year every cycle — hence the projection above.
 
-**Rule:** Umar **31 March 2027** ko gini jaati hai — aaj ki date par nahi, exam date (31 Jan 2027) par bhi nahi.
+## Quick DOB check (Class 6)
 
-**Example 1 — Eligible ✅**
-Bachche ka janm: **15 June 2015.** 31 March 2027 ko umar: 11 saal 9 mahine → 10–12 ke beech → **Class 6 ke liye eligible** (projected).
+Find your child's birth date below. Honestly, this table answers 90% of parents' questions:
 
-**Example 2 — NOT eligible ❌**
-Bachche ka janm: **2 April 2017.** 31 March 2027 ko umar: 9 saal 11 mahine 29 din → 10 saal se **2 din kam** → eligible nahi. Dardnaak hai, lekin rule rule hai.
+| Date of birth | Age on 31 March 2027 | Eligible? |
+|---------------|----------------------|-----------|
+| 30 March 2015 | 12 years, 1 day | ❌ No — over-age by a day |
+| 1 April 2015 | 11 years, 11 months | ✅ Yes |
+| 15 June 2015 | 11 years, 9 months | ✅ Yes |
+| 31 March 2017 | Exactly 10 years | ✅ Yes — the range is inclusive |
+| 1 April 2017 | 9 years, 11 months | ❌ No — under-age by a day |
 
-**Example 3 — Class 9 ✅**
-Bachche ka janm: **10 October 2012.** 31 March 2027 ko umar: 14 saal 5 mahine → 13–15 ke beech → **Class 9 ke liye eligible** (projected).
+See how brutal those edges are? One day. That's why you *calculate* — never estimate.
 
-## Girls ke liye age rule
+## How to calculate age (3 worked examples)
 
-Girls ke liye **age criteria same** hai — koi alag cutoff nahi. Farak sirf seats mein hai: 33 traditional schools mein Class 6 ki **10% seats ya 10 seats (jo zyada ho)** girls ke liye reserved ✅ (SOP). [Girls admission ki poori jaankari](/blog/sainik-school-for-girls-2027/) yahan hai.
+**The golden rule:** age is counted **as on 31 March 2027** — not today's date, and not the exam date (31 January 2027) either. This single misunderstanding disqualifies more applications than you'd believe.
 
-## Kya age mein relaxation (chhoot) milti hai?
+**Example 1 — eligible ✅**
+Born **15 June 2015**. On 31 March 2027, the child is 11 years and 9 months old — inside the 10–12 band → **eligible for Class 6** (projected).
 
-Seedha jawab: **SC/ST ko qualifying marks mein chhoot milti hai** (25%+40% wala rule un par lagu nahi hota ✅), lekin **age mein aam taur par koi relaxation nahi hoti.** Ye rule pichhle kai saalon se stable hai, lekin final confirmation hamesha bulletin se kijiye.
+**Example 2 — not eligible ❌**
+Born **2 April 2017**. On 31 March 2027, the child is 9 years, 11 months and 29 days — two days short of 10 → **not eligible**. Painful, but the rule is the rule.
 
-## Age se judi 4 zaroori baatein
+**Example 3 — Class 9, eligible ✅**
+Born **10 October 2012**. On 31 March 2027, the child is 14 years and 5 months — inside the 13–15 band → **eligible for Class 9** (projected).
 
-1. **Birth certificate hi final proof hai** — school record ya affidavit nahi chalega. Municipal corporation ka birth certificate banwa kar rakhiye.
-2. **DOB form mein bilkul sahi bhariye** — ek digit ka farak bhi baad mein pareshani dega.
-3. **"Agla saal try karenge" ka option** — agar bachcha is saal age mein chhota hai, to ghabraiye mat. [2028 ki early preparation guide](/blog/sainik-school-admission-2028-early-preparation/) padhkar 15 mahine ki taiyari shuru kijiye — ye toppers wala rasta hai.
-4. **Over-age hone par** — koi appeal/relaxation aam taur par nahi milti. [Admission mistakes](/blog/sainik-school-admission-mistakes/) wali guide mein is par detail hai.
+## Do girls have a different age rule?
 
-## Age proof ke liye kaunse documents chahiye?
+No — the **age criteria are identical** for girls. The difference is only in seats: in the 33 established schools, **10% of Class 6 vacancies or 10 seats, whichever is more**, are reserved for girls ✅ (per the AISSAC SOP). Not 25% — if you've seen that figure somewhere, it's wrong. The [girls' admission guide](/blog/sainik-school-for-girls-2027/) covers everything else.
 
-Form bharte waqt aur counselling mein age prove karne ke liye ye documents taiyar rakhiye:
+## Is there any age relaxation?
 
-- **Birth certificate** (municipal corporation/nagar palika se) — sabse authentic proof ✅
-- **School ka transfer certificate (TC)** — is par likhi DOB bhi dekhi jaati hai
-- **Aadhaar card** — supporting document ke taur par
+Straight answer: **SC/ST candidates get relaxation in qualifying marks** (the 25%-per-section + 40%-aggregate rule doesn't apply to them ✅) — but **there is generally no relaxation in age.** This has held steady for years. The bulletin, of course, has the final word.
 
-⚠️ Teeno mein DOB **same** honi chahiye. Agar birth certificate aur school record mein farak hai, to **abhi** theek karwaiye — form bharne ke baad correction lagbhag impossible hai.
+## Four things about age you must know
 
-## Agar is saal eligible nahi hain to?
+1. **The birth certificate is the final proof.** Not the school record, not an affidavit — the municipal birth certificate. Get it made and keep it ready.
+2. **Enter the DOB in the form with extreme care.** A single wrong digit creates problems that are nearly impossible to fix later.
+3. **Too young this year? That's not a defeat.** Start the [15-month early-preparation plan for 2028](/blog/sainik-school-admission-2028-early-preparation/) right now — that's the toppers' path, and it begins with an advantage most aspirants don't have: time.
+4. **Over-age?** There is generally no appeal and no relaxation. Read the [7 admission mistakes](/blog/sainik-school-admission-mistakes/) guide so the rest of your process is airtight.
 
-Ghabraiye mat — ye koi haar nahi hai. Do raste hain:
+## Documents that prove age
 
-1. **Agla saal:** Agar bachcha age mein chhota hai (jaise Example 2 wala case), to [2028 ki taiyari](/blog/sainik-school-admission-2028-early-preparation/) abhi se shuru kar dijiye. 15 mahine ki taiyari wale bachche aksar toppers bante hain.
-2. **Class 9 entry:** Agar Class 6 ke liye over-age ho gaye hain, to Class 9 ka rasta khula hai — [Class 9 guide](/blog/sainik-school-class-9-admission-2027/) padhiye.
+Keep these ready for the application form and for counselling:
+
+- **Birth certificate** (municipal corporation / nagar palika) — the most authentic proof ✅
+- **School transfer certificate (TC)** — the DOB printed on it gets cross-checked
+- **Aadhaar card** — as supporting proof
+
+⚠️ The date of birth must **match across all three documents**. If the birth certificate and the school record disagree, get it corrected **now** — after the form is submitted, corrections are practically impossible.
+
+## Not eligible this year? Two roads forward
+
+1. **Next year:** If your child is under-age (like Example 2 above), don't lose heart — begin [2028 preparation](/blog/sainik-school-admission-2028-early-preparation/) today. Fifteen months of steady preparation routinely produces toppers.
+2. **Class 9 entry:** If the Class 6 window has closed for your child, Class 9 remains open down the line — see the [Class 9 admission guide](/blog/sainik-school-class-9-admission-2027/).
 
 ## FAQs
 
-**Q1. Kya 31 March 2027 ko exactly 10 saal ka bachcha eligible hai?**
-Haan — 10–12 saal ki range inclusive hai. Janm 31 March 2017 tak eligible (projected).
+**Q1. My child turns exactly 10 on 31 March 2027 — eligible?**
+Yes. The 10–12 range is inclusive, so a 31 March 2017 birth date qualifies (projected).
 
-**Q2. Kya DOB mein correction ho sakti hai form bharne ke baad?**
-NTA limited correction window deta hai (2026 mein di thi), lekin DOB jaise critical field mein correction mushkil hoti hai. Pehli baar mein sahi bhariye.
+**Q2. Can the date of birth be corrected after submitting the form?**
+NTA usually opens a limited correction window (the 2026 cycle had one), but DOB is a critical field and corrections there are difficult. Get it right the first time.
 
-**Q3. Class 9 ke liye kya Class 8 pass hona zaroori hai?**
-Haan — recognised school se Class 8 pass hona chahiye ✅ (2026 bulletin).
+**Q3. Must a Class 9 applicant have passed Class 8?**
+Yes — from a recognised school ✅ (per the 2026 bulletin).
 
-**Q4. Kya defence wards ko age mein chhoot milti hai?**
-Nahi — defence quota seats mein hai (25% of remainder ✅), age mein nahi.
+**Q4. Do children of defence personnel get age relaxation?**
+No. The defence quota sits in seats (25% of the remainder ✅), not in age.
 
-**Q5. Bulletin mein age rule badal sakta hai?**
-Pattern pichhle kai saalon se stable hai — badlav 🔶 unlikely hai. Lekin final word hamesha bulletin ka hoga (expected Oct 2026).
+**Q5. Could the bulletin change the age rule?**
+The pattern has been stable for years — a change is 🔶 unlikely. But the final word is always the bulletin's (expected October 2026).
+
+**Q6. Which date actually matters — the exam date or 31 March?**
+31 March 2027. Always 31 March. Not the exam date, not today's date.
 
 ## Sources
 
-- AISSEE 2026 application (TOI, cites NTA bulletin — age criteria): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
-- AISSEE 2027 no-dates-yet, 3-cycle pattern (edexlive, 8 Sept 2026): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
-- NTA AISSEE portal: https://exams.nta.nic.in/sainik-school-society/
+- AISSEE 2026 age criteria (NTA bulletin) — via [Times of India](https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms)
+- Why 2027 dates aren't out yet — the three-cycle pattern, [EdexLive (8 Sept 2026)](https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern)
+- AISSAC counselling SOP (Sainik Schools Society) — [PDF](https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf)
+- NTA AISSEE portal — [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/)

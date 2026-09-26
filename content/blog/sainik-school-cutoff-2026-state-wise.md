@@ -1,9 +1,9 @@
 ---
-title: "Sainik School Cutoff 2026: Cutoff Kaise Banta Hai, Safe Score Kitna — Poora Analysis"
+title: "Sainik School Cutoff 2026–27: How Cutoffs Really Work & What a Safe Score Looks Like"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Sainik School cutoff 2026 explained honestly — how cutoffs work (school-wise merit, home-state quota), qualifying marks, safe score strategy & 2027 expectations. Verified 26 September 2026."
+description: "Sainik school cutoff explained honestly: how school-wise merit lists, the home-state quota and reservation actually set cutoffs — and why the state-wise cutoff numbers floating online can't be trusted. Verified 26 September 2026."
 keywords: ["sainik school cutoff", "AISSEE cutoff 2026", "sainik school cutoff marks", "sainik school state wise cutoff", "AISSEE 2026 cutoff marks", "sainik school category wise cutoff"]
 author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
@@ -11,85 +11,117 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-cutoff-2026-state-wise.webp"
 ---
 
-> **🔄 Last verified: 26 September 2026** — Ek zaroori baat pehle: **humne yahan man-gadhant state-wise cutoff numbers nahi diye hain.** Kai websites bina source ke "UP cutoff 235, Bihar cutoff 241" jaise numbers chhaapti hain — ye numbers verify nahi hote aur parents ko gumrah karte hain. Is article mein hum **cutoff ka poora mechanism** samjhayenge — ye samajhna kisi number se zyada kaam ka hai. 2027 ke cutoffs 🔶 result (expected Mar 2027) ke baad aayenge.
+> **🔄 Last verified: 26 September 2026** — One promise before anything else: **you will not find invented state-wise cutoff numbers in this article.** Many websites publish tables like "UP cutoff 235, Bihar cutoff 241" with no source. Those numbers are unverifiable and mislead parents. What you'll find here instead is the **actual mechanism** — how a Sainik School cutoff is built, step by step. Understanding the machine beats memorising a fake number. 2027 cutoffs will emerge 🔶 after the result (expected March 2027), round by round.
 
-## Sabse pehle: cutoff hota kya hai?
+"What score does my child need?" It's the first question every parent asks me about the Sainik School cutoff, and here's the uncomfortable truth: **nobody can give you a real number right now — and anyone who does is guessing.** A cutoff isn't announced before the exam. It's not set by NTA in a meeting room. It's *produced* by the result itself, after the exam, separately for every school, class, gender and category. Once you understand that, the whole game becomes clearer — and you'll stop chasing fake lists.
 
-Simple bhasha mein: har school, har category ki **aakhri selected student ke marks** = cutoff. Ye NTA pehle se tay nahi karta — ye **result ke baad banta hai**, is par depend karke:
+Last week a father forwarded me a screenshot from a WhatsApp group: a neat little table, "Sainik School Cutoff 2026 — UP 235, Bihar 241, MP 228." No source, no school names, no category breakup. Just numbers in a coloured box. He asked, "Is this real?" My answer: if a cutoff table doesn't tell you *which school*, *which class*, *which category* and *which round* — it's decoration, not data.
 
-1. **Kitne students ne exam diya** (competition)
-2. **Paper kitna tough tha** (tough paper = kam cutoff)
-3. **Us school mein kitni seats hain** (kam seats = zyada cutoff)
-4. **Aapki category aur state** (neeche samjhaya hai)
+## So what is a cutoff, really?
 
-Isliye "2027 ka cutoff 240 hoga" — ye kehna **jhooth** hai. Koi nahi jaanta. Jo kehta hai, wo guess ko fact bana raha hai.
+Simple version: for every school, in every category, the **last admitted student's marks** become that category's cutoff. That's it. NTA doesn't decide it in advance; it emerges from the counselling after the results. It depends on four things:
 
-## Phir bhi ek solid base hai: qualifying marks ✅
+1. **How many students appeared** (more applicants, higher cutoff)
+2. **How tough the paper was** (tougher paper, lower cutoff)
+3. **How many seats that school has** (fewer seats, higher cutoff)
+4. **Your category, state and gender** (explained below)
 
-AISSEE 2026 bulletin ke anusaar (2027 mein repeat 🔶 expected):
+Which is why "the 2027 cutoff will be 240" is a meaningless sentence. Nobody knows. Not the coaching centres, not the YouTubers, not me. Anyone stating it as fact is converting a guess into a headline.
+
+## How a cutoff is actually built (the real machine)
+
+| Step | What happens | Why it matters to you |
+|------|-------------|----------------------|
+| 1. Exam + result | NTA declares AISSEE scores | Your child's rank is born here |
+| 2. Registration | You register for AISSAC counselling | No registration = no seat, regardless of marks |
+| 3. Merit lists | Society publishes merit lists per school × class × gender × category | There is no single "all-India cutoff" — there are hundreds of small ones |
+| 4. Home vs other state | 67% seats fenced for home-state students, 33% for others | Your cutoff depends on *your* state-school combination |
+| 5. Round-by-round allotment | ~6 rounds; unfilled seats roll to the next merit | Cutoffs soften slightly with each round |
+| 6. Final cutoff | The last admitted student's marks in each list | This number only exists *after* counselling ends |
+
+Read that table twice. The key insight: a "Sainik School cutoff" is not one number. It's a grid — school × class × gender × category × round. A single state-wise number can't capture that grid, which is exactly why single-number tables are fiction.
+
+## Why those "state-wise cutoff" lists can't be trusted
+
+Let me be blunt about the lists you'll find on some websites, because parents act on them — sometimes by skipping counselling they could have won:
+
+- **No source.** A real cutoff comes from AISSAC's published merit lists on `pesa.ncog.gov.in`. If a site doesn't link to a merit list, where did the number come from?
+- **No breakup.** A genuine cutoff always specifies the school, class, gender, category and round. "Bihar cutoff 241" specifies none of these. Which school in Bihar? Boys or girls? General or OBC? Round 1 or Round 5? Without answers, the number is meaningless.
+- **No updates.** Real cutoffs move across rounds. Static lists pretend Round 1 is the whole story — it isn't.
+- **Incentive problem.** Precise-looking numbers get clicks and shares. Accuracy doesn't. Guess which one some sites optimise for.
+
+Here's my rule of thumb, and I'd suggest you adopt it: **treat any cutoff number without a linked official merit list as a rumour.** The authentic source is, and has always been, the AISSAC merit lists themselves.
+
+## The one solid number you can actually use: qualifying marks
+
+While cutoffs are unknowable in advance, the *qualifying* marks are fixed and official — from the AISSEE 2026 bulletin (2027 expected to repeat them):
 
 | | Class 6 (300 marks) | Class 9 (400 marks) |
 |---|---|---|
-| Har section mein minimum | 25% (har section) | 25% (har section) |
-| Total mein minimum | 40% = **120 marks** | 40% = **160 marks** |
-| SC/ST par | Ye rule lagu **nahi** | Ye rule lagu **nahi** |
+| Minimum per section | 25% in each section | 25% in each section |
+| Minimum aggregate | 40% = **120 marks** | 40% = **160 marks** |
+| SC/ST candidates | This rule does **not** apply ✅ | This rule does **not** apply ✅ |
 
-**Lekin dhyan dijiye:** qualifying marks sirf "race mein daudne ki permission" hai. Merit list isse **kaafi upar** banti hai. Safe rehne ke liye qualifying se 25–35% upar ka target rakhiye (ye expert salah hai, official number nahi).
+✅ CONFIRMED (2026 bulletin; 2027 repeat 🔶 expected).
 
-## Cutoff state-wise kyun vary karta hai? (67–33 ka rule ✅)
+But — and this is crucial — qualifying is just the *entry ticket* to the merit race. Actual merit cutoffs land well above these numbers. Think of 120/160 as the floor of the building; the seats are on the upper floors.
 
-Sainik Schools mein reservation aisa hai:
+## Why cutoffs differ so much: the 67–33 rule
 
-- **67% seats** — us state ke students ke liye jis state mein school hai (home-state)
-- **33% seats** — baaki states ke students ke liye (other-state)
+Reservation is the biggest reason a single "cutoff" can't exist ✅:
 
-Iska matlab: **aapka cutoff aapke state aur school combination par depend karta hai.** Jis state mein zyada applicants hain, wahan home-state cutoff zyada hoga. Isliye "all-India cutoff" naam ki koi cheez nahi hoti — har school-category ka apna cutoff hota hai.
+- **67%** of seats are reserved for students of the school's home state
+- **33%** for students from other states
+- On top of that: **SC 15%**, **ST 7.5%**, **OBC-NCL 27%**
+- Of the remainder, **25%** for defence wards
+- Girls (Class 6, in the 33 established schools): **10% of vacancies or 10 seats, whichever is more** ✅
 
-Uske upar: SC **15%**, ST **7.5%**, OBC-NCL **27%**, aur bache hue mein se **25%** defence wards ke liye ✅. Har category ka alag cutoff banta hai.
+So your child's real competition isn't "all of India" — it's students in the same state-quota, category and gender bucket, applying to the same school. That's why cutoffs swing wildly between two schools in the same state, and why your home-state school is usually your best statistical bet. Our [quota guide](/blog/sainik-school-sc-st-defence-quota-2027/) and [girls' admission guide](/blog/sainik-school-for-girls-2027/) break this down further.
 
-## 2026 cycle se kya seekha? (Dated facts)
+## What the 2026 cycle genuinely tells us
 
-- AISSEE 2026 ka exam ✅ **18 January 2026** ko hua tha.
-- Counselling AISSAC ke through hui; merit lists `pesa.ncog.gov.in` par publish huin (Moneycontrol ne merit list release cover ki thi).
-- **Official school-wise cutoffs AISSAC ki merit lists mein hi milte hain** — wahi authentic source hai. Kisi bhi third-party "cutoff list" par aankh band karke bharosa mat kijiye.
+Sticking only to what's verifiable: the 2026 cycle's e-counselling ran through AISSAC, and the Society published school-wise merit lists on `pesa.ncog.gov.in` — education press (Moneycontrol among them) covered the merit list release. Those merit lists, and only those, are where authentic 2026 cutoffs live. If you want last year's real numbers for a specific school and category, that's where to look — not on a third-party blog's coloured table.
 
-## Safe score strategy (2027 aspirants ke liye)
+The broader lesson from 2026: cutoffs emerged round by round, exactly as the mechanism above describes, and late-round movement was real. Which brings us to strategy.
 
-Since exact cutoff predict nahi kiya ja sakta, ye practical targets rakhiye:
+## A safe-score strategy for 2027 (editorial guidance, not official)
 
-| Class | Qualifying (min) | 🔶 Suggested safe target | Kyun |
-|-------|-----------------|------------------------|------|
-| 6 (300) | 120 | **190–210+** | Merit qualifying se kaafi upar banti hai |
-| 9 (400) | 160 | **250–270+** | Seats kam, competition zyada |
+Since no one can predict the cutoff, here's how I'd frame targets — and I want to be explicit: **these are my editorial suggestions, not official figures, and they guarantee nothing.**
 
-Ye targets **expert anumaan** hain — guarantee nahi. Lekin itna score lane wala student aam taur par safe zone mein hota hai.
+| Class | Qualifying floor | Suggested safe target | Reasoning |
+|-------|-----------------|----------------------|-----------|
+| 6 (of 300) | 120 | **190–210+** | Merit typically settles far above qualifying |
+| 9 (of 400) | 160 | **250–270+** | Fewer seats, stiffer competition |
 
-**Score badhane ka sabse asaan tareeka:** Maths (sabse bada section) + Intelligence (sabse scoring section) — dono milkar Class 6 mein 200/300 aur Class 9 mein 250/400 marks cover karte hain. [Topper strategy](/blog/sainik-school-aissee-topper-tips-2027/) mein detail hai.
+A student scoring in those bands is usually in the safe zone — not guaranteed, but well-positioned. And the most efficient way to get there: Maths plus Intelligence together cover 200 of 300 marks in Class 6 and 250 of 400 in Class 9. They're the two highest-leverage sections on the paper. Our [topper strategy guide](/blog/sainik-school-aissee-topper-tips-2027/) shows how high scorers actually split their preparation time.
 
-## 2027 cutoffs kab aayenge? 🔶
+## When will the 2027 cutoffs appear? 🔶
 
-AISSEE 2027 ka result expected March 2027 mein aayega — uske baad AISSAC rounds ke saath school-wise cutoffs saamne aayenge. Hum har round ke baad is article ko update karenge.
+After the AISSEE 2027 result (expected around March 2027), AISSAC will run its rounds and publish merit lists — and each round's lists will reveal that round's effective cutoffs. We'll update this article as each round's data comes out. In the meantime, the highest-value thing you can do is understand [how counselling itself works](/blog/sainik-school-counselling-2027/) — because cutoffs only matter if you're still in the counselling when your number comes up.
 
 ## FAQs
 
-**Q1. Kya pichhle saal ka cutoff dekhkar is saal ka andaza lag sakta hai?**
-Rough idea lag sakta hai — lekin paper ki difficulty aur applicants har saal badalte hain. Pichhla cutoff "reference" hai, "guarantee" nahi.
+**Q1. Can last year's cutoff predict this year's?**
+Roughly, as a reference point — never as a guarantee. Paper difficulty and applicant numbers change every year. Use it for direction, not for decisions.
 
-**Q2. Home-state quota ka fayda kaise uthayein?**
-Apne state ke school ko choice filling mein upar rakhiye — 67% seats home-state ke liye hain, to wahan chance zyada hai. [Counselling guide](/blog/sainik-school-counselling-2027/) padhiye.
+**Q2. Is there really no all-India cutoff?**
+Really none. Cutoffs are built per school, per class, per gender, per category, per round. Any single number claiming to be "the" cutoff is hiding all of that.
 
-**Q3. SC/ST ka cutoff kitna kam hota hai?**
-Un par 25%+40% wala qualifying rule lagu nahi hota ✅, aur alag merit banti hai. Exact numbers school-wise merit lists mein dekhein.
+**Q3. How do I use the home-state quota to my advantage?**
+Put your home-state school high in your choice filling — 67% of its seats are reserved for home-state students, so your odds are structurally better there.
 
-**Q4. Kya girls ka alag cutoff hota hai?**
-Girls ki seats alag reserved hain (10% ya 10 seats ✅), to unki merit alag banti hai. [Girls guide](/blog/sainik-school-for-girls-2027/) dekhein.
+**Q4. Do SC/ST candidates have lower cutoffs?**
+The 25%-per-section and 40%-aggregate qualifying rule doesn't apply to SC/ST candidates ✅, and separate merit lists are prepared for each category. Exact figures live in the official merit lists.
 
-**Q5. Agar mere marks cutoff se 5–10 kam hain to kya karun?**
-Aage ke counselling rounds ka intezaar kijiye — har round mein cutoff thoda neeche aata hai. Spot round tak bane rahiye.
+**Q5. My child's score is 5–10 marks below last year's cutoff for our school. Should we give up?**
+No — stay in the counselling through every round. Cutoffs ease as rounds progress, and spot rounds have surprised many families. Leaving early is the only guaranteed way to lose.
+
+**Q6. Where will I find the official 2027 cutoffs when they're out?**
+In the AISSAC merit lists on `pesa.ncog.gov.in`, published round by round after the result. Bookmark that, not the WhatsApp forwards.
 
 ## Sources
 
-- AISSEE 2026 e-counselling merit list (Moneycontrol): https://www.moneycontrol.com/education/aissee-2026-sainik-school-e-counselling-merit-list-2026-out-candidates-shortlisted-for-medical-examination-direct-link-here-to-download-article-13853009.html
-- AISSAC SOP (Sainik Schools Society): https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
-- AISSEE 2026 application (TOI, cites NTA bulletin — qualifying marks): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
-- NTA exam calendar 2026-27 (TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
+- AISSAC 2025 SOP (Sainik Schools Society) — reservation, merit and allotment rules: https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
+- AISSEE 2027 — no dates yet, but three cycles reveal a pattern (EdexLive): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
+- NTA exam calendar 2026-27 — AISSEE 2027 on 31 Jan 2027 (TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
+- AISSEE 2026 application details — qualifying marks (TOI): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms

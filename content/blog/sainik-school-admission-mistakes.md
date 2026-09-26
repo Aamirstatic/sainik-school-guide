@@ -1,9 +1,9 @@
 ---
-title: "Sainik School Admission 2027: 7 Galtiyan Jo Parents Har Saal Karte Hain"
+title: "Sainik School Admission Mistakes: 7 Errors Parents Make Every Year (and How to Fix Them)"
 date: 2026-07-05
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Avoid these 7 critical Sainik School admission mistakes 2027. Parent guide covering fake notification news, age calculation, document errors, medical test & counselling mistakes."
+description: "Sainik school admission mistakes to avoid — fake notification news, wrong age calculation, document and fee errors, medical test surprises and counselling blunders. A practical parent's checklist for AISSEE 2027."
 keywords: ["sainik school admission mistakes", "AISSEE 2027 mistakes", "sainik school parent guide", "sainik school admission errors", "AISSEE application rejected", "sainik school age calculation", "sainik school medical test", "sainik school admission tips 2027"]
 author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
@@ -11,87 +11,93 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-admission-mistakes.webp"
 ---
 
-> **🔄 Last verified: 26 September 2026** — Exam ✅ 31 Jan 2027 (NTA calendar). Notification 🔶 NOT released (expected Oct 2026). Neeche har galti ke saath uska sahi solution diya hai.
+> **🔄 Last verified: 26 September 2026** — Exam ✅ **31 January 2027** (NTA calendar, tentative). Notification 🔶 **NOT released** (expected October 2026). Every mistake below comes with its fix — read this before you fill the form.
 
-Har saal AISSEE mein hazaaron bachche sirf isliye bahar ho jaate hain kyunki unke parents ne **form bharte waqt ya taiyari mein** koi chhoti si galti kar di. Paper tough nahi tha — process mein chook ho gayi.
+Every year, thousands of children miss out on AISSEE not because the paper was tough, but because **a parent slipped somewhere in the process**. A wrong date here, a missing certificate there — small errors with final consequences.
 
-Main ye 7 galtiyan isliye likh raha hoon taaki aapka bachcha inmein na phase. Har galti real hai — pichhle cycles mein dekhi gayi.
+Below are the 7 mistakes I see repeat every single cycle. Each one is real. Each one is avoidable. And each one comes with exactly what to do instead.
 
-## Galti 1: "Notification aa gaya" wale jhooth par bharosa karna
+A mother in Jaipur filled the form at midnight, half-asleep after a long day. She uploaded her own photograph instead of her son's. The form was rejected. She tells every parent she meets now: "Fill it in daylight. After chai. Slowly."
 
-⚠️ **Sabse badi aur sabse common galti.** Kai websites aur YouTube channels "AISSEE 2027 notification released!" likhkar views bator rahe hain. Sach: **26 September 2026 tak NTA ne koi notification release nahi kiya hai.**
+## Mistake 1: Believing "notification released" clickbait
 
-Is jhooth ka nuksaan? Parents jaldbazi mein galat portal par form bhar dete hain, ya fake "application links" par fee de dete hain.
+The biggest, and the most common. Websites and YouTube channels shout "AISSEE 2027 notification released!" for views. The truth, as of 26 September 2026: **NTA has released nothing.**
 
-**Sahi tareeka:** Sirf `nta.ac.in` aur `exams.nta.nic.in` par bharosa kijiye. Notification 🔶 **expected October 2026**. Hamari [notification guide](/blog/aissee-2027-notification-guide/) par hum bulletin aate hi update karenge — bookmark kar lijiye.
+The damage is real. Parents rush to lookalike portals, and some even pay "application fees" on fraudulent links.
 
-## Galti 2: Age galat calculate karna
+**The fix:** Trust only `nta.ac.in` and `exams.nta.nic.in`. The genuine notification is 🔶 expected in October 2026. Bookmark our [notification guide](/blog/aissee-2027-notification-guide/) — we update it the day the bulletin actually drops.
 
-Class 6 ke liye age **31 March 2027 ko 10–12 saal** honi chahiye (janm 🔶 projected: 1 Apr 2015 – 31 Mar 2017). Kai parents "10 saal ka hai, eligible hoga" sochkar form bhar dete hain — lekin cutoff **31 March** ko dekha jata hai, aaj ki date par nahi.
+## Mistake 2: Calculating the age wrong
 
-Ek din ka farak bhi form reject karwa sakta hai. [Age calculation ke examples](/blog/sainik-school-age-limit-2027-detailed-guide/) yahan dekhein — apne bachche ki date of birth milakar check kijiye.
+For Class 6, the child must be 10–12 years old **as on 31 March 2027** (projected birth window: 1 April 2015 – 31 March 2017). Many parents think "he's 10, so he's eligible" — but the cutoff is measured on **31 March**, not today.
 
-## Galti 3: Documents last minute mein jutana
+A single day's difference can get the form rejected. There is no appeal, no relaxation, no "please consider."
 
-Form mein chahiye hota hai: birth certificate, photo, signature, category certificate (SC/ST/OBC-NCL), domicile, defence service certificate (agar lagu ho). Har saal kai parents **category certificate** banwane mein late ho jaate hain — aur bina certificate ke aap General category mein gine jaoge, chahe aap SC/ST/OBC hi kyun na hon.
+**The fix:** Calculate the age as on 31.03.2027 — never estimate. Run your child's birth date through the [age-limit guide with worked examples](/blog/sainik-school-age-limit-2027-detailed-guide/) before anything else.
 
-**Abhi se** saare documents scan karke ek folder mein rakhiye. OBC-NCL certificate to har saal renew hota hai — purana wala nahi chalega.
+## Mistake 3: Gathering documents at the last minute
 
-## Galti 4: Galat fee ya galat category mein payment
+The form asks for: birth certificate, photograph, signature, category certificate (SC/ST/OBC-NCL), domicile certificate, and a defence service certificate if applicable. Every year, parents scramble for the **category certificate** — and here's the catch most learn too late: without a valid certificate, your child is counted as General, whatever your actual category.
 
-Fee 🔶 expected: **₹850** (Gen/OBC/Defence) / **₹700** (SC/ST). Galat category select karke kam fee de di, to form invalid ho sakta hai. Aur ek baar fee deduct ho gayi to **refund nahi milta.**
+Also note: OBC-NCL certificates need yearly renewal. Last year's won't work.
 
-Form submit karne se pehle **3 baar** category aur fee check kijiye.
+**The fix:** Scan everything right now. Keep it all in one folder — physical and digital. Future-you will be grateful.
 
-## Galti 5: Medical test ko halke mein lena
+## Mistake 4: Paying the wrong fee under the wrong category
 
-Merit list mein naam aa gaya — mubarak! Lekin abhi **medical test** baki hai. Eyesight, height-weight, flat foot, knock knees — in par bachche reject hote hain. Aur sabse bura: parents ko pata bhi nahi hota ki problem hai.
+Expected fee 🔶: **₹850** (General / OBC-NCL / defence wards) / **₹700** (SC/ST). Select the wrong category and pay the wrong amount, and the form can be invalidated. And once the fee is deducted, **there is no refund.**
 
-**Solution:** Admission se pehle ek baar achhe doctor se general checkup karwa lijiye. Agar chashma lagta hai to number update karwaiye. [Medical test guide](/blog/sainik-school-medical-test-2027/) mein poori list hai.
+**The fix:** Check the category and the fee three times before hitting "pay." Then check once more. This thirty-second habit has saved many a form.
 
-## Galti 6: Counselling mein choice filling mein laparwahi
+## Mistake 5: Ignoring the medical test
 
-AISSAC counselling (`pesa.ncog.gov.in`) mein aapko schools ki **preference order** deni hoti hai. Kai parents sirf "ghar ke paas wala school" first choice mein daal dete hain, bina ye dekhe ki wahan cutoff zyada hai ya seats kam hain.
+The merit list carries your child's name — congratulations! But the **medical examination** still awaits. Eyesight, height-weight standards, flat foot, knock knees — children get rejected here, and the cruellest part is that parents often had no idea a problem existed.
 
-Result? Achhe marks hone ke bawajood seat nahi milti, aur phir spot round ka intezaar.
+**The fix:** Get a general checkup done by a good doctor well before admission season. Update the spectacles prescription if needed. The [medical test guide](/blog/sainik-school-medical-test-2027/) lists every single checkpoint — go through it like a pilot's pre-flight list.
 
-**Solution:** [Counselling guide](/blog/sainik-school-counselling-2027/) padhkar choice filling strategy banaiye. Marks ke hisaab se realistic order lagayein — dream school upar, safe school neeche.
+## Mistake 6: Careless choice-filling in counselling
 
-## Galti 7: Taiyari ko "exam se 2 mahine pehle" tak taalna
+In AISSAC counselling (`pesa.ncog.gov.in`), you rank schools by preference. Many parents put only the nearest school at the top — without checking its cutoff or its seat count.
 
-"Abhi to time hai" — ye soch sabse khatarnak hai. AISSEE ka syllabus chhota lagta hai, lekin **speed aur accuracy** banane mein mahine lagte hain. Jo bachcha November mein shuru karta hai, wo January mein confident hota hai. Jo December end mein shuru karta hai, wo panic mein hota hai.
+Result? Good marks, no seat, and then a nervous wait for the spot rounds.
 
-Exam ✅ **31 January 2027** ko hai. [3-month plan](/blog/how-to-prepare-sainik-school-3-months/) aaj se shuru kijiye.
+**The fix:** Read the [counselling guide](/blog/sainik-school-counselling-2027/) and build a realistic preference order — dream school on top, safe schools below. In counselling, strategy matters as much as marks.
 
-## Ek checklist: form bharne se pehle
+## Mistake 7: Starting preparation "two months before the exam"
 
-- [ ] Age 31 March 2027 ke hisaab se verify ki
-- [ ] Saare documents scan karke taiyar hain
-- [ ] Category certificate valid aur latest hai
-- [ ] Fee category sahi select ki (₹850/₹700 expected)
-- [ ] Confirmation page print kiya
-- [ ] Medical checkup karwa liya
-- [ ] Counselling choice strategy taiyar hai
+"There's still time" — this is the most dangerous sentence in the whole process. The AISSEE syllabus looks small on paper, but **speed and accuracy take months to build.** The child who starts in November walks into the hall confident in January. The one who starts in late December walks in panicking.
+
+The exam is on ✅ **31 January 2027**. The [3-month preparation plan](/blog/how-to-prepare-sainik-school-3-months/) starts today — not tomorrow, today.
+
+## Checklist: before you submit the form
+
+- [ ] Age verified as on 31 March 2027 (not today's date)
+- [ ] All documents scanned and kept in one folder
+- [ ] Category certificate valid and current (OBC-NCL renewed for this year)
+- [ ] Correct fee category selected (₹850 / ₹700 expected)
+- [ ] Confirmation page downloaded *and* printed
+- [ ] General medical checkup done
+- [ ] Counselling choice-filling strategy ready
 
 ## FAQs
 
-**Q1. Form reject hone ki sabse common wajah kya hai?**
-Galat photo/signature size, invalid category certificate, aur age criteria mismatch. Teeno se bacha ja sakta hai — bas jaldbazi mat kijiye.
+**Q1. What's the most common reason forms get rejected?**
+Wrong photo/signature specifications, invalid category certificates, and age-criteria mismatches. All three are avoidable — just don't rush the form.
 
-**Q2. Kya form mein correction window milti hai?**
-2026 mein NTA ne limited correction window di thi. 2027 mein 🔶 expected hai, lekin is par bharosa mat kijiye — pehli baar mein sahi bhariye.
+**Q2. Is there a correction window after submitting?**
+NTA opened a limited correction window in the 2026 cycle (2–4 Nov 2025). One is 🔶 expected for 2027 too — but never count on it. Get it right the first time.
 
-**Q3. Fee refund hoti hai agar form galat ho jaye?**
-Aam taur par nahi. Isliye payment se pehle sab kuch double-check kijiye.
+**Q3. Is the fee refunded if something goes wrong with the form?**
+Generally, no. Which is exactly why you double-check everything before paying.
 
-**Q4. Kya ek se zyada form bhar sakte hain?**
-Nahi — multiple applications reject ho jaati hain. Ek candidate, ek form.
+**Q4. Can we submit more than one application?**
+No — multiple applications from a single candidate get rejected. One candidate, one form.
 
-**Q5. Medical mein reject hone par kya hota hai?**
-Seat agle candidate ko chali jaati hai. Isliye pehle se checkup karwana samajhdari hai.
+**Q5. What happens if a child fails the medical examination?**
+The seat passes to the next candidate in line. A pre-emptive checkup is just common sense.
 
 ## Sources
 
-- NTA AISSEE portal: https://exams.nta.nic.in/sainik-school-society/
-- NTA exam calendar 2026-27 (TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
-- AISSAC SOP (Sainik Schools Society): https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
+- NTA AISSEE portal — [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/)
+- NTA exam calendar 2026-27 (notice dated 16 Sept 2026) — via [Times of India](https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms)
+- AISSAC counselling SOP (Sainik Schools Society) — [PDF](https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf)

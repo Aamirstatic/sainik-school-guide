@@ -1,6 +1,6 @@
 # Sainik School Guide — Content Verification & Publishing System
-**Version 1.0 | Effective: 26 September 2026**
-**Applies to:** every article, guide, school profile, and web story published on sainikschooleastsiang.in
+**Version 2.0 | Effective: 26 September 2026**
+**Language: English | Applies to:** every article, guide, school profile, and web story published on sainikschooleastsiang.in
 
 > This document is the single source of truth for how content gets created, verified, and published on this website. No article goes live without passing this system.
 
@@ -8,13 +8,13 @@
 
 ## 1. The Golden Rule
 
-**Every factual claim must be traceable to a trusted source. If we cannot verify it, we label it EXPECTED — we never present guesses as facts.**
+**Every factual claim must be traceable to trusted sources — plural. If we cannot verify it from multiple credible sources, we label it EXPECTED. We never present guesses as facts.**
 
-This is what separates us from the dozens of copy-paste education blogs. Parents trust us with their child's future; we earn that trust with accuracy.
+Parents trust us with their child's future. We earn that trust with accuracy, and we keep it with honesty about what we don't know yet.
 
 ---
 
-## 2. Source Tiers (verification hierarchy)
+## 2. Source Tiers & the multi-source verification rule
 
 | Tier | Sources | Use |
 |------|---------|-----|
@@ -22,14 +22,15 @@ This is what separates us from the dozens of copy-paste education blogs. Parents
 | **Tier 2 — Reputed media** | Indian Express, Times of India, Hindustan Times, Economic Times, edexlive | Acceptable when they cite an official bulletin/notice; always cross-check against Tier 1 |
 | **Tier 3 — Education portals** | Careers360, AglaSem, Collegedunia, Shiksha | Cross-check ONLY — never the sole source for a hard fact |
 
-### Verification rule
-- **Hard facts** (dates, fees, age cutoffs, marks, quotas): require **1 Tier-1 source** OR **2 independent Tier-2 sources** quoting the official bulletin.
+### The multi-source rule (non-negotiable)
+- **Hard facts** (dates, fees, age cutoffs, marks, quotas, seat counts): require **1 Tier-1 source** OR **2 independent Tier-2 sources** quoting the official bulletin. One random blog is never enough.
 - **Soft facts** (strategy, tips, comparisons): require editorial judgment + at least 1 credible reference.
-- **If unverifiable:** write it as EXPECTED with reasoning ("pichhle 3 saal ke pattern ke hisaab se..."), never as confirmed.
+- **If unverifiable:** label it 🔶 **EXPECTED** with the reasoning stated ("based on the last three cycles' pattern…"), never as confirmed.
+- **Cross-verification before publish:** the verifier re-checks every hard fact against the sources independently — a second pass, not a skim.
 
 ### Mandatory labels in every article
-- ✅ **CONFIRMED** — from an official source (name the source: "NTA ke official exam calendar ke anusaar").
-- 🔶 **EXPECTED** — pattern-based projection (name the basis: "AISSEE 2026 ke pattern par aadharit anumaan").
+- ✅ **CONFIRMED** — from an official source (name it: "according to NTA's official exam calendar").
+- 🔶 **EXPECTED** — pattern-based projection (name the basis: "projected from the AISSEE 2026 pattern; final in the NTA bulletin").
 - Every article carries: `Last verified: <date>` at the top AND a **Sources** section at the bottom with clickable URLs.
 
 ---
@@ -46,36 +47,38 @@ When NTA releases the AISSEE information bulletin each year: **all date-sensitiv
 
 ---
 
-## 4. Human voice (anti-AI-detector + anti-robotic-tone)
+## 4. Keyword strategy (visible to Google, invisible to readers)
 
-Write like a knowledgeable senior talking to a worried parent — NOT like a textbook, NOT like a robot.
+Target keywords matter — but readers must never feel them.
 
-**DO:**
-- Parent-to-parent warmth: "Aapke bachche ka sapna...", "Chinta mat kijiye..."
-- Natural Hinglish where the audience speaks it (our readers think in Hindi, search in Hinglish)
-- Varied sentence length. Short punches. Then a longer explanatory one when the idea needs room.
-- Real specifics: exact dates, exact fees, exact marks — vagueness is what AI content smells like
-- First-hand framing: "pichhle saal counselling mein dekha gaya ki...", "kai parents ye galti karte hain..."
-- Opinions and judgment calls: "Hamari salah: pehle choice filling mein..." — AI hedges, experts advise
-
-**NEVER:**
-- AI clichés: "delve", "in today's fast-paced world", "moreover/furthermore", "it is worth noting", "in conclusion", "game-changer", "revolutionize"
-- Robotic list-stuffing without explanation — every bullet earns its place with a "kyon" (why it matters)
-- Hedging everything: "ho sakta hai", "sambhav hai" on every line. State confirmed facts firmly.
-- Repeating the keyword unnaturally ("AISSEE 2027 AISSEE 2027") — keyword stuffing = spam signal
-- Fabricating dates, statistics, or quotes — instant trust-killer, instant ban from Discover
-
-**The parent test:** after writing, read it aloud. If it sounds like something you'd actually say to a parent at a school gate, it passes. If it sounds like a Wikipedia entry, rewrite it.
+- **One primary keyword per article** (e.g. "AISSEE 2027 notification"). It appears in: title, first 100 words, one H2, meta description, URL slug — naturally, once each.
+- **Semantic coverage, not repetition:** use natural variants ("application form", "apply online", "registration dates") instead of repeating the exact phrase. Google understands topics, not just strings.
+- **Search intent first:** before writing, ask "what is the parent actually worried about?" Answer that worry in the first 200 words. Rankings follow satisfaction.
+- **Banned practices:** keyword stuffing, hidden text, doorway pages, auto-generated location pages, misleading titles, fake "updated" timestamps. Any of these = the article doesn't ship.
+- Long-tail wins: FAQs target real questions parents type ("what is the age limit for sainik school class 6") — these win featured snippets and voice search.
 
 ---
 
-## 5. Keyword strategy (SEO without spam)
+## 5. Human voice — write like a person, not a machine
 
-- **One primary keyword** per article (in title, first 100 words, one H2, meta description — naturally).
-- **3–5 secondary keywords** woven into H2/H3s and body where they genuinely fit.
-- **Search intent first:** the article must answer the query better than the current top-3 results (check them before writing).
-- **No keyword stuffing.** If a sentence exists only to hold a keyword, delete it.
-- Internal links: 3–5 contextual links to our own related articles (never forced).
+This is our anti-AI-detector and anti-robotic-tone playbook. The principle is simple: **don't try to fool detectors — write so genuinely human that there's nothing to detect.** Detectors flag predictable, uniform, soulless text. Human writing is uneven, opinionated, and specific.
+
+**Do this in every article:**
+- **Talk to one parent.** "You" and "your child" — not "candidates" and "aspirants." Imagine a father in Lucknow reading on his phone at 10 PM, worried about the form.
+- **Vary your rhythm.** Short sentences. Then a longer one that unfolds the way people actually think when they're explaining something they care about. Fragments are fine. Really.
+- **Have opinions.** "Honestly, most guidebooks overcomplicate this." "Skip the expensive crash course — here's why." A writer with no opinions is a brochure.
+- **Be specific, not generic.** Not "prepare well" but "solve one full 150-minute paper every Sunday morning, phone in another room." Specifics are the fingerprint of real experience.
+- **Use contractions, asides, and natural transitions.** "Here's the thing —", "and yes,", "look,". The way a helpful senior parent would talk.
+- **Admit limits.** "We don't know the 2027 fee yet — anyone quoting it as final is guessing." Honesty is the most human signal there is.
+- **One small story or concrete scene per article.** A 2–3 line real-feeling moment ("Last year, a parent called us in a panic because…"). It doesn't have to be dramatic — it has to be real.
+- **Read-aloud test:** read the draft out loud. If any sentence sounds like a textbook or a press release, rewrite it the way you'd say it to a friend.
+
+**Never do this:**
+- Formulaic openers ("In today's fast-paced world…", "Are you looking for…?")
+- The rule-of-three robot cadence in every paragraph ("not only X, but also Y and Z")
+- Empty intensifiers ("very crucial", "extremely important", "game-changer") with nothing concrete behind them
+- Hedging everything ("it may potentially be possible that…") — say what you know, label what you don't
+- Repeating the same sentence structure more than twice in a row
 
 ---
 
@@ -83,40 +86,44 @@ Write like a knowledgeable senior talking to a worried parent — NOT like a tex
 
 Discover rewards content that is **fresh, visual, emotionally resonant, and trustworthy**:
 
-- **Titles with emotional pull + specificity:** "AISSEE 2027: 31 January ko exam — ab bachche ke paas sirf 4 mahine, ye 5 cheezein abhi karein" beats "AISSEE 2027 Exam Date Announced"
+- **Titles with emotional pull + specificity:** "AISSEE 2027: Exam on 31 January — Your Child Has 4 Months Left. Do These 5 Things Now" beats "AISSEE 2027 Exam Date Announced"
 - **Fresh dates visible:** "Last verified" + recent `lastmod` — Discover strongly favors recency
 - **Hero/thumbnail image:** real, high-quality, relevant (no generic stock feel); 1200px+ wide
-- **E-E-A-T signals:** real author byline with credentials, Sources section, specific numbers, no vagueness
+- **E-E-A-T signals:** real author byline with credentials, Sources section, specific numbers, zero vagueness
 - **Formats that travel:** numbered lists, comparison tables, timelines, "mistakes to avoid" — scannable on mobile
-- **No clickbait that the article doesn't deliver** — Discover kills pages with high bounce
+- **Timely hooks:** publish date-sensitive pieces (admit card, result, notification) within hours of the news, not days
+- **No clickbait the article doesn't deliver** — Discover kills pages with high bounce
 - **Web Stories** for every major date announcement (exam date, admit card, result)
 
 ---
 
-## 7. Anti-thin-content standard
+## 7. Anti-thin-content / anti-spam standard
 
 Every article must pass this bar:
-- [ ] Minimum **800 words** for guides (news updates: 400+ with real new information)
-- [ ] At least **one original element**: a comparison table, a timeline, a worked example, a checklist, or an FAQ that isn't copied from elsewhere
+- [ ] Minimum **800 words** for guides (news updates: 400+ with genuinely new information)
+- [ ] At least **one original element**: a comparison table, a timeline, a worked example, a checklist, or an FAQ written from real parent questions — not copied from anywhere
 - [ ] **FAQ section** (4–6 genuine questions parents ask — these win featured snippets)
-- [ ] No paragraph copied from another site — rewrite from understanding, then verify facts
+- [ ] No paragraph copied from another site — understand, then rewrite in our voice, then verify facts
 - [ ] Every "Latest Update" box contains **actually new** information with a date
+- [ ] Zero auto-generated filler: no "conclusion" that just repeats the intro, no padding lists
+- [ ] One article = one complete answer. If a reader still needs to Google the same question after reading, the article failed.
 
 ---
 
 ## 8. Pre-publish checklist (mandatory — tick all before publishing)
 
-- [ ] All hard facts verified per the Source Tiers (§2); CONFIRMED/EXPECTED labels in place
+- [ ] All hard facts verified per the multi-source rule (§2); CONFIRMED/EXPECTED labels in place
 - [ ] `Last verified: <today's date>` at top; `lastmod` in frontmatter updated
 - [ ] Sources section with working URLs at the bottom
-- [ ] Primary keyword in title + first 100 words + meta description (natural, not stuffed)
-- [ ] Human-voice pass done (§4 — read aloud test)
+- [ ] Primary keyword placed naturally (title + first 100 words + meta description, §4)
+- [ ] Human-voice pass done (§5 — read-aloud test passed)
 - [ ] ≥800 words (guides) with one original element (table/timeline/checklist/FAQ)
-- [ ] FAQ section (4–6 questions)
+- [ ] FAQ section (4–6 real questions)
 - [ ] 3–5 internal links to related articles
 - [ ] Featured image set, relevant, ≥1200px
 - [ ] No fabricated dates/stats/quotes anywhere
 - [ ] Mobile-readable: short paragraphs, scannable headings
+- [ ] Discover check (§6): fresh date visible, emotional-specific title, E-E-A-T signals present
 
 ---
 
