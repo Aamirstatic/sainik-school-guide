@@ -14,7 +14,7 @@ Goa does not have its own Sainik School. Students from Goa apply to Sainik Schoo
 
 | School | Location | Established | Board |
 |--------|----------|-------------|-------|
-| Sainik School Balachadi, Gujarat | [Balachadi, Gujarat](/schools/goa/) | Goa students apply here | CBSE |
+| Sainik School Balachadi, Gujarat | [Balachadi, Gujarat](/states/goa/) | Goa students apply here | CBSE |
 
 ## Admission Process
 

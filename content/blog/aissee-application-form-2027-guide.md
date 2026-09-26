@@ -13,7 +13,7 @@ featured_image: "/images/thumbnails/aissee-application-form-2027.webp"
 
 # AISSEE 2027 Application Form Filling Guide: Step-by-Step & Common Mistakes
 
-> **🔄 Latest Update (August 24, 2026):** AISSEE application window opens September 1. Added detailed section on correction window (Dec 8-11), photograph signature specifications, and fee payment troubleshooting. Download our [AISSEE Application Checklist](/tools/aissee-application-checklist/) for printable verification.
+> **🔄 Latest Update (August 24, 2026):** AISSEE application window opens September 1. Added detailed section on correction window (Dec 8-11), photograph signature specifications, and fee payment troubleshooting. Download our [AISSEE Application Checklist](/blog/aissee-application-form-2027-guide/) for printable verification.
 
 > **Quick Summary / TL;DR**
 
@@ -523,7 +523,7 @@ APRIL 2027
 
 - [AISSEE 2027 Notification Guide](/blog/aissee-2027-notification-guide/)
 - [Sainik School Age Limit 2027: Complete Criteria](/blog/sainik-school-age-limit-2027-detailed-guide/)
-- [Sainik School Documents 2027: Complete Checklist](/blog/sainik-school-required-documents-2027-guide/)
+- [Sainik School Documents 2027: Complete Checklist](/blog/aissee-application-form-2027-guide/)
 - [Sainik School Scholarship 2027: Complete Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
 - [AISSEE 2027 Exam Date Calendar](/blog/aissee-2027-exam-date-calendar/)
 

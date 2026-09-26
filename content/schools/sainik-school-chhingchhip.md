@@ -94,6 +94,6 @@ A: In Serchhip district of Mizoram, approximately 120 km from Aizawl.
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Northeast India](/blog/sainik-schools-northeast/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Northeast India](/schools/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)

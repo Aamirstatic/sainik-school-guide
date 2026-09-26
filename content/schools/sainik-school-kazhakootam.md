@@ -137,8 +137,8 @@ A: The SSKZM Old Boys Association, accessible at sskzmoba.org.
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Kerala](/blog/sainik-schools-kerala/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
-- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
-- [NDA Exam Preparation](/blog/nda-exam-preparation/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Kerala](/states/kerala/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
+- [NDA Exam Preparation](/blog/nda-after-sainik-school-career-path/)

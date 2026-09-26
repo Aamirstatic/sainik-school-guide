@@ -251,4 +251,4 @@ Admission is through the All India Sainik Schools Entrance Examination (AISSEE),
 
 ---
 
-*Discover more Sainik Schools in South India. Explore our directory of [all Sainik Schools in India](/schools/) or browse [Sainik Schools in Tamil Nadu](/states/tamil-nadu/). For admission guidance, visit our [AISSEE preparation guide](/admission/aissee/).*
+*Discover more Sainik Schools in South India. Explore our directory of [all Sainik Schools in India](/schools/) or browse [Sainik Schools in Tamil Nadu](/states/tamil-nadu/). For admission guidance, visit our [AISSEE preparation guide](/blog/sainik-school-admission-2027-guide/).*

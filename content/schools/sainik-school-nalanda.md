@@ -93,6 +93,6 @@ A: One of the Indian Army's most decorated infantry regiments, raised in 1941, w
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Bihar](/blog/sainik-schools-bihar/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Bihar](/states/bihar/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)

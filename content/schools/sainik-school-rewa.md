@@ -147,8 +147,8 @@ A: Online through the PNB portal (mypnb.in/payfee/) or as per instructions on th
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Madhya Pradesh](/blog/sainik-schools-madhya-pradesh/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
-- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
-- [NDA Exam Preparation Guide](/blog/nda-exam-preparation/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Madhya Pradesh](/states/madhya-pradesh/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
+- [NDA Exam Preparation Guide](/blog/nda-after-sainik-school-career-path/)

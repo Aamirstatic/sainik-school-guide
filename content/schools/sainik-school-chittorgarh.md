@@ -272,4 +272,4 @@ The Chittorian is the annual school magazine of Sainik School Chittorgarh. It fe
 
 ---
 
-*Explore more Sainik Schools in Rajasthan and neighbouring states. Visit our complete directory of [all Sainik Schools in India](/schools/) or learn about [Sainik Schools in Rajasthan](/states/rajasthan/). For AISSEE preparation tips and guidance, see our [admission guide](/admission/aissee/).*
+*Explore more Sainik Schools in Rajasthan and neighbouring states. Visit our complete directory of [all Sainik Schools in India](/schools/) or learn about [Sainik Schools in Rajasthan](/states/rajasthan/). For AISSEE preparation tips and guidance, see our [admission guide](/blog/sainik-school-admission-2027-guide/).*

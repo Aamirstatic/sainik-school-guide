@@ -342,4 +342,4 @@ Sainik School Ghorakhal offers extensive sports facilities across its 500-acre c
 
 ---
 
-*Explore more Sainik Schools in northern India. Visit our complete directory of [all Sainik Schools in India](/schools/) or browse [Sainik Schools in Uttarakhand](/states/uttarakhand/). For AISSEE preparation tips and admission guidance, see our [AISSEE guide](/admission/aissee/).*
+*Explore more Sainik Schools in northern India. Visit our complete directory of [all Sainik Schools in India](/schools/) or browse [Sainik Schools in Uttarakhand](/states/uttarakhand/). For AISSEE preparation tips and admission guidance, see our [AISSEE guide](/blog/sainik-school-admission-2027-guide/).*

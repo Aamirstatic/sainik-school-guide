@@ -144,7 +144,7 @@ A: The school's quarterly newsletter, available on the school website.
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Gujarat](/blog/sainik-schools-gujarat/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
-- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Gujarat](/states/gujarat/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)

@@ -259,4 +259,4 @@ Admission is through the All India Sainik Schools Entrance Examination (AISSEE),
 
 ---
 
-*Explore more Sainik Schools in eastern India. Visit our directory of [all Sainik Schools in India](/schools/) or browse [Sainik Schools in Odisha](/states/odisha/). For AISSEE preparation tips, visit our [admission guide](/admission/aissee/).*
+*Explore more Sainik Schools in eastern India. Visit our directory of [all Sainik Schools in India](/schools/) or browse [Sainik Schools in Odisha](/states/odisha/). For AISSEE preparation tips, visit our [admission guide](/blog/sainik-school-admission-2027-guide/).*

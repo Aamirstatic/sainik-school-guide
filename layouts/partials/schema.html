@@ -7,7 +7,7 @@
   "@type": "Article",
   "headline": "{{ .Title }}",
   "description": "{{ .Description }}",
-  "image": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}",
+  "image": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/og-default.jpg{{ end }}",
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
   "author": {
@@ -45,7 +45,7 @@
   "temporal": "{{ .Date.Format "2006" }}",
   "primaryImageOfPage": {
     "@type": "ImageObject",
-    "url": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}",
+    "url": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/og-default.jpg{{ end }}",
     "width": 1200,
     "height": 630
   }
@@ -249,7 +249,7 @@
   "@type": "Article",
   "headline": "{{ .Title }}",
   "description": "{{ .Description }}",
-  "image": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/hero-sainik-school.jpg{{ end }}",
+  "image": "{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/og-default.jpg{{ end }}",
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
   "author": {

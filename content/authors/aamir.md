@@ -9,6 +9,7 @@ author_experience: "8+ years in SEO and digital marketing"
 author_bio: "Aamir Raza is an SEO and digital marketing specialist who runs Sainik School Guide India. He combines his technical SEO expertise with deep knowledge of defense education to create content that helps parents and students navigate Sainik School admissions."
 author_image: "/images/authors/aamir.jpeg"
 author_linkedin: "https://in.linkedin.com/in/aamirrazaseo"
+aliases: ["/authors/aamir-raza/"]
 ---
 
 # About Aamir Raza

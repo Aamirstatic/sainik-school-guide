@@ -180,14 +180,7 @@
   {{ end }}
 {{ end }}
 
-{{ if gt (len $categories) 0 }}
-<nav class="ws-tabs">
-  <a class="ws-tab active" href="/webstories/">All</a>
-  {{ range $categories }}
-  <a class="ws-tab" href="/webstories/categories/{{ . | urlize }}/">{{ . }}</a>
-  {{ end }}
-</nav>
-{{ end }}
+<!-- Category tabs removed: /webstories/categories/* pages don't exist (were 404) -->
 
 <!-- Stories Grid -->
 <section class="ws-grid">

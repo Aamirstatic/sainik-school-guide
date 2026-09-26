@@ -218,4 +218,4 @@ The current principal of Sainik School Kapurthala is Group Captain I. Manoj Meno
 
 ---
 
-*Looking for other Sainik Schools in India? Explore our complete directory of [all 33+ Sainik Schools](/schools/) across every state, or compare [Sainik Schools in Punjab](/states/punjab/) and nearby [Sainik Schools in Rajasthan](/states/rajasthan/) for regional alternatives. For detailed admission guidance, visit our [AISSEE preparation guide](/admission/aissee/).*
+*Looking for other Sainik Schools in India? Explore our complete directory of [all 33+ Sainik Schools](/schools/) across every state, or compare [Sainik Schools in Punjab](/states/punjab/) and nearby [Sainik Schools in Rajasthan](/states/rajasthan/) for regional alternatives. For detailed admission guidance, visit our [AISSEE preparation guide](/blog/sainik-school-admission-2027-guide/).*

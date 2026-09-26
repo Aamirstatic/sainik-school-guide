@@ -55,7 +55,7 @@ Sainik School Amaravathinagar Tamil Nadu ka ek maatra Sainik School hai. Yeh sch
 - Tamil Nadu domicile candidates ko preference
 - Defence category ke liye separate quota
 
-[Sainik School Amaravathinagar ki full details ke liye click karein](/sainik-schools/sainik-school-amaravathinagar/)
+[Sainik School Amaravathinagar ki full details ke liye click karein](/schools/sainik-school-amaravathinagar/)
 
 ---
 
@@ -150,11 +150,11 @@ Haan, Tamil ek subject ke roop mein padhaya jaata hai. Regional language ki trai
 ## Admission ke liye Important Links
 
 - [AISSEE 2026 - Complete Information](/aissee/)
-- [All Sainik Schools in India](/sainik-schools/)
-- [Sainik School Admission Process](/sainik-schools/admission-process/)
-- [Sainik School Fee Structure](/sainik-schools/fee-structure/)
-- [How to Prepare for AISSEE](/aissee/preparation-tips/)
-- [Sainik School Results](/sainik-schools/results/)
+- [All Sainik Schools in India](/schools/)
+- [Sainik School Admission Process](/blog/sainik-school-admission-2027-guide/)
+- [Sainik School Fee Structure](/blog/sainik-school-fee-comparison-all-schools/)
+- [How to Prepare for AISSEE](/blog/aissee-2027-preparation-tips/)
+- [Sainik School Results](/blog/aissee-2027-result-scorecard-guide/)
 
 
 ## Detailed School Profiles

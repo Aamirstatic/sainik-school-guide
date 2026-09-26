@@ -84,6 +84,6 @@ A: The semi-arid region of northern Rajasthan comprising Jhunjhunu, Churu, and S
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Rajasthan](/blog/sainik-schools-rajasthan/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Rajasthan](/states/rajasthan/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)

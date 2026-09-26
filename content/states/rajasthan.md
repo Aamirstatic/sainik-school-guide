@@ -47,7 +47,7 @@ Sainik School Chittorgarh Rajasthan ka sabse purana Sainik School hai. Yeh schoo
 - Admission through AISSEE entrance exam
 - Medical test bhi compulsory hai
 
-[Sainik School Chittorgarh ki full details ke liye click karein](/sainik-schools/sainik-school-chittorgarh/)
+[Sainik School Chittorgarh ki full details ke liye click karein](/schools/sainik-school-chittorgarh/)
 
 ---
 
@@ -75,7 +75,7 @@ Sainik School Jhunjhunu Rajasthan ka naya Sainik School hai jo 2012 mein start h
 - Rajasthan ke domicile candidates ko preference
 - Reservation policy applicable (SC/ST/OBC/Defence)
 
-[Sainik School Jhunjhunu ki full details ke liye click karein](/sainik-schools/sainik-school-jhunjhunu/)
+[Sainik School Jhunjhunu ki full details ke liye click karein](/schools/sainik-school-jhunjhunu/)
 
 ---
 
@@ -142,10 +142,10 @@ Sainik School Chittorgarh Rajasthan ka sabse purana aur reputed school hai. Dono
 ## Admission ke liye Important Links
 
 - [AISSEE 2026 - Complete Information](/aissee/)
-- [All Sainik Schools in India](/sainik-schools/)
-- [Sainik School Admission Process](/sainik-schools/admission-process/)
-- [Sainik School Fee Structure](/sainik-schools/fee-structure/)
-- [How to Prepare for AISSEE](/aissee/preparation-tips/)
+- [All Sainik Schools in India](/schools/)
+- [Sainik School Admission Process](/blog/sainik-school-admission-2027-guide/)
+- [Sainik School Fee Structure](/blog/sainik-school-fee-comparison-all-schools/)
+- [How to Prepare for AISSEE](/blog/aissee-2027-preparation-tips/)
 
 
 ## Detailed School Profiles

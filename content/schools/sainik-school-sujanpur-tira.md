@@ -92,6 +92,6 @@ A: The Gorkha Rifles, Kumaon Regiment, Jammu & Kashmir Rifles, and other units d
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Himachal Pradesh](/blog/sainik-schools-himachal/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Himachal Pradesh](/states/himachal-pradesh/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)

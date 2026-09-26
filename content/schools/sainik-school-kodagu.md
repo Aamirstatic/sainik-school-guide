@@ -85,6 +85,6 @@ A: Yes. Kodagu (est. 2007) and Bijapur (est. 1963) are separate Sainik Schools i
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Karnataka](/blog/sainik-schools-karnataka/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Karnataka](/states/karnataka/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)

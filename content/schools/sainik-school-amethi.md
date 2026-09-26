@@ -118,7 +118,7 @@ A: Very new — established in 2020, making it one of the youngest Sainik School
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Uttar Pradesh](/blog/sainik-schools-uttar-pradesh/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
-- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Uttar Pradesh](/states/uttar-pradesh/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)

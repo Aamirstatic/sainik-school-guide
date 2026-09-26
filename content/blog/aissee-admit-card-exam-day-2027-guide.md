@@ -13,7 +13,7 @@ featured_image: "/images/thumbnails/aissee-admit-card-exam-day-2027.webp"
 
 # AISSEE 2027 Admit Card & Exam Day Guidelines: Complete Guide
 
-> **🔄 Latest Update (August 25, 2026):** Admit card download window opens January 2, 2027. Added detailed "What to Carry" checklist, prohibited items list, and exam day timeline. Download our [AISSEE Admit Card Checklist](/tools/aissee-admit-card-checklist/) for printable preparation.
+> **🔄 Latest Update (August 25, 2026):** Admit card download window opens January 2, 2027. Added detailed "What to Carry" checklist, prohibited items list, and exam day timeline. Download our [AISSEE Admit Card Checklist](/blog/aissee-admit-card-exam-day-2027-guide/) for printable preparation.
 
 > **Quick Summary / TL;DR**
 
@@ -527,8 +527,8 @@ JANUARY 19, 2027 (Exam Day)
 - [AISSEE 2027 Notification Guide](/blog/aissee-2027-notification-guide/)
 - [AISSEE 2027 Application Form Filling Guide](/blog/aissee-application-form-2027-guide/)
 - [Sainik School Age Limit 2027: Complete Criteria](/blog/sainik-school-age-limit-2027-detailed-guide/)
-- [AISSEE 2027 Exam Pattern & Syllabus](/blog/aissee-2027-syllabus-class-6-class-9.md) (if exists)
-- [AISSEE 2027 Result & Scorecard Guide](/blog/aissee-2027-result-scorecard-guide.md) (if exists)
+- [AISSEE 2027 Exam Pattern & Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/) (if exists)
+- [AISSEE 2027 Result & Scorecard Guide](/blog/aissee-2027-result-scorecard-guide/) (if exists)
 
 ---
 

@@ -94,7 +94,7 @@ A: In 2013, cadet Mukul Anand became the first from the school to attend the Rep
 
 ## Related Articles
 
-- [All 33 Sainik Schools in India](/blog/all-sainik-schools-india/)
-- [Sainik Schools in Chhattisgarh](/blog/sainik-schools-chhattisgarh/)
-- [Sainik School Admission 2026](/blog/sainik-school-admission-process/)
-- [AISSEE Exam Pattern & Syllabus](/blog/aissee-exam-pattern-syllabus/)
+- [All 33 Sainik Schools in India](/schools/)
+- [Sainik Schools in Chhattisgarh](/states/chhattisgarh/)
+- [Sainik School Admission 2026](/blog/sainik-school-admission-2027-guide/)
+- [AISSEE Exam Pattern & Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
