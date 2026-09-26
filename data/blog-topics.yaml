@@ -1,0 +1,454 @@
+# Daily blog topic bank. Worker picks the next unused topic (by id) and marks it
+# used in data/pipeline-log.json. When all are used, the cycle restarts with a
+# fresh angle note. Each entry: id, title, primary keyword, category, angle.
+topics:
+  - id: 1
+    title: "How to Improve Speed in the AISSEE Maths Section"
+    keyword: "AISSEE maths preparation"
+    category: "Exam Prep"
+    angle: "Timed practice drills, question triage, and OMR bubbling speed."
+  - id: 2
+    title: "Is There Negative Marking in AISSEE? The Honest Answer"
+    keyword: "AISSEE negative marking"
+    category: "Exam Prep"
+    angle: "Confirm no negative marking per NTA pattern; what it means for attempt strategy."
+  - id: 3
+    title: "The Perfect Daily Timetable for AISSEE Class 6 Preparation"
+    keyword: "AISSEE study timetable"
+    category: "Exam Prep"
+    angle: "Sample 3-hour daily plan balancing school homework and AISSEE prep."
+  - id: 4
+    title: "How Many Hours Should a Class 6 Student Study for AISSEE?"
+    keyword: "AISSEE preparation hours"
+    category: "Exam Prep"
+    angle: "Honest answer: quality over quantity; age-appropriate study windows."
+  - id: 5
+    title: "AISSEE Intelligence Section: The Complete Preparation Guide"
+    keyword: "AISSEE intelligence reasoning"
+    category: "Exam Prep"
+    angle: "Question types, pattern recognition drills, daily 15-minute routine."
+  - id: 6
+    title: "English Grammar Topics That Matter Most in AISSEE"
+    keyword: "AISSEE English grammar"
+    category: "Exam Prep"
+    angle: "High-weightage grammar topics with Class 6/9 split."
+  - id: 7
+    title: "How to Attempt the AISSEE Paper: Question Selection Strategy"
+    keyword: "AISSEE exam strategy"
+    category: "Exam Prep"
+    angle: "First-pass/second-pass method, time allocation per section."
+  - id: 8
+    title: "Silly OMR Mistakes That Cost Students Their Sainik School Seat"
+    keyword: "AISSEE OMR sheet mistakes"
+    category: "Exam Prep"
+    angle: "Realistic bubbling errors and a pre-submit checklist."
+  - id: 9
+    title: "The 30-Day Revision Plan Before AISSEE 2027"
+    keyword: "AISSEE revision plan"
+    category: "Exam Prep"
+    angle: "Week-by-week revision calendar with mock test slots."
+  - id: 10
+    title: "How to Prepare for AISSEE Without Any Coaching"
+    keyword: "AISSEE preparation without coaching"
+    category: "Exam Prep"
+    angle: "Self-study roadmap using NCERT + previous papers; honest limits stated."
+  - id: 11
+    title: "NCERT vs Guidebooks for AISSEE: What Actually Works"
+    keyword: "NCERT for AISSEE"
+    category: "Exam Prep"
+    angle: "Balanced comparison; NCERT as base, guides as practice."
+  - id: 12
+    title: "AISSEE Class 6 Maths Formula Cheat Sheet"
+    keyword: "AISSEE maths formulas"
+    category: "Exam Prep"
+    angle: "Printable-style formula list: arithmetic, geometry, mensuration."
+  - id: 13
+    title: "How to Build Vocabulary for AISSEE English in 90 Days"
+    keyword: "AISSEE English vocabulary"
+    category: "Exam Prep"
+    angle: "Daily word routine, root words, contextual learning."
+  - id: 14
+    title: "AISSEE GK: How to Balance Static GK and Current Affairs"
+    keyword: "AISSEE GK preparation"
+    category: "Exam Prep"
+    angle: "Weightage split, reliable current-affairs sources for kids."
+  - id: 15
+    title: "Sample Papers vs Previous Year Papers: Which Helps More?"
+    keyword: "AISSEE previous year papers"
+    category: "Exam Prep"
+    angle: "Honest breakdown of what each is good for; how to use both."
+  - id: 16
+    title: "How to Analyse Your Mock Test the Right Way"
+    keyword: "AISSEE mock test analysis"
+    category: "Exam Prep"
+    angle: "Error log method, topic-wise tracking sheet."
+  - id: 17
+    title: "AISSEE Class 9 Science: Most Important Chapters"
+    keyword: "AISSEE class 9 science syllabus"
+    category: "Exam Prep"
+    angle: "Chapter priority list from NCERT Class 8 science."
+  - id: 18
+    title: "Map Work Tips for AISSEE Class 9 Social Science"
+    keyword: "AISSEE social science preparation"
+    category: "Exam Prep"
+    angle: "India map practice routine, rivers/mountains/states drills."
+  - id: 19
+    title: "How to Handle Exam Pressure: A Guide for 11-Year-Olds"
+    keyword: "exam stress tips for kids"
+    category: "Exam Prep"
+    angle: "Age-appropriate calming techniques, parent's role on exam week."
+  - id: 20
+    title: "AISSEE 2028: When Should You Start Preparing?"
+    keyword: "AISSEE 2028 preparation"
+    category: "Exam Prep"
+    angle: "Timeline for current Class 4/5 and Class 7/8 students."
+  - id: 21
+    title: "AISSEE Application Form: Photo and Signature Requirements"
+    keyword: "AISSEE application form photo"
+    category: "Admission"
+    angle: "NTA specs, common rejections, how to get it right first time."
+  - id: 22
+    title: "How to Choose School Preferences in AISSAC Counselling"
+    keyword: "AISSAC choice filling"
+    category: "Admission"
+    angle: "Preference order strategy: home state vs dream school."
+  - id: 23
+    title: "Domicile Certificate for Sainik School: The Complete Guide"
+    keyword: "domicile certificate sainik school"
+    category: "Admission"
+    angle: "Why it matters for 67% home-state quota; how to obtain."
+  - id: 24
+    title: "Caste Certificate Format for AISSEE Reservation Claims"
+    keyword: "AISSEE reservation documents"
+    category: "Admission"
+    angle: "Which certificates are accepted; validity and issuing authority."
+  - id: 25
+    title: "What Happens After the AISSEE Result: Step-by-Step"
+    keyword: "after AISSEE result"
+    category: "Admission"
+    angle: "Scorecard, merit list, counselling registration, medical, admission."
+  - id: 26
+    title: "AISSAC Choice Filling: 7 Mistakes That Cost Seats"
+    keyword: "AISSAC counselling mistakes"
+    category: "Admission"
+    angle: "Realistic errors in preference filling and how to avoid them."
+  - id: 27
+    title: "AISSEE Correction Window: What You Can and Cannot Edit"
+    keyword: "AISSEE form correction"
+    category: "Admission"
+    angle: "Expected editable fields based on NTA practice; labelled EXPECTED."
+  - id: 28
+    title: "How Seats Are Allotted in Sainik School Counselling"
+    keyword: "sainik school seat allotment"
+    category: "Admission"
+    angle: "Merit + reservation + domicile matrix explained simply."
+  - id: 29
+    title: "Defence Quota in Sainik Schools: Documents You Will Need"
+    keyword: "sainik school defence quota"
+    category: "Admission"
+    angle: "Service certificate, ex-servicemen proofs; 25% quota explained."
+  - id: 30
+    title: "Can You Change Your Allotted Sainik School After Counselling?"
+    keyword: "sainik school school change"
+    category: "Admission"
+    angle: "Honest answer on upgradation rounds vs fresh admission."
+  - id: 31
+    title: "AISSEE Fee Payment Failed? Here's What to Do"
+    keyword: "AISSEE fee payment issue"
+    category: "Admission"
+    angle: "Double-debit, refund timelines, helpline steps."
+  - id: 32
+    title: "How to Download Your AISSEE Admit Card"
+    keyword: "AISSEE admit card download"
+    category: "Admission"
+    angle: "Step-by-step NTA portal walkthrough; what to check on it."
+  - id: 33
+    title: "Can You Change Your AISSEE Exam Centre?"
+    keyword: "AISSEE exam centre change"
+    category: "Admission"
+    angle: "Honest answer: generally no; choose carefully at form time."
+  - id: 34
+    title: "Name Misspelled in AISSEE Application? Fix It This Way"
+    keyword: "AISSEE application correction name"
+    category: "Admission"
+    angle: "Correction window vs affidavit route; what NTA accepts."
+  - id: 35
+    title: "Sainik School Waiting List: How It Actually Works"
+    keyword: "sainik school waiting list"
+    category: "Admission"
+    angle: "Subsequent allotment rounds; realistic chances explained."
+  - id: 36
+    title: "How to Motivate Your Child for AISSEE Without Pressure"
+    keyword: "motivate child for entrance exam"
+    category: "Parenting"
+    angle: "Encouragement techniques that don't create fear."
+  - id: 37
+    title: "Is Your Child Emotionally Ready for Boarding School?"
+    keyword: "boarding school readiness"
+    category: "Parenting"
+    angle: "Readiness checklist: independence, homesickness, social skills."
+  - id: 38
+    title: "How to Talk to Your Child If They Don't Clear AISSEE"
+    keyword: "child failed entrance exam"
+    category: "Parenting"
+    angle: "Compassionate conversation guide; plan B framing."
+  - id: 39
+    title: "Balancing School Homework and AISSEE Preparation"
+    keyword: "balance school and AISSEE"
+    category: "Parenting"
+    angle: "Weekly planning method; when to prioritise what."
+  - id: 40
+    title: "Should You Hire a Tutor for AISSEE? An Honest Take"
+    keyword: "AISSEE tutor vs self study"
+    category: "Parenting"
+    angle: "When tutoring helps, when it's wasted money; red flags."
+  - id: 41
+    title: "Screen Time Rules That Actually Work During Exam Prep"
+    keyword: "screen time during exam preparation"
+    category: "Parenting"
+    angle: "Practical household rules, not lectures."
+  - id: 42
+    title: "Nutrition Tips for Children in Heavy Study Phases"
+    keyword: "nutrition for studying kids"
+    category: "Parenting"
+    angle: "Simple Indian diet tweaks; sleep's role in memory."
+  - id: 43
+    title: "How Often Can Parents Visit a Sainik School?"
+    keyword: "sainik school parent visit"
+    category: "Parenting"
+    angle: "Typical visiting norms; first-term adjustment advice."
+  - id: 44
+    title: "Homesickness in Sainik School: How Parents Can Help"
+    keyword: "homesickness boarding school"
+    category: "Parenting"
+    angle: "First 6 weeks guide; when to worry vs when it's normal."
+  - id: 45
+    title: "Building Discipline at Home Before Sainik School Admission"
+    keyword: "discipline for sainik school"
+    category: "Parenting"
+    angle: "Morning routine, self-care habits, small responsibilities."
+  - id: 46
+    title: "What If Your Child Doesn't Want to Join Sainik School?"
+    keyword: "child refuses sainik school"
+    category: "Parenting"
+    angle: "Respecting the child's voice; alternatives worth considering."
+  - id: 47
+    title: "When One Sibling Prepares for AISSEE and the Other Doesn't"
+    keyword: "sibling exam preparation"
+    category: "Parenting"
+    angle: "Fairness, attention balance, avoiding comparisons."
+  - id: 48
+    title: "What Food Is Served in a Sainik School Mess?"
+    keyword: "sainik school mess food"
+    category: "School Life"
+    angle: "Typical weekly menu pattern; nutrition standards."
+  - id: 49
+    title: "Sainik School Uniform: Complete Details for New Parents"
+    keyword: "sainik school uniform"
+    category: "School Life"
+    angle: "What the kit includes; where parents buy it; costs."
+  - id: 50
+    title: "Can Students Keep Mobile Phones in Sainik School?"
+    keyword: "mobile phone sainik school"
+    category: "School Life"
+    angle: "Honest answer on phone policies; how families stay in touch."
+  - id: 51
+    title: "Sainik School Holidays: The Vacation Calendar Explained"
+    keyword: "sainik school holidays"
+    category: "School Life"
+    angle: "Term breaks pattern; planning family time."
+  - id: 52
+    title: "How Strict Is Discipline in Sainik School, Really?"
+    keyword: "sainik school discipline"
+    category: "School Life"
+    angle: "Daily routine reality check; myths vs routine."
+  - id: 53
+    title: "Bullying in Boarding Schools: What Parents Should Know"
+    keyword: "bullying in boarding school"
+    category: "School Life"
+    angle: "Safeguards in place; how to spot signs; who to contact."
+  - id: 54
+    title: "Medical Facilities Inside Sainik Schools"
+    keyword: "sainik school medical"
+    category: "School Life"
+    angle: "MI room, regular checkups, emergency protocol."
+  - id: 55
+    title: "The First Day at Sainik School: What to Expect"
+    keyword: "first day sainik school"
+    category: "School Life"
+    angle: "Reporting process, what to pack, settling-in week."
+  - id: 56
+    title: "The Sainik School Alumni Network: Why It Matters"
+    keyword: "sainik school alumni"
+    category: "School Life"
+    angle: "How the network helps in careers; notable alumni (verified only)."
+  - id: 57
+    title: "A Typical Weekend in a Sainik School"
+    keyword: "sainik school weekend routine"
+    category: "School Life"
+    angle: "Saturday classes, Sunday routine, games and hobbies."
+  - id: 58
+    title: "NDA vs CDS vs AFCAT: Understanding the Officer Routes"
+    keyword: "NDA CDS AFCAT difference"
+    category: "Careers"
+    angle: "Entry routes compared; which suits whom."
+  - id: 59
+    title: "Do Most Sainik School Students Join the NDA? The Truth"
+    keyword: "sainik school NDA selection rate"
+    category: "Careers"
+    angle: "Honest take: no official percentage published; why the myth persists."
+  - id: 60
+    title: "Career Options After Sainik School Beyond Defence"
+    keyword: "career after sainik school"
+    category: "Careers"
+    angle: "Engineering, UPSC, corporate: the non-uniform paths."
+  - id: 61
+    title: "How Sainik School Life Helps in the SSB Interview"
+    keyword: "sainik school SSB advantage"
+    category: "Careers"
+    angle: "OLQs, group tasks, confidence: the real carryover."
+  - id: 62
+    title: "Girls in NDA: The Complete 2027 Guide"
+    keyword: "girls NDA admission"
+    category: "Careers"
+    angle: "Eligibility, vacancies, preparation path for girl aspirants."
+  - id: 63
+    title: "From Sainik School to IIT: Is It Possible?"
+    keyword: "sainik school to IIT"
+    category: "Careers"
+    angle: "Honest answer: yes but rare; what it takes academically."
+  - id: 64
+    title: "UPSC After Sainik School: A Natural Fit?"
+    keyword: "sainik school UPSC"
+    category: "Careers"
+    angle: "Why the background helps; realistic roadmap."
+  - id: 65
+    title: "Merchant Navy vs Defence Services: An Honest Comparison"
+    keyword: "merchant navy vs defence career"
+    category: "Careers"
+    angle: "Pay, lifestyle, entry paths compared without bias."
+  - id: 66
+    title: "Sainik School vs a Good Private CBSE School: Honest Comparison"
+    keyword: "sainik school vs private school"
+    category: "Compare"
+    angle: "Cost, discipline, academics, exposure: no-nonsense table."
+  - id: 67
+    title: "AISSEE vs RMS CET: Which Exam Is Tougher?"
+    keyword: "AISSEE vs RMS"
+    category: "Compare"
+    angle: "Pattern, competition, and preparation overlap compared."
+  - id: 68
+    title: "Sainik School vs RIMC: Which Should You Target?"
+    keyword: "sainik school vs RIMC"
+    category: "Compare"
+    angle: "Entry age, exam pattern, outcomes compared."
+  - id: 69
+    title: "Day School + NDA Coaching vs Sainik School: Which Path?"
+    keyword: "sainik school vs NDA coaching"
+    category: "Compare"
+    angle: "Cost-benefit for defence aspirants; honest trade-offs."
+  - id: 70
+    title: "Old Sainik Schools vs New Ones: Key Differences"
+    keyword: "new sainik schools vs old"
+    category: "Compare"
+    angle: "Infrastructure, legacy, PPP model explained."
+  - id: 71
+    title: "AISSEE Class 6 vs Class 9 Entry: Which Is the Better Bet?"
+    keyword: "AISSEE class 6 vs class 9"
+    category: "Compare"
+    angle: "Seats, competition, and preparation load compared."
+  - id: 72
+    title: "Sainik School vs Sports School: Choosing for Your Child"
+    keyword: "sainik school vs sports school"
+    category: "Compare"
+    angle: "For athletically gifted kids: which system fits."
+  - id: 73
+    title: "Government vs Private (PPP) Sainik Schools Explained"
+    keyword: "private sainik schools"
+    category: "Compare"
+    angle: "Fee, admission, and oversight differences."
+  - id: 74
+    title: "Birth Certificate Corrections Before the AISSEE Form"
+    keyword: "birth certificate correction AISSEE"
+    category: "Documents"
+    angle: "Name/DOB mismatch fixes; timeline to allow."
+  - id: 75
+    title: "How to Get a Domicile Certificate: State-Wise Process"
+    keyword: "domicile certificate online apply"
+    category: "Documents"
+    angle: "General process + state portal pointers; processing time."
+  - id: 76
+    title: "Income Certificate for Sainik School Scholarships"
+    keyword: "income certificate scholarship"
+    category: "Documents"
+    angle: "Who needs it, how to apply, validity period."
+  - id: 77
+    title: "Transfer Certificate Rules for Class 9 AISSEE Entry"
+    keyword: "transfer certificate class 9 admission"
+    category: "Documents"
+    angle: "TC requirements, countersignature norms."
+  - id: 78
+    title: "Passport Photo Specs for NTA Application Forms"
+    keyword: "NTA photo specifications"
+    category: "Documents"
+    angle: "Size, background, file format; EXPECTED per NTA norms."
+  - id: 79
+    title: "APAAR ID for Students: Do You Need One for AISSEE?"
+    keyword: "APAAR ID students"
+    category: "Documents"
+    angle: "What APAAR is; whether NTA asks for it (labelled clearly)."
+  - id: 80
+    title: "The Complete Document Checklist for Counselling Day"
+    keyword: "sainik school counselling documents"
+    category: "Documents"
+    angle: "Printable checklist: originals + photocopies."
+  - id: 81
+    title: "Medical Certificate Format for Sainik School Admission"
+    keyword: "sainik school medical certificate"
+    category: "Documents"
+    angle: "What the medical board checks; common disqualifiers (honest)."
+  - id: 82
+    title: "How to Apply for Fee Concession in Sainik School"
+    keyword: "sainik school fee concession"
+    category: "Documents"
+    angle: "Income-based slabs; application process."
+  - id: 83
+    title: "Is the AISSEE Application Fee Refundable?"
+    keyword: "AISSEE fee refund"
+    category: "Documents"
+    angle: "Honest answer per NTA norms; failed-payment refunds."
+  - id: 84
+    title: "Sainik Schools in Uttar Pradesh: Complete 2027 List"
+    keyword: "sainik schools in UP"
+    category: "Regional"
+    angle: "Schools, seats, home-state advantage for UP domicile."
+  - id: 85
+    title: "Sainik Schools in Rajasthan: Admission Guide"
+    keyword: "sainik schools in Rajasthan"
+    category: "Regional"
+    angle: "Schools, competition level, preparation tips."
+  - id: 86
+    title: "Sainik Schools in Maharashtra: Fees, Seats, Admission"
+    keyword: "sainik schools in Maharashtra"
+    category: "Regional"
+    angle: "Satara and others; fee structure overview."
+  - id: 87
+    title: "Sainik Schools in Tamil Nadu: Language and Admission Guide"
+    keyword: "sainik schools in Tamil Nadu"
+    category: "Regional"
+    angle: "Amaravathinagar focus; medium of instruction clarity."
+  - id: 88
+    title: "Sainik Schools in West Bengal: Complete Guide"
+    keyword: "sainik schools in West Bengal"
+    category: "Regional"
+    angle: "Purulia focus; what local parents ask."
+  - id: 89
+    title: "Home State Quota in Sainik Schools, Explained with Examples"
+    keyword: "sainik school home state quota"
+    category: "Regional"
+    angle: "67% rule with worked examples."
+  - id: 90
+    title: "Which State Has the Toughest Sainik School Cutoff?"
+    keyword: "sainik school toughest cutoff state"
+    category: "Regional"
+    angle: "Honest analysis: why UP/Bihar/Rajasthan trend higher; no fake numbers."

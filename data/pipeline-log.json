@@ -1,0 +1,1 @@
+{"blog_topic_cursor":0,"notes":"Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.","published":[]}
