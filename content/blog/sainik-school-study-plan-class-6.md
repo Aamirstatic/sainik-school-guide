@@ -1,9 +1,9 @@
 ---
-title: "Sainik School Study Plan Class 6: Subject-Wise Daily Schedule for AISSEE 2027"
+title: "AISSEE 2027 Class 6 Study Plan: 31 January Tak 4 Mahine Mein Kaise Taiyaar Karein"
 date: 2026-08-01
-lastmod: 2026-08-02T13:30:00+05:30
+lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Sainik School study plan Class 6 for AISSEE 2027. Subject-wise daily schedule, chapter-wise weightage, practice routine & tips for Class 6 entrance."
+description: "AISSEE 2027 Class 6 study plan — exam pattern, subject-wise marks, 4 mahine ka week-by-week plan, daily schedule aur mock test strategy."
 keywords: ["sainik school study plan class 6", "AISSEE class 6 preparation", "sainik school class 6 syllabus", "AISSEE class 6 study schedule", "sainik school entrance class 6 tips"]
 author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
@@ -11,176 +11,106 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-study-plan-class-6.webp"
 ---
 
-# Sainik School Study Plan Class 6: Subject-Wise Daily Schedule for AISSEE 2027
+> **🔄 Last verified: 26 September 2026** — Exam pattern AISSEE 2026 ke bulletin par aadharit hai (✅ 150 min / 125 Q / 300 marks). 2027 ka bulletin abhi nahi aaya; pattern repeat hone ki 🔶 ummeed hai. Exam date ✅ **31 January 2027 (tentative)** — NTA exam calendar, 16 Sept 2026.
 
-> **🔄 Latest Update (August 2, 2026):** This article has been updated with fresh internal links to related guides, latest AISSEE 2027 information, and improved keyword targeting for better search visibility.
+# AISSEE 2027 Class 6 Study Plan: 31 January Tak 4 Mahine Mein Kaise Taiyaar Karein
 
+Aaj 26 September hai. Exam 31 January ko hai. Matlab aapke paas **lagbhag 4 mahine** hain. Ghabrane ki zaroorat nahi — 4 mahine bahut hote hain, *agar* sahi plan ho. Aur bina plan ke 1 saal bhi kam pad jata hai. To chaliye, plan banate hain.
 
-> **Quick Summary / TL;DR**
+## Exam Pattern Pehle Samajhiye (Yehi Aadhi Taiyaari Hai)
 
-| Aspect | Details |
-|--------|---------|
-| Target | AISSEE Class 6 (January 2027) |
-| Student's Current Class | Class 5 |
-| Total Marks | 300 |
-| Daily Study Time | 1.5–2.5 hours |
-| Key Subjects | Maths, English, GK, Intelligence |
-| Best Books | NCERT + Arihant Guide |
-| Start Time | Now (16 months prep) |
+| Subject | Questions | Marks |
+|---|---|---|
+| Mathematics | 50 | 150 |
+| Language (English/Hindi) | 25 | 50 |
+| Intelligence (Reasoning) | 25 | 50 |
+| General Knowledge | 25 | 50 |
+| **Total** | **125** | **300** |
 
----
+- ⏱️ Time: **150 minute** (2.5 ghante) | ❌ **No negative marking** | 📝 OMR-based MCQ
+- ✅ **Qualifying marks:** Har section mein 25% + kul 40% (SC/ST par ye rule lagu nahi)
 
-If your child is currently in **Class 5** and aiming for Sainik School Class 6 admission in 2027, this dedicated study plan is for you. Class 6 AISSEE is based on **Class 5 level syllabus** — so your child doesn't need to study anything beyond their current class.
+**Sabse badi baat:** Maths akele **aadhe marks (150/300)** ka hai. Jo bachcha Maths mein strong hai, uska selection lagbhag pakka samjhiye. Aur negative marking nahi hai — matlab **koi question chhodna nahi hai**, attempt sab karna hai.
 
----
+## 4 Mahine Ka Week-by-Week Plan
 
+### Phase 1: Neenv (Week 1–6 | Oct – Mid Nov)
 
-> 💡 **Related:** Get [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/).
+- **Maths:** Class 5 ka syllabus revise + Class 6 ke basic chapters (number system, fractions, geometry basics). Roz 1 ghanta.
+- **Language:** Roz 10 naye shabd + 1 chhota passage reading. Grammar ke basic rules.
+- **Intelligence:** Series, coding-decoding, odd-one-out — roz 15 questions.
+- **GK:** Roz 10 facts — desh, rajya, rajdhani, khel, vigyaan ke basic facts.
 
+### Phase 2: Speed (Week 7–12 | Mid Nov – Dec)
 
-> 💡 **Related:** Check the [AISSEE 2027 Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/).
+- **Maths:** Topic-wise practice, shortcut methods. Roz 30 questions time-bound.
+- **Language:** Comprehension speed badhayein — passage 5 min mein.
+- **Intelligence:** Mixed sets, roz 25 questions.
+- **GK:** Current affairs (2026 ki important ghatnayein) + static GK revise.
+- **Pehla mock test:** December ke pehle hafte mein ek full mock — bas apna level dekhne ke liye.
 
+### Phase 3: Exam Mode (Week 13–17 | Jan)
 
-> 💡 **Related:** Read [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/).
+- **Har hafte 2 full mock tests** — bilkul exam jaisi conditions mein (subah, 150 min, OMR sheet par)
+- Galtiyon ka register banayein — jo question galat hua, wo dobara kyun galat na ho
+- Revision: sirf formula sheets aur short notes
+- Aakhri hafte mein **naya topic mat shuru karein**
 
+## Daily Schedule (School Ke Saath)
 
-> 💡 **Related:** Follow [AISSEE 2027 Last 5 Months Strategy](/blog/aissee-2027-last-5-months-strategy/).
+| Samay | Kya Karein |
+|---|---|
+| Subah 1 ghanta (school se pehle/ baad) | Maths practice |
+| Shaam 45 min | Language / Intelligence (alternate days) |
+| Raat 30 min | GK facts revise |
+| Weekend | 1 mock ya topic test + galti register |
 
+Kul: **roz 2–2.5 ghante** — isse zyada ki zaroorat nahi, isse kam mein kaam nahi chalega.
 
-> 💡 **Related:** Read [AISSEE Topper Tips](/blog/sainik-school-aissee-topper-tips-2027/).
+## Mock Tests: Sabse Underrated Hathiyaar
 
-## AISSEE Class 6 Subject-Wise Breakdown
+Pichhle saalon mein dekha gaya hai ki jo bachche **kam se kam 10 full mock tests** dete hain, unka selection rate kaafi behtar hota hai. Kyon?
 
-| Subject | Questions | Marks | Difficulty |
-|---------|----------|-------|------------|
-| Mathematics | 50 | 150 | Medium |
-| English | 25 | 50 | Easy-Medium |
-| General Knowledge | 25 | 50 | Medium |
-| Intelligence | 25 | 50 | Easy |
-| **Total** | **125** | **300** | |
+1. Time management seekha jata hai — 150 min mein 125 questions ka matlab **1.2 min/question**
+2. OMR bharne ki practice hoti hai (galat gola = gaya number)
+3. Exam ka dar khatm hota hai
 
----
+**Hamari salah:** Pehle mock mein marks kam aayenge — ghabrayein nahi. Har mock ke baad 1 ghanta analysis mein lagayein. Wahi asli padhai hai.
 
-## Subject-Wise Study Plan
+## Parents Ke Liye 5 Zaroori Baatein
 
-### Mathematics (150 marks — Most Important!)
+1. **Bachche par chillayein nahi** — pressure se performance girti hai, badhti nahi
+2. **Mobile/TV ka time fix karein** — poori tarah band karne se zid badhti hai
+3. **Sehat ka dhyaan rakhein** — January mein exam hai, sardi mein bimaar padna sabse bada khatra
+4. **Admit card** 🔶 January ke beech mein aayega — exams.nta.ac.in par nazar rakhein
+5. **Application** 🔶 Oct–Nov mein — form mein category aur domicile bilkul sahi bharein ([quota guide](/blog/sainik-school-sc-st-defence-quota-2027/))
 
-| Month | Topics | Daily Practice |
-|-------|--------|---------------|
-| Aug–Sep | Number System, Addition, Subtraction, Multiplication, Division | 20 questions/day |
-| Oct–Nov | Fractions, Decimals, LCM, HCF | 20 questions/day |
-| Dec–Jan | Geometry, Shapes, Angles, Perimeter, Area | 15 questions/day |
-| Feb–Mar | Data Handling, Bar Graph, Pictograph | 10 questions/day |
-| Apr–May | Mensuration, Volume, Word Problems | 20 questions/day |
-| Jun–Jul | Revision + Mock Tests | 30 questions/day |
-| Aug–Dec | Previous Year Papers + Weak Areas | 25 questions/day |
+## Aksar Puche Jaane Wale Sawaal
 
-### English (50 marks)
+**Q1. Kya Class 5 ka syllabus kaafi hai?**
+AISSEE Class 6 ka paper Class 5 ke level par hota hai, lekin depth zyada hoti hai. NCERT Class 5 + thodi Class 6 ki taiyaari ideal hai.
 
-| Month | Topics | Daily Practice |
-|-------|--------|---------------|
-| Aug–Oct | Grammar: Noun, Pronoun, Verb, Adjective, Tenses | 10 questions/day |
-| Nov–Jan | Vocabulary: Synonyms, Antonyms, Spelling | 10 questions/day |
-| Feb–Apr | Comprehension: Passage reading + questions | 1 passage/day |
-| May–Jul | Sentence Correction, Fill in the Blanks | 10 questions/day |
-| Aug–Dec | Revision + Previous Year Papers | 15 questions/day |
+**Q2. Coaching zaroori hai?**
+Nahi. Sahi plan aur regular mock se ghar par taiyaari ho sakti hai. Coaching sirf discipline ke liye madad karti hai.
 
-### General Knowledge (50 marks)
+**Q3. Language mein English ya Hindi — kaun sa chunein?**
+Jis mein bachcha strong ho. Dono ke marks barabar (50) hain.
 
-| Month | Topics | Daily Practice |
-|-------|--------|---------------|
-| Aug–Oct | Indian History: Freedom Movement, Important Dates | Read 10 min/day |
-| Nov–Jan | Geography: Rivers, Mountains, States, Capitals | Read 10 min/day |
-| Feb–Apr | Science: Human Body, Plants, Animals, Solar System | Read 10 min/day |
-| May–Jul | Current Affairs: Last 6 months news | Read newspaper 10 min/day |
-| Aug–Dec | Revision + Quiz Practice | 15 questions/day |
+**Q4. Kitne marks par selection hota hai?**
+Cut-off har saal, har school, har category mein alag hoti hai. Safe target: **200+/300** rakhiye.
 
-### Intelligence (50 marks — Easiest!)
+**Q5. GK ke liye kya padhein?**
+Static GK (desh-duniya ke facts) + 2026 ki current affairs. Roz thoda-thoda, aakhri mahine mein bojh nahi.
 
-| Month | Topics | Daily Practice |
-|-------|--------|---------------|
-| Aug–Oct | Patterns, Series, Odd One Out | 10 questions/day |
-| Nov–Jan | Mirror Images, Water Images, Shapes | 10 questions/day |
-| Feb–Apr | Coding-Decoding, Analogies | 10 questions/day |
-| May–Dec | Mixed Practice + Previous Year Papers | 15 questions/day |
-
----
-
-## Daily Schedule for Class 5 Students
-
-### Weekdays (School Days)
-
-| Time | Activity | Duration |
-|------|---------|----------|
-| 6:00–6:30 AM | Wake up, freshen up | — |
-| 6:30–7:15 AM | **Maths practice** (fresh mind) | 45 min |
-| 7:15–8:00 AM | Breakfast + get ready | — |
-| 8:00 AM–2:00 PM | School | — |
-| 2:00–3:00 PM | Lunch + rest | — |
-| 3:00–3:30 PM | **English grammar** | 30 min |
-| 3:30–4:00 PM | **GK reading** | 30 min |
-| 4:00–5:00 PM | Play/sports | — |
-| 5:00–5:30 PM | **Intelligence practice** | 30 min |
-| 5:30–6:00 PM | Snacks + free time | — |
-| 9:00 PM | Sleep | — |
-
-**Total daily study: ~2 hours**
-
-### Weekends (Holidays)
-
-| Time | Activity | Duration |
-|------|---------|----------|
-| Morning | **Maths full chapter revision** | 1 hour |
-| Afternoon | **Mock test (1 subject)** | 1 hour |
-| Evening | **GK quiz + Intelligence practice** | 1 hour |
-
-**Total weekend study: ~3 hours/day**
+**Q6. Exam ke ek din pehle kya karein?**
+Kuch naya mat padhein. Documents (admit card, photo, ID) taiyar rakhein. Jaldi so jayein.
 
 ---
 
-## Best Books for Class 6 AISSEE
+**Aage padhein:** [Quota aur reservation rules](/blog/sainik-school-sc-st-defence-quota-2027/) | [Seat matrix 2027](/blog/sainik-school-seats-2027-all-schools-matrix/) | [Sainik School se NDA tak](/blog/sainik-school-to-nda-roadmap/)
 
-| Subject | Book | Why |
-|---------|------|-----|
-| Maths | NCERT Class 5 | Base textbook — must complete |
-| Maths | Arihant Sainik School Guide | AISSEE-specific practice |
-| English | NCERT English Class 5 | Grammar foundation |
-| English | Wren & Martin (Junior) | Grammar rules |
-| GK | Lucent Junior GK | Comprehensive coverage |
-| Reasoning | R.S. Aggarwal (Junior) | Best for Intelligence section |
+## Sources
 
-**Related Article:** [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/)
-
----
-
-## Frequently Asked Questions (FAQs)
-
-### When should I start Class 6 AISSEE preparation?
-**Now.** Starting in Class 4 or early Class 5 gives 12-18 months of preparation — ideal for comprehensive coverage.
-
-### How many hours should a Class 5 student study for AISSEE?
-**1.5–2 hours on weekdays**, **3 hours on weekends**. Consistency matters more than duration.
-
-### Is NCERT enough for Class 6 AISSEE?
-NCERT is the **foundation**, but you also need an AISSEE-specific guide book (like Arihant) for exam-pattern practice.
-
-### What is the pass mark for Class 6 AISSEE?
-There's no fixed pass mark. Selection is based on **merit rank** within your category and state.
-
-### Can an average student crack AISSEE Class 6?
-**Yes.** AISSEE tests Class 5 level knowledge. With consistent preparation for 12 months, an average student can definitely crack it.
-
----
-
-## Related Articles
-
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [AISSEE 2027 Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
-- [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/)
-- [How to Prepare in 3 Months](/blog/how-to-prepare-sainik-school-3-months/)
-- [AISSEE Previous Year Papers](/blog/aissee-previous-year-papers-pdf/)
-
----
-
-*Last Updated: August 2026*
-*Author: Aamir Raza — Defense Education Expert*
+- AISSEE 2026 application details (TOI, cites NTA bulletin): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
+- NTA exam calendar 2026-27 (via TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
+- AISSEE 2027 pattern analysis (edexlive, 8 Sept 2026): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern

@@ -1,9 +1,9 @@
 ---
-title: "Sainik School Admission 2028: Early Preparation Guide for Class 6 & Class 9"
+title: "Sainik School Admission 2028: Class 6 & 9 Early Preparation — Abhi se Shuru Karein"
 date: 2026-08-01
-lastmod: 2026-08-02T13:30:00+05:30
+lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Sainik School admission 2028 early preparation guide. Start now for AISSEE 2028 — eligibility, syllabus, study plan & tips for Class 6 & Class 9."
+description: "Sainik School admission 2028 early preparation guide. AISSEE 2028 eligibility projection, age criteria, syllabus & 15-month study roadmap for Class 6 & Class 9."
 keywords:
   - sainik school admission 2028
   - AISSEE 2028 preparation
@@ -19,272 +19,88 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-admission-2028-early-preparation.webp"
 ---
 
-# Sainik School Admission 2028: Early Preparation Guide for Class 6 & Class 9
+> **🔄 Last verified: 26 September 2026** — AISSEE 2028 ka cycle abhi door hai; neeche sab kuch 🔶 **projection** hai — 2026 bulletin aur 2027 ke confirmed pattern par based. Jaise-jaise official jaankari aayegi, hum update karenge.
 
-> **🔄 Latest Update (August 2, 2026):** This article has been updated with fresh internal links to related guides, latest AISSEE 2027 information, and improved keyword targeting for better search visibility.
+"Abhi to 2027 ka exam bhi nahi hua, 2028 ki taiyari kyun?" — kyunki **jaldi shuru karne wala hi jeetta hai.** AISSEE toppers ka ek common trait hai: unhone 12–15 mahine pehle taiyari shuru ki thi. 3 mahine mein crack karna possible hai, lekin 15 mahine mein crack karna *comfortable* hai.
 
+Agar aapka bachcha abhi Class 4 ya Class 7 mein hai, to ye article aapke liye hai.
 
-> **Quick Summary / TL;DR**
+## AISSEE 2028: kya expect karein (projection)
 
-| Aspect | Details |
-|--------|---------|
-| Exam | AISSEE 2028 |
-| Expected Exam Date | January 2028 |
-| Application Period | October – November 2027 |
-| Class 6 Age Limit | 10–12 years as on 31 March 2028 |
-| Class 9 Age Limit | 13–15 years as on 31 March 2028 |
-| Total Schools | 33+ traditional + 69 PPP |
-| Total Seats | Approximately 10,000+ |
-| Exam Mode | OMR-based (pen & paper) |
-| Conducted By | NTA |
-| Best Time to Start | **Now** (12-18 months before exam) |
-| Application Fee | ₹550 (General), ₹400 (SC/ST) |
+| Point | 🔶 Projection | Basis |
+|-------|--------------|-------|
+| Exam date | Jan 2029? Nahi — **Jan 2028** (2028-29 session ke liye) | Pichhle cycles: exam session se pehle January mein |
+| Notification | Oct 2027 (expected) | 2026: Oct 2025; 2027: Oct 2026 expected |
+| Class 6 age | Janm **1 Apr 2016 – 31 Mar 2018** | 2027 projection se ek saal shift |
+| Class 9 age | Janm **1 Apr 2013 – 31 Mar 2015** | 2027 projection se ek saal shift |
+| Pattern | Same as 2026/2027 | Pattern 3 saal se stable hai |
+| Fee | ₹850 / ₹700 ke aas-paas | 2026 rates |
 
-> **📢 Latest Updates** — This article is updated regularly with the latest information for 2028.
+⚠️ Ye sab **anumaan** hain — final confirmation AISSEE 2028 ke bulletin (expected Oct 2027) mein hogi. Lekin pattern itna stable hai ki is projection par taiyari shuru karna bilkul safe hai.
 
-| Date | Update |
-|------|--------|
-| **August 2026** | Early preparation guide published for AISSEE 2028 aspirants |
+## 15-Month Roadmap: dheere-dheere, gehrai se
 
----
+Jaldi shuru karne ka sabse bada fayda: **ratta nahi, samajh** banti hai.
 
-**Author's Note:** *I am Aamir, a Defense Education Expert. The biggest mistake parents make is waiting until the AISSEE notification is released to start preparation. By then, you have only 2-3 months. Starting 12-18 months early gives your child a massive advantage. This guide tells you exactly what to do right now. — Aamir*
+| Phase | Kab | Focus |
+|-------|-----|-------|
+| Phase 1 (Mahine 1–5) | Abhi – Feb 2027 | NCERT foundation — Class 5/8 ki books gehrai se, roz 1.5–2 hrs |
+| Phase 2 (Mahine 6–10) | Mar – Jul 2027 | Concept + practice — R.S. Aggarwal reasoning, maths practice, roz 2–3 hrs |
+| Phase 3 (Mahine 11–13) | Aug – Oct 2027 | Previous papers + weak topics, hafte mein 1 mock |
+| Phase 4 (Mahine 14–15) | Nov 2027 – Jan 2028 | Intensive mocks (hafte mein 3), revision, form bharna |
 
----
+## Phase 1 mein kya karein (sabse zaroori phase)
 
-If your child is aiming for **Sainik School admission in 2028**, the time to start preparing is **now** — not when the AISSEE 2028 notification drops in October 2027. Every year, thousands of parents make the mistake of starting preparation just 2-3 months before the exam, only to find that the syllabus is too vast and the competition too intense.
+1. **NCERT ko kahani ki tarah padhiye** — Class 5 (Class 6 aspirants) ya Class 8 (Class 9 aspirants) ki Maths, Science/EVS, English books. Jaldi nahi hai, isliye har concept samajhkar aage badhiye.
+2. **Reading habit** — roz 20 minute English newspaper ya story book. Comprehension aur vocabulary aise hi banti hai.
+3. **Mental maths** — tables 20 tak, basic calculations bina pen ke. Ye aadat 15 mahine mein superpower ban jaati hai.
+4. **Current affairs diary** — ek copy mein roz ki 3 badi khabrein. 2028 ke exam tak aapke paas 400+ din ka record hoga.
 
-The AISSEE has approximately **4 lakh applicants** competing for just **10,000 seats** — a selection rate of roughly **2.5%**. Early preparation isn't a luxury; it's a **necessity**.
+## Kya NA karein (early starters ki aam galtiyan)
 
-This guide provides a **month-by-month roadmap** starting from August 2026 — giving you a full 16+ months to prepare.
+- **Coaching mein jaldi mat dhakeliye** — pehle 5 mahine self-study se foundation banaiye. Coaching Phase 3 mein zyada kaam aati hai.
+- **10 books mat kharidiye** — [best books list](/blog/best-books-aissee-2027/) mein di gayi 3–4 books kaafi hain.
+- **Bachche ko burn-out mat kijiye** — 15 mahine lambi race hai. Roz 2 ghante consistent > hafte mein ek din 8 ghante.
 
----
+## 2027 cycle se kya seekhein?
 
+AISSEE 2027 ka exam ✅ **31 January 2027** ko hai. Us cycle ko observe kijiye — notification kab aaya, form kaise bhara gaya, cutoff kya raha. Ye sab aapke 2028 ke kaam aayega. Hamari site par [2027 ka complete guide](/blog/sainik-school-admission-2027-guide/) hai — use reference manual ki tarah istemal kijiye.
 
-> 💡 **Related:** Read [Sainik School Admission 2027](/blog/sainik-school-admission-2027-guide/) for this year.
+## Pehle mahine ka action plan (aaj se shuru)
 
+Theory kaafi ho gayi — ye raha pehle 30 din ka concrete plan:
 
-> 💡 **Related:** Check [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/).
+**Hafta 1–2:**
+- [ ] NCERT Class 5/8 ki Maths, English, Science/EVS books kharidiye (ya school se lijiye)
+- [ ] Roz 20 minute reading habit shuru kijiye
+- [ ] Tables 20 tak yaad karwaiye (mental maths ki neenv)
 
+**Hafta 3–4:**
+- [ ] Maths ka pehla chapter NCERT se khatm + 20 practice questions
+- [ ] Current affairs diary shuru kijiye
+- [ ] [Best books list](/blog/best-books-aissee-2027/) se 1 practice book lijiye
 
-> 💡 **Related:** See [Sainik School Age Limit 2027](/blog/sainik-school-age-limit-2027-detailed-guide/).
+Bas. Pehla mahina itna hi hai. **Chhota start, consistent start** — yehi 15 mahine ki race jeetne ka tareeka hai.
 
+## FAQs
 
-> 💡 **Related:** Get [Best Books for AISSEE](/blog/best-books-aissee-2027/).
+**Q1. 2028 ki taiyari ke liye sahi umar kya hai?**
+Class 6 ke liye: abhi Class 4 mein ho (2028 mein Class 6 ke liye eligible hone ke liye janm 1 Apr 2016 – 31 Mar 2018 🔶 projected). Class 9 ke liye: abhi Class 7 mein ho.
 
+**Q2. Kya syllabus 2028 mein badal sakta hai?**
+Pattern 3 saal se stable hai; bada badlav 🔶 unlikely hai. Lekin final syllabus hamesha bulletin se confirm kijiye.
 
-> 💡 **Related:** Follow [AISSEE 2027 Last 5 Months Strategy](/blog/aissee-2027-last-5-months-strategy/).
+**Q3. Kya abhi se mock tests dene chahiye?**
+Nahi. Pehle 8–10 mahine foundation par dijiye. Mock tests Phase 3 (Aug 2027) se shuru kijiye.
 
-## Who Should Read This Guide?
+**Q4. Girls ke liye 2028 mein kya rules honge?**
+🔶 2027 wale rules hi expected hain — 33 schools mein 10% ya 10 seats girls ke liye. [Girls guide](/blog/sainik-school-for-girls-2027/) padhiye.
 
-This guide is for parents whose children:
+**Q5. Kitne ghante padhna chahiye itni jaldi shuru karke?**
+Phase 1 mein sirf 1.5–2 ghante roz. Consistency > hours. Dheere-dheere badhaiye.
 
-- Were born between **1 April 2016 and 31 March 2018** (Class 6, age 10-12 as on 31 March 2028)
-- Were born between **1 April 2013 and 31 March 2015** (Class 9, age 13-15 as on 31 March 2028)
-- Are currently in **Class 4 or 5** (for Class 6 AISSEE) or **Class 7 or 8** (for Class 9 AISSEE)
-- Want a career in the **Indian Armed Forces** through the NDA pathway
+## Sources
 
-### Age Eligibility Checker
-
-| Class | Date of Birth Range (as on 31 March 2028) | Current Class (Aug 2026) |
-|-------|-------------------------------------------|-------------------------|
-| Class 6 | 1 April 2016 – 31 March 2018 | Class 4 or 5 |
-| Class 9 | 1 April 2013 – 31 March 2015 | Class 7 or 8 |
-
-> **Note:** Age limits may vary slightly. Check the official NTA notification when released.
-
-**Related Article:** [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/) (for reference on the process)
-
----
-
-## Why Start Early? The 16-Month Advantage
-
-### The Problem with Late Preparation
-
-| Preparation Start | Time Available | Outcome Probability |
-|-------------------|---------------|-------------------|
-| October 2027 (with notification) | 2-3 months | Low — syllabus too vast |
-| July 2027 | 6 months | Moderate — possible with intense effort |
-| January 2027 | 12 months | Good — solid preparation possible |
-| **August 2026 (NOW)** | **16+ months** | **Excellent — comprehensive preparation** |
-
-### What Early Starters Gain
-
-1. **Deep Conceptual Understanding** — Not just memorisation, but real understanding
-2. **Multiple Revision Cycles** — 3-4 full revisions before the exam
-3. **Mock Test Practice** — 50+ mock tests with analysis
-4. **Weak Area Identification** — Time to work on subjects that need improvement
-5. **Confidence** — No last-minute panic
-
----
-
-## AISSEE 2028 Syllabus Overview
-
-### Class 6 Syllabus
-
-| Subject | Topics | Marks |
-|---------|--------|-------|
-| **Mathematics** | Number System, Fractions, Decimals, Geometry, Mensuration, Data Handling, Algebra basics | 150 |
-| **English** | Grammar, Comprehension, Vocabulary, Synonyms, Antonyms, Sentence Correction | 50 |
-| **General Knowledge** | History, Geography, Civics, Science, Current Affairs | 50 |
-| **Intelligence** | Verbal & Non-Verbal Reasoning, Patterns, Series, Analogy | 50 |
-| **Total** | | **300** |
-
-### Class 9 Syllabus
-
-| Subject | Topics | Marks |
-|---------|--------|-------|
-| **Mathematics** | Number Systems, Algebra, Geometry, Mensuration, Statistics, Trigonometry basics | 200 |
-| **English** | Grammar, Comprehension, Writing Skills, Literature | 50 |
-| **General Knowledge** | History, Geography, Civics, Science, Current Affairs | 50 |
-| **Intelligence** | Verbal & Non-Verbal Reasoning, Critical Thinking | 50 |
-| **Total** | | **350** |
-
-**Related Article:** [AISSEE 2027 Syllabus Complete Guide](/blog/aissee-2027-syllabus-class-6-class-9/) (2028 syllabus will be similar)
-
----
-
-## Month-by-Month Preparation Plan (Aug 2026 – Jan 2028)
-
-### Phase 1: Foundation Building (Aug 2026 – Dec 2026) — 5 Months
-
-**Goal:** Build strong fundamentals in all subjects
-
-| Month | Focus Area | Daily Study Time |
-|-------|-----------|-----------------|
-| Aug 2026 | Mathematics basics + English grammar | 1.5 – 2 hours |
-| Sep 2026 | Mathematics advanced + GK foundation | 1.5 – 2 hours |
-| Oct 2026 | Intelligence/Reasoning + English vocabulary | 2 hours |
-| Nov 2026 | GK deep dive + Maths practice | 2 hours |
-| Dec 2026 | Revision of all subjects + identify weak areas | 2 – 2.5 hours |
-
-### Phase 2: Strengthening (Jan 2027 – Jun 2027) — 6 Months
-
-**Goal:** Master all topics, start mock tests
-
-| Month | Focus Area | Daily Study Time |
-|-------|-----------|-----------------|
-| Jan 2027 | Complete syllabus coverage + first mock test | 2.5 hours |
-| Feb 2027 | Subject-wise practice + GK current affairs | 2.5 hours |
-| Mar 2027 | Previous year papers (2021-2026) | 2.5 – 3 hours |
-| Apr 2027 | Weak area focus + timed practice | 3 hours |
-| May 2027 | Full-length mock tests (weekly) | 3 hours |
-| Jun 2027 | Mock test analysis + targeted improvement | 3 hours |
-
-### Phase 3: Intensive Preparation (Jul 2027 – Oct 2027) — 4 Months
-
-**Goal:** Peak performance, exam-ready
-
-| Month | Focus Area | Daily Study Time |
-|-------|-----------|-----------------|
-| Jul 2027 | 2 mock tests per week + revision | 3 – 3.5 hours |
-| Aug 2027 | Speed improvement + accuracy focus | 3 – 3.5 hours |
-| Sep 2027 | Full revision + daily mock tests | 3.5 hours |
-| Oct 2027 | Final revision + exam strategy | 3 – 4 hours |
-
-### Phase 4: Exam Mode (Nov 2027 – Jan 2028) — 3 Months
-
-**Goal:** Application, admit card, final preparation
-
-| Month | Focus Area | Daily Study Time |
-|-------|-----------|-----------------|
-| Nov 2027 | Fill AISSEE application + light revision | 2 – 3 hours |
-| Dec 2027 | Mock tests every alternate day + revision | 2.5 – 3 hours |
-| Jan 2028 | **EXAM MONTH** — light revision, stay calm | 1.5 – 2 hours |
-
----
-
-## Best Books for AISSEE 2028 Preparation
-
-### For Class 6
-
-| Subject | Book | Author/Publisher |
-|---------|------|-----------------|
-| Mathematics | NCERT Class 5 & 6 | NCERT |
-| Mathematics | Sainik School Entrance Exam Guide | Arihant |
-| English | NCERT English Class 5 & 6 | NCERT |
-| English | Wren & Martin Grammar | Wren & Martin |
-| GK | Lucent's General Knowledge | Lucent |
-| Reasoning | Verbal & Non-Verbal Reasoning | R.S. Aggarwal |
-
-### For Class 9
-
-| Subject | Book | Author/Publisher |
-|---------|------|-----------------|
-| Mathematics | NCERT Class 8 & 9 | NCERT |
-| Mathematics | Sainik School Class 9 Entrance Guide | Arihant |
-| English | NCERT English Class 8 & 9 | NCERT |
-| GK | Lucent's General Knowledge | Lucent |
-| Reasoning | Verbal & Non-Verbal Reasoning | R.S. Aggarwal |
-
-**Related Article:** [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/) (same books apply for 2028)
-
----
-
-## Daily Routine for AISSEE 2028 Aspirants
-
-### Ideal Daily Schedule (School-Going Students)
-
-| Time | Activity |
-|------|---------|
-| 6:00 – 6:30 AM | Wake up, freshen up |
-| 6:30 – 7:30 AM | **Mathematics practice** (fresh mind, best for problem-solving) |
-| 7:30 – 8:00 AM | Breakfast + get ready for school |
-| 8:00 AM – 2:00 PM | School |
-| 2:00 – 3:00 PM | Lunch + rest |
-| 3:00 – 4:00 PM | **English / GK study** |
-| 4:00 – 5:00 PM | **Reasoning practice** |
-| 5:00 – 6:00 PM | Sports / outdoor activity (physical fitness is important!) |
-| 6:00 – 7:00 PM | **Revision / mock test** |
-| 7:00 – 8:00 PM | Dinner + family time |
-| 8:00 – 8:30 PM | **Light reading / current affairs** |
-| 9:00 PM | Sleep |
-
-> **Pro Tip:** Consistency beats intensity. **2-3 hours daily** for 16 months is far better than 8 hours daily for 2 months.
-
----
-
-## Frequently Asked Questions (FAQs)
-
-### When should I start preparing my child for AISSEE 2028?
-**Now.** The ideal time to start is **12-18 months before the exam**. Starting in August 2026 gives you 16+ months — excellent for comprehensive preparation.
-
-### What is the age limit for Sainik School Class 6 in 2028?
-For Class 6 admission in 2028, your child should be **10-12 years old** as on 31 March 2028. This means date of birth between **1 April 2016 and 31 March 2018**.
-
-### Is the AISSEE 2028 syllabus different from 2027?
-The core syllabus remains the same. Any changes will be announced in the official NTA notification (expected October 2027). The subjects and topics are consistent year to year.
-
-### How many hours should my child study daily?
-For students currently in Class 4-5 or 7-8: **1.5-2 hours daily** is sufficient in the foundation phase. Increase to **3-4 hours** as the exam approaches (6 months before).
-
-### Can I prepare my child at home without coaching?
-**Yes.** Many toppers prepare through self-study with the right books and a disciplined schedule. NCERT books + guide books + mock tests are sufficient. Coaching is helpful but not mandatory.
-
-### What is the selection rate for AISSEE?
-Approximately **2.5%** — about 10,000 seats for 4 lakh applicants. Early preparation significantly improves your child's chances.
-
-### Should I enrol my child in coaching for AISSEE 2028?
-Coaching can help with structured preparation and mock tests, but it's not essential. If you choose coaching, start from **Class 5** (for Class 6 AISSEE) or **Class 8** (for Class 9 AISSEE).
-
-### When will the AISSEE 2028 notification be released?
-Based on previous years, the AISSEE 2028 notification is expected in **October 2027**, with applications open from October to November 2027.
-
----
-
-## Related Articles
-
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/) (same strategies apply for 2028)
-- [AISSEE 2027 Syllabus Complete Guide](/blog/aissee-2027-syllabus-class-6-class-9/)
-- [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/)
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE Previous Year Papers](/blog/aissee-previous-year-papers-pdf/)
-
----
-
-**Official Source:** [NTA — AISSEE Portal](https://exams.nta.nic.in/sainik-school-society/)
-
----
-
-*Last Updated: August 2026*
-*Author: Aamir Raza — Defense Education Expert*
+- NTA exam calendar 2026-27 (TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
+- AISSEE 2026 application (TOI, cites NTA bulletin): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
+- NTA AISSEE portal: https://exams.nta.nic.in/sainik-school-society/

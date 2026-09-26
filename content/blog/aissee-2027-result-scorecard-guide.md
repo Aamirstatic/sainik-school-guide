@@ -1,9 +1,9 @@
 ---
-title: "AISSEE 2027 Result: How to Check Sainik School Result, Download Scorecard & Counselling Process"
+title: "AISSEE 2027 Result: Scorecard Kaise Check Karein, Counselling Ka Poora Process"
 date: 2026-08-01
-lastmod: 2026-08-01T14:30:00+05:30
+lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "AISSEE 2027 result guide. How to check Sainik School result, download scorecard, understand rank, cutoff & counselling process step by step."
+description: "AISSEE 2027 result kab aayega (Feb-Mar expected), scorecard kaise download karein, cutoff, merit list aur AISSAC counselling ka step-by-step process. Verified 26 Sept 2026."
 keywords:
   - AISSEE 2027 result
   - sainik school result 2027
@@ -19,259 +19,112 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-result-scorecard-guide.webp"
 ---
 
-# AISSEE 2027 Result: How to Check Sainik School Result, Download Scorecard & Complete Counselling Guide
+# AISSEE 2027 Result: Scorecard Se Counselling Tak
 
-> **Quick Summary / TL;DR**
+> **🟢 Last verified: 26 September 2026** — ✅ **CONFIRMED** facts 2026 cycle/SOP se. 🔶 **EXPECTED** = pattern-based.
 
-| Aspect | Details |
-|--------|---------|
-| Result Declared By | NTA (National Testing Agency) |
-| Result Website | exams.nta.nic.in/sainik-school-society/ |
-| Login Credentials | Application Number + Date of Birth |
-| Expected Result Date | February – March 2027 |
-| Scorecard Contains | Marks, Rank, Category, Qualifying Status |
-| Next Step After Result | E-Counselling on AISSAC Portal |
-| Counselling Mode | Online (centralised) |
-| Documents Required | Scorecard, ID proof, category certificate, domicile |
-| Total Schools | 33+ traditional + 69 PPP |
-| Total Seats | Approximately 10,000+ |
+Exam **31 January 2027** (✅) ke baad sabse bada intezaar result ka hota hai. Lekin ek baat samajh lijiye: **result aana aadhi ladai hai** — uske baad counselling (AISSAC) mein sahi choice filling hi admission dilati hai. Har saal achche marks wale bachche galat choice filling ki wajah se pichhad jate hain. Is guide mein dono cover kar raha hoon.
 
-> **📢 Latest Updates** — This article is updated regularly with the latest information for 2027.
+## Result Kab Aayega?
 
-| Date | Update |
-|------|--------|
-| **August 2026** | Updated with AISSEE 2026 result analysis for 2027 preparation |
-| **July 2026** | Article published with complete result and counselling information |
+🔶 **February–March 2027 expected.** Basis: AISSEE 2026 mein exam 18 January 2026 ko hua, answer key 11 February ko aayi, aur result February mein declare hua tha. ✅ 2027 mein bhi exam ke 4–6 hafte baad result aane ki sambhavna hai.
 
----
+## Result Kaise Check Karein
 
-**Author's Note:** *I am Aamir, a Defense Education Expert who has guided hundreds of families through the AISSEE result and counselling process. This guide is based on analysis of the AISSEE 2026 result process, official NTA notifications, and hands-on experience with the AISSAC counselling portal. — Aamir*
+1. NTA ke AISSEE portal par jayein.
+2. "AISSEE 2027 Result / Scorecard" link par click karein.
+3. **Application number + Date of birth** daalein.
+4. Scorecard screen par dikhega — **download karke print nikaal lein**.
 
----
+**Scorecard mein ye sab hoga:**
+- Har section ke marks (Maths, Language, Intelligence, GK / Science, SST)
+- Total marks aur percentile
+- All India Rank
+- Category rank (agar applicable)
+- Qualifying status (qualified / not qualified)
 
-The AISSEE result is the **most awaited moment** for every Sainik School aspirant and their parents. After months of preparation, the result day determines whether your child gets a seat in one of India's 33+ traditional or 69 new PPP Sainik Schools.
+## Qualifying Marks — Pass Ya Fail? ✅
 
-In 2026, NTA declared the AISSEE results on **27th February** — approximately 6 weeks after the exam. For AISSEE 2027, a similar timeline is expected. But checking the result is just the **first step**. Understanding your scorecard, knowing the cutoff, and navigating the counselling process are equally critical.
+2026 bulletin ke anusaar:
+- **Har section mein minimum 25%** + **total mein 40% aggregate**
+- Class 6: total 120/300 minimum; Class 9: 160/400 minimum
+- **SC/ST candidates par ye rule lagu nahi** ✅
 
-This guide covers **everything** you need to do after the AISSEE 2027 results are declared.
+**Yaad rahe:** qualify karna = selection nahi. Admission merit + reservation + choice filling par milta hai.
 
----
+## Cutoff — Samajhna Zaroori Hai
 
-## How to Check AISSEE 2027 Result Online
+Cutoff har saal badalti hai — ye in cheezon par depend karti hai:
+- **State quota:** 67% seats home state ke liye — apne state ki cutoff matter karti hai
+- **Category:** SC/ST/OBC-NCL/General/defence wards — sabki alag merit list
+- **Gender:** betiyon ke liye alag seat matrix (10% ya 10 seats, jo zyada ho)
+- **School:** popular schools (jaise purane 33 mein se kuch) ki cutoff zyada hoti hai
 
-### Step-by-Step Process
+Koi bhi site "2027 ki cutoff" pehle se nahi bata sakti — jo bataye, wo andaza hai. Result ke baad counselling rounds mein actual cutoffs saaf hongi.
 
-1. **Visit the Official Website**
-   - Go to [exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/)
+## AISSAC Counselling — Poora Process ✅
 
-2. **Click on "AISSEE 2027 Result" Link**
-   - Look for the result link on the homepage (usually prominently displayed)
+Result ke baad **AISSAC** (All India Sainik Schools Admission Counselling) **Sainik Schools Society** conduct karti hai — NTA nahi. ✅
 
-3. **Enter Login Credentials**
-   - **Application Number** — from your AISSEE admit card
-   - **Date of Birth** — as entered during registration
+| Point | Detail |
+|-------|--------|
+| Portal | **pesa.ncog.gov.in** ✅ |
+| Mode | Poori tarah online ✅ |
+| Fee | **Koi counselling fee nahi** ✅ |
+| Rounds | 2026 mein ~6 rounds hue; seats bharne tak chalta hai |
+| Choice filling | Ek baar hoti hai — **10 schools tak** preference |
 
-4. **View Your Scorecard**
-   - Your result with marks, rank, and qualifying status will be displayed
+### Step-by-Step Counselling
 
-5. **Download & Print**
-   - Download the PDF scorecard
-   - Take **at least 3-4 printouts** (needed for counselling and admission)
+**Step 1 — Registration:** AISSAC portal par result ke details se register karein.
 
-<div style="background: #FFF3CD; border-left: 4px solid #FFC107; padding: 16px; border-radius: 0 8px 8px 0; margin: 20px 0;">
-<h4>⚠️ Important</h4>
-<p>Keep your Application Number and Date of Birth handy. If you've lost your application number, check your email inbox for the registration confirmation from NTA.</p>
-</div>
+**Step 2 — Choice filling (sabse critical):** 10 schools tak apni preference bharein. **Pehli preference aam taur par wahi hoti hai jo AISSEE form mein chuni thi.** Strategy: 2–3 dream schools upar, phir realistic options, aakhir mein safe options. Sirf naam sunkar school mat chunein — location, apne state ka quota, aur pichhle cutoffs dekhkar chunein.
 
----
+**Step 3 — Seat allotment:** Allotment **AISSEE rank + domicile + category + gender + preferences** ke basis par hota hai — school-wise, class-wise merit lists banti hain.
 
-## Understanding Your AISSEE 2027 Scorecard
+**Step 4 — Accept / Reconsider / Exit:**
+- **Accept:** mili seat accept karein, aage medical + document verification.
+- **Reconsider:** agle round mein try karna hai to current seat chhodni padegi (seat cancel ho jayegi).
+- **Exit:** counselling se bahar nikalna.
 
-Your AISSEE scorecard contains critical information. Here's what each field means:
+**Step 5 — Medical fitness + document verification:** Allotment ke baad bachche ka medical test hota hai aur documents verify hote hain. Tab jakar admission pakka hota hai.
 
-### Scorecard Components
+## Reservation — Kaunsi Quota Kya Deti Hai ✅ (SOP)
 
-| Field | What It Means |
-|-------|--------------|
-| **Candidate Name** | As per your application |
-| **Application Number** | Unique AISSEE registration number |
-| **Roll Number** | Exam roll number |
-| **Date of Birth** | Your DOB |
-| **Category** | General / OBC / SC / ST / Defence / Ex-Serviceman |
-| **Gender** | Male / Female |
-| **Class Applied For** | Class 6 or Class 9 |
-| **Total Marks Obtained** | Your score out of maximum |
-| **Subject-wise Marks** | Marks in each subject (Maths, English, GK, Intelligence) |
-| **Percentile Score** | Your relative performance among all candidates |
-| **All India Rank (AIR)** | Your overall rank among all candidates |
-| **Category Rank** | Rank within your category |
-| **Qualifying Status** | Qualified / Not Qualified |
+- **67%** seats home state / UT ke candidates ke liye; **33%** other states ke liye
+- Uske andar: **SC 15%, ST 7.5%, OBC-NCL 27%**
+- Bachi hui seats mein se **25% defence personnel/ex-servicemen ke wards** ke liye
+- **Betiyan (Class 6, 33 schools):** 10% vacancies ya 10 seats — jo zyada ho
 
-### AISSEE 2027 Marking Scheme (For Reference)
+**Naye schools mein** Society ki taraf se koi fixed reservation policy nahi hai — wahan school management ke niyam lagte hain.
 
-| Subject | Class 6 | Class 9 |
-|---------|---------|---------|
-| Mathematics | 150 marks | 200 marks |
-| English | 50 marks | 50 marks |
-| General Knowledge | 50 marks | 50 marks |
-| Intelligence/Reasoning | 50 marks | 50 marks |
-| **Total** | **300 marks** | **350 marks** |
+## Medical Test Mein Kya Hota Hai?
 
-**Related Article:** [AISSEE 2027 Exam Pattern & Marking Scheme](/blog/aissee-2027-syllabus-class-6-class-9/)
+Allotment ke baad medical fitness check hota hai — basic health parameters: eyesight, hearing, physical fitness. Koi bahut tough test nahi hai, lekin serious medical issue ho to admission affect ho sakta hai. Bachche ki regular health checkup karwate rahein.
 
----
+## FAQ
 
-## AISSEE 2027 Expected Cutoff (Based on 2026 Analysis)
+**Q1. AISSEE 2027 ka result kab aayega?**
+🔶 February–March 2027 expected hai (2026 mein February mein aaya tha). Official date abhi announce nahi hui.
 
-Cutoff marks vary by **category, class, and school**. Based on AISSEE 2026 data:
+**Q2. Result kahaan check karenge?**
+NTA ke AISSEE portal par — application number aur DOB se login karke scorecard download karein.
 
-### Class 6 Expected Cutoff
+**Q3. Qualify karne ke baad admission pakka?**
+Nahi. Admission merit rank, reservation category, aur AISSAC counselling mein choice filling par depend karta hai.
 
-| Category | Expected Cutoff Range | Percentage |
-|----------|----------------------|------------|
-| General | 170 – 190 / 300 | 57% – 63% |
-| OBC | 155 – 175 / 300 | 52% – 58% |
-| SC | 130 – 150 / 300 | 43% – 50% |
-| ST | 120 – 140 / 300 | 40% – 47% |
-| Defence | 145 – 165 / 300 | 48% – 55% |
+**Q4. Counselling kaun karwata hai — NTA ya koi aur?**
+✅ AISSAC — Sainik Schools Society, pesa.ncog.gov.in par. NTA sirf exam conduct karta hai.
 
-### Class 9 Expected Cutoff
+**Q5. Counselling ki fee kitni hai?**
+✅ Koi fee nahi hai — poori process online aur free hai.
 
-| Category | Expected Cutoff Range | Percentage |
-|----------|----------------------|------------|
-| General | 200 – 230 / 350 | 57% – 66% |
-| OBC | 180 – 210 / 350 | 51% – 60% |
-| SC | 155 – 180 / 350 | 44% – 51% |
-| ST | 140 – 165 / 350 | 40% – 47% |
-| Defence | 165 – 195 / 350 | 47% – 56% |
-
-> **Note:** These are approximate ranges based on previous years. Actual cutoffs depend on exam difficulty, number of applicants, and available seats.
-
-**Related Article:** [Sainik School Cutoff 2026 State-Wise Analysis](/blog/sainik-school-cutoff-2026-state-wise/)
-
----
-
-## After the Result: E-Counselling Process
-
-Getting a qualifying result is **not the end** — you must participate in the e-counselling process to secure a seat.
-
-### Counselling Timeline (Expected)
-
-| Event | Expected Date |
-|-------|--------------|
-| AISSEE 2027 Result | February – March 2027 |
-| E-Counselling Registration Opens | March 2027 |
-| Choice Filling Period | March 2027 |
-| First Allotment List | April 2027 |
-| Document Verification | April 2027 |
-| Second Allotment (if applicable) | April – May 2027 |
-| Spot Round | May 2027 |
-
-### How to Register for E-Counselling
-
-1. **Visit AISSAC Portal** — [aissac.sainikschool.ncog.gov.in](https://aissac.sainikschool.ncog.gov.in/)
-2. **Register with AISSEE Credentials** — Application number, roll number, DOB
-3. **Fill Personal Details** — Address, category, medical info
-4. **Upload Documents** — Scorecard, ID proof, category certificate, domicile
-5. **Fill School Choices** — Select and rank your preferred Sainik Schools
-6. **Lock Choices** — Before the deadline
-7. **Wait for Allotment** — Based on rank, category, and preferences
-
-### Choice Filling Strategy
-
-> **Pro Tip:** Fill **at least 10-15 school choices** to maximize your chances. Include a mix of traditional and PPP schools.
-
-- **Top 3-5 choices:** Dream schools (your preferred traditional Sainik Schools)
-- **Middle 5-8 choices:** Realistic options (schools where your rank has a good chance)
-- **Last 3-5 choices:** Safe options (PPP schools or less popular traditional schools)
-
-**Related Article:** [Sainik School Counselling 2027 Complete Guide](/blog/sainik-school-counselling-2027/)
-
----
-
-## Documents Required for Admission
-
-After seat allotment, you'll need these documents for verification:
-
-### Essential Documents
-
-1. **AISSEE 2027 Scorecard** (printed copy)
-2. **AISSEE 2027 Admit Card**
-3. **Class 5/8 Mark Sheet** (previous class)
-4. **Date of Birth Certificate** (from municipality/panchayat)
-5. **Category Certificate** (if applicable — SC/ST/OBC)
-6. **Domicile Certificate** (for home state quota)
-7. **Aadhaar Card** (student and parent)
-8. **Passport-size Photographs** (6-8 copies)
-9. **Medical Fitness Certificate**
-10. **Transfer Certificate** from previous school
-11. **Character Certificate** from previous school
-12. **Defence Certificate** (if applying under defence quota)
-
-<div style="background: #D4EDDA; border-left: 4px solid #28A745; padding: 16px; border-radius: 0 8px 8px 0; margin: 20px 0;">
-<h4>✅ Pro Tip</h4>
-<p>Start collecting documents **before** the results are declared. Domicile and category certificates can take 2-4 weeks to process. Don't wait until after the allotment.</p>
-</div>
-
----
-
-## What If You Don't Get a Seat?
-
-If your child doesn't get a seat in the first round, don't lose hope:
-
-### Options Available
-
-1. **Wait for Subsequent Rounds** — Many students get seats in the 2nd or 3rd round as others withdraw
-2. **Spot Round** — Remaining vacant seats are filled through spot counselling
-3. **PPP Schools** — New PPP Sainik Schools often have more vacancies
-4. **Prepare Again** — If your child is age-eligible, prepare for AISSEE 2028
-5. **Alternative Schools** — Consider RIMC, Rashtriya Military School, or JNV
-
-**Related Article:** [Sainik School vs RIMC vs Military School 2027](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/)
-
----
-
-## Frequently Asked Questions (FAQs)
-
-### When will AISSEE 2027 results be declared?
-Based on previous years, AISSEE 2027 results are expected in **February – March 2027**, approximately 5-7 weeks after the exam.
-
-### How can I check my AISSEE result?
-Visit [exams.nta.nic.in/sainik-school-society/](https://exams.nta.nic.in/sainik-school-society/) and login with your **Application Number** and **Date of Birth**.
-
-### What is a good score in AISSEE 2027?
-For Class 6, a score of **170+ out of 300** (57%+) is generally competitive for General category. For Class 9, aim for **200+ out of 350** (57%+).
-
-### Is there negative marking in AISSEE?
-**No.** AISSEE does not have negative marking. Attempt all questions even if you're unsure.
-
-### What happens after the AISSEE result?
-After the result, you must participate in **e-counselling** on the AISSAC portal. Register, fill school choices, and wait for seat allotment based on your rank and preferences.
-
-### Can I get admission without counselling?
-**No.** All Sainik School admissions (traditional and PPP) go through the centralised e-counselling process. Direct admission is not possible.
-
-### What if I lose my application number?
-Check your **email inbox** for the NTA registration confirmation. You can also contact NTA helpline for assistance.
-
-### How many seats are available through AISSEE?
-Approximately **10,000+ seats** across 33+ traditional and 69 new PPP Sainik Schools combined.
-
----
-
-## Related Articles
-
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [Sainik School Counselling 2027 Guide](/blog/sainik-school-counselling-2027/)
-- [Sainik School Cutoff 2026 State-Wise](/blog/sainik-school-cutoff-2026-state-wise/)
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [AISSEE Previous Year Papers](/blog/aissee-previous-year-papers-pdf/)
-
----
-
-**Official Source:** [NTA — AISSEE Portal](https://exams.nta.nic.in/sainik-school-society/)
-
----
-
-*Last Updated: August 2026*
-*Author: Aamir Raza — Defense Education Expert*
+**Q6. Choice filling mein kitne schools chun sakte hain?**
+10 schools tak preference bhar sakte hain. Choice filling ek baar hoti hai, isliye soch-samajhkar bharein.
+
+## Sources
+
+- AISSAC 2025 SOP (Sainik Schools Society): https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
+- AISSEE 2026 counselling merit list (Moneycontrol): https://www.moneycontrol.com/education/aissee-2026-sainik-school-e-counselling-merit-list-2026-out-candidates-shortlisted-for-medical-examination-direct-link-here-to-download-article-13853009.html
+- AISSEE 2026 result timeline (Economic Times, Jan 2026): https://economictimes.indiatimes.com/news/new-updates/aissee-2026-admit-cards-released-for-class-6-and-9-admissions-at-exams-nta-nic-in/sainik-school-society-check-steps-to-download-and-more/articleshow/126484265.cms
+- NTA Exam Calendar 2026-27 (TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms

@@ -1,177 +1,110 @@
 ---
-title: "Sainik School SC/ST/OBC & Defence Quota 2027: Reservation, Fee Concession & Documents"
+title: "Sainik School SC/ST/OBC & Defence Quota 2027: Reservation Rules, Documents Aur Category-Wise Seats"
 date: 2026-08-01
-lastmod: 2026-08-02T13:30:00+05:30
+lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Sainik School SC/ST/OBC and defence quota 2027. Reservation rules, fee concession, documents required & how to apply under special category."
-keywords: ["sainik school SC ST quota", "sainik school defence quota", "sainik school reservation", "sainik school fee concession SC ST", "sainik school OBC reservation"]
+description: "Sainik School SC/ST/OBC reservation aur defence quota 2027 — AISSAC SOP ke anusaar 67/33 home-state rule, category-wise seats, documents aur counselling mein category kaise kaam karti hai."
+keywords: ["sainik school SC ST quota", "sainik school defence quota", "sainik school reservation", "sainik school OBC reservation", "AISSEE category wise seats"]
 author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-sc-st-defence-quota-2027.webp"
 ---
 
-# Sainik School SC/ST/OBC & Defence Quota 2027: Reservation, Fee Concession & Documents
+> **🔄 Last verified: 26 September 2026** — Neeche di gayi reservation rules AISSAC 2025 SOP (Sainik Schools Society ka official counselling document) par aadharit hain. AISSEE 2027 ka information bulletin abhi **jaari nahi hua** hai; bulletin aate hi ye page 48 ghante ke andar update hoga.
 
-> **🔄 Latest Update (August 2, 2026):** This article has been updated with fresh internal links to related guides, latest AISSEE 2027 information, and improved keyword targeting for better search visibility.
+# Sainik School SC/ST/OBC & Defence Quota 2027: Reservation Rules, Documents Aur Category-Wise Seats
 
+Agar aapka bachcha SC, ST, OBC category se hai ya aap defence background se hain, to ye article aapke liye sabse important hai. Sainik School admission mein reservation ka system thoda alag hai — yahan sirf caste quota nahi, **home-state quota** bhi lagta hai, aur defence wards ke liye alag se provision hai. Galat category bharne par form reject bhi ho sakta hai, isliye dhyaan se padhiye.
 
-> **Quick Summary / TL;DR**
+## Sabse Pehle: 2027 Cycle Ki Sthiti Kya Hai
 
-| Category | Reservation | Fee Concession |
-|----------|------------|---------------|
-| SC (Scheduled Caste) | 15% seats | Up to 100% |
-| ST (Scheduled Tribe) | 7.5% seats | Up to 100% |
-| OBC (Non-Creamy Layer) | 27% seats | Partial |
-| Defence Personnel | Varies | Up to 50% |
-| Ex-Serviceman | Varies | Up to 50% |
-| War Widow | Special | Up to 100% |
+Ek baat seedhi-seedhi samajh lijiye:
 
----
+- ✅ **CONFIRMED (AISSAC SOP):** Reservation ka structure — 67% home-state / 33% other-state, SC 15%, ST 7.5%, OBC-NCL 27%, defence wards ke liye 25% ka provision
+- 🔶 **EXPECTED:** AISSEE 2027 ka bulletin abhi nahi aaya (26 September 2026 tak), isliye ye rules 2026 cycle ke SOP par aadharit hain — 2027 mein badalne ki sambhavna kam hai, lekin bulletin aane par confirm karna zaroori hai
 
-Sainik Schools follow the **Government of India reservation policy**. Students from SC/ST/OBC categories and defence families get reserved seats and significant fee concessions.
+AISSEE ka exam ✅ **31 January 2027 (tentative)** ko hona hai — ye NTA ke official exam calendar (16 September 2026) mein darj hai. Application window 🔶 October–November 2026 mein khulne ki ummeed hai.
 
----
+## Reservation Ka Poora Structure (AISSAC SOP Ke Anusaar)
 
+Sainik Schools mein 33 purane schools ke liye reservation do level par kaam karta hai. Samajhiye ek simple table se:
 
-> 💡 **Related:** Check [Sainik School Fees 2027](/blog/sainik-school-fee-comparison-all-schools/) for fee details.
+| Reservation ka Aadhar | Rule | Matlab |
+|---|---|---|
+| Home state vs Other states | 67% / 33% | Kul seats mein se 67% usi state ke bachchon ke liye jahan school hai |
+| SC | 15% | Har state-quota ke andar 15% seats SC category ke liye |
+| ST | 7.5% | Har state-quota ke andar 7.5% seats ST category ke liye |
+| OBC (Non-Creamy Layer) | 27% | Har state-quota ke andar 27% seats OBC-NCL ke liye |
+| Defence wards | 25% of remainder | Bachi hui seats mein se 25% defence personnel ke bachchon ke liye |
+| Girls (Class 6) | 10% ya 10 seats (jo zyada ho) | 33 schools mein girls ke liye minimum guarantee |
 
+**Ek example se samjhiye:** Maan lijiye kisi school mein Class 6 ki 100 seats hain. Pehle 67 seats home-state, 33 other-state mein bategi. Home-state ki 67 seats mein se lagbhag 10 SC, 5 ST, 18 OBC-NCL ke hisse mein aayengi. Uske baad jo seats bachengi, unme se 25% defence wards ke liye reserve hongi. Ye calculation AISSAC counselling ke software mein automatic hoti hai — aapko haath se kuch nahi karna.
 
-> 💡 **Related:** Read the [complete admission guide](/blog/sainik-school-admission-2027-guide/).
+> ⚠️ **Zaroori note:** Ye formula 33 established Sainik Schools par lagta hai. Naye PPP-mode schools mein reservation policy alag ho sakti hai — 2027 ke bulletin mein iski pushti hogi.
 
+## Defence Quota: Kaun Eligible Hai?
 
-> 💡 **Related:** See [Sainik School Scholarship 2027](/blog/sainik-school-scholarship-fee-concession-2027/) for fee concession.
+"Defence ward" ka matlab sirf army officer ka bachcha nahi hai. Isme aate hain:
 
+- Serving Army, Navy, Air Force personnel ke bachche
+- Ex-servicemen ke bachche
+- War widows / battle casualties ke parivaar ke bachche
+- Territorial Army personnel ke bachche (kuch conditions ke saath)
 
-> 💡 **Related:** Check your child's eligibility: [Sainik School Age Limit 2027](/blog/sainik-school-age-limit-2027-detailed-guide/).
+**Hamari salah:** Defence category ka claim karte waqt **service certificate ya PPO (Pension Payment Order)** pehle se taiyar rakhiye. Counselling ke waqt document verification mein sabse zyada dikkat defence category walon ko hi hoti hai, kyunki certificate ka format galat hota hai. Apne record office ya Zila Sainik Welfare Office se sahi format ka certificate banwa lijiye.
 
+Defence quota ke baare mein detail mein padhne ke liye hamara [scholarship aur fee concession guide](/blog/sainik-school-scholarship-fee-concession-2027/) dekhein — wahan defence families ke liye fee mein chhoot ki poori jaankari hai.
 
-> 💡 **Related:** For girls admission, read [Sainik School for Girls 2027](/blog/sainik-school-for-girls-2027/).
+## Category Certificate: Sabse Badi Galti Yahi Hoti Hai
 
-## Reservation Policy
+Pichhle saal counselling mein dekha gaya ki kai parents ka form isliye atka kyunki:
 
-### Category-wise Seat Reservation
+1. **OBC certificate creamy layer ka tha** — Sainik School mein sirf **OBC Non-Creamy Layer** ko reservation milta hai. Creamy layer walon ko General mein gina jata hai.
+2. **Certificate purana tha** — OBC-NCL certificate aam taur par 1 saal ke andar ka hona chahiye. 2027 admission ke liye 2026 mein bana certificate sabse safe hai.
+3. **State ka format alag tha** — Central government ke prescribed format mein certificate banwayein, kyunki AISSEE ek national-level exam hai.
+4. **Domicile proof missing tha** — Home-state quota ka fayda lene ke liye us state ka domicile certificate chahiye. Ye baat kai parents bhool jate hain.
 
-| Category | Reservation % |
-|----------|:---:|
-| General (Unreserved) | 50.5% |
-| OBC (Non-Creamy Layer) | 27% |
-| SC | 15% |
-| ST | 7.5% |
-| **Total** | **100%** |
+### Documents Ki Checklist (Category-Wise)
 
-### Additional Reservations
+- [ ] Caste certificate (SC/ST/OBC-NCL) — central govt format mein
+- [ ] Domicile certificate — home-state quota ke liye
+- [ ] Defence service certificate / PPO — defence wards ke liye
+- [ ] Income certificate — fee concession ke liye (kuch states mein)
+- [ ] Aadhaar card — bachche aur parent dono ka
+- [ ] Birth certificate — age verification ke liye
 
-| Category | Benefit |
-|----------|---------|
-| Defence Personnel Children | Priority in admission |
-| Ex-Serviceman Children | Priority in admission |
-| War Widow Children | Special consideration |
-| Girls | 25% seats reserved (since 2021) |
-| Home State | 67% seats for home state candidates |
+## Girls Quota: Betiyon Ke Liye Khaas
 
----
+33 established Sainik Schools mein Class 6 mein girls ke liye **10% seats ya 10 seats — jo bhi zyada ho** — reserve hain. Ye ✅ CONFIRMED rule hai (SOP ke anusaar). Matlab agar aapki beti AISSEE de rahi hai, to uske liye alag se seat pool hai — competition boys ke general pool se alag hota hai.
 
-## Fee Concession Details
+## Aksar Puche Jaane Wale Sawaal
 
-### SC/ST Students
+**Q1. Kya main SC category aur home-state quota dono ka fayda le sakta hoon?**
+Haan. Dono alag-alag level par lagte hain — pehle home-state/other-state mein division hota hai, phir uske andar category-wise. Aapko dono ke documents dene honge.
 
-| Fee Component | Concession |
-|--------------|------------|
-| Tuition Fee | **100% waiver** |
-| Hostel Fee | **100% waiver** |
-| Mess Charges | Partial concession |
-| Uniform & Books | Government subsidy |
+**Q2. OBC creamy layer walon ko kya milega?**
+Creamy layer ke bachche General category mein gine jayenge. Reservation ka fayda sirf Non-Creamy Layer ko milta hai.
 
-### Defence Personnel Children
+**Q3. Defence quota mein kitni seats hoti hain?**
+Bachi hui seats ka 25% — ye fixed number nahi hai, school aur us saal ki seat matrix par nirbhar karta hai. [Seat matrix guide](/blog/sainik-school-seats-2027-all-schools-matrix/) mein calculation ka example diya hai.
 
-| Category | Concession |
-|----------|------------|
-| Serving Defence Personnel | Up to 50% fee waiver |
-| Ex-Serviceman | Up to 50% fee waiver |
-| War Widow | Up to 100% fee waiver |
-| Paramilitary (BSF/CRPF/CISF) | As per rules |
+**Q4. Kya girls ke liye alag exam hota hai?**
+Nahi. Exam ek hi hota hai (AISSEE), bas counselling mein girls ke liye alag seat pool hota hai.
 
-### OBC Students
+**Q5. Certificate kab tak banana chahiye?**
+Application window khulne se pehle — 🔶 October 2026 se pehle sab documents taiyar rakhiye taaki form bharte waqt dikkat na ho.
 
-| Fee Component | Concession |
-|--------------|------------|
-| Tuition Fee | Partial (varies by state) |
-| Hostel Fee | Partial |
-| Mess Charges | No concession (usually) |
+**Q6. Naye PPP schools mein bhi yehi reservation lagega?**
+Iski pushti 2027 ke bulletin mein hogi. 33 purane schools mein SOP wala formula lagta hai; naye schools ki policy bulletin mein saaf hogi.
 
 ---
 
-## Documents Required for Reservation
+**Aage padhein:** [Sainik School Seats 2027 — poori seat matrix](/blog/sainik-school-seats-2027-all-schools-matrix/) | [Scholarship aur fee concession guide](/blog/sainik-school-scholarship-fee-concession-2027/) | [Class 6 study plan](/blog/sainik-school-study-plan-class-6/)
 
-### SC/ST Candidates
+## Sources
 
-1. **SC/ST Certificate** — Issued by Tehsildar/SDM/District Magistrate
-2. **Caste Certificate** — Must be in the format prescribed by GOI
-3. **Income Certificate** — For fee concession (family income limit varies)
-4. **Domicile Certificate** — For home state quota
-
-### Defence Personnel Children
-
-1. **Defence Service Certificate** — From commanding officer
-2. **Salary Certificate** — For fee concession eligibility
-3. **Posting Certificate** — Current posting details
-4. **Discharge Book** (for ex-serviceman)
-
-### OBC Candidates
-
-1. **OBC Certificate** — Non-creamy layer certificate
-2. **Income Certificate** — Family income must be below ₹8 lakh/year
-3. **Domicile Certificate**
-
----
-
-## How to Apply Under Reservation
-
-### During AISSEE Application
-
-1. **Select your category** — SC/ST/OBC/Defence/General
-2. **Upload category certificate** — Scanned copy
-3. **Enter certificate details** — Issuing authority, date, number
-
-### During Counselling
-
-1. **Carry original certificates** — For verification
-2. **Upload on AISSAC portal** — As per instructions
-3. **Present at document verification** — At allotted school
-
-> **⚠️ Important:** Category certificates must be **valid and current**. Expired certificates are not accepted.
-
----
-
-## Frequently Asked Questions (FAQs)
-
-### What percentage of seats are reserved for SC/ST?
-**15% for SC** and **7.5% for ST** — as per Government of India reservation policy.
-
-### Is there 100% fee waiver for SC/ST students?
-**Yes**, for tuition and hostel fees. Mess charges may have partial concession depending on the school.
-
-### Can defence personnel children get fee concession?
-**Yes.** Serving defence personnel and ex-serviceman children can get up to **50% fee waiver**.
-
-### What is the OBC non-creamy layer criterion?
-Family annual income must be **below ₹8 lakh/year** to qualify for OBC non-creamy layer reservation.
-
-### Do I need a separate application for reservation?
-**No.** Category selection is done during the AISSEE application itself. Upload the required certificate at that time.
-
----
-
-## Related Articles
-
-- [Sainik School Admission 2027](/blog/sainik-school-admission-2027-guide/)
-- [Sainik School Scholarship Guide](/blog/sainik-school-scholarship-fee-concession-2027/)
-- [Sainik School Fee Comparison](/blog/sainik-school-fee-comparison-all-schools/)
-- [Sainik School Counselling 2027](/blog/sainik-school-counselling-2027/)
-- [Sainik School for Girls 2027](/blog/sainik-school-for-girls-2027/)
-
----
-
-*Last Updated: August 2026*
-*Author: Aamir Raza — Defense Education Expert*
+- AISSAC 2025 SOP (Sainik Schools Society): https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
+- NTA exam calendar 2026-27 (via TOI): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
+- AISSEE 2027 pattern analysis (edexlive, 8 Sept 2026): https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
+- 100 new PPP schools announcement (Indian Express, 22 Mar 2026): https://indianexpress.com/article/education/rajnath-singh-announces-100-new-sainik-schools-in-ppp-mode-10594971/

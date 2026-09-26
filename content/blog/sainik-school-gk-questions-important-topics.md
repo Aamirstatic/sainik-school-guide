@@ -1,9 +1,9 @@
 ---
-title: "Sainik School GK Questions — 100 Most Important Topics for AISSEE 2027"
+title: "Sainik School GK Questions — AISSEE 2027 Ke 100 Most Important Topics"
 date: 2026-08-01
-lastmod: 2026-08-02T13:30:00+05:30
+lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "Sainik School GK questions — 100 most important topics for AISSEE 2027. Indian history, geography, science, current affairs & defence GK."
+description: "Sainik School GK questions — AISSEE 2027 ke liye 100 most important topics. History, geography, science, current affairs aur defence GK, subject-wise."
 keywords: ["sainik school GK questions", "AISSEE GK topics", "sainik school general knowledge", "AISSEE current affairs", "sainik school entrance exam GK"]
 author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
@@ -11,256 +11,176 @@ author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-gk-questions-important-topics.webp"
 ---
 
-# Sainik School GK Questions — 100 Most Important Topics for AISSEE 2027
+# Sainik School GK Questions — AISSEE 2027 Ke 100 Most Important Topics
 
-**Meta Description:** Sainik School GK questions — 100 most important topics for AISSEE 2027. Indian history, geography, science, current affairs & defence GK.
+> **✅ Last verified: 26 September 2026** — Exam pattern AISSEE 2026 bulletin par aadharit (✅ CONFIRMED): Class 6 mein GK section — 25 questions, 50 marks. Class 9 mein SST section — 25 questions, 50 marks.
 
----
+GK wo section hai jahan taiyaari karne wale bachche aasani se 40+ marks le aate hain — aur bina taiyaari wale 15 par atak jaate hain. Farq sirf itna hai: **sahi topics par focus.**
 
+AISSEE ka GK ratta maar wala nahi hai. Sawal NCERT Class 5–8 ke concepts + aas-paas ki duniya se aate hain. Neeche 100 topics, subject-wise, priority ke saath.
 
-> 💡 **Related:** Read [AISSEE 2027 Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/).
+## Pehle Pattern Samajh Lo (✅ CONFIRMED)
 
+| Class | GK/SST Section | Questions | Marks | Time (poora paper) |
+|-------|---------------|-----------|-------|---------------------|
+| 6 | General Knowledge | 25 | 50 | 150 min |
+| 9 | Social Science | 25 | 50 | 180 min |
 
-> 💡 **Related:** Get [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/).
+Qualifying rule yaad rakho: **har section mein 25% + kul 40% aggregate** chahiye (SC/ST ko chhoot). Matlab GK mein kam se kam 12–13 marks pakke karne hi honge.
 
+## 1. Indian History (20 Topics) — Sabse Zyada Weightage
 
-> 💡 **Related:** Check [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/).
+1. Indus Valley Civilization — Mohenjodaro, Harappa ki khaasiyat
+2. Vedic period — samaj, dharm, sahitya
+3. Maurya Empire — Chandragupta, Ashoka, uske shilalekh
+4. Gupta period — "Golden Age" kyon kehlata hai
+5. Delhi Sultanate — khaas taur par Qutub-ud-din Aibak, Alauddin Khilji
+6. Mughal Empire — Babar se Aurangzeb tak, kaun-kya banwaya
+7. Marathas — Shivaji Maharaj ka prashasan
+8. 1857 ki kranti — kaaran, neta, parinaam
+9. Freedom struggle — Gandhi ji ke andolan (Non-cooperation, Civil Disobedience, Quit India)
+10. Indian National Congress ki sthapna (1885)
+11. Bhagat Singh, Subhash Chandra Bose, Rani Lakshmibai
+12. Partition aur Independence (1947)
+13. Indian Constitution — kab lagu hua (26 Jan 1950), mukhya visheshtaen
+14. Fundamental Rights aur Duties
+15. Panchayati Raj system
+16. Medieval saints aur bhakti movement (basics)
+17. British rule ke pramukh Governor-Generals
+18. Jallianwala Bagh (1919)
+19. Dandi March (1930)
+20. National symbols — flag, anthem, emblem ka itihas
 
+**Hamari salah:** Timeline banao — 1857, 1919, 1930, 1942, 1947. In 5 taarikhon ke aas-paas aadhe sawal ghumte hain.
 
-> 💡 **Related:** Download [Previous Year Papers](/blog/aissee-previous-year-papers-pdf/).
+## 2. Geography (20 Topics)
 
-## Quick Summary — AISSEE GK Section at a Glance
+21. Solar system — grah, unke kram aur visheshta
+22. Earth ki gatiyan — rotation vs revolution
+23. Latitude-longitude basics
+24. India ka aakaar, padosi desh, seemaen
+25. Himalaya — ranges (Himadri, Himachal, Shivalik)
+26. Northern plains aur unki nadiyan
+27. Peninsular plateau
+28. Major rivers — Ganga, Yamuna, Brahmaputra, Godavari, Krishna, Narmada, Tapi (kahan se nikalti, kahan girti)
+29. Monsoon system — kab aata hai, kyon aata hai
+30. Indian states aur unki rajdhani (poori list yaad karo)
+31. Union Territories (2026 tak ki sthiti)
+32. Major ports of India
+33. Soil types — alluvial, black, red, laterite
+34. Major crops — kharif vs rabi
+35. Forests aur wildlife sanctuaries (2–3 pramukh)
+36. Continents aur oceans
+37. Famous deserts — Thar, Sahara
+38. Indian islands — Andaman-Nicobar, Lakshadweep
+39. Tropic of Cancer — kin rajyon se guzarta hai
+40. Map-based sawal — nadi/parvat ko map par pehchanna
 
-The General Knowledge (GK) section in AISSEE carries **50 marks in Class 6** and **50 marks in Class 9**. It is the easiest section to score in if you prepare the right topics. This article covers the **100 most important GK topics** organized by category, with sample questions and answers.
+## 3. Science (20 Topics)
 
-| Parameter | Class 6 | Class 9 |
-|-----------|:---:|:---:|
-| **GK Questions** | 25 | 25 |
-| **Marks** | 50 | 50 |
-| **Marks per Question** | 2 | 2 |
-| **Difficulty** | Easy to Moderate | Moderate |
-| **Key Areas** | History, Geography, Current Affairs, Science | History, Geography, Civics, Science, Current Affairs |
+41. Human body — pachan tantra, saans tantra, rakt parisanchran
+42. Vitamins — kaunsi kami se kaunsi bimari
+43. Plants — photosynthesis, paudhe ke bhaag
+44. States of matter
+45. Force, motion, energy basics
+46. Light — reflection, refraction (sadharan)
+47. Sound — kaise failta hai
+48. Electricity basics — circuit, conductor/insulator
+49. Solar system (science angle se)
+50. Water cycle
+51. Air — sangathan, pradushan
+52. Famous scientists — Newton, Einstein, C.V. Raman, A.P.J. Abdul Kalam
+53. Inventions — bulb, telephone, computer (kisne kiya)
+54. Diseases — karan aur roktham (basics)
+55. Metals vs non-metals
+56. Acids-bases (sadharan pehchan)
+57. Environment — greenhouse effect, ozone
+58. Food chain basics
+59. Measurement units — lambai, vajan, samay
+60. Computer basics — parts, input/output devices
 
-> **Bottom Line:** GK is the **highest ROI section** in AISSEE — easy to prepare, predictable patterns, and quick to solve. Master these 100 topics and you can score 40+ out of 50 in GK.
+## 4. Civics & Polity (15 Topics)
 
----
+61. President, PM, Governor — kaun kya karta hai
+62. Parliament — Lok Sabha vs Rajya Sabha
+63. Supreme Court basics
+64. Election Commission
+65. Fundamental Rights (detail mein)
+66. Directive Principles
+67. National Emergency ke prakaar
+68. Local self-government
+69. Indian flag ka protocol
+70. National anthem/anthem etiquette
+71. Voter eligibility — 18 saal
+72. Political parties — national vs regional (concept)
+73. Judiciary ke star
+74. Citizenship basics
+75. Government schemes ka uddeshya (naam se zyada maksad poochha jaata hai)
 
-**Also Read:** [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/) | [AISSEE Syllabus 2027](/blog/aissee-2027-syllabus-class-6-class-9/) | [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/)
+## 5. Current Affairs (15 Topics) — Kaise Taiyaar Karein
 
----
+Current affairs mein **koi fixed list nahi hoti** — isliye technique bata raha hoon, ratta list nahi:
 
-## A Note from the Author
+76. Pichhle 6 mahine ki badi national khabrein (exam: 31 Jan 2027 → July 2026 se Jan 2027 tak)
+77. Naye Sainik Schools se judi khabrein (100 PPP schools announcement — March 2026)
+78. Sports — badi jeet, naye records
+79. Awards — Bharat Ratna, Padma awards, Nobel (2026)
+80. Nayi sarkari yojnaon ke naam aur maksad
+81. Books aur unke lekhak (charcha mein rahi)
+82. Important days — dates ke saath
+83. ISRO/space se judi khabrein
+84. Defence — naye chief, naye equipment (basic level)
+85. International — bade sammelan, naye rashtradhyaksh
+86. Economy — budget ki mukhya baatein
+87. Environment — badi ghatnaen
+88. Science-tech — nayi khoj
+89. State-specific — apne rajya ki khabrein
+90. "Person in news" — charcha mein rahe vyakti
 
-**By Rifaul Hasan, Principal JGPS | 25+ Years in Education**
+**Technique:** Roz 15 minute newspaper ya ek achha current-affairs app. Mahine ke aakhir mein ek page par "is mahine ki 10 badi khabrein" khud likho — yehi revision hai.
 
-In my 25 years of experience in education, I have seen that the GK section is where most students either score big or lose marks unnecessarily. The reason is simple: students either prepare too broadly (reading everything) or too narrowly (only current affairs). The key is to focus on **high-frequency topics** that appear in AISSEE year after year.
+## 6. Defence & Armed Forces GK (10 Topics) — Sainik School Special
 
-This list of 100 topics is compiled from analysis of AISSEE papers from 2021 to 2026. Every topic listed here has appeared in at least 2 of the last 6 exams.
+Ye section AISSEE ka signature hai. Aam school ke exam mein nahi poochha jaata, yahan zaroor aata hai:
 
----
+91. Teenon senaon ke naam — Army, Navy, Air Force
+92. Senaon ke mukhyalay — New Delhi
+93. Param Vir Chakra — sabse bada yuddh-kaaleen veerta puraskar
+94. Wars — 1962, 1965, 1971, Kargil 1999 (basics: kab, kiske khilaaf)
+95. NDA kahan hai — Khadakwasla, Pune
+96. Sainik School kab shuru hue — 1961 se (pehla: Satara)
+97. Regiments ke naam (2–3 prasiddh)
+98. Military ranks ka kram — Sepoy se General tak
+99. Republic Day parade — kahan hoti hai (Kartavya Path, New Delhi)
+100. Armed Forces Flag Day — 7 December
 
-## Category 1: Indian History (20 Topics)
+> 💡 **Related:** [AISSEE 2027 Syllabus — Class 6 & 9](/blog/aissee-2027-syllabus-class-6-class-9/)
+>
+> 💡 **Related:** [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/)
+>
+> 💡 **Related:** [AISSEE Previous Year Papers PDF](/blog/aissee-previous-year-papers-pdf/)
+>
+> 💡 **Related:** [Sainik School Study Plan for Class 6](/blog/sainik-school-study-plan-class-6/)
 
-| # | Topic | Importance | Sample Question |
-|---|-------|:---:|---|
-| 1 | **Indian Freedom Struggle (1857–1947)** | 🔴 | Who led the Revolt of 1857 in Kanpur? (Nana Sahib) |
-| 2 | **Mahatma Gandhi — Life & Movements** | 🔴 | What was the Dandi March about? (Salt Tax Protest) |
-| 3 | **Jawaharlal Nehru — First PM** | 🔴 | When did India become a republic? (26 Jan 1950) |
-| 4 | **Subhas Chandra Bose & INA** | 🔴 | What was the slogan of INA? (Jai Hind) |
-| 5 | **Bhagat Singh, Rajguru, Sukhdev** | 🔴 | When were they hanged? (23 March 1931) |
-| 6 | **Rani Lakshmibai of Jhansi** | 🟠 | In which revolt did she fight? (1857 Revolt) |
-| 7 | **Dr. B.R. Ambedkar** | 🟠 | Who drafted the Indian Constitution? (Dr. Ambedkar) |
-| 8 | **Sardar Vallabhbhai Patel** | 🟠 | What was he known as? (Iron Man of India) |
-| 9 | **Indian National Congress** | 🟠 | When was INC founded? (1885) |
-| 10 | **Muslim League & Partition** | 🟡 | When did India get independence? (15 Aug 1947) |
-| 11 | **Simon Commission** | 🟡 | When was it boycotted? (1928) |
-| 12 | **Jallianwala Bagh Massacre** | 🟠 | When did it happen? (13 April 1919) |
-| 13 | **Non-Cooperation Movement** | 🟠 | When was it launched? (1920) |
-| 14 | **Quit India Movement** | 🔴 | When was it launched? (8 Aug 1942) |
-| 15 | **Salt March / Dandi March** | 🔴 | When did it happen? (12 March 1930) |
-| 16 | **Champaran Satyagraha** | 🟡 | First satyagraha by Gandhi in India? (1917) |
-| 17 | **Khilafat Movement** | 🟡 | What was its connection to Gandhi? (Joined Non-Cooperation) |
-| 18 | **Round Table Conferences** | 🟡 | How many were held? (3) |
-| 19 | **Cripps Mission** | 🟡 | When did it visit India? (1942) |
-| 20 | **Indian Independence Act** | 🟠 | Who passed it? (British Parliament, 1947) |
+## FAQ
 
----
+**Q1: GK ke liye alag book khareedni chahiye?**
+NCERT Class 6–8 ki books (History, Geography, Science, Civics) kaafi hain. Uske upar ek achha GK compendium ya previous year papers — bas.
 
-## Category 2: Indian Geography (20 Topics)
+**Q2: Current affairs kitne mahine purana padhein?**
+Exam se pehle ke 6–8 mahine. AISSEE 2027 ke liye June 2026 se January 2027 tak ka.
 
-| # | Topic | Importance | Sample Question |
-|---|-------|:---:|---|
-| 1 | **Rivers of India** | 🔴 | Which is the longest river in India? (Ganga) |
-| 2 | **Mountain Ranges** | 🔴 | Where is the Himalayan range? (North India) |
-| 3 | **States & Capitals** | 🔴 | Capital of Arunachal Pradesh? (Itanagar) |
-| 4 | **Union Territories** | 🟠 | How many UTs in India? (8) |
-| 5 | **Indian Climate** | 🟠 | What causes monsoon in India? (South-West Monsoon) |
-| 6 | **Soil Types** | 🟡 | Which soil is best for cotton? (Black soil) |
-| 7 | **National Parks** | 🟠 | Where is Jim Corbett NP? (Uttarakhand) |
-| 8 | **Wildlife Sanctuaries** | 🟡 | Where is Kaziranga? (Assam) |
-| 9 | **Indian Deserts** | 🟠 | Where is the Thar Desert? (Rajasthan) |
-| 10 | **Plateaus** | 🟡 | Which is the largest plateau? (Deccan Plateau) |
-| 11 | **Coastal Plains** | 🟡 | Eastern coastal plain is called? (Coromandel) |
-| 12 | **Islands of India** | 🟠 | Where are Andaman & Nicobar Islands? (Bay of Bengal) |
-| 13 | **Indian Oceans** | 🟠 | Which ocean is to the south of India? (Indian Ocean) |
-| 14 | **Passes** | 🟡 | Where is Khyber Pass? (Pakistan-Afghanistan border) |
-| 15 | **Lakes** | 🟠 | Where is Chilika Lake? (Odisha) |
-| 16 | **Waterfalls** | 🟡 | Where is Jog Falls? (Karnataka) |
-| 17 | **Tropic of Cancer** | 🟠 | How many states does it pass through? (8) |
-| 18 | **Standard Meridian** | 🟠 | What is India's standard meridian? (82°30' E) |
-| 19 | **Neighboring Countries** | 🔴 | How many countries share border with India? (7) |
-| 20 | **Agriculture** | 🟡 | Which is the largest producer of rice? (West Bengal) |
+**Q3: Kya GK mein bhi 25% qualifying lagu hai?**
+Haan — har section mein 25% marks zaroori hain (SC/ST ko chhoot). Isliye GK ko halke mein mat lo.
 
----
+**Q4: Map-based sawal aate hain kya?**
+Haan, geography mein map-reading type sawal aate hain — nadi, parvat, rajya ki sthiti. Atlas kholkar padho.
 
-## Category 3: Indian Polity & Constitution (15 Topics)
+**Q5: Defence GK kitna important hai?**
+Bahut. Yehi wo topics hain jo Sainik School ke paper ko alag banate hain — 5–8 sawal yahin se pakke samjho.
 
-| # | Topic | Importance | Sample Question |
-|---|-------|:---:|---|
-| 1 | **Fundamental Rights** | 🔴 | How many Fundamental Rights? (6) |
-| 2 | **Indian President** | 🔴 | Who is the current President? (Droupadi Murmu) |
-| 3 | **Indian Parliament** | 🔴 | What are the two houses? (Lok Sabha & Rajya Sabha) |
-| 4 | **Indian Constitution** | 🔴 | When was it adopted? (26 Nov 1949) |
-| 5 | **Preamble** | 🟠 | What are the keywords? (Sovereign, Socialist, Secular, Democratic, Republic) |
-| 6 | **Fundamental Duties** | 🟠 | How many? (11) |
-| 7 | **Directive Principles** | 🟡 | What are they? (Guidelines for government policy) |
-| 8 | **Supreme Court** | 🟠 | Where is it located? (New Delhi) |
-| 9 | **Prime Minister** | 🔴 | Who is the current PM? (Narendra Modi) |
-| 10 | **Governor** | 🟡 | Who appoints the Governor? (President) |
-| 11 | **Election Commission** | 🟠 | Who heads it? (Chief Election Commissioner) |
-| 12 | **National Symbols** | 🔴 | National animal? (Tiger), National bird? (Peacock) |
-| 13 | **National Anthem** | 🔴 | Who wrote it? (Rabindranath Tagore) |
-| 14 | **National Song** | 🔴 | Who wrote Vande Mataram? (Bankim Chandra Chatterjee) |
-| 15 | **Important Amendments** | 🟡 | 42nd Amendment? (Mini Constitution) |
+## Sources
 
----
-
-## Category 4: Science & Technology (15 Topics)
-
-| # | Topic | Importance | Sample Question |
-|---|-------|:---:|---|
-| 1 | **Solar System** | 🔴 | How many planets? (8) |
-| 2 | **Human Body Systems** | 🔴 | How many bones in adult body? (206) |
-| 3 | **Photosynthesis** | 🔴 | What do plants need? (Sunlight, CO2, Water) |
-| 4 | **Indian Space Program (ISRO)** | 🔴 | First Indian satellite? (Aryabhata, 1975) |
-| 5 | **Nuclear Energy** | 🟠 | First nuclear test? (Pokhran, 1974) |
-| 6 | **Inventions & Discoveries** | 🟠 | Who invented the telephone? (Alexander Graham Bell) |
-| 7 | **Electricity** | 🟠 | What is the unit of current? (Ampere) |
-| 8 | **Sound & Light** | 🟠 | Speed of light? (3 × 10⁸ m/s) |
-| 9 | **Chemical Elements** | 🟡 | What is the symbol for Iron? (Fe) |
-| 10 | **Diseases & Vaccines** | 🟠 | Vaccine for polio? (OPV/IPV) |
-| 11 | **Indian Scientists** | 🟠 | Who is the Missile Man? (Dr. APJ Abdul Kalam) |
-| 12 | **Chandrayaan Missions** | 🔴 | When was Chandrayaan-3? (2023) |
-| 13 | **Gaganyaan** | 🟡 | India's first manned space mission? (Gaganyaan) |
-| 14 | **Defence Technology** | 🟠 | What is BrahMos? (Supersonic cruise missile) |
-| 15 | **Digital India** | 🟡 | What is UPI? (Unified Payments Interface) |
-
----
-
-## Category 5: Current Affairs (15 Topics)
-
-| # | Topic | Importance | Sample Question |
-|---|-------|:---:|---|
-| 1 | **Recent Awards (National)** | 🔴 | Bharat Ratna 2024? (Karpoori Thakur, posthumous) |
-| 2 | **Sports Events** | 🔴 | Where were 2024 Olympics? (Paris) |
-| 3 | **Indian Sports Achievements** | 🔴 | Who won Olympic gold for India? (Neeraj Chopra) |
-| 4 | **Government Schemes** | 🟠 | What is PM Kisan? (₹6000/year to farmers) |
-| 5 | **International Events** | 🟠 | G20 presidency? (India hosted in 2023) |
-| 6 | **Defence Exercises** | 🟡 | What is Malabar Exercise? (Naval exercise) |
-| 7 | **Important Days** | 🟠 | When is Army Day? (15 January) |
-| 8 | **New Appointments** | 🟡 | Current Chief Justice? (Check latest) |
-| 9 | **Economic Updates** | 🟡 | India's GDP rank? (5th largest) |
-| 10 | **Climate Events** | 🟡 | COP28 venue? (Dubai) |
-| 11 | **Technology Updates** | 🟠 | India's 5G launch? (2022) |
-| 12 | **Education Policy** | 🟠 | What is NEP 2020? (National Education Policy) |
-| 13 | **Space Missions** | 🔴 | Aditya-L1 mission? (Solar observation) |
-| 14 | **Defence Procurement** | 🟡 | What is S-400? (Air defence system from Russia) |
-| 15 | **Border Issues** | 🟡 | India-China border called? (LAC) |
-
----
-
-## Category 6: Defence & Military (15 Topics)
-
-| # | Topic | Importance | Sample Question |
-|---|-------|:---:|---|
-| 1 | **Indian Army** | 🔴 | Who is the Chief of Army Staff? (Check latest) |
-| 2 | **Indian Navy** | 🔴 | Where is naval headquarters? (New Delhi) |
-| 3 | **Indian Air Force** | 🔴 | When was IAF established? (8 Oct 1932) |
-| 4 | **Param Vir Chakra** | 🔴 | Highest wartime gallantry award? (PVC) |
-| 5 | **NDA (National Defence Academy)** | 🔴 | Where is NDA? (Khadakwasla, Pune) |
-| 6 | **Indian Military Academy** | 🟠 | Where is IMA? (Dehradun) |
-| 7 | **Important Wars** | 🔴 | When was the Kargil War? (1999) |
-| 8 | **1971 War** | 🔴 | Which country was created? (Bangladesh) |
-| 9 | **Defence Exercises** | 🟡 | What is Exercise Yudh Abhyas? (India-US army exercise) |
-| 10 | **Missiles of India** | 🟠 | What is Agni? (Ballistic missile) |
-| 11 | **Aircraft Carriers** | 🟡 | INS Vikrant? (India's indigenous carrier) |
-| 12 | **Sainik Schools** | 🔴 | When established? (1961) |
-| 13 | **NCC** | 🟠 | Full form? (National Cadet Corps) |
-| 14 | **Republic Day Parade** | 🔴 | Where is it held? (Rajpath, New Delhi) |
-| 15 | **War Memorials** | 🟡 | National War Memorial? (New Delhi, near India Gate) |
-
----
-
-## How to Prepare GK for AISSEE — Strategy
-
-### Daily Routine (30 minutes/day)
-
-| Time | Activity | Resource |
-|------|----------|----------|
-| 10 min | Read daily current affairs | Newspaper / GK app |
-| 10 min | Revise 5 topics from above list | This article |
-| 10 min | Solve 10 GK MCQs | Practice book |
-
-### Monthly Plan
-
-| Month | Focus Area |
-|-------|-----------|
-| Month 1 | Indian History + Geography |
-| Month 2 | Polity + Science |
-| Month 3 | Current Affairs + Defence GK |
-| Month 4 | Revision + Mock Tests |
-
-### Best GK Books for AISSEE
-
-| Book | Why |
-|------|-----|
-| **Lucent's General Knowledge** | Most comprehensive single book |
-| **Manorama Year Book** | Current affairs + facts |
-| **NCERT EVS/Science** | Foundation for science GK |
-
----
-
-## Frequently Asked Questions (FAQs)
-
-### How many GK questions are in AISSEE 2027?
-
-AISSEE Class 6 has **25 GK questions** worth 50 marks. AISSEE Class 9 also has **25 GK questions** worth 50 marks. The GK section covers Indian History, Geography, Science, Current Affairs, and Defence-related topics.
-
-### What are the most important GK topics for AISSEE?
-
-The most important GK topics are: **Indian Freedom Struggle** (appears every year), **Rivers and Mountains of India**, **National Symbols and Awards**, **Indian Space Program (ISRO)**, **Defence and Military** (since it's a defence school entrance), and **Current Affairs from the last 6 months**.
-
-### Is GK the easiest section in AISSEE?
-
-Yes, GK is generally considered the **easiest section to score** in AISSEE because the questions are factual and predictable. Unlike Mathematics (which requires problem-solving) or Intelligence (which requires pattern recognition), GK questions have clear, definitive answers that can be memorized.
-
-### How should I prepare GK for AISSEE?
-
-Read **Lucent's GK** chapter by chapter, solve **previous year GK questions**, read a **daily newspaper** for current affairs, and focus on the **100 topics listed in this article**. Spend 30 minutes daily on GK preparation — 10 minutes current affairs, 10 minutes revision, 10 minutes practice questions.
-
----
-
-**Last Updated:** August 2026
-
-**Author:** Rifaul Hasan, Principal JGPS | Senior Education Expert
-
-**Reviewed by:** Aamir Raza, SEO & Digital Marketing Expert
-
----
-
-**Related Articles:**
-- [AISSEE 2027 Mock Test — Free Practice Sets](/blog/aissee-2027-mock-test-free-practice-sets/)
-- [AISSEE 2027 Preparation Tips](/blog/aissee-2027-preparation-tips/)
-- [AISSEE 2027 Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
-- [Best Books for AISSEE 2027](/blog/best-books-aissee-2027/)
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
+- AISSEE exam pattern — AISSEE 2026 bulletin (via TOI): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic.in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
+- AISSEE 2027 cycle status — edexlive, 8 Sept 2026: https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
+- NCERT textbooks (Class 6–8): https://ncert.nic.in

@@ -1,12 +1,12 @@
 ---
-title: "New Sainik Schools PPP Model 2027: Complete List of 69 Schools, Admission & Fee Structure"
+title: "New Sainik Schools PPP Model 2027: Admission, Fee & Traditional Schools se Antar"
 date: 2026-08-01
-lastmod: 2026-08-01T14:00:00+05:30
+lastmod: 2026-09-26T10:00:00+05:30
 draft: false
-description: "New Sainik Schools PPP model 2027 complete guide. List of 69 schools, admission process, fee structure, eligibility & how they differ from traditional Sainik Schools."
+description: "New Sainik Schools PPP model 2027 complete guide. Admission process via AISSEE, fee structure, eligibility & how PPP schools differ from traditional Sainik Schools. Verified 26 Sept 2026."
 keywords:
   - new sainik schools PPP model
-  - 69 new sainik schools list
+  - new sainik schools list 2027
   - sainik school PPP mode admission
   - new sainik school fee structure
   - sainik school public private partnership
@@ -19,230 +19,76 @@ author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/new-sainik-schools-ppp-model-2027.webp"
 ---
 
-# New Sainik Schools PPP Model 2027: Complete List of 69 Schools, Admission & Fee Structure
-
-> **Quick Summary / TL;DR**
+> **🔄 Last verified: 26 September 2026** — 100 new PPP schools ka announcement ✅ **CONFIRMED** (Raksha Mantri, Ghorakhal, 21–22 Mar 2026 — Indian Express). 2027 cycle mein kaunse schools honge, iski final list 🔶 **NTA bulletin (expected Oct 2026)** ke saath aayegi. 2026 cycle baseline: 69 new schools (Class 6) / 19 (Class 9).
 
-| Aspect | Details |
-|--------|---------|
-| Total New Schools | 69 (PPP Mode) |
-| Traditional Sainik Schools | 33+ |
-| Combined Seats | Approximately 10,000+ |
-| Admission Through | AISSEE (same exam as traditional) |
-| Fee Range (PPP Schools) | ₹3,00,000 – ₹6,00,000 per year |
-| Affiliation | CBSE |
-| Classes Offered | Class 6 (all 69), Class 9 (select schools) |
-| Girls Admission | Yes |
-| Governing Body | Sainik Schools Society, Ministry of Defence |
-| Application Period | October – November 2026 |
-| Exam Date | Expected January 2027 |
+"New Sainik School" aur "Sainik School" — naam ek jaisa, lekin dono mein farak hai. Aur ye farak samajhna zaroori hai, kyunki **counselling mein choice filling ke waqt** yehi farak aapke faisle ko asar karega.
 
-> **📢 Latest Updates** — This article is updated regularly with the latest information for 2027.
+## PPP model hai kya? (Simple bhasha mein)
 
-| Date | Update |
-|------|--------|
-| **August 2026** | Updated with verified PPP school data for AISSEE 2027 |
-| **July 2026** | Article published with complete PPP school information |
+Purane 33 Sainik Schools poori tarah **government** chalati hai — Ministry of Defence ke under, Sainik Schools Society ke through.
 
----
+New Sainik Schools **Public-Private Partnership (PPP)** model par hain — matlab ye **private schools** hain (ya NGOs/trusts dwara chalaye jaate hain) jinhe Sainik Schools Society ne **affiliate** kiya hai. Ye schools Sainik School pattern par chalte hain — similar curriculum focus, AISSEE se admission, defence-oriented activities — lekin inka management private haathon mein hai.
 
-**Author's Note:** *I am Aamir, a Defense Education Expert who has closely tracked the expansion of the Sainik School network under the PPP model. My research includes analysis of official Sainik Schools Society notifications, visits to new PPP campuses, and interviews with administrators. This guide provides a comprehensive overview of all 69 new Sainik Schools operating under the Public-Private Partnership model. — Aamir*
+Seedhe shabdon mein: **sarkari Sainik School = sarkar chalati hai; new PPP Sainik School = private school, sarkar ka tag.**
 
----
+## Kitne new schools hain? (Verified numbers)
 
-The Indian government's decision to establish 69 new Sainik Schools under the Public-Private Partnership (PPP) model is the **biggest expansion in the 60+ year history** of the Sainik School system. Announced in 2021 and operational from the 2022-23 session, these new schools aim to add approximately 5,000+ additional seats annually — effectively doubling the total intake capacity.
+| Fact | Status | Detail |
+|------|--------|--------|
+| 2026 cycle mein new schools | ✅ CONFIRMED (2026 baseline) | Class 6 ke liye 69, Class 9 ke liye 19 |
+| Oct 2025 mein jude | ✅ CONFIRMED (HT) | 3 naye schools AISSEE 2026 mein add hue |
+| 100 naye schools ka announcement | ✅ CONFIRMED (Indian Express, 22 Mar 2026) | Raksha Mantri ne Ghorakhal mein ghoshna ki |
+| 2027 cycle ki final list | 🔶 EXPECTED | NTA bulletin (Oct 2026 expected) ke saath aayegi |
+| PIB approval (45 schools) | ✅ CONFIRMED | PIB PRID 2057614, Sept 2024 |
 
-For parents and students preparing for AISSEE 2027, understanding the PPP model is **critical**. These schools share the same entrance exam (AISSEE) as traditional Sainik Schools, but differ significantly in fee structure, infrastructure, and operational model.
+Ek zaroori note: kai websites "69 schools ki poori list" ke naam par purani ya galat lists chala rahi hain. **Humne jaanboojhkar poori list yahan nahi di** — kyunki 2027 ki final list abhi aayi hi nahi hai. Galat list dekar aapko gumrah karne se behtar hai sahi intezaar karwana. Bulletin aate hi hum list update karenge.
 
-This article provides a **complete guide** to all 69 new Sainik Schools — including the full list, admission process, fee comparison, and how to choose between PPP and traditional schools.
+## Traditional vs New (PPP) Sainik School — antar
 
----
+| Point | 33 Traditional Schools | New PPP Schools |
+|-------|----------------------|-----------------|
+| Management | Sainik Schools Society (MoD) | Private school/trust, Society se affiliated |
+| Admission | AISSEE se | AISSEE se (same exam) |
+| Counselling | AISSAC (pesa.ncog.gov.in) | AISSAC mein hi options |
+| Fee | Standardized, kam (scholarship/concession available) | 🔶 School apni fee tay karta hai — aam taur par zyada |
+| Reservation | 67% home-state / 33% other-state + SC/ST/OBC/defence quota | 🔶 Pattern similar expected, bulletin mein confirm hoga |
+| Girls quota (10% ya 10 seats) | ✅ 33 schools mein lagu (SOP) | 🔶 School-wise vary kar sakta hai |
+| Campus/lifestyle | Poora residential military-style | School par depend karta hai |
 
-## What is the PPP Model for Sainik Schools?
+## Admission process — same AISSEE
 
-The **Public-Private Partnership (PPP) model** was introduced by the Ministry of Defence to expand the Sainik School network without placing the entire financial burden on the government. Under this model:
+New schools ke liye **alag se form nahi bhara jata.** Aap AISSEE ka ek hi form bharte hain, aur counselling (AISSAC) mein choice filling ke waqt traditional + new dono tarah ke schools ke options milte hain. [Counselling ka poora process](/blog/sainik-school-counselling-2027/) yahan samjhaya hai.
 
-- **Private entities** (trusts, societies, educational organisations) invest in infrastructure and operations
-- **Sainik Schools Society** provides academic oversight, curriculum alignment, and AISSEE integration
-- Students follow the **same CBSE curriculum** and AISSEE admission process as traditional Sainik Schools
-- Schools must meet **specific infrastructure and quality standards** set by the Ministry
+Fee: application fee 🔶 **EXPECTED** ₹850 (Gen/OBC) / ₹700 (SC/ST) — 2026 rates par based.
 
-### Key Differences: PPP vs Traditional Sainik Schools
+## Parents ke liye meri salah
 
-| Feature | Traditional Sainik Schools | New PPP Sainik Schools |
-|---------|---------------------------|----------------------|
-| **Number** | 33+ | 69 |
-| **Funding** | Government-funded | Privately funded with government oversight |
-| **Annual Fee** | ₹2,00,000 – ₹2,50,000 | ₹3,00,000 – ₹6,00,000 |
-| **Infrastructure** | Established campuses (some decades old) | New, modern infrastructure |
-| **Admission** | AISSEE (same exam) | AISSEE (same exam) |
-| **Curriculum** | CBSE | CBSE |
-| **NCC/Training** | Mandatory | Mandatory |
-| **NDA Focus** | Primary objective | Primary objective |
-| **Land Ownership** | Government | Private |
-| **Teacher Recruitment** | Government process | Private with SSS standards |
+1. **New school ko "second choice" mat samjhiye** — kai PPP schools ki facilities aur results traditional schools se behtar hain. Har school ko individually judge kijiye.
+2. **Fee zaroor check kijiye** — PPP schools ki fee traditional schools se zyada ho sakti hai. [Scholarship aur fee concession ki jaankari](/blog/sainik-school-scholarship-fee-concession-2027/) le lijiye.
+3. **Choice filling mein sirf naam dekhkar rank mat kijiye** — ghar se doori, fee, facilities teeno dekhiye.
+4. **Bulletin ka intezaar kijiye** — final school list NTA ke information bulletin (🔶 expected Oct 2026) mein aayegi. Usse pehle kisi bhi "final list" par bharosa mat kijiye.
 
----
+## FAQs
 
-## Complete List of 69 New Sainik Schools (PPP Model) 2027
+**Q1. Kya new Sainik Schools mein padhai traditional schools jaisi hoti hai?**
+Pattern aur curriculum similar hai, lekin har school ka apna management hai — quality school-to-school vary karti hai. Admission se pehle school ka track record check kijiye.
 
-<div style="background: #F0F8FF; border-left: 4px solid #00BCD4; padding: 16px; border-radius: 0 8px 8px 0; margin: 20px 0;">
-<h4>💡 Important Note</h4>
-<p>The list below covers major new Sainik Schools across India. For the most updated and complete list, visit the official <a href="https://sainikschool.ncog.gov.in/">Sainik Schools Society portal</a>.</p>
-</div>
+**Q2. New schools ki fee kitni hai?**
+🔶 Har school apni fee tay karta hai; aam taur par traditional schools se zyada hoti hai. Exact fee bulletin/counselling ke waqt pata chalegi. [Fee comparison](/blog/sainik-school-fee-comparison-all-schools/) dekhein.
 
-### North India
+**Q3. Kya new schools mein bhi reservation lagu hota hai?**
+🔶 Pattern similar expected hai, lekin final confirmation NTA bulletin mein hogi. [Quota details](/blog/sainik-school-sc-st-defence-quota-2027/) yahan padhiye.
 
-| S.No. | School Name | State | District | Established |
-|-------|------------|-------|----------|-------------|
-| 1 | Shri Baba Mastnath Sainik School | Haryana | Rohtak | 2022 |
-| 2 | Sainik School, Nalanda | Bihar | Nalanda | 2023 |
-| 3 | Sainik School, Mainpuri | Uttar Pradesh | Mainpuri | 2023 |
-| 4 | Sainik School, Amethi | Uttar Pradesh | Amethi | 2020 |
-| 5 | Sainik School, Jhansi | Uttar Pradesh | Jhansi | 2023 |
-| 6 | Sainik School, Gorakhpur | Uttar Pradesh | Gorakhpur | 2023 |
+**Q4. 100 naye schools ka kya matlab hai mere bachche ke liye?**
+Seats badhengi = competition thoda easy hoga. Ye announcement March 2026 mein hui thi; kaunse schools 2027 cycle mein judenge, ye bulletin batayega.
 
-### East & Northeast India
+**Q5. Kya new school mein admission ke baad NDA ja sakte hain?**
+Haan. NDA ka selection UPSC exam se hota hai — school chahe traditional ho ya PPP, taiyari bachche ki mehnat par depend karti hai. [NDA ka poora rasta](/blog/nda-after-sainik-school-career-path/) yahan hai.
 
-| S.No. | School Name | State | District | Established |
-|-------|------------|-------|----------|-------------|
-| 7 | Sainik School, East Siang | Arunachal Pradesh | East Siang | 2018 |
-| 8 | Sainik School, Chhingchhip | Mizoram | Serchhip | 2018 |
-| 9 | Sainik School, Punglwa | Nagaland | Peren | 2022 |
-| 10 | Sainik School, Goalpara | Assam | Goalpara | 2023 |
-| 11 | Sainik School, Imphal | Manipur | Imphal West | 2023 |
+## Sources
 
-### West & Central India
-
-| S.No. | School Name | State | District | Established |
-|-------|------------|-------|----------|-------------|
-| 12 | Sainik School, Chandrapur | Maharashtra | Chandrapur | 2020 |
-| 13 | Sainik School, Satara | Maharashtra | Satara | 2023 |
-| 14 | Sainik School, Rewa | Madhya Pradesh | Rewa | 2023 |
-| 15 | Sainik School, Ambikapur | Chhattisgarh | Surguja | 2008 |
-
-### South India
-
-| S.No. | School Name | State | District | Established |
-|-------|------------|-------|----------|-------------|
-| 16 | Sainik School, Kodagu | Karnataka | Kodagu | 2023 |
-| 17 | Sainik School, Dholpur | Rajasthan | Dholpur | 2023 |
-
-> **Note:** The above list includes major schools. The complete list of all 69 PPP schools is available on the [official Sainik Schools Society website](https://sainikschool.ncog.gov.in/).
-
----
-
-## AISSEE 2027 Admission Process for New PPP Schools
-
-The admission process for new PPP Sainik Schools is **identical** to traditional schools:
-
-### Step-by-Step Process
-
-1. **AISSEE Application** — Apply online at the NTA portal (October–November 2026)
-2. **Appear for AISSEE** — Written exam in January 2027
-3. **Result Declaration** — NTA declares results (February–March 2027)
-4. **E-Counselling** — Register on AISSAC portal, fill school choices
-5. **Seat Allotment** — Based on AISSEE rank, category, and school preferences
-6. **Document Verification** — At allotted school
-7. **Fee Payment & Admission** — Complete formalities
-
-### Choosing PPP Schools During Counselling
-
-During e-counselling, you can select **both traditional and PPP schools** in your preference list. Key tips:
-
-- **List PPP schools as backup options** if your AISSEE rank is borderline for traditional schools
-- **Check fee structure** before finalising — PPP schools are generally more expensive
-- **Visit the campus** if possible before accepting allotment
-- **Verify infrastructure** — newer schools may still be developing facilities
-
-**Related Article:** [Sainik School Counselling 2027 Guide](/blog/sainik-school-counselling-2027/)
-
----
-
-## Fee Structure: PPP Schools vs Traditional Schools
-
-| Fee Component | Traditional Sainik Schools | PPP Sainik Schools |
-|--------------|---------------------------|-------------------|
-| **Annual Tuition Fee** | ₹1,20,000 – ₹1,50,000 | ₹2,00,000 – ₹3,50,000 |
-| **Hostel Fee** | ₹50,000 – ₹80,000 | ₹1,00,000 – ₹2,00,000 |
-| **Mess Charges** | ₹30,000 – ₹50,000 | ₹50,000 – ₹80,000 |
-| **Total Annual Cost** | ₹2,00,000 – ₹2,50,000 | ₹3,00,000 – ₹6,00,000 |
-| **Scholarships Available** | Yes (Government) | Limited (School-specific) |
-
-> **Pro Tip:** Some PPP schools offer merit-based fee concessions. Contact the school directly for scholarship opportunities.
-
-**Related Article:** [Sainik School Fee Comparison 2027](/blog/sainik-school-fee-comparison-all-schools/) | [Sainik School Scholarships 2027](/blog/sainik-school-scholarship-fee-concession-2027/)
-
----
-
-## Should You Choose a PPP Sainik School?
-
-### ✅ Choose PPP If:
-
-- Your child's AISSEE rank is not high enough for traditional schools
-- You prefer **modern infrastructure** and newer facilities
-- You can afford the higher fee structure
-- The PPP school is in your home state (67% home state quota applies)
-- You want more options during counselling
-
-### ❌ Think Twice If:
-
-- Budget is a primary concern (traditional schools are significantly cheaper)
-- You prefer **proven track records** (traditional schools have decades of NDA placement data)
-- The PPP school is new and still developing its sports/training infrastructure
-- You want guaranteed government scholarships
-
-### Key Factors to Evaluate
-
-1. **NDA Track Record** — Ask about NDA selections from the specific PPP school
-2. **Infrastructure** — Visit the campus; check labs, sports fields, hostel quality
-3. **Faculty** — Inquire about teacher qualifications and student-teacher ratio
-4. **Location** — Proximity to home (67% home state quota)
-5. **Fee Transparency** — Get complete fee breakdown in writing
-
----
-
-## Frequently Asked Questions (FAQs)
-
-### How many new Sainik Schools are there under the PPP model?
-There are **69 new Sainik Schools** operating under the Public-Private Partnership (PPP) model, in addition to the 33+ traditional government-funded Sainik Schools.
-
-### Is the AISSEE exam different for PPP schools?
-No. The **same AISSEE exam** is used for admission to both traditional and PPP Sainik Schools. There is no separate entrance test.
-
-### Are PPP Sainik Schools government-recognised?
-Yes. All PPP Sainik Schools are **approved by the Sainik Schools Society** under the Ministry of Defence. They follow the same CBSE curriculum and standards.
-
-### What is the fee difference between PPP and traditional Sainik Schools?
-PPP schools typically charge **₹3,00,000 to ₹6,00,000** annually, compared to **₹2,00,000 to ₹2,50,000** for traditional schools. The exact fee varies by school.
-
-### Can I get a scholarship at a PPP Sainik School?
-Scholarship availability at PPP schools is **limited and varies by school**. Some offer merit-based concessions. Government scholarships (SC/ST, defence quota) may also apply. Contact the specific school for details.
-
-### Do PPP Sainik Schools have the same NDA training as traditional schools?
-Yes. PPP schools follow the **same training regimen** including NCC, physical training, and NDA preparation as mandated by the Sainik Schools Society.
-
-### Can I switch from a PPP school to a traditional Sainik School?
-Inter-school transfers are **generally not allowed** within the Sainik School system. Choose carefully during counselling.
-
-### How do I verify if a PPP Sainik School is genuine?
-Check the official [Sainik Schools Society website](https://sainikschool.ncog.gov.in/) for the complete approved list. Only schools listed there are genuine PPP Sainik Schools.
-
----
-
-## Related Articles
-
-- [Sainik School Admission 2027 Guide](/blog/sainik-school-admission-2027-guide/)
-- [Sainik School Fee Comparison 2027](/blog/sainik-school-fee-comparison-all-schools/)
-- [Sainik School Counselling 2027](/blog/sainik-school-counselling-2027/)
-- [Sainik School vs Navodaya Vidyalaya 2027](/blog/sainik-school-vs-navodaya-vidyalaya/)
-- [AISSEE 2027 Syllabus](/blog/aissee-2027-syllabus-class-6-class-9/)
-
----
-
-**Official Source:** [Sainik Schools Society — Ministry of Defence](https://sainikschool.ncog.gov.in/)
-
----
-
-*Last Updated: August 2026*
-*Author: Aamir Raza — Defense Education Expert*
+- 100 new PPP schools announcement (Indian Express, 22 Mar 2026): https://indianexpress.com/article/education/rajnath-singh-announces-100-new-sainik-schools-in-ppp-mode-10594971/
+- 3 new schools added for AISSEE 2026 (HT, Oct 2025): https://www.hindustantimes.com/education/competitive-exams/aissee-2026-new-sainik-schools-added-for-candidates-check-list-here-101761637617637.html
+- PIB — 45 new schools approved (PRID 2057614): https://www.pib.gov.in/PressReleasePage.aspx?PRID=2057614&pli=1&tf=1&ui=2&reg=48&lang=2
+- PIB — 33 existing schools list (PRID 1706594): https://www.pib.gov.in/PressReleasePage.aspx?PRID=1706594&ui=2&tf=1&pli=1&reg=48&lang=2
+- AISSAC SOP (Sainik Schools Society): https://sainik.bpssikar.org/media/notice/0520581AISSAC%202025%20SOP.pdf
