@@ -1,1 +1,24 @@
-{"blog_topic_cursor":0,"notes":"Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.","published":[]}
+{
+  "blog_topic_cursor": 1,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
+  "published": [
+    {
+      "date": "2026-09-26",
+      "type": "news",
+      "slug": "sainik-school-kunjpura-recruitment-2026-2026-09-26",
+      "title": "Sainik School Kunjpura Recruitment 2026: 15 Teaching & Non-Teaching Posts, Apply by 31 October"
+    },
+    {
+      "date": "2026-09-26",
+      "type": "blog",
+      "slug": "aissee-maths-speed-improvement-guide",
+      "title": "How to Improve Speed in the AISSEE Maths Section: 9 Drills That Actually Work"
+    },
+    {
+      "date": "2026-09-26",
+      "type": "webstory",
+      "slug": "aissee-maths-speed-tricks-2026",
+      "title": "7 Maths Speed Tricks for AISSEE 2027 \u2014 Solve Faster, Score Higher"
+    }
+  ]
+}

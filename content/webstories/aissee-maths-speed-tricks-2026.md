@@ -1,0 +1,41 @@
+---
+title: "7 Maths Speed Tricks for AISSEE 2027 — Solve Faster, Score Higher"
+date: 2026-09-26
+description: "7 visual speed tricks to finish the AISSEE 2027 maths section faster: timed sets, question triage, mental math routines and OMR habits for Class 6 and Class 9."
+author_name: "Rifaul Hasan"
+featured_image: "/images/webstories/aissee-maths-speed-tricks.webp"
+story_type: "image"
+category: "Exam Prep"
+tags: ["AISSEE maths tricks", "AISSEE 2027 preparation", "maths speed tricks", "sainik school exam tips", "AISSEE class 6 maths", "AISSEE class 9 maths"]
+slides:
+  - image: "/images/webstories/aissee-maths-speed-tricks.webp"
+    title: "Maths Speed Wins Seats"
+    subtitle: "Maths carries 50 questions — 150 marks in Class 6, 200 marks in Class 9. AISSEE 2027 is tentatively on 31 January 2027. Speed is your edge."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "Triage Like a Pro"
+    subtitle: "First pass: solve only the easy ones. Second pass: tackle the hard ones. Never marry one question — it steals time from two easy ones."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Timed 20-Min Sets"
+    subtitle: "Practise daily in 20-minute blocks. Class 6 gets 150 minutes, Class 9 gets 180 — train your pace now so exam day feels slow."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/students-studying.webp"
+    title: "Mental Math Muscle"
+    subtitle: "Tables to 20, squares to 30, cubes to 10 — by heart. Each remembered fact saves seconds, and seconds add up over 50 questions."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/student-books.webp"
+    title: "Estimate First"
+    subtitle: "Approximate the answer before calculating. A rough estimate kills silly errors and catches wrong options in seconds."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/classroom.webp"
+    title: "Bubble OMR Smartly"
+    subtitle: "Bubble in batches of 5 and double-check question numbers. With no negative marking, attempt everything — never leave a bubble blank."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/student-study.webp"
+    title: "Start Today"
+    subtitle: "Speed is built daily, not on exam day. Find free AISSEE 2027 guides, mock tests and study plans at sainikschooleastsiang.in."
+    credit: "Photo from Pexels"
+---
+
+Maths decides AISSEE ranks — 50 questions worth 150 marks (Class 6) or 200 marks (Class 9), with no negative marking and a tentative exam date of 31 January 2027. These 7 speed tricks — question triage, timed 20-minute sets, mental math drills, estimation, and smart OMR habits — help Class 6 and Class 9 aspirants finish the maths section faster and score higher.
