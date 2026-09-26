@@ -7,7 +7,7 @@ description: "AISSEE 2027 topper strategy — merit list mein aane wale students
 keywords: ["AISSEE topper tips", "sainik school topper strategy", "AISSEE 2027 topper", "how to crack AISSEE topper", "sainik school entrance exam topper tips", "AISSEE rank strategy", "sainik school topper daily routine"]
 author_name: "Sameer"
 author_title: "Education Content Specialist"
-author_image: "/images/authors/sameer.jpeg"
+author_image: "/images/authors/sameer.png"
 featured_image: "/images/thumbnails/sainik-school-aissee-topper-tips-2027.webp"
 ---
 

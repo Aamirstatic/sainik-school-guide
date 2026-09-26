@@ -7,7 +7,7 @@ author_name: "Sameer"
 author_title: "Education Researcher"
 author_experience: "6+ years in education research"
 author_bio: "Sameer is an education researcher who analyzes trends in Sainik School admissions, exam patterns, and student performance. He provides data-driven insights to help parents make informed decisions about their child's education."
-author_image: "/images/authors/sameer.avif"
+author_image: "/images/authors/sameer.png"
 ---
 
 # About Sameer

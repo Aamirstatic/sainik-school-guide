@@ -7,7 +7,7 @@ author_name: "Nisha"
 author_title: "Education Content Specialist"
 author_experience: "5+ years in education content writing"
 author_bio: "Nisha specializes in Sainik School admissions and AISSEE preparation content. She has helped thousands of parents understand the admission process through her detailed guides."
-author_image: "/images/authors/nisha.avif"
+author_image: "/images/authors/nisha.png"
 ---
 
 # About Nisha
