@@ -5,6 +5,7 @@ Disallow: /search/
 
 Sitemap: https://sainikschooleastsiang.in/sitemap.xml
 Sitemap: https://sainikschooleastsiang.in/news-sitemap.xml
+Sitemap: https://sainikschooleastsiang.in/sitemap-images.xml
 
 # Google Discover optimization
 User-agent: Googlebot

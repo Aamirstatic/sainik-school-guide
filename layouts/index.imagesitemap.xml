@@ -1,0 +1,17 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  {{ range where .Site.RegularPages "Section" "in" (slice "blog" "news" "webstories" "schools") }}
+  {{ if .Params.featured_image }}
+  {{ $img := .Params.featured_image | absURL }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <image:image>
+      <image:loc>{{ $img }}</image:loc>
+      <image:title>{{ .Title | htmlEscape }}</image:title>
+      <image:caption>{{ .Description | default .Title | htmlEscape }}</image:caption>
+    </image:image>
+  </url>
+  {{ end }}
+  {{ end }}
+</urlset>
