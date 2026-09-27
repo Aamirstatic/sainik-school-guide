@@ -1,0 +1,41 @@
+---
+title: "UP Sainik School 2027: Form Out! 7 Things UP Parents Must Do Now"
+date: 2026-09-27
+description: "UP Sainik School admission 2027-28 notification is out — applications open for Class 6 and 9 at Lucknow and Gorakhpur. 7 slides: last date 25 October, ₹1,000 fee, 20 December exam, eligibility, and the paper pattern."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/up-sainik-school-admission-2026.webp"
+story_type: "image"
+category: "Admission"
+tags: ["UP Sainik School admission 2027", "UP Sainik School form 2027-28", "Sainik School Lucknow admission", "UP Sainik School entrance exam date"]
+slides:
+  - image: "/images/webstories/up-sainik-school-admission-2026.webp"
+    title: "UP Sainik School: Form Is Out!"
+    subtitle: "Admission 2027-28 applications open for Class 6 and 9 at Lucknow and Gorakhpur. 7 things every UP parent must do."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/school-admission.webp"
+    title: "Apply Before 25 October"
+    subtitle: "Applications opened 10 September 2026 and close 25 October 2026. A late-fee window runs 26–31 October at ₹2,000."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/school-campus.webp"
+    title: "Two Schools, One Form"
+    subtitle: "Captain Manoj Kumar Pandey UP Sainik School Lucknow and UP Sainik School Gorakhpur — both residential CBSE schools."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/student-study.webp"
+    title: "Check Eligibility First"
+    subtitle: "UP domicile for the child and father is mandatory. Class 6: born 2 July 2015–1 January 2018. Class 9: 2 July 2012–1 January 2015."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/military-school.webp"
+    title: "Exam on 20 December"
+    subtitle: "One OMR paper — 200 questions, 200 marks, 2 hours 30 minutes, no negative marking. Paper in English and Hindi."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/indian-school-uniform.webp"
+    title: "Can Girls Apply?"
+    subtitle: "Yes — Gorakhpur admits girls in Class 6 and 9; Lucknow admits girls in Class 9. Lucknow Class 6 is boys only."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/up-sainik-school-admission-2026.webp"
+    title: "What Happens Next"
+    subtitle: "Written result on 30 December, then interview and medical in February, final merit list by 20 March 2027. Don't wait — apply this week."
+    credit: "AI-generated visual"
+---
+
+UP Sainik School admission 2027-28 is open: applications close 25 October 2026, the written exam is on 20 December 2026, and this year the process is fully separate from the NTA's AISSEE. These 7 slides cover every deadline that matters.

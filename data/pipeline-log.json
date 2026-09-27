@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 4,
+  "blog_topic_cursor": 5,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -74,6 +74,25 @@
       "type": "webstory",
       "slug": "aissee-study-hours-guide-2026",
       "title": "How Many Hours Should You Study for AISSEE? 6 Rules That Actually Work"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "up-sainik-school-admission-2027-2026-09-27",
+      "title": "UP Sainik School Admission 2027-28: Applications Open — Apply by 25 October 2026"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-intelligence-section-complete-guide",
+      "title": "AISSEE Intelligence Section: The Complete Preparation Guide",
+      "topic_id": 5
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "up-sainik-school-admission-2026",
+      "title": "UP Sainik School 2027: Form Out! 7 Things UP Parents Must Do Now"
     }
   ]
 }
