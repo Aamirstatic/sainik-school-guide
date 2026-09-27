@@ -114,7 +114,22 @@ Insert the in-body image into the markdown just before the first `## ` heading:
    (pushes uncommitted working-tree changes — **do NOT commit first**).
 5. After push: `git fetch origin && git reset --hard origin/master`, confirm clean.
 
-### 5. Report
+### 5. IndexNow submission (instant indexing for Bing/Yandex/DuckDuckGo)
+After the push, submit the 3 new URLs to IndexNow so Bing-family
+search engines pick them up within minutes instead of days:
+```bash
+curl -s -X POST https://api.indexnow.org/indexnow \
+  -H "Content-Type: application/json; charset=utf-8" \
+  -d '{"host":"sainikschooleastsiang.in","key":"ddb0134a637bbb4d07f9ae2f65ab147b","keyLocation":"https://sainikschooleastsiang.in/ddb0134a637bbb4d07f9ae2f65ab147b.txt","urlList":["https://sainikschooleastsiang.in/news/<news-slug>/","https://sainikschooleastsiang.in/blog/<blog-slug>/","https://sainikschooleastsiang.in/webstories/<story-slug>/"]}'
+```
+Replace `<news-slug>` etc. with the actual slugs published this run.
+A `200` response means accepted. (The key file
+`static/ddb0134a637bbb4d07f9ae2f65ab147b.txt` is already deployed;
+the key is public by design — IndexNow requires it to be fetchable.)
+NOTE: IndexNow does NOT cover Google. Google indexing still needs
+Search Console (sitemap submitted there, URL Inspection requests).
+
+### 6. Report
 Final message: the 3 titles + slugs published and confirmation of push.
 Keep it to 3–4 lines. Do not dump article text into chat.
 
