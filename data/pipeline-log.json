@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 2,
+  "blog_topic_cursor": 3,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -18,7 +18,7 @@
       "date": "2026-09-26",
       "type": "webstory",
       "slug": "aissee-maths-speed-tricks-2026",
-      "title": "7 Maths Speed Tricks for AISSEE 2027 — Solve Faster, Score Higher"
+      "title": "7 Maths Speed Tricks for AISSEE 2027 \u2014 Solve Faster, Score Higher"
     },
     {
       "date": "2026-09-27",
@@ -37,6 +37,25 @@
       "type": "webstory",
       "slug": "aissee-no-negative-marking-attempt-rules-2026",
       "title": "No Negative Marking in AISSEE: 7 Attempt Rules That Win Marks"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "rms-cet-2026-applications-open-nta-2026-09-27",
+      "title": "NTA Opens RMS CET 2026 Applications: Class 6 & 9 Military School Admissions Begin"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-daily-timetable-class-6",
+      "title": "The Perfect Daily Timetable for AISSEE Class 6 Preparation",
+      "topic_id": 3
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "rms-cet-2026-applications-2026",
+      "title": "RMS CET 2026 Applications Open: 6 Things to Do Before 20 October"
     }
   ]
 }

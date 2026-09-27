@@ -1,0 +1,41 @@
+---
+title: "RMS CET 2026 Applications Open: 6 Things to Do Before 20 October"
+date: 2026-09-27
+description: "NTA has opened RMS CET 2026 applications for Class 6 & 9 at the five Rashtriya Military Schools. Exam 13 December 2026. 6 key facts: dates, fees, eligibility, the five schools, and how to apply."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/rms-cet-2026-applications-2026.webp"
+story_type: "image"
+category: "Admission Alerts"
+tags: ["RMS CET 2026", "RMS CET application", "rashtriya military school admission", "NTA RMS CET", "military school admission 2026"]
+slides:
+  - image: "/images/webstories/rms-cet-2026-applications-2026.webp"
+    title: "RMS CET 2026 Applications Open"
+    subtitle: "NTA has opened forms for Class 6 & 9 at 5 military schools. Last date 20 October 2026."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/school-admission.webp"
+    title: "Applications: 23 Sep – 20 Oct"
+    subtitle: "Apply online by 20 October 5 PM; fee deadline 11:50 PM. Late window 21–25 Oct with ₹500 late fee."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "Exam on 13 December 2026"
+    subtitle: "Sunday, 13 December. Pen-and-paper OMR test with MCQs across 63 Indian cities."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/children-uniform.webp"
+    title: "Who Can Apply"
+    subtitle: "Class 6: 10–13 years on 31 Mar 2027. Class 9: 13–16 years. Medium of instruction is English."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/school-campus.webp"
+    title: "The 5 Military Schools"
+    subtitle: "Chail, Ajmer, Dholpur, Belgaum and Bengaluru — residential English-medium schools run by the Ministry of Defence."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/student-study.webp"
+    title: "Fees: ₹1000 / ₹750"
+    subtitle: "General and OBC pay ₹1,000. SC, ST and wards of personnel killed in action pay ₹750 — online only."
+    credit: "Photo from Pexels"
+  - image: "/images/webstories/military-school.webp"
+    title: "Apply at the Official Portal"
+    subtitle: "Use exams.nta.nic.in/rmscet/ — and apply well before 20 October to avoid last-day portal congestion."
+    credit: "Photo from Pexels"
+---
+
+NTA has opened RMS CET 2026 applications for Class 6 and Class 9 admission to the five Rashtriya Military Schools — Chail, Ajmer, Dholpur, Belgaum and Bengaluru. The application window runs 23 September to 20 October 2026, and the pen-and-paper OMR exam is on Sunday, 13 December 2026. Six facts every defence-school aspirant's family needs: the dates, the ₹1,000/₹750 fee structure, age eligibility, and the official portal to apply on.
