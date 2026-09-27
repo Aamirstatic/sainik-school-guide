@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 3,
+  "blog_topic_cursor": 4,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -18,7 +18,7 @@
       "date": "2026-09-26",
       "type": "webstory",
       "slug": "aissee-maths-speed-tricks-2026",
-      "title": "7 Maths Speed Tricks for AISSEE 2027 \u2014 Solve Faster, Score Higher"
+      "title": "7 Maths Speed Tricks for AISSEE 2027 — Solve Faster, Score Higher"
     },
     {
       "date": "2026-09-27",
@@ -56,6 +56,24 @@
       "type": "webstory",
       "slug": "rms-cet-2026-applications-2026",
       "title": "RMS CET 2026 Applications Open: 6 Things to Do Before 20 October"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "aissee-2027-notification-october-watch-2026-09-27",
+      "title": "AISSEE 2027 Notification: October Is the Month to Watch — What Past Cycles Reveal"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-how-many-study-hours-class-6",
+      "title": "How Many Hours Should a Class 6 Student Study for AISSEE? The Honest Answer"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "aissee-study-hours-guide-2026",
+      "title": "How Many Hours Should You Study for AISSEE? 6 Rules That Actually Work"
     }
   ]
 }
