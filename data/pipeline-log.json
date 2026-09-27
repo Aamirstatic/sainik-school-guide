@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 1,
+  "blog_topic_cursor": 2,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -18,7 +18,25 @@
       "date": "2026-09-26",
       "type": "webstory",
       "slug": "aissee-maths-speed-tricks-2026",
-      "title": "7 Maths Speed Tricks for AISSEE 2027 \u2014 Solve Faster, Score Higher"
+      "title": "7 Maths Speed Tricks for AISSEE 2027 — Solve Faster, Score Higher"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "aissee-2027-126-days-countdown-2026-09-27",
+      "title": "126 Days to AISSEE 2027: What to Finish Before the October Notification"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-negative-marking-honest-answer",
+      "title": "Is There Negative Marking in AISSEE? The Honest Answer"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "aissee-no-negative-marking-attempt-rules-2026",
+      "title": "No Negative Marking in AISSEE: 7 Attempt Rules That Win Marks"
     }
   ]
 }
