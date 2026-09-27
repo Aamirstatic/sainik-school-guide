@@ -1,0 +1,41 @@
+---
+title: "RIMCEE 2026: Only 3 Days Left — 6 Things to Do Before the Form Closes"
+date: 2026-09-27
+description: "NTA's RIMCEE 2026 registration for RIMC Dehradun Class 8 admission closes 30 September. 6 slides: deadline, eligibility, documents, exam date 6 December, and what to do tonight."
+author_name: "Nisha Sharma"
+featured_image: "/images/webstories/rimcee-2026-deadline-countdown-2026.webp"
+story_type: "image"
+category: "Admission"
+tags: ["RIMCEE 2026 registration", "RIMC entrance exam 2026", "RIMC Dehradun admission", "rimc.edu.in application last date"]
+slides:
+  - image: "/images/webstories/rimcee-2026-deadline-countdown-2026.webp"
+    title: "Only 3 Days Left!"
+    subtitle: "NTA closes RIMCEE 2026 registration on 30 September. RIMC Dehradun Class 8 admission — July 2027 term."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "The Deadline"
+    subtitle: "Apply by 30 September, 5 PM. Miss it and the late-fee window runs 1–7 October — don't plan for that."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/military-school.webp"
+    title: "Check Eligibility First"
+    subtitle: "Born between 2 July 2013 and 1 January 2015; studying in or passed Class 7 from a recognised school."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/school-admission.webp"
+    title: "Documents Ready?"
+    subtitle: "Photo, birth certificate, domicile, category certificate, thumb impression, school studying certificate — scans ready before you log in."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/indian-school-uniform.webp"
+    title: "Exam on 6 December"
+    subtitle: "Pen-and-paper Stage-I written exam, 4.5 hours. Qualifiers face the viva voce around April 2027."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/student-study.webp"
+    title: "Apply Tonight"
+    subtitle: "Apply only at exams.nta.nic.in/rimcee/. Read the official bulletin first — it has the final fee and rules."
+    credit: "AI-generated visual"
+  - image: "/images/webstories/rimcee-2026-deadline-countdown-2026.webp"
+    title: "Double Your Chances"
+    subtitle: "RIMC and AISSEE are separate exams — a child can apply to both. Don't let a 3-day deadline close a door."
+    credit: "AI-generated visual"
+---
+
+NTA's RIMCEE 2026 registration for RIMC Dehradun Class 8 admission closes on 30 September 2026. Here are the 6 things to do before the window shuts — eligibility, documents, exam date, and where to apply.
