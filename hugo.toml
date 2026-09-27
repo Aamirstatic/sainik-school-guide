@@ -105,12 +105,17 @@ buildExpired = false
   weight = 7
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "NewsSitemap"]
   section = ["HTML", "RSS"]
 
 [outputFormats.JSON]
   mediaType = "application/json"
   baseName = "index"
+  isPlainText = true
+
+[outputFormats.NewsSitemap]
+  mediaType = "application/xml"
+  baseName = "news-sitemap"
   isPlainText = true
 
 [markup]
