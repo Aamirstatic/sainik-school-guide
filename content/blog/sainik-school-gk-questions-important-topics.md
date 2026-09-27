@@ -9,6 +9,17 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-gk-questions-important-topics.webp"
+faqs:
+  - question: "1. How many GK questions are in AISSEE Class 6?"
+    answer: "✅ 25 questions worth 50 marks (2026 pattern, expected to repeat for 2027)."
+  - question: "2. Is there negative marking in the GK section?"
+    answer: "No — ✅ there is no negative marking anywhere in AISSEE. Attempt every question."
+  - question: "3. How much current affairs should we cover?"
+    answer: "Focus on the last 12 months before the exam (roughly February 2026 to January 2027 for this cycle). Older news rarely appears."
+  - question: "4. Which book is best for AISSEE GK?"
+    answer: "NCERT social science and science books for Classes 6–8 cover most of the static portion. For current affairs, a monthly compilation plus daily newspaper reading works better than any single book. See our [best books list](/blog/best-books-aissee-2027/)."
+  - question: "5. Can GK alone decide selection?"
+    answer: "Rarely alone — but weak GK has sunk many strong maths students because of the 25%-per-section qualifying rule. Treat it as a scoring section, not an optional one."
 ---
 
 # Sainik School GK Questions: 100 Most Important Topics for AISSEE 2027

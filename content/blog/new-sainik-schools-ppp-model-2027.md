@@ -17,6 +17,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/new-sainik-schools-ppp-model-2027.webp"
+faqs:
+  - question: "Q1. Is the education in new Sainik Schools the same as in traditional ones?"
+    answer: "The pattern and curriculum focus are similar, but each school has its own private management — so quality genuinely varies from school to school. Check a school's track record before ranking it."
+  - question: "Q2. What are the fees in new Sainik Schools?"
+    answer: "🔶 Each school sets its own fee, and it can be higher than a traditional school's. Exact figures surface around the bulletin and counselling. Compare carefully using our [fee comparison](/blog/sainik-school-fee-comparison-all-schools/)."
+  - question: "Q3. Does reservation apply in new Sainik Schools?"
+    answer: "🔶 There is no Society-prescribed reservation pattern for new schools the way there is for the 33 traditional ones. Anything school-specific will be clarified in the NTA bulletin. For the traditional-school quotas, see our [SC/ST/defence quota guide](/blog/sainik-school-sc-st-defence-quota-2027/)."
+  - question: "Q4. What does the \"100 new schools\" announcement mean for my child?"
+    answer: "More seats over time — which should ease competition a little. The announcement came in March 2026; which of those schools actually join the 2027 cycle is something only the bulletin will tell us."
+  - question: "Q5. Can a child from a new PPP school still join the NDA?"
+    answer: "Yes. NDA selection is through the UPSC exam and SSB — the school's management model doesn't decide it; the child's preparation does. The full journey is mapped in our [NDA career path guide](/blog/nda-after-sainik-school-career-path/)."
 ---
 
 > **🔄 Last verified: 26 September 2026** — The 100 new PPP schools announcement is ✅ **CONFIRMED** (Defence Minister at Ghorakhal, 21–22 Mar 2026 — Indian Express). The 45-school approval is ✅ **CONFIRMED** (PIB, Sept 2024). The 2026-cycle baseline below is ✅ **CONFIRMED** (69 new schools for Class 6 / 19 for Class 9; 3 schools added in Oct 2025). The final 2027 school list is 🔶 **EXPECTED** with the NTA information bulletin (not released yet; expected Oct 2026).

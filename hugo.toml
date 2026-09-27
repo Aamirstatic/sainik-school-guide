@@ -1,7 +1,7 @@
 baseURL = 'https://sainikschooleastsiang.in/'
 languageCode = 'en-in'
 defaultContentLanguage = 'en'
-title = 'Sainik School Eligibility Criteria 2026-27 for Class 6th & 9th'
+title = 'Sainik School Guide India'
 # theme = 'PaperMod' # Using custom layouts
 
 [pagination]

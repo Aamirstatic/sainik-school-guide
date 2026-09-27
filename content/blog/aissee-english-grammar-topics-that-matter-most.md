@@ -10,6 +10,19 @@ author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-english-grammar-topics-that-matter-most.webp"
 categories: ["Exam Prep"]
+faqs:
+  - question: "Which grammar topics are most important for AISSEE Class 6 English?"
+    answer: "Tenses, articles, prepositions, and subject-verb agreement — these recur most across past papers. Class 6 papers also lean on simpler formats like fill-in-the-blanks and sentence rearrangement."
+  - question: "Is there a difference between Class 6 and Class 9 grammar in AISSEE?"
+    answer: "Yes. Both have 25 questions worth 50 marks, but Class 9 goes deeper: active–passive voice and direct–indirect narration appear more regularly at Class 9, while Class 6 stays closer to tenses, articles, and basic usage. Class 9 English is also English-medium only."
+  - question: "How many grammar questions come in the AISSEE English paper?"
+    answer: "The paper has 25 English questions (50 marks), but NTA doesn't specify how many are grammar versus vocabulary versus comprehension. Based on past-paper patterns, grammar-type questions form the majority — exact numbers vary year to year."
+  - question: "Should my child use a grammar workbook or NCERT books?"
+    answer: "Both. NCERT builds the base understanding; a good practice workbook (or previous papers) supplies the reps. [Here's an honest breakdown of how to use each]({{< relref \"aissee-how-many-study-hours-class-6.md\" >}}). The winning formula: understand from NCERT, drill from workbooks, verify with past papers."
+  - question: "Can grammar be prepared in the last month?"
+    answer: "Honestly? Only if the base exists. Grammar is a skill built over months, not a syllabus to cram. In the final month, switch to error revision — past mistakes, mixed mock sets, and timed English sections. [A structured daily plan helps here]({{< relref \"aissee-daily-timetable-class-6.md\" >}})."
+  - question: "Do examiners deduct marks for wrong answers in the English section?"
+    answer: "No — the AISSEE has no negative marking anywhere in the paper. Every question deserves an answer."
 ---
 
 > **🔄 Last verified: 27 September 2026** — Paper pattern ✅ **CONFIRMED** per the AISSEE 2026 information bulletin and NTA's official exam calendar (exam 31 January 2027, tentative): Class 6 English — 25 questions, 50 marks; Class 9 English — 25 questions, 50 marks, English medium only. NTA does **not** publish topic-wise weightage — the priority rankings below are 🔶 **EXPECTED**, drawn from the pattern of previous years' papers, not from any official syllabus breakup.

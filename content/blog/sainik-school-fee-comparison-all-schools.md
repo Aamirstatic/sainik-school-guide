@@ -17,6 +17,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-fee-comparison-all-schools.webp"
+faqs:
+  - question: "1. What is the exact Sainik School fee for 2027?"
+    answer: "School-wise 2027 fee structures release with each school's admission notice after AISSEE results. The indicative range is ₹1–1.5 lakh per year, varying by school. Check your allotted school's website after counselling."
+  - question: "2. Is there any fee concession for defence families?"
+    answer: "Defence and ex-servicemen families get a separate application-fee category (₹850 in 2026, expected to repeat), and additional support exists through defence welfare schemes — confirm with the school office."
+  - question: "3. Do SC/ST/OBC students get fee benefits?"
+    answer: "The AISSEE application fee is lower for SC/ST (₹700 in 2026, expected to repeat). State government scholarships for Sainik School students often prioritise SC/ST and income-based categories. See our [scholarship guide](/blog/sainik-school-scholarship-fee-concession-2027/)."
+  - question: "4. Are new PPP-mode Sainik Schools cheaper or costlier?"
+    answer: "The new schools under the partnership model set their own fee structures, which can differ significantly from the 33 established schools. Compare carefully during choice filling in [counselling](/blog/sainik-school-counselling-2027/)."
+  - question: "5. What happens if we can't afford the fee after getting a seat?"
+    answer: "Talk to the school immediately — between state scholarships, defence welfare support, and instalment options, most genuine cases find a way. Don't surrender a hard-earned seat without asking."
 ---
 
 # Sainik School Fees 2027: How Much Does It Really Cost? The Honest Breakdown

@@ -9,6 +9,17 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-hostel-life.webp"
+faqs:
+  - question: "1. Can parents visit the hostel?"
+    answer: "Yes — schools have designated visiting days (usually once or twice a month). Unscheduled visits are discouraged because they disrupt the routine."
+  - question: "2. How do children contact home?"
+    answer: "Scheduled phone call slots (typically weekly) plus unlimited letters. Some schools allow supervised video calls on special occasions."
+  - question: "3. What if my child falls sick?"
+    answer: "Every Sainik School has a medical officer and an MI (medical inspection) room. Serious cases go to the nearest hospital, and parents are informed immediately."
+  - question: "4. Is there really no ragging?"
+    answer: "Ragging is banned and punishable, and schools enforce it — but stay alert as a parent. Teach your child to report problems to the housemaster, and check in honestly during calls."
+  - question: "5. Do girls have separate hostel arrangements?"
+    answer: "Yes — separate girls' houses with female wardens. Read our full [guide for girls](/blog/sainik-school-for-girls-2027/)."
 ---
 
 # Sainik School Hostel Life: The Real Story — From House System to Mess

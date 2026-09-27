@@ -9,6 +9,17 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-interview-questions-tips.webp"
+faqs:
+  - question: "1. How long does the interaction usually last?"
+    answer: "Typically 10–20 minutes per child. Short, conversational, low-pressure by design."
+  - question: "2. Should we hire a personality development coach?"
+    answer: "Honestly? No. Home practice with the question bank and three mock rounds achieves the same result. Save your money."
+  - question: "3. What if my child is very shy?"
+    answer: "Shyness is fine — quiet confidence reads well. What's needed is audibility and eye contact, not extroversion. Practice those two specifically."
+  - question: "4. In which language should my child answer?"
+    answer: "Whichever they're comfortable in — Hindi or English. Switching mid-answer is fine too."
+  - question: "5. Do parents get evaluated as well?"
+    answer: "Schools do observe parents — mainly for alignment (\"does the family understand what they're signing up for?\") and support. Be honest, be calm, be realistic."
 ---
 
 # Sainik School Interview Tips 2027: 4-Week Preparation Plan That Works

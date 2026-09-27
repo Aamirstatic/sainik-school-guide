@@ -16,6 +16,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-for-girls-2027.webp"
+faqs:
+  - question: "1. How many seats are reserved for girls in Sainik School Class 6?"
+    answer: "✅ 10% of vacancies or 10 seats, whichever is more, in each of the 33 established schools — per the official AISSAC SOP."
+  - question: "2. Can girls join Sainik School in Class 9?"
+    answer: "Yes, where schools offer Class 9 girls' seats. The number varies by school, so check individual school notices during counselling."
+  - question: "3. Is the AISSEE exam different for girls?"
+    answer: "No. Same paper, same pattern, same qualifying marks as boys."
+  - question: "4. Are Sainik School hostels safe for girls?"
+    answer: "Schools maintain separate girls' houses with female wardens on closed, supervised campuses. Visit during counselling and ask the housemistress directly — it's your right."
+  - question: "5. Can girls from Sainik School join the NDA?"
+    answer: "Yes. Women are eligible for NDA entry, and Sainik School training — discipline, fitness, academics — prepares girls exactly as it prepares boys."
+  - question: "6. What is the age limit for girls in Class 6?"
+    answer: "Same as boys: 🔶 projected 10–12 years on 31 March 2027 (born 1 Apr 2015 – 31 Mar 2017), pending the NTA bulletin's final dates."
 ---
 
 # Sainik School for Girls 2027: Complete Admission Guide for Daughters

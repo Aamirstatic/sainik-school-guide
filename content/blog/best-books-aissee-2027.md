@@ -9,6 +9,17 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/best-books-aissee-2027.webp"
+faqs:
+  - question: "Q1. Can the exam be cracked with NCERT alone?"
+    answer: "For concepts, yes. But for speed and exam temperament, you need a practice book plus previous papers. NCERT + one practice book + five years of papers = complete preparation."
+  - question: "Q2. Arihant or Upkar — which guide is better?"
+    answer: "Both follow the exam pattern. Pick any one; buying both gives you nothing extra. What actually moves the needle is solving previous papers, not collecting guides."
+  - question: "Q3. For Class 9, do we need to read the entire Class 8 NCERT?"
+    answer: "For Maths, Science, and SST, the Class 8 NCERT is the base — yes. But study smart: give double time to high-weightage chapters like algebra, geometry, mensuration, and physics numericals."
+  - question: "Q4. Should we wait for the newest edition of a book or start with an old one?"
+    answer: "NCERT concepts don't change year to year. Start with whatever you have; pick up the latest edition later for practice sets if you like. Don't waste time waiting — the exam is on 31 January 2027."
+  - question: "Q5. Can coaching notes replace books?"
+    answer: "Notes are fine for revision, but nothing replaces a book for concept clarity. Even with coaching, NCERT should run alongside. Read our [coaching vs self-study comparison](/blog/sainik-school-online-coaching-vs-offline/) if you're deciding."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Exam date ✅ **CONFIRMED**: 31 January 2027 (NTA exam calendar 2026-27, notice dated 16 September 2026). NTA notification 🔶 **NOT released yet** (expected October 2026). One thing before you read on: **the NTA does not officially recommend any book for AISSEE.** The list below is a set of expert editorial picks from educators who have followed this exam for years — not an official list.

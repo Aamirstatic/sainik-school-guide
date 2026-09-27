@@ -13,6 +13,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-admission-2027-guide.webp"
+faqs:
+  - question: "Q1. Has the AISSEE 2027 notification been released?"
+    answer: "No. As of 26 September 2026, NTA has not released the information bulletin. It's expected in October 2026. Treat \"notification released\" headlines as clickbait until you see it on nta.ac.in itself."
+  - question: "Q2. Is the 31 January 2027 exam date final?"
+    answer: "It's on NTA's official exam calendar (notice dated 16 September 2026), marked tentative. That's as official as it gets before the bulletin. Plan around it."
+  - question: "Q3. What will the application fee be?"
+    answer: "🔶 Expected: ₹850 for General / OBC-NCL / defence wards and ₹700 for SC/ST, per the 2026 rates. The bulletin will confirm."
+  - question: "Q4. Can girls apply for Class 6?"
+    answer: "Yes. In the 33 established schools, 10% of vacancies or 10 seats (whichever is more) are reserved for girls — not 25%, whatever some sites claim."
+  - question: "Q5. Do the new PPP-mode Sainik Schools need a separate form?"
+    answer: "No — one AISSEE form covers everything. During counselling choice-filling, you'll see options for both established and new schools."
+  - question: "Q6. Is there any age relaxation?"
+    answer: "SC/ST candidates get relaxation in qualifying marks, not in age. Age criteria are applied strictly — the bulletin will have the final word."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Exam date ✅ **CONFIRMED (tentative): 31 January 2027** (NTA exam calendar 2026-27, notice dated 16 September 2026, nta.ac.in). ⚠️ **The NTA information bulletin for AISSEE 2027 has NOT been released yet** (expected October 2026). Any website or video claiming "notification released" is misleading you — read why below.

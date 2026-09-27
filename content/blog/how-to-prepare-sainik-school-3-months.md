@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/how-to-prepare-sainik-school-3-months.webp"
+faqs:
+  - question: "Q1. Can the exam genuinely be cracked in three months?"
+    answer: "Yes — if your child's school-level base is decent. The syllabus is NCERT-based, so a child who studies sincerely in class mainly needs pattern practice. But four to five hours of disciplined daily study is non-negotiable."
+  - question: "Q2. Is coaching necessary, or is self-study enough?"
+    answer: "Self-study is enough if the plan is followed. Coaching gives you discipline, not knowledge — you still have to build that yourself. Read our [detailed coaching vs self-study comparison](/blog/sainik-school-online-coaching-vs-offline/)."
+  - question: "Q3. How many mock tests are enough?"
+    answer: "At least 10–12 full mocks plus five years of previous papers. Anything less, and exam temperament doesn't develop."
+  - question: "Q4. How much time should a weak subject like maths get?"
+    answer: "Roughly 40% of total study time for maths, 60% for the rest. But never run away from a weak subject — you need 25% in every section just to qualify."
+  - question: "Q5. What should the last week before the exam look like?"
+    answer: "Only revision. No new topics, no new mocks, no new books. Keep confidence high and sleep well."
+  - question: "Q6. Is the strategy different for Class 9?"
+    answer: "The base is the same, but the paper is entirely in English medium and the maths is tougher. Give extra time to English comprehension. Our [Class 9 admission guide](/blog/sainik-school-class-9-admission-2027/) covers the differences."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Exam date ✅ **CONFIRMED**: 31 January 2027 (NTA exam calendar 2026-27, notice dated 16 September 2026). NTA notification 🔶 **NOT released yet** (expected October 2026). This 12-week plan is built to start around early November 2026 — and if you're beginning today, you have roughly four months, which is even better.

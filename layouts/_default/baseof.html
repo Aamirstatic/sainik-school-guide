@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="light">
-  <title>{{ if .IsPage }}{{ .Title | truncate 55 }}{{ else }}{{ .Site.Title | truncate 55 }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ (printf "%s | Sainik School Guide" .Title) | truncate 62 }}{{ end }}</title>
   <meta name="description" content="{{ .Description | truncate 155 }}">
   <link rel="canonical" href="{{ .Permalink }}">
   
@@ -13,7 +13,7 @@
   <meta property="og:description" content="{{ .Description }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:site_name" content="Sainik School Eligibility & Results">
+  <meta property="og:site_name" content="Sainik School Guide India">
   <meta property="og:image" content="{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}https://sainikschooleastsiang.in/images/og-default.jpg{{ end }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="675">
@@ -114,15 +114,14 @@
     <div class="hdr-inner">
       <a href="/" class="logo">
         <div class="logo-icon">SS</div>
-        <div class="logo-text">Sainik School<small>Eligibility, Results & More</small></div>
+        <div class="logo-text">Sainik School Guide<small>AISSEE 2027 • Admission • News</small></div>
       </a>
       <nav class="nav" id="mainNav">
         <a href="/tools/age-calculator/">Eligibility</a>
-        <a href="/schools/">Results</a>
+        <a href="/schools/">Schools</a>
         <a href="/blog/sainik-school-fee-comparison-all-schools/">Fees</a>
         <a href="/blog/">Blog</a>
         <a href="/news/">News</a>
-        <a href="/schools/">All Schools</a>
         <a href="/blog/sainik-school-admission-2027-guide/" class="btn-cta">Admission 2027 →</a>
       </nav>
       <button class="menu-btn" id="menuBtn" aria-label="Menu">

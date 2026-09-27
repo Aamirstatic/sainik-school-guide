@@ -11,6 +11,15 @@ author_image: "/images/authors/nisha-sharma.png"
 featured_image: "/images/thumbnails/sainik-school-kunjpura-recruitment-2026-2026-09-26.webp"
 categories: ["News"]
 aliases: ["/blog/sainik-school-kunjpura-recruitment-2026-2026-09-26/"]
+faqs:
+  - question: "1. What is the last date to apply for Sainik School Kunjpura Recruitment 2026?"
+    answer: "The application must reach the school on or before **31 October 2026** (CONFIRMED)."
+  - question: "2. Is there an online application form?"
+    answer: "No. Applications are **offline only** — download the form from sskunjpura.org, fill it, and post it with a Rs 500 Demand Draft (CONFIRMED)."
+  - question: "3. How many posts are on offer?"
+    answer: "15 posts: 6 TGT teachers, plus Horse Riding Instructor, Band Master, Mess Manager, Nursing Sister (Female), and 5 Ward Boys (CONFIRMED)."
+  - question: "4. What is the age limit?"
+    answer: "The general age limit is 18–50 years with 31 October 2026 as the cutoff date (CONFIRMED). However, sources differ on the TGT age band (21–35 vs 21–50), so verify from the official notification PDF."
 ---
 
 > **Last verified: 26 September 2026.** Details below are cross-checked against two independent reporting sources. Always confirm from the official notification PDF on [sskunjpura.org](https://sskunjpura.org) before applying.

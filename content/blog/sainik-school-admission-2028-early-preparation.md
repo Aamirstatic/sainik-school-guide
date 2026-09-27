@@ -17,6 +17,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-admission-2028-early-preparation.webp"
+faqs:
+  - question: "Q1. My child is in Class 4 now — is this the right time to start?"
+    answer: "Yes. For Class 6 entry in 2028, the projected window is birth between 1 April 2016 and 31 March 2018 — which is roughly today's Class 4. Cross-check with the [age-limit guide](/blog/sainik-school-age-limit-2027-detailed-guide/) shifted one year forward."
+  - question: "Q2. Could the syllabus change by 2028?"
+    answer: "The pattern has been stable for three years; a major change is 🔶 unlikely. But always confirm against the official bulletin when it releases."
+  - question: "Q3. Should we start mock tests now?"
+    answer: "No. Give the first 8–10 months to foundation. Start mocks in Phase 3 (around August 2027)."
+  - question: "Q4. What about girls — will the 2028 rules differ?"
+    answer: "🔶 Expect the same framework as 2027: in the established schools, 10% of vacancies or 10 seats (whichever is more) reserved for girls. See the [girls' admission guide](/blog/sainik-school-for-girls-2027/)."
+  - question: "Q5. How many hours a day is enough, starting this early?"
+    answer: "Just 1.5–2 hours in Phase 1. Consistency beats hours — increase gradually as the exam approaches."
+  - question: "Q6. Is Class 9 entry harder than Class 6?"
+    answer: "Different, not harder. Class 9 has fewer seats and an English-only paper, but also thinner competition per seat in many states. The [Class 9 guide](/blog/sainik-school-class-9-admission-2027/) gives you the 2027-cycle picture."
 ---
 
 > **🔄 Last verified: 26 September 2026** — The AISSEE 2028 cycle is still far off. Everything below is 🔶 **projection**, based on the 2026 bulletin and the confirmed 2027 pattern. We'll update this guide as official information arrives.

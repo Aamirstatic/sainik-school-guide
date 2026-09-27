@@ -7,8 +7,19 @@ description: "No — AISSEE has no negative marking. What that means for attempt
 keywords: ["AISSEE negative marking", "is there negative marking in AISSEE", "AISSEE marking scheme", "AISSEE attempt strategy", "AISSEE OMR tips"]
 author_name: "Aamir Raza"
 author_title: "Founder, Sainik School Guide"
-author_image: "/images/authors/aamir-raza.png"
+author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-negative-marking-honest-answer.webp"
+faqs:
+  - question: "Is there negative marking in AISSEE 2027?"
+    answer: "✅ No — confirmed per the AISSEE 2026 NTA bulletin pattern, and expected to continue in 2027. Wrong answers and blanks both score zero; nothing is deducted."
+  - question: "If there is no negative marking, should I attempt all questions?"
+    answer: "Yes. Attempt everything. Use a three-pass system: sure answers first, 50-50 questions second, and best guesses for all remaining bubbles in the last few minutes."
+  - question: "Does guessing work the same in Class 6 and Class 9?"
+    answer: "Yes. Both papers have no negative marking. Only the per-question marks differ — Maths is 3 marks per question in Class 6 and 4 in Class 9, so a correct maths guess is worth more."
+  - question: "Can I still fail if I attempt everything?"
+    answer: "Yes — attempting everything is not a substitute for preparation. You also need ✅ 25% in each section and 40% aggregate (SC/ST exempt). Never sacrifice an entire section to chase marks in another."
+  - question: "What if the AISSEE 2027 bulletin introduces negative marking?"
+    answer: "There is no indication of any such change, and the pattern has been stable. If the bulletin (expected October 2026) changes it, we will update this article and flag it prominently."
 ---
 
 > **🔄 Last verified: 27 September 2026** — Exam date ✅ **CONFIRMED** (tentative): 31 January 2027 (NTA calendar 2026-27). Marking-scheme facts below are ✅ **CONFIRMED** from the AISSEE 2026 NTA bulletin and 🔶 **EXPECTED** to repeat for 2027. Notification 🔶 **NOT released yet**.

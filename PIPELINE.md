@@ -59,11 +59,21 @@ and the pre-publish checklist (§9).
   (no News category). Follow §9 pre-publish checklist: original table or
   checklist or timeline, 4–6 FAQs, internal links to 2–3 existing pages,
   Sources section, "Last verified" box.
+- **FAQs frontmatter (required for news + blog):** every article MUST include a
+  `faqs:` list in frontmatter — it powers the FAQPage schema (AEO/rich results).
+  Format:
+  ```yaml
+  faqs:
+    - question: "Is there negative marking in AISSEE 2027?"
+      answer: "No — wrong answers and blanks both score zero; nothing is deducted."
+  ```
+  Mirror the same Q&As in the `## FAQs` body section as `**Question?**` +
+  answer paragraph. 3–4 for news, 4–6 for blog. Answers: plain text, no markdown.
 - **Web story** → `content/webstories/<slug>.md`. Frontmatter: title, date,
   description, author_name, featured_image (the poster), story_type "image",
   category, tags, and `slides:` — 6–8 slides, each with image, title (≤8 words),
   subtitle (1–2 lines), credit. Body: one short paragraph.
-- Author images exist: `/images/authors/aamir-raza.png`,
+- Author images exist: `/images/authors/aamir.jpeg`,
   `/images/authors/nisha-sharma.png`, `/images/authors/sameer-khan.png`,
   `/images/authors/rifaul-hasan.jpeg`. author_title values: use
   "Founder, Sainik School Guide" (Aamir), "Education Writer" (Nisha),

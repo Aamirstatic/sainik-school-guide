@@ -9,6 +9,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-online-coaching-vs-offline.webp"
+faqs:
+  - question: "1. Is coaching necessary for AISSEE 2027?"
+    answer: "No. Strong fundamentals + disciplined practice + mocks are sufficient for many children. Coaching is a support tool, not a requirement."
+  - question: "2. Which is better for a Class 6 aspirant — online or offline?"
+    answer: "For 10–11 year olds, offline's structure usually works better *if* the centre is good and nearby. Online demands self-discipline most young children don't have yet."
+  - question: "3. How much should we budget for AISSEE coaching?"
+    answer: "Indicative: ₹5,000–25,000 for online, ₹30,000–1,00,000+ for offline. But budget for books and papers first — they're the highest-ROI spending."
+  - question: "4. Can we prepare entirely at home?"
+    answer: "Yes — with the right plan. Start with our [3-month preparation guide](/blog/how-to-prepare-sainik-school-3-months/) and [best books list](/blog/best-books-aissee-2027/)."
+  - question: "5. When should coaching start?"
+    answer: "Ideally 8–12 months before the exam (so, now, for the ✅ 31 January 2027 paper). Starting in December is panic, not preparation."
 ---
 
 # Online vs Offline Coaching for AISSEE 2027: Which Is Actually Better?

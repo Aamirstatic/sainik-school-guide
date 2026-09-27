@@ -9,6 +9,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-physical-test-guide.webp"
+faqs:
+  - question: "1. Is there a physical test in AISSEE 2027?"
+    answer: "No. AISSEE selection is: written OMR exam → AISSAC counselling → medical fitness examination. Physical fitness helps with the medical and with adjusting to school life."
+  - question: "2. How fit does my child need to be for the medical?"
+    answer: "The board assesses age-appropriate general health and development — not athletic performance. An active child with no untreated conditions is typically fine. See our [medical test guide](/blog/sainik-school-medical-test-2027/)."
+  - question: "3. My child has never exercised. Is 4 months enough?"
+    answer: "Yes — for building basic stamina and strength from zero. The plan above is designed exactly for that. Start easy."
+  - question: "4. Should we join a sports academy?"
+    answer: "Not necessary. Daily outdoor play plus the exercises above are sufficient for admission purposes. Academies are for competitive sport, not for this."
+  - question: "5. What if my child has asthma or another condition?"
+    answer: "Consult your doctor before starting any fitness routine, disclose the condition at the medical, and follow medical advice over any article — including this one."
 ---
 
 # Sainik School Physical Fitness Guide 2027: Get Fit in 4 Months

@@ -9,6 +9,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/life-after-sainik-school-career-options.webp"
+faqs:
+  - question: "Q1. Is joining the NDA compulsory after Sainik School?"
+    answer: "Not at all. The NDA is an option, never an obligation. A student can choose any career they want after Class 12."
+  - question: "Q2. If my child doesn't clear the NDA, what are the realistic options?"
+    answer: "JEE, NEET, UPSC civil services, state services, the private sector — all of them stay open. Sainik School academics are strong enough for board exams and every competitive exam built on them."
+  - question: "Q3. Are the same career options open to girls?"
+    answer: "Yes. Girls have been eligible for the NDA since 2021, alongside AFMC and every other option on this list. See our [girls' admission guide](/blog/sainik-school-for-girls-2027/) for details."
+  - question: "Q4. Can a Sainik School student study abroad later?"
+    answer: "Absolutely. The English-medium education and the personality the school builds help with foreign university applications too — several alumni have gone that route."
+  - question: "Q5. Does the Sainik School certificate itself help in getting jobs?"
+    answer: "There's no direct job reservation attached to the certificate (defence quotas apply only in specific schemes). But in interviews — defence or otherwise — a Sainik School background consistently creates a strong, positive impression."
 ---
 
 > **🔄 Last verified: 26 September 2026** — This is an evergreen guide. The career paths below are widely established facts. Where a fact comes from an official source, we've labelled it ✅ **CONFIRMED** or 🔶 **EXPECTED**. We have deliberately left out any selection percentages or salary figures that couldn't be verified from an official source.

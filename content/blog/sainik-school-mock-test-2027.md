@@ -9,6 +9,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-mock-test-2027.webp"
+faqs:
+  - question: "1. How many mock tests should my child take for AISSEE 2027?"
+    answer: "15–20 full-length mocks with serious analysis beat 50 casual ones. Start fortnightly now, go weekly in December, twice weekly in January."
+  - question: "2. When should we start taking mocks?"
+    answer: "Once ~70% of the syllabus is done — a mock on an unfinished syllabus just measures what's untaught. Benchmark early, peak late."
+  - question: "3. Should mocks be online or on paper?"
+    answer: "On paper, with an OMR-style answer sheet. AISSEE is an offline pen-paper exam — practise in the same medium."
+  - question: "4. What is a good mock score for Sainik School selection?"
+    answer: "It varies by state and category every year (see our [cutoff analysis](/blog/sainik-school-cutoff-2026-state-wise/)). As a rule of thumb, consistently scoring above 65–70% with balanced sections puts a child in a strong position — but treat this as guidance, not a guarantee."
+  - question: "5. My child's scores aren't improving. What now?"
+    answer: "Stop adding mocks. Analyse the error log for patterns, fix the top two patterns, then resume. Plateaus are almost always analysis problems, not practice problems."
 ---
 
 # Sainik School Mock Test 2027: A Practical Plan That Actually Improves Scores

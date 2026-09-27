@@ -41,7 +41,7 @@
   "inLanguage": "en-IN",
   "encodingFormat": "text/html",
   "alternativeHeadline": "{{ if .Params.alternative_headline }}{{ .Params.alternative_headline }}{{ else }}{{ .Title }}{{ end }}",
-  "about": "{{ .Summary | default (printf "Complete guide to %s" (.Params.keywords | default "AISSEE")) }}",
+  "about": {{ (.Summary | plainify | truncate 200 | default (printf "Complete guide to %s" (.Params.keywords | default "AISSEE"))) | jsonify }},
   "temporal": "{{ .Date.Format "2006" }}",
   "primaryImageOfPage": {
     "@type": "ImageObject",
@@ -51,38 +51,6 @@
   }
 }
 </script>
-
-<!-- QA Schema for blog posts with Q&A sections -->
-{{ if (or (in .Content "Q&A") (in .Content "faq") (in .Content "FAQ") (in .Content "frequently asked") ) }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "QAPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "{{ .Title }}",
-    "text": "{{ .Summary | default .Content }}",
-    "answerCount": 0
-  }],
-  "suggestedAnswer": []
-}
-</script>
-{{ end }}
-
-<!-- How-to Schema for preparation guides -->
-{{ if (or (in .Content "preparation") (in .Content "strategy") (in .Content "tips") (in .Content "step-by-step") (in .Content "guide") ) }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "HowTo",
-  "name": "{{ .Title }}",
-  "description": "{{ .Description }}",
-  "totalTime": "{{ .Params.estimated_reading_time | default "PT30M" }}",
-  "supply": [],
-  "step": []
-}
-</script>
-{{ end }}
 {{ else if eq .Section "news" }}
 <!-- NewsArticle Schema for News (Google News / Top Stories / Discover eligibility) -->
 <script type="application/ld+json">
@@ -180,6 +148,27 @@
     "@type": "Organization",
     "name": "Sainik School Guide India"
   }
+}
+</script>
+{{ end }}
+
+<!-- FAQPage Schema for any article with faqs (AEO: rich results + answer engines) -->
+{{ if .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $f := .Params.faqs }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $f.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $f.answer | jsonify }}
+      }
+    }{{ end }}
+  ]
 }
 </script>
 {{ end }}

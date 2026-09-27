@@ -15,6 +15,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-nda-success-stories.webp"
+faqs:
+  - question: "1. What percentage of Sainik School students join the NDA?"
+    answer: "We don't publish a figure because reliable, current, all-school data isn't publicly available — and we'd rather be honest than impressive. What verifiable records show is that Sainik Schools consistently produce NDA cadets year after year, disproportionate to their size."
+  - question: "2. Can girls from Sainik School join the NDA?"
+    answer: "Yes — women are eligible for NDA entry, and the preparation path is identical. See our [guide for girls](/blog/sainik-school-for-girls-2027/)."
+  - question: "3. What if my child doesn't want the Armed Forces after Sainik School?"
+    answer: "Then they leave with discipline, fitness, academics, and confidence — assets in every career. Many alumni thrive in civil services, engineering, medicine, and business."
+  - question: "4. When should NDA-specific preparation start?"
+    answer: "The foundation (fitness, discipline, study habits) starts at Class 6 automatically. Focused NDA written preparation typically intensifies in Classes 11–12."
+  - question: "5. Is coaching needed for NDA after Sainik School?"
+    answer: "Many manage with school preparation plus self-study; others take guidance for the written paper. The SSB, though, rewards genuine personality over coached performance."
 ---
 
 # From Sainik School to NDA: The Complete Path, Pattern and Preparation

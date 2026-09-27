@@ -17,6 +17,17 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-daily-routine-timetable.webp"
+faqs:
+  - question: "1. Will my child get enough sleep with a 5:30 AM wake-up?"
+    answer: "Lights-out is at 10 PM, so children get about 7.5 hours — which is the recommended amount for this age group. The fixed schedule actually improves sleep quality compared to irregular home routines."
+  - question: "2. What if my child is not sporty — is games period compulsory?"
+    answer: "Yes, outdoor games are compulsory for everyone, but there's a wide menu: football, basketball, cricket, athletics, and more. Non-athletic kids find their place quickly, and fitness improves naturally. See our [physical fitness guide](/blog/sainik-school-physical-test-guide/) for how to prepare before joining."
+  - question: "3. How often can parents visit or call?"
+    answer: "Policies vary slightly by school, but typically there's a weekly phone call slot and designated visiting Sundays once or twice a month. Letters, of course, are unlimited."
+  - question: "4. Is the food in the mess decent?"
+    answer: "Mess food is simple, nutritious, and served on time — think dal, rice, roti, sabzi, with eggs or non-veg a few times a week. It's institutional food, not restaurant food, but it's balanced for growing, active children. Read more about [hostel life](/blog/sainik-school-hostel-life/)."
+  - question: "5. Do children get any free time at all?"
+    answer: "Yes — Sunday afternoons, the gap between dinner and second prep, and hobby periods. It's structured freedom rather than empty hours, which most parents actually prefer."
 ---
 
 # Sainik School Daily Routine 2027: Full Timetable from 5:30 AM to Lights-Out

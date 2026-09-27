@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-counselling-2027.webp"
+faqs:
+  - question: "Q1. Is there really no counselling fee?"
+    answer: "Really none. AISSAC registration and choice filling are ✅ free. If anyone asks you for money for counselling, it's fraud — report it."
+  - question: "Q2. Who conducts the counselling — NTA or someone else?"
+    answer: "The Sainik Schools Society, at `pesa.ncog.gov.in`. NTA's role ends with conducting the exam and declaring results."
+  - question: "Q3. What if my child doesn't get a seat in Round 1?"
+    answer: "Stay in the process. Around six rounds happen, and you can modify your choices between rounds. Many students get their seats in Rounds 3–6."
+  - question: "Q4. What do Accept, Reconsider and Exit mean after allotment?"
+    answer: "Accept means you take the allotted seat and proceed to medical/verification. Reconsider keeps you in the counselling for a possible better allotment later. Exit withdraws you from the process entirely."
+  - question: "Q5. Are the new PPP schools part of counselling?"
+    answer: "They were in 2026, and are 🔶 expected in 2027. They appear in the same choice-filling list."
+  - question: "Q6. What happens if the medical test is failed after allotment?"
+    answer: "The seat passes to the next eligible candidate. This is why a [pre-counselling medical checkup](/blog/sainik-school-medical-test-2027/) is worth every rupee."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Counselling runs under the name ✅ **AISSAC** (All India Sainik Schools Admission Counselling), conducted by the **Sainik Schools Society** — not NTA — at `pesa.ncog.gov.in`. Fully ✅ **online**, ✅ **no counselling fee**, around ✅ **6 rounds** (per the 2026 cycle). The 2027 schedule is 🔶 **expected after the result** (roughly March 2027).

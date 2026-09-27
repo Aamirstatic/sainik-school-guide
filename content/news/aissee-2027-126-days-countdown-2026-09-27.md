@@ -11,6 +11,15 @@ author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-126-days-countdown-2026-09-27.webp"
 categories: ["News"]
 aliases: ["/blog/aissee-2027-126-days-countdown-2026-09-27/"]
+faqs:
+  - question: "Is the 31 January 2027 exam date final?"
+    answer: "✅ Tentatively confirmed — it appears in the NTA exam calendar 2026-27 (notice 16 Sept 2026). NTA marks it tentative; the bulletin will confirm it."
+  - question: "When will the AISSEE 2027 application form be released?"
+    answer: "🔶 Not announced yet. Expected October 2026 based on the 2026 cycle (form window 10–30 Oct 2025)."
+  - question: "What documents do I need for the AISSEE 2027 form?"
+    answer: "Photo, signature, birth certificate, study certificate, caste certificate (if applicable), domicile proof, and defence documents (if applicable). Details are in the checklist above."
+  - question: "Should we start preparing before the notification comes out?"
+    answer: "Yes. The syllabus and pattern follow the NTA bulletin closely; starting now with the [standard books and syllabus](/blog/best-books-aissee-2027/) is what successful families did last year."
 ---
 
 > **🔄 Last verified: 27 September 2026** — Exam date ✅ **CONFIRMED** (tentative): 31 January 2027, per the NTA exam calendar 2026-27 (notice dated 16 Sept 2026). NTA information bulletin 🔶 **NOT released yet** — expected October 2026, based on last year's pattern. *This is a readiness countdown, not breaking news — nothing new has been announced in the last 48 hours.*

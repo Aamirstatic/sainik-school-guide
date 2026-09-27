@@ -16,6 +16,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-medical-test-2027.webp"
+faqs:
+  - question: "1. Can my child be rejected in the medical test after getting a seat?"
+    answer: "Yes — admission is subject to medical fitness per the AISSAC SOP. But most issues are minor and many are given time or review. Serious disqualifications are uncommon."
+  - question: "2. Is there a minimum height or weight requirement?"
+    answer: "Boards assess age-appropriate physical development rather than a single universal number. If you're concerned, consult your paediatrician early."
+  - question: "3. Are children with glasses rejected?"
+    answer: "Correctable vision with glasses is generally acceptable. Get the prescription early and declare it honestly."
+  - question: "4. What if my child has asthma or a similar condition?"
+    answer: "Disclose it with medical records. Boards assess each case on whether the child can safely handle residential school life and physical training. Your specialist's opinion matters — get it in writing."
+  - question: "5. Can we appeal a medical rejection?"
+    answer: "Schools typically have a review process — ask the school office immediately and in writing. Timelines are tight, so act fast."
 ---
 
 # Sainik School Medical Test 2027: What Gets Checked and How to Prepare

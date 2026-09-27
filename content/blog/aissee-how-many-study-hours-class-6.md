@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-how-many-study-hours-class-6.webp"
+faqs:
+  - question: "How many hours should a Class 6 student study for AISSEE daily?"
+    answer: "2–3 focused hours a day is the honest answer for most children, rising to about 3–3.5 hours in the final two months. More than that at age 10–12 usually buys fatigue, not marks. What counts is 60 minutes of genuine work per hour — not desk time."
+  - question: "Is 1 hour a day enough for AISSEE preparation?"
+    answer: "If the child is in Class 5 with a year or more to go, yes — 60–90 minutes of solid work builds a strong base. With less than 6 months to the 31 January 2027 exam, 1 hour is too little; aim for 2+."
+  - question: "Can my child study 5–6 hours a day for AISSEE?"
+    answer: "They physically can, but they should not. A 10–12-year-old already spends 5–6 hours in school; adding 5–6 more home hours exceeds what a child's brain can absorb and risks burnout before January. If a coach prescribes 6-hour days for an 11-year-old, question the coach, not your child."
+  - question: "Should study hours increase in the last month before AISSEE 2027?"
+    answer: "Slightly — to about 3–3.5 hours — but through weekly full-length mock tests, not longer chapter reading. Protect sleep ruthlessly in January; a rested child outperforms an exhausted one on exam day."
+  - question: "What is the best time of day for a child to study?"
+    answer: "Late afternoon to early evening works best for most school-going children — roughly 4:30–7:30 PM, after rest and a snack. Mornings before school suit early risers. Consistency of timing matters more than the clock hour itself."
+  - question: "Does screen-based study count toward daily hours?"
+    answer: "Only if it is active — solving questions on screen, watching a concept video and pausing to practise. Passive video-watching counts for far less than its clock time suggests. For an 11-year-old, paper-and-pen work remains the most reliable hour-for-hour option."
 ---
 
 > **🔄 Last verified: 27 September 2026** — Exam date ✅ **CONFIRMED** (tentative): 31 January 2027 (NTA calendar 2026-27). Notification 🔶 **NOT released yet** (expected October 2026). The study-hour guidance below is editorial advice for 10–12-year-olds, not an official rule — NTA prescribes no study hours. Paper pattern facts are ✅ **CONFIRMED** from the AISSEE 2026 NTA bulletin, 🔶 **EXPECTED** to repeat for 2027.

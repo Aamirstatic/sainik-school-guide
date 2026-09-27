@@ -371,7 +371,7 @@
   }
 </style>
 
-{{ if eq .Section "blog" }}
+{{ if or (eq .Section "blog") (eq .Section "news") }}
 
 <!-- Blog Hero -->
 <section class="blog-hero" style="min-height:180px">

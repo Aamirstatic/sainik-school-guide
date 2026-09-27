@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-class-9-admission-2027.webp"
+faqs:
+  - question: "Q1. Is Class 9 admission harder than Class 6?"
+    answer: "Honestly? Yes, in one sense — fewer seats means stiffer competition. But the syllabus is just NCERT Class 8, which your child is studying anyway. A well-prepared student has a very real shot."
+  - question: "Q2. My child studies in Hindi medium. Can they still attempt it?"
+    answer: "They can — but the paper is in English only. Start the switch now: English textbooks, English practice papers, even English newspaper reading. Four months is enough to build the habit if you start today."
+  - question: "Q3. Can girls apply for Class 9?"
+    answer: "Yes, girls are eligible. The number of girls' seats differs by school, so check the bulletin when it's released."
+  - question: "Q4. After Class 9 entry, is there still time for NDA preparation?"
+    answer: "Four years — Classes 9 through 12 — is comfortably enough. The [NDA roadmap](/blog/nda-after-sainik-school-career-path/) shows how students use those years."
+  - question: "Q5. Will the new PPP schools offer Class 9 seats in 2027?"
+    answer: "They did in 2026 (19 of them). The final 2027 list is 🔶 expected with the October 2026 bulletin."
+  - question: "Q6. When does the application form come out?"
+    answer: "The NTA notification is 🔶 expected in October 2026, based on previous cycles. Our [admission 2027 guide](/blog/sainik-school-admission-2027-guide/) tracks every update as it happens."
 ---
 
 > **🔄 Last verified: 26 September 2026** — AISSEE 2027 exam ✅ **31 January 2027** (NTA exam calendar 2026-27, tentative). NTA information bulletin 🔶 **not released yet** (expected October 2026). Age limits below are 🔶 **projected** from the 2026 pattern; treat everything marked 🔶 as expected, not official.

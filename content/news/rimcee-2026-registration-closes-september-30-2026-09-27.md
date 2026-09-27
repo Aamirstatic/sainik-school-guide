@@ -11,6 +11,15 @@ author_image: "/images/authors/sameer-khan.png"
 featured_image: "/images/thumbnails/rimcee-2026-registration-closes-september-30-2026-09-27.webp"
 categories: ["News"]
 aliases: ["/blog/rimcee-2026-registration-closes-september-30-2026-09-27/"]
+faqs:
+  - question: "Is RIMCEE 2026 the same as the AISSEE?"
+    answer: "No. AISSEE is NTA's exam for Sainik Schools (Class 6 and 9, exam 31 January 2027). RIMCEE is a separate NTA exam for RIMC Dehradun (Class 8 only). A child can apply to both — the exams don't clash. [Read how RIMC compares with Sainik Schools]({{< relref \"sainik-school-vs-rimc-vs-rashtriya-military-school.md\" >}})."
+  - question: "What is the last date to apply for RIMCEE 2026?"
+    answer: "✅ **CONFIRMED:** 30 September 2026 (till 5 PM) without late fee, and 7 October 2026 (till 5 PM) with late fee."
+  - question: "Who can apply for the RIMC entrance exam?"
+    answer: "Children born between 2 July 2013 and 1 January 2015 who are studying in (or have passed) Class 7 from a recognised school. The NTA is also accepting this year's exam fully online — no hard-copy applications."
+  - question: "How is the RIMCEE conducted?"
+    answer: "Stage-I is a pen-and-paper written exam on 6 December 2026, reported at 4.5 hours. Qualifiers face a Stage-II viva voce, tentatively in April 2027."
 ---
 
 > **🔄 Last verified: 27 September 2026** — Registration dates ✅ **CONFIRMED** from NTA's RIMCEE 2026 notice as reported by the Times of India (Education Times, 22 Sept 2026) and Careers360 (22 Sept 2026). Fee figures and exam-duration details below are single-source reports — treat them as the source's account and confirm on the official portal at `exams.nta.nic.in/rimcee/` before paying.

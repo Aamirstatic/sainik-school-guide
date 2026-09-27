@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-age-limit-2027-detailed-guide.webp"
+faqs:
+  - question: "Q1. My child turns exactly 10 on 31 March 2027 — eligible?"
+    answer: "Yes. The 10–12 range is inclusive, so a 31 March 2017 birth date qualifies (projected)."
+  - question: "Q2. Can the date of birth be corrected after submitting the form?"
+    answer: "NTA usually opens a limited correction window (the 2026 cycle had one), but DOB is a critical field and corrections there are difficult. Get it right the first time."
+  - question: "Q3. Must a Class 9 applicant have passed Class 8?"
+    answer: "Yes — from a recognised school ✅ (per the 2026 bulletin)."
+  - question: "Q4. Do children of defence personnel get age relaxation?"
+    answer: "No. The defence quota sits in seats (25% of the remainder ✅), not in age."
+  - question: "Q5. Could the bulletin change the age rule?"
+    answer: "The pattern has been stable for years — a change is 🔶 unlikely. But the final word is always the bulletin's (expected October 2026)."
+  - question: "Q6. Which date actually matters — the exam date or 31 March?"
+    answer: "31 March 2027. Always 31 March. Not the exam date, not today's date."
 ---
 
 > **🔄 Last verified: 26 September 2026** — ⚠️ NTA has not released the 2027 bulletin yet. The age cutoffs below are 🔶 **PROJECTIONS** — derived by shifting the AISSEE 2026 bulletin (via TOI, citing NTA) one year forward. Final confirmation comes with the bulletin (expected October 2026).

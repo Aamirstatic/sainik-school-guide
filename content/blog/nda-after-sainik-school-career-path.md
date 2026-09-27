@@ -9,6 +9,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/nda-after-sainik-school-career-path.webp"
+faqs:
+  - question: "Q1. Does studying in a Sainik School guarantee NDA selection?"
+    answer: "No. Selection is through the UPSC written exam and SSB interview only — the school gives outstanding preparation but no guarantee and no reserved seat."
+  - question: "Q2. Which stream should my child take in Class 11 for the NDA?"
+    answer: "PCM (Physics, Chemistry, Maths). It keeps all three wings — Army, Navy, Air Force — open. Without PCM, only the Army wing is available."
+  - question: "Q3. When should SSB preparation formally begin?"
+    answer: "In a Sainik School it begins naturally in Class 6. Formal, focused SSB orientation in Classes 11–12 is plenty — earlier than that, just let the school's routine do its work."
+  - question: "Q4. How many attempts does a candidate get at the NDA exam?"
+    answer: "It depends on the birth date — the 16.5 to 19.5 age window spans multiple UPSC notifications. Work it out against your child's exact date of birth rather than trusting a fixed number."
+  - question: "Q5. Can girls join the NDA after Sainik School?"
+    answer: "Yes — girls have been eligible for NDA entry since 2021, and Sainik Schools now admit girls. The eligibility rules (age, education, marital status) apply equally."
 ---
 
 > **🔄 Last verified: 26 September 2026** — The NDA exam is conducted by UPSC twice a year; the eligibility and pattern below are UPSC's established rules. We have deliberately avoided any "selection percentage" claims that can't be verified from an official source. AISSEE 2027 facts: exam date ✅ **CONFIRMED tentative — 31 January 2027** (NTA exam calendar 2026–27, notice dated 16 Sept 2026); NTA information bulletin 🔶 **not released yet** (expected October 2026).

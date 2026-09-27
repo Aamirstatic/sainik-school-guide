@@ -9,6 +9,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-interview-questions-2027.webp"
+faqs:
+  - question: "1. Is there an interview in AISSEE 2027?"
+    answer: "No. AISSEE is a written OMR exam only. The interaction described here happens at some schools during the admission stage after counselling."
+  - question: "2. Do all Sainik Schools conduct this interaction?"
+    answer: "No — practices vary by school. Prepare anyway; the confidence helps regardless."
+  - question: "3. In which language is the interaction conducted?"
+    answer: "Usually the child's comfortable language — Hindi or English. Clarity matters more than language."
+  - question: "4. Can parents speak on the child's behalf?"
+    answer: "No — let the child answer. Prompting from the side hurts more than a imperfect answer."
+  - question: "5. What should the child wear?"
+    answer: "Neat school uniform if available; otherwise simple, clean formal clothes. Avoid anything flashy."
 ---
 
 # Sainik School Interview Questions 2027: 50-Question Bank with Answer Hints

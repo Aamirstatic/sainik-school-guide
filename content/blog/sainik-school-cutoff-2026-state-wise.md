@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-cutoff-2026-state-wise.webp"
+faqs:
+  - question: "Q1. Can last year's cutoff predict this year's?"
+    answer: "Roughly, as a reference point — never as a guarantee. Paper difficulty and applicant numbers change every year. Use it for direction, not for decisions."
+  - question: "Q2. Is there really no all-India cutoff?"
+    answer: "Really none. Cutoffs are built per school, per class, per gender, per category, per round. Any single number claiming to be \"the\" cutoff is hiding all of that."
+  - question: "Q3. How do I use the home-state quota to my advantage?"
+    answer: "Put your home-state school high in your choice filling — 67% of its seats are reserved for home-state students, so your odds are structurally better there."
+  - question: "Q4. Do SC/ST candidates have lower cutoffs?"
+    answer: "The 25%-per-section and 40%-aggregate qualifying rule doesn't apply to SC/ST candidates ✅, and separate merit lists are prepared for each category. Exact figures live in the official merit lists."
+  - question: "Q5. My child's score is 5–10 marks below last year's cutoff for our school. Should we give up?"
+    answer: "No — stay in the counselling through every round. Cutoffs ease as rounds progress, and spot rounds have surprised many families. Leaving early is the only guaranteed way to lose."
+  - question: "Q6. Where will I find the official 2027 cutoffs when they're out?"
+    answer: "In the AISSAC merit lists on `pesa.ncog.gov.in`, published round by round after the result. Bookmark that, not the WhatsApp forwards."
 ---
 
 > **🔄 Last verified: 26 September 2026** — One promise before anything else: **you will not find invented state-wise cutoff numbers in this article.** Many websites publish tables like "UP cutoff 235, Bihar cutoff 241" with no source. Those numbers are unverifiable and mislead parents. What you'll find here instead is the **actual mechanism** — how a Sainik School cutoff is built, step by step. Understanding the machine beats memorising a fake number. 2027 cutoffs will emerge 🔶 after the result (expected March 2027), round by round.

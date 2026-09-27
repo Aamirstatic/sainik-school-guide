@@ -9,6 +9,17 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-admission-mistakes.webp"
+faqs:
+  - question: "Q1. What's the most common reason forms get rejected?"
+    answer: "Wrong photo/signature specifications, invalid category certificates, and age-criteria mismatches. All three are avoidable — just don't rush the form."
+  - question: "Q2. Is there a correction window after submitting?"
+    answer: "NTA opened a limited correction window in the 2026 cycle (2–4 Nov 2025). One is 🔶 expected for 2027 too — but never count on it. Get it right the first time."
+  - question: "Q3. Is the fee refunded if something goes wrong with the form?"
+    answer: "Generally, no. Which is exactly why you double-check everything before paying."
+  - question: "Q4. Can we submit more than one application?"
+    answer: "No — multiple applications from a single candidate get rejected. One candidate, one form."
+  - question: "Q5. What happens if a child fails the medical examination?"
+    answer: "The seat passes to the next candidate in line. A pre-emptive checkup is just common sense."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Exam ✅ **31 January 2027** (NTA calendar, tentative). Notification 🔶 **NOT released** (expected October 2026). Every mistake below comes with its fix — read this before you fill the form.

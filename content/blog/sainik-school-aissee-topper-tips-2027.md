@@ -9,6 +9,17 @@ author_name: "Sameer"
 author_title: "Education Content Specialist"
 author_image: "/images/authors/sameer.png"
 featured_image: "/images/thumbnails/sainik-school-aissee-topper-tips-2027.webp"
+faqs:
+  - question: "Q1. Can a top rank come without coaching?"
+    answer: "Yes. The syllabus is NCERT-based, so disciplined self-study is enough. Coaching can give you a routine, but the knowledge has to be built by the student."
+  - question: "Q2. How many hours a day should a topper study?"
+    answer: "Quality beats quantity. Four to five focused hours beat eight distracted ones. If your child studies with the phone nearby, those eight hours are worth about two."
+  - question: "Q3. How many mock tests are enough?"
+    answer: "At least 10–12 full mocks plus five years of previous papers. Fewer than that, and exam temperament never develops."
+  - question: "Q4. What should the last month's strategy be?"
+    answer: "Nothing new — only revision and mocks. Spaced revision of the mistake notebook, light mocks for confidence, and early nights."
+  - question: "Q5. What if mock scores are consistently low?"
+    answer: "Look at the trend, not one test. Analyse every mock, fix the weak topics the analysis reveals, and the scores climb — slowly, then suddenly. Panicking helps nothing; the mistake notebook helps everything."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Exam date ✅ **CONFIRMED**: 31 January 2027 (NTA exam calendar 2026-27, notice dated 16 September 2026). The strategy below is based on merit patterns from previous cycles and observations from experienced educators. **A note on honesty: we have not invented any fictional "topper interview."** You'll find websites publishing made-up AIR 1 names and quotes — treat those with suspicion, because we certainly do.
