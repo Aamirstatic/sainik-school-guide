@@ -126,10 +126,26 @@ Replace `<news-slug>` etc. with the actual slugs published this run.
 A `200` response means accepted. (The key file
 `static/ddb0134a637bbb4d07f9ae2f65ab147b.txt` is already deployed;
 the key is public by design — IndexNow requires it to be fetchable.)
-NOTE: IndexNow does NOT cover Google. Google indexing still needs
-Search Console (sitemap submitted there, URL Inspection requests).
 
-### 6. Report
+### 6. Google Indexing API submission (instant crawl notification for Google)
+After the push, notify Google about the 3 new URLs:
+```bash
+python3 ~/workspace/scripts/google_indexing.py \
+  "https://sainikschooleastsiang.in/news/<news-slug>/" \
+  "https://sainikschooleastsiang.in/blog/<blog-slug>/" \
+  "https://sainikschooleastsiang.in/webstories/<story-slug>/"
+```
+`200` per URL = notification accepted. The service-account key lives at
+`~/workspace/user/files/jgps-479610-a8094215c449.json` — NEVER copy it into
+the repo, NEVER print it, NEVER put it in chat. (Quota: 200 URLs/day;
+we use ~15.)
+Honest caveat: this asks Googlebot to crawl quickly; it does NOT guarantee
+indexing. Google officially supports this API for job-posting/livestream
+pages — for articles it still returns 200 and usually triggers a faster
+crawl, but indexing remains Google's decision. Search Console verification
++ submitted sitemap is still the durable path.
+
+### 7. Report
 Final message: the 3 titles + slugs published and confirmation of push.
 Keep it to 3–4 lines. Do not dump article text into chat.
 
