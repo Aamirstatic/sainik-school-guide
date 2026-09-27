@@ -17,6 +17,8 @@ featured_image: "/images/thumbnails/aissee-maths-speed-improvement-guide.webp"
 
 I hear some version of this from almost every parent. The child understands the concepts, solves problems correctly at home — and then the clock eats half the paper. The uncomfortable truth: **AISSEE tests not just what your child knows, but how fast they can show it.** Speed in maths is not a talent, though. It is a trainable skill, and four to five weeks of the right drills can change a child's pace dramatically.
 
+![Geometry tools and maths instruments on a study desk](/images/inbody/aissee-maths-speed-improvement-guide.webp)
+
 ## Why maths decides the AISSEE outcome
 
 ✅ **CONFIRMED** (AISSEE 2026 bulletin; 🔶 **EXPECTED** for 2027):

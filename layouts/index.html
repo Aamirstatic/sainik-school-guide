@@ -175,6 +175,30 @@
   </div>
 </div>
 
+<!-- Latest News -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>🔥 Latest News</h2>
+    <a href="/news/">View All →</a>
+  </div>
+  <div class="blog-grid">
+    {{ range $i, $p := first 6 (sort (where .Site.RegularPages "Section" "news") "Date" "desc") }}
+    <a href="{{ $p.Permalink }}" class="bc">
+      {{ if $p.Params.featured_image }}
+      <div class="bc-img" style="background:url('{{ $p.Params.featured_image }}') center/cover no-repeat;"></div>
+      {{ else }}
+      <div class="bc-img bc-img-{{ mod $i 6 }}">📰</div>
+      {{ end }}
+      <div class="bc-body">
+        <span class="bc-tag">News</span>
+        <div class="bc-title">{{ $p.Title }}</div>
+        <div class="bc-meta">{{ $p.Date.Format "Jan 2, 2006" }} · {{ $p.ReadingTime }} min</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
 <!-- Latest Articles -->
 <div class="sec">
   <div class="sec-hdr">

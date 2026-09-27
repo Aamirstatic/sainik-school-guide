@@ -17,6 +17,8 @@ Ask ten parents how many hours a Class 6 child should study for AISSEE, and you'
 
 This article gives you one concrete, realistic daily timetable — not a fantasy schedule that requires your child to wake at 4 AM and quit playing. It assumes a normal school day, homework, and that your child is 10–12 years old and needs a childhood too.
 
+![Child studying at a desk at home with a daily timetable](/images/inbody/aissee-daily-timetable-class-6.webp)
+
 ## Know what the three hours are for
 
 The AISSEE Class 6 paper is 150 minutes for 300 marks:
@@ -78,7 +80,7 @@ If your child is not ready for full mocks yet, start with **one section per Sund
 
 ## A final note on October
 
-The NTA bulletin for AISSEE 2027 is 🔶 **EXPECTED in October 2026** (not released yet). When it lands, add 30 minutes a week to this timetable for form-filling and document prep — the application window is short, roughly three weeks based on last year's pattern, and a missed photograph or certificate has ended more dreams than any maths question. Our [126-day readiness checklist](/blog/aissee-2027-126-days-countdown-2026-09-27/) covers exactly what to keep ready.
+The NTA bulletin for AISSEE 2027 is 🔶 **EXPECTED in October 2026** (not released yet). When it lands, add 30 minutes a week to this timetable for form-filling and document prep — the application window is short, roughly three weeks based on last year's pattern, and a missed photograph or certificate has ended more dreams than any maths question. Our [126-day readiness checklist](/news/aissee-2027-126-days-countdown-2026-09-27/) covers exactly what to keep ready.
 
 ## Frequently asked questions
 

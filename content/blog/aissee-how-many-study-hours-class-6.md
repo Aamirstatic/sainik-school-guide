@@ -19,6 +19,8 @@ Every week I meet parents who proudly tell me their 11-year-old studies "six hou
 
 AISSEE Class 6 is a 150-minute, 125-question, 300-mark paper (Maths 50 questions/150 marks, Language, Intelligence and GK 25 questions/50 marks each). A child who has done 2–3 honest hours a day for six months walks into that hall sharper than a child who was force-marched through 6 hours a day for two months and burnt out by December. This article is my honest recommendation on how much study time actually moves the needle — and how to tell when you've crossed the line.
 
+![Young student studying with books at home](/images/inbody/aissee-how-many-study-hours-class-6.webp)
+
 ## What "enough" really means: the 2–3 hour rule
 
 Let me define what I mean by a study hour, because this is where most families go wrong. A study hour is **60 minutes of actual work** — reading, solving, writing, self-testing. It does not include:

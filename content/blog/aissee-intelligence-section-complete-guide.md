@@ -17,6 +17,8 @@ featured_image: "/images/thumbnails/aissee-intelligence-section-complete-guide.w
 
 That is a tragedy, because these 50 marks are the cheapest marks on the paper. No syllabus to memorise. No formulas to revise. Just the ability to spot patterns — a skill you can train like a muscle in 15 minutes a day. I have seen average students pull 40+ out of 50 here with three months of the right routine. Here's how.
 
+![Reasoning and maths practice tools for the Intelligence section](/images/inbody/aissee-intelligence-section-complete-guide.webp)
+
 ## What the section actually tests
 
 The Intelligence (mental ability/reasoning) section asks your child to think, not to recall. Every year the same families of questions appear. Learn the families, and the exam stops feeling like a surprise.

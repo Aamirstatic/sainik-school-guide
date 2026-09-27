@@ -11,7 +11,7 @@ slides:
   - image: "/images/webstories/aissee-maths-speed-tricks.webp"
     title: "Maths Speed Wins Seats"
     subtitle: "Maths carries 50 questions — 150 marks in Class 6, 200 marks in Class 9. AISSEE 2027 is tentatively on 31 January 2027. Speed is your edge."
-    credit: "AI-generated visual"
+    credit: "Photo: Pexels"
   - image: "/images/webstories/exam-schedule.webp"
     title: "Triage Like a Pro"
     subtitle: "First pass: solve only the easy ones. Second pass: tackle the hard ones. Never marry one question — it steals time from two easy ones."

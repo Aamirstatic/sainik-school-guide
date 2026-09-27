@@ -16,6 +16,8 @@ categories: ["Exam Prep"]
 
 English is the section parents underestimate and children mishandle. Here's the truth most people won't tell you: grammar in the AISSEE isn't about knowing every rule in a fat grammar book. It's about a small set of topics that show up **again and again**, and a few that look important but barely matter. Study the first group hard, touch the second group lightly, and your child picks up easy marks that most candidates leave on the table.
 
+![Child reading an English book for grammar practice](/images/inbody/aissee-english-grammar-topics-that-matter-most.webp)
+
 ## The honest starting point
 
 NTA has never released a topic-wise breakup of the English paper. Anyone quoting exact percentages — "tenses carry 12%!" — is inventing numbers. What we *can* do is look at the last few AISSEE papers and see which question types repeat. The table below is built from that: which grammar topics genuinely dominate, and how much of your effort each deserves. Treat it as a teacher's map, not NTA's blueprint.

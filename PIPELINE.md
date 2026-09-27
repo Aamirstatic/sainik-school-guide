@@ -21,7 +21,7 @@ and the pre-publish checklist (§9).
 ### 0. Setup
 - Repo: `~/workspace/sainik-school-guide` (branch `master`)
 - Hugo: `~/workspace/bin/hugo`
-- Image composer: `~/workspace/scripts/caneup_style.py` (`--single` mode)
+- Image composer: `~/workspace/scripts/cracku_style.py` (cracku style, real photos)
 - Backgrounds: `~/workspace/imgbg/{exam,admission,prep,life,compare}/`
 - Log: `data/pipeline-log.json` — **read it first**, append every item you publish.
 - `git status` must be clean before you start. If it is NOT clean: inspect the
@@ -47,8 +47,8 @@ and the pre-publish checklist (§9).
   whichever is more visual. 6–8 slides.
 
 ### 2. Write the content (English only, human voice)
-- **News article** → `content/blog/<slug>.md` (slug ends with `-YYYY-MM-DD`,
-  e.g. `nta-extends-aissee-2027-deadline-2026-10-02`). 450–750 words.
+- **News article** → `content/news/<slug>.md` (URL `/news/<slug>/`; slug ends with
+  `-YYYY-MM-DD`, e.g. `nta-extends-aissee-2027-deadline-2026-10-02`). 450–750 words.
   Frontmatter: title, date (today, ISO with +05:30), lastmod, draft false,
   description, keywords, author (rotate: Aamir Raza / Nisha Sharma /
   Sameer Khan / Rifaul Hasan), featured_image, `categories: ["News"]`.
@@ -71,21 +71,37 @@ and the pre-publish checklist (§9).
 - **Never invent**: dates, fees, cutoffs, quotas, topper names, quotes,
   percentages. Unknown = EXPECTED with basis, or omitted.
 
-### 3. Generate images (English text, caneup style)
-For each piece, run the composer:
+### 3. Generate images (cracku style, REAL photos, English text)
+Photo library: real stock photos in `static/images/photos/` (see MANIFEST.md).
+NEVER use AI-generated images. Featured images are ALWAYS 1200x675.
+
+For each news/blog piece, generate TWO images:
 ```
-python3 ~/workspace/scripts/caneup_style.py --single \
-  --out <path> --headline "<SHORT ENGLISH HOOK>" --sub "<one-line context>" \
-  --pill "<NEWS|GUIDE|UPDATE|EXAM...>" --size 1200x630 --cat <exam|admission|prep|life|compare>
+# 1) Featured: 1200x675 cracku-style (real photo bg + big navy headline
+#    + blue pill sub + red tag), save webp AND jpg twin (og:image uses .jpg)
+python3 ~/workspace/scripts/cracku_style.py --featured \
+  --photo static/images/photos/<thematic-photo>.jpg \
+  --out static/images/thumbnails/<slug>.webp \
+  --headline "<SHORT ENGLISH HOOK>" --sub "<one factual line>" --tag "<NEWS|GUIDE|...>"
+python3 -c "from PIL import Image; im=Image.open('static/images/thumbnails/<slug>.webp'); im.save('static/images/thumbnails/<slug>.jpg','JPEG',quality=88)"
+
+# 2) In-body: 1 clean real photo (NO text), 1200x675
+python3 ~/workspace/scripts/cracku_style.py --clean \
+  --photo static/images/photos/<different-photo>.jpg \
+  --out static/images/inbody/<slug>.webp --size 1200x675
 ```
-- Blog + news thumbnails → `static/images/thumbnails/<slug>.webp` (1200x630).
-- Web story poster → `static/images/webstories/<slug>.webp` (800x1200).
-- Headline: ALL-CAPS short hook, ≤6 words. Sub: one factual line. Pill: 1 word.
-- Slide images: reuse the new poster + existing files from
-  `static/images/webstories/` (pick thematically close ones).
-- Background category mapping: exam dates/results → exam; forms/fees/
-  counselling → admission; study tips/books → prep; campus/discipline/
-  parenting → life; comparisons → compare.
+Insert the in-body image into the markdown just before the first `## ` heading:
+`![<descriptive alt text>](/images/inbody/<slug>.webp)`
+- News → `content/news/<slug>.md` (URL becomes `/news/<slug>/`), frontmatter
+  `categories: ["News"]`, featured_image → `/images/thumbnails/<slug>.webp`.
+- Blog → `content/blog/<slug>.md`, featured_image → `/images/thumbnails/<slug>.webp`.
+- Web story → `content/webstories/<slug>.md`. Poster: clean real photo, NO text,
+  800x1200 → `static/images/webstories/<slug>.webp`:
+  `python3 ~/workspace/scripts/cracku_style.py --clean --photo <photo> --out <poster> --size 800x1200`
+- Slide images: clean real photos only, NEVER text overlays. Reuse the new
+  poster + existing files from `static/images/webstories/` (all are real photos).
+- Story slide credits: `credit: "Photo: Pexels"` (never "AI-generated visual").
+- Headline: short English hook, ≤8 words. Sub: one factual line. Tag: 1-2 words.
 
 ### 4. Verify, build, push
 1. Append all three items to `data/pipeline-log.json` (date, type, slug, title).

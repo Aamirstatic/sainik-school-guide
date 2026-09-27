@@ -11,7 +11,7 @@ slides:
   - image: "/images/webstories/aissee-no-negative-marking-attempt-rules-2026.webp"
     title: "No Negative Marking in AISSEE"
     subtitle: "Wrong answers cost nothing — so a guess always beats a blank. 7 attempt rules for the 31 January 2027 exam."
-    credit: "AI-generated visual"
+    credit: "Photo: Pexels"
   - image: "/images/webstories/exam-preparation.webp"
     title: "Rule 1: Attempt Everything"
     subtitle: "125 questions in Class 6, 150 in Class 9 — every bubble filled. A guess has a 25% chance; a blank has 0%."

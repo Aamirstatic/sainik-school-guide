@@ -11,7 +11,7 @@ slides:
   - image: "/images/webstories/aissee-study-hours-guide-2026.webp"
     title: "How Many Hours for AISSEE?"
     subtitle: "The honest answer: 2–3 focused hours beat 6 distracted ones. 6 rules for the 31 January 2027 exam."
-    credit: "AI-generated visual"
+    credit: "Photo: Pexels"
   - image: "/images/webstories/exam-preparation.webp"
     title: "Rule 1: The 2–3 Hour Sweet Spot"
     subtitle: "For 10–12-year-olds, 2–3 hours of genuine work a day is plenty. School already gives 5–6 hours of learning."

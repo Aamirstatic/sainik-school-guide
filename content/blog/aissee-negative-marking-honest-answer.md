@@ -19,6 +19,8 @@ If your child attempts all 125 questions in Class 6 and gets 40 of them wrong, n
 
 This single fact should change how every AISSEE aspirant treats the last ten minutes of the exam. Let me explain how, honestly, without the usual coaching-institute hype.
 
+![Student writing answers carefully in an examination hall](/images/inbody/aissee-negative-marking-honest-answer.webp)
+
 ## Where this is confirmed from
 
 ✅ **CONFIRMED:** The AISSEE 2026 information bulletin — the official NTA document every candidate applied through — specified no deduction for wrong answers. This has held across recent cycles, and there is no signal from NTA of any change. It is 🔶 **EXPECTED** for AISSEE 2027, and we will flag it loudly if the bulletin says otherwise.

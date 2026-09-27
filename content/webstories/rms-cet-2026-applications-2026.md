@@ -11,7 +11,7 @@ slides:
   - image: "/images/webstories/rms-cet-2026-applications-2026.webp"
     title: "RMS CET 2026 Applications Open"
     subtitle: "NTA has opened forms for Class 6 & 9 at 5 military schools. Last date 20 October 2026."
-    credit: "AI-generated visual"
+    credit: "Photo: Pexels"
   - image: "/images/webstories/school-admission.webp"
     title: "Applications: 23 Sep – 20 Oct"
     subtitle: "Apply online by 20 October 5 PM; fee deadline 11:50 PM. Late window 21–25 Oct with ₹500 late fee."
