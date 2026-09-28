@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 10,
+  "blog_topic_cursor": 11,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -196,6 +196,24 @@
       "slug": "aissng-2026-national-games-story",
       "title": "AISSNG 2026: Inside the National Games of Sainik Schools — 7 Slides",
       "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "type": "news",
+      "slug": "aissee-2027-documents-ready-before-notification-2026-09-28",
+      "title": "AISSEE 2027 Notification Expected in October: 7 Documents to Keep Ready This Week"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "blog",
+      "slug": "ncert-vs-guidebooks-aissee-what-works",
+      "title": "NCERT vs Guidebooks for AISSEE: What Actually Works"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "webstory",
+      "slug": "aissee-2027-documents-checklist-story",
+      "title": "AISSEE 2027: 7 Documents to Keep Ready Before the Notification — 7 Slides"
     }
   ]
 }

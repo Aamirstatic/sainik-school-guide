@@ -1,0 +1,41 @@
+---
+title: "AISSEE 2027: 7 Documents to Keep Ready Before the Notification — 7 Slides"
+date: 2026-09-28T21:15:00+05:30
+description: "The AISSEE 2027 notification is expected in October — and last year parents got just 20 days to apply. 7 slides on the documents every family should finish this week."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/aissee-2027-documents-checklist-story.webp"
+story_type: "image"
+category: "AISSEE 2027"
+tags: ["AISSEE 2027", "AISSEE 2027 notification", "AISSEE documents checklist", "sainik school admission 2027", "NTA"]
+slides:
+  - image: "/images/webstories/aissee-2027-documents-checklist-story.webp"
+    title: "October Is Coming"
+    subtitle: "The AISSEE 2027 notification is expected in October. Last cycle gave parents just 20 days between notification and deadline."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/nta-entrance-calendar-2026.webp"
+    title: "The Window Is Short"
+    subtitle: "AISSEE 2026 applications ran 10–30 October 2025 — 20 days. Paperwork problems are the most avoidable reason children miss the exam."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Birth Certificate First"
+    subtitle: "The date of birth on the certificate must match school records letter by letter. Fix mismatches now, not in October."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/children-reading.webp"
+    title: "Fresh Photo, Clean Signature"
+    subtitle: "Keep a recent passport-size photograph and a clean scanned signature ready — portals have rejected older, unclear photos."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/counselling.webp"
+    title: "Report Card & Domicile"
+    subtitle: "Have the last class report card and domicile certificate in hand — domicile matters again at the counselling stage."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/library-students.webp"
+    title: "Category Certificate Takes Longest"
+    subtitle: "SC/ST/OBC-NCL and disability certificates come from authorities outside your home — start these immediately if missing or expired."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/aissee-2027-documents-checklist-story.webp"
+    title: "Fee & Login Ready"
+    subtitle: "Keep a working mobile number, email and online payment ready. Fee was ₹850 (Gen/OBC) and ₹700 (SC/ST) last cycle — expected to repeat."
+    credit: "Photo: Pexels"
+---
+
+October begins this week — and with it, the expected arrival of the AISSEE 2027 notification. Seven slides on the seven documents every family should finish before the NTA's short application window opens.
