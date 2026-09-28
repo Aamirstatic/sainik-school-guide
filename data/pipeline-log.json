@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 9,
+  "blog_topic_cursor": 10,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -171,6 +171,30 @@
       "type": "webstory",
       "slug": "aissee-30-day-revision-countdown-story",
       "title": "AISSEE 2027: The 30-Day Revision Countdown — Week by Week",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "evening",
+      "type": "news",
+      "slug": "aissng-2026-national-games-conclude-ghorakhal-2026-09-28",
+      "title": "All India Sainik Schools National Games 2026 Conclude: What the Ghorakhal Finale Shows AISSEE Aspirants",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "evening",
+      "type": "blog",
+      "slug": "aissee-preparation-without-coaching",
+      "title": "How to Prepare for AISSEE Without Coaching: A Self-Study Roadmap That Actually Works",
+      "blog_topic_id": 10
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "evening",
+      "type": "webstory",
+      "slug": "aissng-2026-national-games-story",
+      "title": "AISSNG 2026: Inside the National Games of Sainik Schools — 7 Slides",
       "blog_topic_id": null
     }
   ]

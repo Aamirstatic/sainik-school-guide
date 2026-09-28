@@ -1,0 +1,41 @@
+---
+title: "AISSNG 2026: Inside the National Games of Sainik Schools — 7 Slides"
+date: 2026-09-28T18:15:00+05:30
+description: "The 2026 All India Sainik Schools National Games closed at Ghorakhal on 26 September — basketball, volleyball, athletics, debate and quiz at national level. 7 slides on what the games reveal about life inside Sainik Schools."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/aissng-2026-national-games-story.webp"
+story_type: "image"
+category: "Sainik School Life"
+tags: ["AISSNG 2026", "Sainik School National Games", "Sainik School Ghorakhal", "Sainik School life", "AISSEE 2027"]
+slides:
+  - image: "/images/webstories/aissng-2026-national-games-story.webp"
+    title: "National Games 2026 Close"
+    subtitle: "Group B wrapped up at Sainik School Ghorakhal on 26 September — six days, five disciplines, one national stage."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/military-school.webp"
+    title: "Group A: Nagrota's Home Win"
+    subtitle: "Three weeks earlier, host Sainik School Nagrota lifted the Group A overall title — basketball, volleyball and even the English debate."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/children-uniform.webp"
+    title: "Debate Counts Too"
+    subtitle: "These games score debate and quiz alongside athletics. The debating table matters as much as the basketball court."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/school-campus.webp"
+    title: "Girls Compete on Stage"
+    subtitle: "Girl cadets won medals at Nagrota, including a bronze in the girls' 100m sprint — the stage is shared now."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/hostel-life.webp"
+    title: "The Exam Is the Door"
+    subtitle: "AISSEE on 31 January 2027 gets you in. But inside, your child trains for national competition — not just marks."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/army-officer.webp"
+    title: "Fitness Is Selection"
+    subtitle: "The medical round after counselling screens physical fitness. An hour of daily play is preparation, not distraction."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/aissng-2026-national-games-story.webp"
+    title: "Train the Whole Child"
+    subtitle: "Study for the paper. Play for the school. Read for the quiz. That's the Sainik School model."
+    credit: "Photo: Pexels"
+---
+
+The All India Sainik Schools National Games 2026 — Group B at Sainik School Ghorakhal (21–26 September) — have concluded, three weeks after Nagrota won the Group A title. Seven slides on the side of Sainik Schools that the syllabus never shows: national-level sport, debate and quiz, and why the whole child trains.
