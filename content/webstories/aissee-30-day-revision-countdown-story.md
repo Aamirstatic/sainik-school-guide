@@ -1,0 +1,41 @@
+---
+title: "AISSEE 2027: The 30-Day Revision Countdown — Week by Week"
+date: 2026-09-28
+description: "A 30-day revision plan for AISSEE 2027 in 7 slides: syllabus closure, weekly OMR mocks, weak-spot surgery and exam-week rehearsal — built around the tentative 31 January 2027 exam date."
+author_name: "Nisha Sharma"
+featured_image: "/images/webstories/aissee-30-day-revision-countdown-story.webp"
+story_type: "image"
+category: "Exam Prep"
+tags: ["AISSEE revision plan", "30 day study plan AISSEE", "AISSEE 2027 preparation", "AISSEE mock test schedule"]
+slides:
+  - image: "/images/webstories/aissee-30-day-revision-countdown-story.webp"
+    title: "The 30-Day Countdown"
+    subtitle: "Four weeks. One rule: revise, don't re-learn. Here's your week-by-week AISSEE 2027 plan."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "Week 1: Close the Syllabus"
+    subtitle: "Finish only half-done chapters. Make one formula sheet per subject — it's all you re-read later."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/books-library.webp"
+    title: "Week 2: Sweep + Mock #1"
+    subtitle: "Timed topic drills daily. First full OMR mock on Sunday — then analyse every single error."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/student-study.webp"
+    title: "Week 3: Weak-Spot Surgery"
+    subtitle: "Drill only your error log. Stop practising what you're already good at. Mock #2 on Sunday."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Week 4: OMR Rehearsal"
+    subtitle: "Two mocks (25th & 28th). Light revision, early sleep. The day before: no mock, no new material."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/children-reading.webp"
+    title: "Keep an Error Log"
+    subtitle: "Tag every wrong answer: silly mistake, concept gap, or time pressure. Patterns are fixable."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/aissee-30-day-revision-countdown-story.webp"
+    title: "31 January: Exam Day"
+    subtitle: "The exam date is tentative per NTA's calendar. Whatever it becomes, this plan shifts with it."
+    credit: "Photo: Pexels"
+---
+
+A 30-day revision plan for AISSEE 2027: close the syllabus in week one, sweep with timed drills and a mock in week two, fix weak spots in week three, and rehearse with OMR mocks in the final week. No negative marking — attempt everything. Full plan in the blog.

@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 8,
+  "blog_topic_cursor": 9,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -148,6 +148,30 @@
       "type": "webstory",
       "slug": "omr-mistakes-aissee-2026",
       "title": "OMR Mistakes That Cost Sainik School Seats: 7 Errors to Fix in 2 Weeks"
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "afternoon",
+      "type": "news",
+      "slug": "rimcee-2026-after-deadline-what-happens-next-2026-09-28",
+      "title": "RIMCEE 2026: After the 30 September Deadline — Correction Window, Admit Card & the 6 December Plan",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "afternoon",
+      "type": "blog",
+      "slug": "30-day-revision-plan-aissee-2027",
+      "title": "The 30-Day Revision Plan Before AISSEE 2027: A Week-by-Week Countdown to 31 January",
+      "blog_topic_id": 9
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "afternoon",
+      "type": "webstory",
+      "slug": "aissee-30-day-revision-countdown-story",
+      "title": "AISSEE 2027: The 30-Day Revision Countdown — Week by Week",
+      "blog_topic_id": null
     }
   ]
 }
