@@ -1,0 +1,41 @@
+---
+title: "NTA Calendar 2026–27: 5 Defence School Exam Dates You Need Now"
+date: 2026-09-28
+description: "NTA's official exam calendar lists 5 school and defence entrance dates: RIMCEE 6 Dec, RMS CET 13 Dec, SHRESHTA NETS 10 Jan, AISSEE 2027 on 31 Jan — all tentative. 7 slides with every date and your next move."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/nta-entrance-calendar-2026.webp"
+story_type: "image"
+category: "Admission"
+tags: ["NTA exam calendar 2026-27", "RIMCEE 2026 exam date", "RMS CET 2026 exam date", "AISSEE 2027 exam date", "SHRESHTA NETS 2027"]
+slides:
+  - image: "/images/webstories/nta-entrance-calendar-2026.webp"
+    title: "5 Exams, 5 Dates"
+    subtitle: "NTA's official calendar (16 Sept 2026) lists every school and defence entrance through March 2027. Here they are."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/military-school.webp"
+    title: "6 December: RIMCEE"
+    subtitle: "RIMC Dehradun Class 8 entrance — July 2027 term. Registration closes 30 September, just 2 days away!"
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "13 December: RMS CET"
+    subtitle: "Rashtriya Military Schools, Class 6 & 9. Applications are open — apply by 20 October."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/school-admission.webp"
+    title: "10 January: SHRESHTA NETS"
+    subtitle: "The residential-education scheme's national entrance test. Its own bulletin will confirm eligibility and forms."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/classroom.webp"
+    title: "31 January: AISSEE 2027"
+    subtitle: "The big one — Sainik Schools Class 6 & 9. Date is in the calendar; the notification is still awaited."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Tentative, Not Final"
+    subtitle: "NTA says these dates may change. Treat them as the official plan — and keep checking nta.ac.in."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/student-study.webp"
+    title: "Your Move This Week"
+    subtitle: "RIMCEE form in 2 days. RMS form by 20 Oct. AISSEE prep continues — December to January is your runway."
+    credit: "Photo: Pexels"
+---
+
+NTA's official Examination Calendar up to March 2027 (notice dated 16 September 2026) proposes dates for five school and defence entrances: RIMCEE on 6 December 2026, RMS CET on 13 December 2026, SHRESHTA NETS on 10 January 2027, and AISSEE 2027 on 31 January 2027 — all tentative. The most urgent item: RIMCEE registration closes 30 September.
