@@ -1,0 +1,41 @@
+---
+title: "OMR Mistakes That Cost Sainik School Seats: 7 Errors to Fix in 2 Weeks"
+date: 2026-09-28
+description: "AISSEE is a pen-and-paper OMR exam — and bright students lose marks to bubbling errors every year. 7 slides: the number shift, half-darkened bubbles, the 3-minute pre-submit checklist, and how to train OMR discipline."
+author_name: "Aamir Raza"
+featured_image: "/images/webstories/omr-mistakes-aissee-2026.webp"
+story_type: "image"
+category: "Exam Prep"
+tags: ["AISSEE OMR sheet mistakes", "OMR bubbling errors", "AISSEE 2027 exam tips", "sainik school exam strategy"]
+slides:
+  - image: "/images/webstories/omr-mistakes-aissee-2026.webp"
+    title: "One Bubble Can Cost a Seat"
+    subtitle: "AISSEE is an OMR exam — and silly bubbling errors steal marks from bright students every January. Here are the 7 worst offenders."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Bubble As You Go"
+    subtitle: "Never save bubbling for the last 15 minutes — the bell can come early. Solve one, darken one. Or batch in blocks of 20–25, never more."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/classroom.webp"
+    title: "The Number Shift"
+    subtitle: "Skip question 47, mark 48's answer in 47's row — and every answer after it scores zero. Keep a finger on the row; re-match every 25 questions."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/student-study.webp"
+    title: "Darken Every Circle Fully"
+    subtitle: "Half-shaded or tick-marked bubbles may scan as blank. Fill edge to edge with a smooth blue or black ballpoint — practise on real OMR sheets."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "No Blanks — Ever"
+    subtitle: "There is no negative marking: a blank scores the same as a wrong answer — zero. Attempt all 125 (Class 6) or 150 (Class 9) questions."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/school-admission.webp"
+    title: "The 3-Minute Final Check"
+    subtitle: "Last minutes = verification, not new questions. Roll number, number alignment, skipped questions attempted, full bubbles, no double marks."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/student-books.webp"
+    title: "Train It in 2 Weeks"
+    subtitle: "10–15 mocks on real OMR sheets, strictly timed. When your knowledge score equals your OMR score three times in a row, the risk is gone."
+    credit: "Photo: Pexels"
+---
+
+AISSEE is a pen-and-paper OMR exam — Class VI gets 150 minutes for 300 marks, Class IX gets 180 minutes for 400 marks, with no negative marking. Every year, bright students lose marks not to tough questions but to bubbling errors: the question-number shift, half-darkened circles, double marks, and saving all bubbling for the end. The fix is mechanical and trainable: bubble as you go, darken fully, attempt everything, and run a 3-minute verification pass before submitting. Two weeks of timed mocks on real OMR sheets is enough to make OMR discipline automatic.

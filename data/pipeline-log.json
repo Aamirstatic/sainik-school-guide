@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 7,
+  "blog_topic_cursor": 8,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -130,6 +130,24 @@
       "type": "webstory",
       "slug": "nta-entrance-calendar-2026",
       "title": "NTA Calendar 2026–27: 5 Defence School Exam Dates You Need Now"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "news",
+      "slug": "aissee-2027-notification-watch-125-days-to-go-2026-09-28",
+      "title": "125 Days to AISSEE 2027: Notification Still Awaited — What to Finish This Week"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "blog",
+      "slug": "silly-omr-mistakes-cost-sainik-school-seat",
+      "title": "Silly OMR Mistakes That Cost Students Their Sainik School Seat"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "webstory",
+      "slug": "omr-mistakes-aissee-2026",
+      "title": "OMR Mistakes That Cost Sainik School Seats: 7 Errors to Fix in 2 Weeks"
     }
   ]
 }
