@@ -1,7 +1,7 @@
 # Daily Content Pipeline — Sainik School Guide
 
-Every day, 5 scheduled runs each publish **1 news article + 1 blog article + 1 web story**
-= **15 pieces/day**. This playbook is the complete instruction set for each run.
+Every day, 5 scheduled runs each publish **1 news article + 1 blog article**
+= **10 pieces/day**. This playbook is the complete instruction set for each run.
 Read `CONTENT-SYSTEM.md` (v2.0) first — every rule there applies here, especially:
 multi-source verification (§2), human voice (§5), Discover checklist (§6),
 and the pre-publish checklist (§9).
@@ -31,7 +31,7 @@ and the pre-publish checklist (§9).
   with today's new pieces. Only stop and report if the dirty state looks
   unrelated or broken.
 
-### 1. Pick the three pieces
+### 1. Pick the two pieces
 - **Blog:** read `data/blog-topics.yaml`; take the topic with the lowest `id`
   greater than `blog_topic_cursor` in the log. Set cursor to that id.
   If all 90 are used, restart at id 1 with a visibly fresh angle
@@ -43,8 +43,6 @@ and the pre-publish checklist (§9).
   "update/explainer" tied to the nearest upcoming milestone
   (e.g. "X days to AISSEE 2027: what to finish this week") — clearly labelled,
   never fabricated as breaking news.
-- **Web story:** make it about the day's news item OR the day's blog topic,
-  whichever is more visual. 6–8 slides.
 
 ### 2. Write the content (English only, human voice)
 - **News article** → `content/news/<slug>.md` (URL `/news/<slug>/`; slug ends with
@@ -69,10 +67,6 @@ and the pre-publish checklist (§9).
   ```
   Mirror the same Q&As in the `## FAQs` body section as `**Question?**` +
   answer paragraph. 3–4 for news, 4–6 for blog. Answers: plain text, no markdown.
-- **Web story** → `content/webstories/<slug>.md`. Frontmatter: title, date,
-  description, author_name, featured_image (the poster), story_type "image",
-  category, tags, and `slides:` — 6–8 slides, each with image, title (≤8 words),
-  subtitle (1–2 lines), credit. Body: one short paragraph.
 - Author images exist: `/images/authors/aamir.jpeg`,
   `/images/authors/nisha-sharma.png`, `/images/authors/sameer-khan.png`,
   `/images/authors/rifaul-hasan.jpeg`. author_title values: use
@@ -105,32 +99,26 @@ Insert the in-body image into the markdown just before the first `## ` heading:
 - News → `content/news/<slug>.md` (URL becomes `/news/<slug>/`), frontmatter
   `categories: ["News"]`, featured_image → `/images/thumbnails/<slug>.webp`.
 - Blog → `content/blog/<slug>.md`, featured_image → `/images/thumbnails/<slug>.webp`.
-- Web story → `content/webstories/<slug>.md`. Poster: clean real photo, NO text,
-  800x1200 → `static/images/webstories/<slug>.webp`:
-  `python3 ~/workspace/scripts/cracku_style.py --clean --photo <photo> --out <poster> --size 800x1200`
-- Slide images: clean real photos only, NEVER text overlays. Reuse the new
-  poster + existing files from `static/images/webstories/` (all are real photos).
-- Story slide credits: `credit: "Photo: Pexels"` (never "AI-generated visual").
 - Headline: short English hook, ≤8 words. Sub: one factual line. Tag: 1-2 words.
 
 ### 4. Verify, build, push
-1. Append all three items to `data/pipeline-log.json` (date, type, slug, title).
+1. Append both items to `data/pipeline-log.json` (date, type, slug, title).
 2. Build: `cd ~/workspace/sainik-school-guide && ~/workspace/bin/hugo --minify`.
    Fix any error before proceeding.
 3. Quick link sanity: the build must report 0 broken internal links
    (the repo has a link checker — if unavailable, at least confirm the
-   three new pages render in `public/`).
+   two new pages render in `public/`).
 4. Push with `~/workspace/skills/github/bin/gh_push.py`
    (pushes uncommitted working-tree changes — **do NOT commit first**).
 5. After push: `git fetch origin && git reset --hard origin/master`, confirm clean.
 
 ### 5. IndexNow submission (instant indexing for Bing/Yandex/DuckDuckGo)
-After the push, submit the 3 new URLs to IndexNow so Bing-family
+After the push, submit the 2 new URLs to IndexNow so Bing-family
 search engines pick them up within minutes instead of days:
 ```bash
 curl -s -X POST https://api.indexnow.org/indexnow \
   -H "Content-Type: application/json; charset=utf-8" \
-  -d '{"host":"sainikschooleastsiang.in","key":"ddb0134a637bbb4d07f9ae2f65ab147b","keyLocation":"https://sainikschooleastsiang.in/ddb0134a637bbb4d07f9ae2f65ab147b.txt","urlList":["https://sainikschooleastsiang.in/news/<news-slug>/","https://sainikschooleastsiang.in/blog/<blog-slug>/","https://sainikschooleastsiang.in/webstories/<story-slug>/"]}'
+  -d '{"host":"sainikschooleastsiang.in","key":"ddb0134a637bbb4d07f9ae2f65ab147b","keyLocation":"https://sainikschooleastsiang.in/ddb0134a637bbb4d07f9ae2f65ab147b.txt","urlList":["https://sainikschooleastsiang.in/news/<news-slug>/","https://sainikschooleastsiang.in/blog/<blog-slug>/"]}'
 ```
 Replace `<news-slug>` etc. with the actual slugs published this run.
 A `200` response means accepted. (The key file
@@ -138,17 +126,16 @@ A `200` response means accepted. (The key file
 the key is public by design — IndexNow requires it to be fetchable.)
 
 ### 6. Google Indexing API submission (instant crawl notification for Google)
-After the push, notify Google about the 3 new URLs:
+After the push, notify Google about the 2 new URLs:
 ```bash
 python3 ~/workspace/scripts/google_indexing.py \
   "https://sainikschooleastsiang.in/news/<news-slug>/" \
-  "https://sainikschooleastsiang.in/blog/<blog-slug>/" \
-  "https://sainikschooleastsiang.in/webstories/<story-slug>/"
+  "https://sainikschooleastsiang.in/blog/<blog-slug>/"
 ```
 `200` per URL = notification accepted. The service-account key lives at
 `~/workspace/user/files/jgps-479610-a8094215c449.json` — NEVER copy it into
 the repo, NEVER print it, NEVER put it in chat. (Quota: 200 URLs/day;
-we use ~15.)
+we use ~10.)
 Honest caveat: this asks Googlebot to crawl quickly; it does NOT guarantee
 indexing. Google officially supports this API for job-posting/livestream
 pages — for articles it still returns 200 and usually triggers a faster
@@ -156,7 +143,7 @@ crawl, but indexing remains Google's decision. Search Console verification
 + submitted sitemap is still the durable path.
 
 ### 7. Report
-Final message: the 3 titles + slugs published and confirmation of push.
+Final message: the 2 titles + slugs published and confirmation of push.
 Keep it to 3–4 lines. Do not dump article text into chat.
 
 ## Guardrails
