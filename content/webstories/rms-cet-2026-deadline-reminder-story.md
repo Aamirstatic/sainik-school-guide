@@ -1,0 +1,41 @@
+---
+title: "RMS CET 2026: 21 Days Left to Apply — 7 Slides"
+date: 2026-09-29T11:15:00+05:30
+description: "Rashtriya Military Schools CET 2026 applications close 20 October — 21 days from today. 7 slides on the deadline, late-fee window, exam date, eligibility and where to apply."
+author_name: "Nisha Sharma"
+featured_image: "/images/webstories/rms-cet-2026-deadline-reminder-story.webp"
+story_type: "image"
+category: "RMS CET 2026"
+tags: ["RMS CET 2026", "Rashtriya Military Schools admission 2026", "RMS CET last date", "military school entrance exam", "NTA RMS CET"]
+slides:
+  - image: "/images/webstories/rms-cet-2026-deadline-reminder-story.webp"
+    title: "21 Days Left to Apply"
+    subtitle: "RMS CET 2026 applications close 20 October. Five military schools, Class 6 and 9 seats — do not leave the form to the last day."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/rms-cet-2026-applications-2026.webp"
+    title: "The Deadline Is 20 October"
+    subtitle: "Apply by 5 pm on 20 October; the fee window stays open till 11:50 pm the same day. Servers crawl on the last evening — apply this week."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Missed It? Pay Rs 500 Late Fee"
+    subtitle: "A late window runs 21 to 25 October with an extra Rs 500. It exists — but treat it as a safety net, not a plan."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "Exam on 13 December, Sunday"
+    subtitle: "Pen-and-paper OMR, MCQ format. Roughly seven weeks between the deadline and exam day — a tight, winnable runway."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/library-students.webp"
+    title: "Class 6 and 9 Seats"
+    subtitle: "Class 6: born 1 April 2014 to 31 March 2017. Class 9: born 1 April 2011 to 31 March 2014. Check the age band before you pay the fee."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/children-uniform.webp"
+    title: "Five Schools, One Exam"
+    subtitle: "Chail, Ajmer, Dholpur, Belgaum and Bengaluru. Fee: Rs 1000 for General/OBC, Rs 750 for SC, ST and KIA wards."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/military-school.webp"
+    title: "Apply at the NTA Portal"
+    subtitle: "Forms are online only at exams.nta.nic.in/rmscet. Keep a scanned photo, signature and category certificate ready before you start."
+    credit: "Photo: Pexels"
+---
+
+RMS CET 2026 applications close on 20 October — 21 days from today — with a late-fee window till 25 October and the exam on 13 December. Seven slides on the deadline, fees, age bands, the five Rashtriya Military Schools, and where to apply.

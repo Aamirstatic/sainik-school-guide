@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 12,
+  "blog_topic_cursor": 13,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -232,6 +232,24 @@
       "type": "webstory",
       "slug": "october-aissee-2027-game-plan-story",
       "title": "AISSEE 2027: Your 4-Week October Game Plan — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "rms-cet-2026-21-days-left-checklist-2026-09-29",
+      "title": "RMS CET 2026: 21 Days Left to Apply — Fees, Age Limits, Exam Pattern Explained"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-english-vocabulary-90-day-plan",
+      "title": "How to Build Vocabulary for AISSEE English in 90 Days: A Daily Plan That Actually Works"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "rms-cet-2026-deadline-reminder-story",
+      "title": "RMS CET 2026: 21 Days Left to Apply — 7 Slides"
     }
   ]
 }
