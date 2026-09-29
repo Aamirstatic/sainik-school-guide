@@ -86,18 +86,23 @@ and the pre-publish checklist (§9).
 - **Never invent**: dates, fees, cutoffs, quotas, topper names, quotes,
   percentages. Unknown = EXPECTED with basis, or omitted.
 
-### 3. Generate images (cracku style, REAL photos, English text)
+### 3. Generate images (REAL photos, NO text on featured)
 Photo library: real stock photos in `static/images/photos/` (see MANIFEST.md).
-NEVER use AI-generated images. Featured images are ALWAYS 1200x675.
+NEVER use AI-generated images. ALL images are ALWAYS 1200x675.
+Google Discover rule: the featured image must be a CLEAN real photo with NO
+text overlay — Google explicitly tells publishers to avoid text-heavy images
+for Discover thumbnails, and the image should complement (not duplicate) the
+headline text Google already displays next to it. Pick emotional, storytelling
+photos (students studying, exam hall, kids in uniform, parents) with high
+contrast and a clear focal point.
 
 For each news/blog piece, generate TWO images:
 ```
-# 1) Featured: 1200x675 cracku-style (real photo bg + big navy headline
-#    + blue pill sub + red tag), save webp AND jpg twin (og:image uses .jpg)
-python3 ~/workspace/scripts/cracku_style.py --featured \
+# 1) Featured: clean real photo, NO text baked in, 1200x675.
+#    Save webp AND jpg twin (og:image uses .jpg)
+python3 ~/workspace/scripts/cracku_style.py --clean \
   --photo static/images/photos/<thematic-photo>.jpg \
-  --out static/images/thumbnails/<slug>.webp \
-  --headline "<SHORT ENGLISH HOOK>" --sub "<one factual line>" --tag "<NEWS|GUIDE|...>"
+  --out static/images/thumbnails/<slug>.webp --size 1200x675
 python3 -c "from PIL import Image; im=Image.open('static/images/thumbnails/<slug>.webp'); im.save('static/images/thumbnails/<slug>.jpg','JPEG',quality=88)"
 
 # 2) In-body: 1 clean real photo (NO text), 1200x675
@@ -110,7 +115,9 @@ Insert the in-body image into the markdown just before the first `## ` heading:
 - News → `content/news/<slug>.md` (URL becomes `/news/<slug>/`), frontmatter
   `categories: ["News"]`, featured_image → `/images/thumbnails/<slug>.webp`.
 - Blog → `content/blog/<slug>.md`, featured_image → `/images/thumbnails/<slug>.webp`.
-- Headline: short English hook, ≤8 words. Sub: one factual line. Tag: 1-2 words.
+- NOTE: the old cracku `--featured` text-overlay style is RETIRED for site
+  images. Keep `cracku_style.py --featured` only for social-media creatives
+  (Facebook/Instagram/Threads posts), where text-on-image still works.
 
 ### 4. Verify, build, push
 1. Append both items to `data/pipeline-log.json` (date, type, slug, title).

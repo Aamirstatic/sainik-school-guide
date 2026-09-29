@@ -120,7 +120,7 @@ Every article must pass this bar:
 - [ ] ≥800 words (guides) with one original element (table/timeline/checklist/FAQ)
 - [ ] FAQ section (4–6 real questions)
 - [ ] 3–5 internal links to related articles
-- [ ] Featured image set, relevant, ≥1200px
+- [ ] Featured image: clean real photo, NO text overlay (Discover rule), relevant, ≥1200px
 - [ ] No fabricated dates/stats/quotes anywhere
 - [ ] Mobile-readable: short paragraphs, scannable headings
 - [ ] Discover check (§6): fresh date visible, emotional-specific title, E-E-A-T signals present
