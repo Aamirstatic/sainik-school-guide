@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 11,
+  "blog_topic_cursor": 12,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -214,6 +214,24 @@
       "type": "webstory",
       "slug": "aissee-2027-documents-checklist-story",
       "title": "AISSEE 2027: 7 Documents to Keep Ready Before the Notification — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "october-4-week-aissee-2027-game-plan-2026-09-29",
+      "title": "124 Days to AISSEE 2027: Your 4-Week October Game Plan (Starts Thursday)"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-class-6-maths-formula-cheat-sheet",
+      "title": "AISSEE Class 6 Maths Formula Cheat Sheet: The Only List Your Child Needs to Memorise"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "october-aissee-2027-game-plan-story",
+      "title": "AISSEE 2027: Your 4-Week October Game Plan — 7 Slides"
     }
   ]
 }

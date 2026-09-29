@@ -1,0 +1,41 @@
+---
+title: "AISSEE 2027: Your 4-Week October Game Plan — 7 Slides"
+date: 2026-09-29T07:15:00+05:30
+description: "October — the month the AISSEE 2027 notification is expected in — starts Thursday. 124 days to the 31 January exam. 7 slides on how to make every October week count."
+author_name: "Nisha Sharma"
+featured_image: "/images/webstories/october-aissee-2027-game-plan-story.webp"
+story_type: "image"
+category: "AISSEE 2027"
+tags: ["AISSEE 2027", "AISSEE 2027 October plan", "AISSEE 2027 notification", "sainik school admission 2027", "AISSEE 2027 countdown"]
+slides:
+  - image: "/images/webstories/october-aissee-2027-game-plan-story.webp"
+    title: "October Starts Thursday"
+    subtitle: "The month the AISSEE 2027 notification is expected in begins Thursday. 124 days stand between today and the 31 January exam."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/nta-entrance-calendar-2026.webp"
+    title: "Why October Decides Everything"
+    subtitle: "Last cycle, parents got just 20 days between notification and deadline. October's paperwork panic is completely avoidable — if you start now."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "Week 1: Watch and Paperwork"
+    subtitle: "Check the NTA AISSEE portal every two to three days. Finish the document checklist now — birth certificate, photo, category papers."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "Week 2: Syllabus Sprint"
+    subtitle: "Close your child's two weakest chapters this week — for most Class 6 aspirants, that is fractions, percentage or mensuration."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/omr-mistakes-aissee-2026.webp"
+    title: "Week 3: First Full Mock"
+    subtitle: "One 150-minute, 125-question paper in one sitting — phone in another room. Then keep an error log: every wrong answer gets one line explaining why."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/student-study.webp"
+    title: "Week 4: Revise and Stay Ready"
+    subtitle: "Revise everything October covered, take a second mock, and keep scanned documents in one folder so a short application window cannot catch you off guard."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/students-studying.webp"
+    title: "124 Days to 31 January"
+    subtitle: "October eats up 31 of the 124 days left. Read the full 4-week game plan — week-by-week missions, FAQs and sources — on our October planning piece."
+    credit: "Photo: Pexels"
+---
+
+October — the month the AISSEE 2027 notification is expected in — starts this Thursday, with 124 days left to the 31 January 2027 exam. Seven slides on how to turn every October week into progress: documents, syllabus sprint, mock rhythm and revision.
