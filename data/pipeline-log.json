@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 13,
+  "blog_topic_cursor": 14,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
   "published": [
     {
@@ -250,6 +250,24 @@
       "type": "webstory",
       "slug": "rms-cet-2026-deadline-reminder-story",
       "title": "RMS CET 2026: 21 Days Left to Apply — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "new-sainik-schools-40-60-route-explained-2026-09-29",
+      "title": "New Sainik Schools Explained: How the 40% AISSEE Route and 60% School Route Actually Work"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-gk-static-gk-current-affairs-balance",
+      "title": "AISSEE GK Preparation: How to Balance Static GK and Current Affairs (Class 6 & 9)"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "aissee-gk-balance-story",
+      "title": "AISSEE GK: How to Balance Static GK and Current Affairs — 7 Slides"
     }
   ]
 }

@@ -1,0 +1,41 @@
+---
+title: "AISSEE GK: How to Balance Static GK and Current Affairs — 7 Slides"
+date: 2026-09-29T14:20:00+05:30
+description: "Static GK and current affairs split AISSEE's GK section. 7 slides on the marks split, no negative marking, and a practical study ratio for Class 6 and Class 9 aspirants."
+author_name: "Sameer Khan"
+featured_image: "/images/webstories/aissee-gk-balance-story.webp"
+story_type: "image"
+category: "AISSEE"
+tags: ["AISSEE GK", "AISSEE GK preparation", "static GK vs current affairs", "AISSEE Class 6 GK", "AISSEE Class 9 Social Studies", "Sainik School entrance exam"]
+slides:
+  - image: "/images/webstories/aissee-gk-balance-story.webp"
+    title: "Balance Static GK and Current Affairs"
+    subtitle: "GK questions come from two buckets — facts that never change and news that does. Smart prep splits time between both."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/library-students.webp"
+    title: "GK Carries 50 Marks in Class 6"
+    subtitle: "Class 6 GK: 25 questions, 50 marks. Class 9 Social Studies: also 25 questions, 50 marks. That is too many marks to leave to luck."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-preparation.webp"
+    title: "No Negative Marking — Attempt Everything"
+    subtitle: "AISSEE has no negative marking anywhere. Never leave a GK question blank — an honest guess costs nothing and often pays off."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/exam-schedule.webp"
+    title: "AISSEE 2027 Expected on 31 January"
+    subtitle: "The exam is tentatively set for 31 January 2027; the notification is not out yet. From today you have roughly four months of runway."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/students-studying.webp"
+    title: "Static GK Is Your Solid Base"
+    subtitle: "Capitals, rivers, freedom fighters, basic science — these facts stay the same and reward repeat revision. Cover one topic family per week."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/student-books.webp"
+    title: "Build Current Affairs in Small Doses"
+    subtitle: "Ten minutes of headlines a day beats a weekend binge. Note the big national and international events of each month in a single notebook."
+    credit: "Photo: Pexels"
+  - image: "/images/webstories/school-admission.webp"
+    title: "Revise Weekly, Mix Both Types"
+    subtitle: "End every week with a mixed GK quiz — half static, half current affairs. Short cycles keep both buckets fresh till exam day."
+    credit: "Photo: Pexels"
+---
+
+AISSEE's GK section — 25 questions and 50 marks in Class 6, and the same for Class 9 Social Studies — draws from both static GK and current affairs, and there is no negative marking. Seven slides on the marks split, why you should attempt every question, and a practical routine that keeps both types fresh till 31 January 2027.
