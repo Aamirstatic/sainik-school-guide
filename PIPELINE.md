@@ -32,10 +32,21 @@ and the pre-publish checklist (§9).
   unrelated or broken.
 
 ### 1. Pick the two pieces
-- **Blog:** read `data/blog-topics.yaml`; take the topic with the lowest `id`
-  greater than `blog_topic_cursor` in the log. Set cursor to that id.
+- **Blog:** FIRST check what's hot right now — Google Trends
+  (trends.google.com, India, past 7 days: "AISSEE", "Sainik School",
+  "sainik school admission"), plus a web search for AISSEE / Sainik School
+  news and discussions from the last 24–48 hours. If a genuinely trending
+  topic emerges that is NOT already in the log and NOT the same angle as
+  today's news piece, write the blog on that hot topic (guide/explainer
+  angle, never a duplicate of the news) and do NOT advance
+  `blog_topic_cursor`. Otherwise fall back to the evergreen bank:
+  read `data/blog-topics.yaml`; take the topic with the lowest `id`
+  greater than `blog_topic_cursor` in the log; set cursor to that id.
   If all 90 are used, restart at id 1 with a visibly fresh angle
   (new examples, new FAQs, updated year references).
+  Hot topic ≠ unverified: CONTENT-SYSTEM.md §2 applies fully — one Tier-1
+  source or two independent Tier-2 sources per hard fact, EXPECTED label
+  when uncertain, never invent.
 - **News:** search the web for AISSEE / Sainik School / NTA / school-education
   news from the **last 48 hours**. Pick the single most relevant, genuinely
   new development. Check the log + `content/blog/` slugs: **never republish
