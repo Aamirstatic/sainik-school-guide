@@ -1,5 +1,5 @@
 ---
-title: "Online vs Offline Coaching for AISSEE 2027: Which Is Actually Better?"
+title: "AISSEE Coaching: Online vs Offline"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

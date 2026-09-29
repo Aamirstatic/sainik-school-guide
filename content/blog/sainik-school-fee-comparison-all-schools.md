@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Fees 2027: How Much Does It Really Cost? The Honest Breakdown"
+title: "Sainik School Fees 2027: Real Costs"
 date: 2026-07-09
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

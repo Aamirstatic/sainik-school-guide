@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Preparation: A Practical 4-Month Study Plan for Class 6 & 9"
+title: "AISSEE 2027 Preparation Plan"
 date: 2026-08-22
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -17,6 +17,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-preparation-tips.webp"
+faqs:
+  - question: "Is four months really enough for AISSEE 2027 preparation?"
+    answer: "Yes, if the plan is followed consistently. The syllabus is NCERT Class 5/8 level, and the paper tests concepts, not memorisation. What sinks most children is not lack of time but unsystematic study. A tight four-month plan with weekly timed mocks beats a loose eight-month one."
+  - question: "How many hours should my child study daily?"
+    answer: "Two to two-and-a-half focused hours on school days is plenty, plus longer sessions on weekends for mocks. Quality matters far more than quantity: one hour of solving problems beats three hours of re-reading."
+  - question: "Which subject should get the most time?"
+    answer: "Maths, by a distance. It carries 150 of 300 marks (Class 6) and 200 of 400 (Class 9). Roughly half of all study time should go to Maths, split the rest across the other sections."
+  - question: "Are coaching classes necessary?"
+    answer: "No. AISSEE is not a coaching-dependent exam. NCERT, good practice books, previous year papers, and disciplined timed practice are enough. Coaching helps only if your child needs an external structure to stay consistent."
+  - question: "How many mock tests should we attempt?"
+    answer: "Aim for at least 15-20 full mocks before 31 January. Two per week from December works. But mocks only help if every one is followed by a proper mistake analysis; an unreviewed mock is just a confidence lottery."
+  - question: "What if the syllabus isn't finished by December?"
+    answer: "Do not panic, but do prioritise: finish Maths and Reasoning first, then Language, then GK. And shift fully to revision plus mocks by mid-December even if a few chapters are pending; exam temperament in January matters more than the last two chapters."
 ---
 
 # AISSEE 2027 Preparation: A Practical 4-Month Study Plan

@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Counselling 2027 (AISSAC): Choice Filling, Rounds & Seat Allotment Guide"
+title: "Sainik School Counselling 2027 Guide"
 date: 2026-07-05
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

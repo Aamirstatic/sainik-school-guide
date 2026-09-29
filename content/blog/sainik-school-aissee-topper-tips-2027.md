@@ -1,5 +1,5 @@
 ---
-title: "AISSEE Topper Tips: 10 Habits That Put Students on the Merit List (2027)"
+title: "AISSEE Topper Tips: 10 Merit Habits"
 date: 2026-08-02
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

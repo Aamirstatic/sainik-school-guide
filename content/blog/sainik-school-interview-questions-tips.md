@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Interview Tips 2027: 4-Week Preparation Plan That Works"
+title: "Sainik School Interview Tips 2027"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

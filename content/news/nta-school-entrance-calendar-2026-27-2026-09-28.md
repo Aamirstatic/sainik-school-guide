@@ -1,5 +1,5 @@
 ---
-title: "NTA's School-Entrance Calendar 2026–27: RIMCEE, RMS CET, AISSEE — All 5 Dates in One Place"
+title: "NTA 2026-27 Calendar: 5 Entrance Dates"
 date: 2026-09-28T07:15:00+05:30
 lastmod: 2026-09-28T07:15:00+05:30
 draft: false
@@ -49,7 +49,7 @@ Two honest notes. First, **every date is tentative** — the NTA's notice says d
 
 **RMS CET — apply by 20 October.** Applications opened on 23 September and close **20 October 2026 (5 PM)**, with a late window of 21–25 October. The 13 December exam date is ✅ confirmed in the calendar. [Full details: RMS CET 2026 applications open]({{< relref "rms-cet-2026-applications-open-nta-2026-09-27.md" >}}).
 
-**AISSEE 2027 — wait, but prepare.** The 31 January 2027 date is ✅ in the calendar, but the notification hasn't released — expected in October 2026. Note the gap: RIMC/RMS exams in December, AISSEE end-January. Children applying to both need a plan that sequences revision, not restarts it.
+**AISSEE 2027 — wait, but prepare.** The 31 January 2027 date is ✅ in the calendar, but the notification hasn't released — expected in October 2026. Note the gap: RIMC/RMS exams in December, AISSEE end-January. Children applying to both need a plan that sequences revision, not restarts it — our [five-month AISSEE strategy]({{< relref "../blog/aissee-2027-last-5-months-strategy.md" >}}) shows how to fit the December exams into the January run-up.
 
 **SHRESHTA NETS — watch for the notification.** The 10 January 2027 slot is the scheme's national entrance test for residential schooling. Its own bulletin will define eligibility and the application window — rely on the official scheme portal, not coaching-site summaries.
 

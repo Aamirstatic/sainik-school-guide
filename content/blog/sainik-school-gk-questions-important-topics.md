@@ -1,5 +1,5 @@
 ---
-title: "Sainik School GK Questions: 100 Most Important Topics for AISSEE 2027"
+title: "AISSEE 2027 GK: 100 Important Topics"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

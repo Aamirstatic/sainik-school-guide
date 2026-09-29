@@ -1,5 +1,5 @@
 ---
-title: "How to Build Vocabulary for AISSEE English in 90 Days: A Daily Plan That Actually Works"
+title: "AISSEE English: 90-Day Vocabulary Plan"
 date: 2026-09-29T11:15:00+05:30
 lastmod: 2026-09-29T11:15:00+05:30
 draft: false

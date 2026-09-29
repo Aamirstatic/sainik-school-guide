@@ -1,5 +1,5 @@
 ---
-title: "RMS CET 2026: 21 Days Left to Apply — Fees, Age Limits, Exam Pattern Explained"
+title: "RMS CET 2026: Fees, Age & Pattern"
 date: 2026-09-29T11:15:00+05:30
 lastmod: 2026-09-29T11:15:00+05:30
 draft: false
@@ -26,6 +26,8 @@ faqs:
 > **Last verified: 29 September 2026.** This is a mid-window status update and applicant checklist — not a breaking-news report. The window opened on 23 September 2026; all dates and fees below are CONFIRMED from the NTA schedule as reported by multiple national dailies.
 
 The Rashtriya Military Schools Common Entrance Test (RMS CET) 2026 is now exactly one week into its application window. If your child is aiming for one of the five Rashtriya Military Schools — Chail, Ajmer, Dholpur, Belgaum or Bengaluru — the countdown has begun in earnest: **21 days** remain until the regular application deadline of **20 October 2026**, and **75 days** until the exam on **13 December 2026**.
+
+Wondering how RMS stacks up against Sainik Schools and RIMC? See our [honest RMS vs Sainik School vs RIMC comparison]({{< relref "../blog/sainik-school-vs-rimc-vs-rashtriya-military-school.md" >}}).
 
 Here is everything a parent needs to know, in one place.
 
@@ -70,6 +72,8 @@ Payment is online only — credit/debit card, net banking or UPI. Keep the trans
 - **Mode:** Pen-and-paper, OMR-based
 - **Question type:** Multiple-choice questions (MCQs)
 - **Exam cities:** 63 across India (check the Information Bulletin for the full list)
+
+Because it's an OMR paper, mechanical errors matter as much as knowledge — [these OMR mistakes]({{< relref "../blog/silly-omr-mistakes-cost-sainik-school-seat.md" >}}) cost students marks every single year.
 
 Candidates apply through the official NTA RMS CET portal at `exams.nta.nic.in/rmscet`. Do not trust any third-party "apply here" link that asks for money beyond the official fee.
 

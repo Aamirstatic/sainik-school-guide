@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Sports and NCC: What a Day Really Looks Like — and Why It Matters for NDA"
+title: "Sainik School Sports & NCC Guide"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -16,6 +16,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-sports-ncc-activities-guide.webp"
+faqs:
+  - question: "Is there a physical test in the AISSEE entrance exam?"
+    answer: "No. AISSEE is a written, OMR-based exam only ( Confirmed — 2026 pattern, expected to repeat for 2027). Physical training starts *after* admission. That said, arriving fit makes the first term dramatically easier."
+  - question: "Is NCC compulsory for girls too?"
+    answer: "Yes — NCC training is part of the routine for everyone at the school, and it's designed to be age-appropriate. Girls have a confirmed quota of 10% of vacancies (or 10 seats, whichever is more) in the 33 established schools ( Confirmed — Sainik Schools Society SOP)."
+  - question: "What happens if my child falls ill?"
+    answer: "Every school has an MI Room (medical inspection room) with trained staff. Serious cases go to the nearest military or civil hospital. Read the medical test guide for what the admission medical covers."
+  - question: "Can a child be thrown out for being bad at sports?"
+    answer: "No. Nobody gets removed for poor sports performance alone. The whole point of the training is improvement, not elimination."
+  - question: "Does an NCC certificate give direct entry into NDA?"
+    answer: "No direct entry — the NDA written exam and SSB are mandatory for everyone. But NCC 'C' certificate holders have dedicated entries in some defence selections, and the training background is a real, visible advantage at SSB."
+  - question: "Is there ragging in Sainik School hostels?"
+    answer: "Sainik Schools enforce strict anti-ragging rules. The senior-junior relationship is structured as mentorship — seniors are expected to guide new students, and housemasters supervise closely."
 ---
 
 > **🔄 Last verified: 26 September 2026** — This guide covers the established sports and NCC routine at Sainik Schools (evergreen content). Exact timings and facilities vary slightly from school to school.

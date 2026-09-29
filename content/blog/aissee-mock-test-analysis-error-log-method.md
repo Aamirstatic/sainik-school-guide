@@ -1,5 +1,5 @@
 ---
-title: "How to Analyse Your Mock Test the Right Way: The Error-Log Method for AISSEE 2027"
+title: "AISSEE Mock Analysis: Error Log Method"
 date: 2026-09-29T21:15:00+05:30
 lastmod: 2026-09-29T21:15:00+05:30
 draft: false
@@ -85,7 +85,7 @@ Most time traps in Class VI come from Maths, which carries **150 of the 300 mark
 - **GK:** 20 minutes
 - **Buffer + OMR bubbling:** 10 minutes
 
-For Class IX (180 minutes, 400 marks), Maths deserves a similar overweight share — 200 of 400 marks. If your error log shows time traps clustering in Maths, the answer is not "go faster"; it is a strict per-question cap. When the cap hits, you mark, skip, and return. Remember: **there is no negative marking**, so every attempted question is free money — but only if you attempt it.
+For Class IX (180 minutes, 400 marks), Maths deserves a similar overweight share — 200 of 400 marks. If your error log shows time traps clustering in Maths, the answer is not "go faster"; it is a strict per-question cap. When the cap hits, you mark, skip, and return. Remember: **there is no negative marking**, so every attempted question is free money — but only if you attempt it. And remember that bubbling under time pressure is its own risk: [these OMR mistakes]({{< relref "silly-omr-mistakes-cost-sainik-school-seat.md" >}}) quietly cost students marks every single year.
 
 ## The 45-Minute Post-Mock Routine
 

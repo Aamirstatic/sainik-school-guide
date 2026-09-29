@@ -1,5 +1,5 @@
 ---
-title: "Best Books for AISSEE 2027: Class 6 & Class 9 Subject-Wise Book List"
+title: "Best Books for AISSEE 2027"
 date: 2026-08-21
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

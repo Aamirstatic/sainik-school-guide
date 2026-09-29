@@ -1,5 +1,5 @@
 ---
-title: "New Sainik Schools PPP Model 2027: Admission, Fees & How They Differ from Traditional Schools"
+title: "New Sainik Schools: PPP Model Guide"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

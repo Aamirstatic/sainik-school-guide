@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Application Form: Step-by-Step Guide (and the Mistakes That Get Forms Rejected)"
+title: "AISSEE 2027 Application Form Guide"
 date: 2026-08-24
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-application-form-2027.webp"
+faqs:
+  - question: "Has the AISSEE 2027 notification been released?"
+    answer: "No. As of 26 September 2026, NTA has not released the notification or information bulletin. It is expected in October 2026, following the 2026 pattern."
+  - question: "What is the expected AISSEE 2027 application fee?"
+    answer: "Expected: Rs 850 for General, OBC-NCL and defence wards, and Rs 700 for SC/ST, the 2026 rates. The final fee will be in the NTA bulletin."
+  - question: "Where do I fill the AISSEE 2027 application form?"
+    answer: "On NTA's portal. The 2026 address was on exams.nta.nic.in; the 2027 portal URL is not live yet, so do not use unofficial links."
+  - question: "Can I correct mistakes after submitting the form?"
+    answer: "Yes. NTA opens a short correction window (2-4 November 2025 for the 2026 cycle). A similar early-November window is expected for 2027, but it lasts only a few days, so fill carefully the first time."
+  - question: "What documents do I need for the AISSEE form?"
+    answer: "The child's photo and signature, birth certificate, domicile certificate, caste certificate (if applicable), defence proof (if applicable), and an ID like Aadhaar. Keep the name and date of birth identical across all of them."
+  - question: "Is the application fee refundable if the form is rejected?"
+    answer: "No. NTA does not refund the fee, even if the form is rejected or the child turns out ineligible. That is why confirming eligibility before paying matters."
 ---
 
 # AISSEE 2027 Application Form: Fill It Right the First Time

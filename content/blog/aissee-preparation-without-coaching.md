@@ -1,5 +1,5 @@
 ---
-title: "How to Prepare for AISSEE Without Coaching: A Self-Study Roadmap That Actually Works"
+title: "AISSEE Prep Without Coaching Guide"
 date: 2026-09-28T18:15:00+05:30
 lastmod: 2026-09-28T18:15:00+05:30
 draft: false

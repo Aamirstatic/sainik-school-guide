@@ -1,5 +1,5 @@
 ---
-title: "How Many Hours Should a Class 6 Student Study for AISSEE? The Honest Answer"
+title: "AISSEE Class 6: Daily Study Hours"
 date: 2026-09-27T14:18:00+05:30
 lastmod: 2026-09-27T14:18:00+05:30
 draft: false

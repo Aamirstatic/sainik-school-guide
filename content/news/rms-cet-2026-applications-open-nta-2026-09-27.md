@@ -1,5 +1,5 @@
 ---
-title: "NTA Opens RMS CET 2026 Applications: Class 6 & 9 Military School Admissions Begin"
+title: "NTA Opens RMS CET 2026 Applications"
 date: 2026-09-27T11:15:00+05:30
 lastmod: 2026-09-27T11:15:00+05:30
 draft: false
@@ -9,6 +9,15 @@ author_name: "Sameer Khan"
 author_title: "Defence Career Counsellor"
 author_image: "/images/authors/sameer-khan.png"
 featured_image: "/images/thumbnails/rms-cet-2026-applications-open-nta-2026-09-27.webp"
+faqs:
+  - question: "Is RMS CET 2026 the same as AISSEE 2027?"
+    answer: "No. RMS CET is the entrance for the five Rashtriya Military Schools; AISSEE is for the Sainik Schools. Both are conducted by NTA for the Ministry of Defence, but they are separate exams with separate applications, fees and timelines."
+  - question: "What is the last date to apply for RMS CET 2026?"
+    answer: "20 October 2026 up to 5:00 PM, with fee payment accepted till 11:50 PM the same night. A late window runs 21–25 October 2026 with an additional ₹500 late fee."
+  - question: "When is the RMS CET 2026 exam?"
+    answer: "Sunday, 13 December 2026 — a pen-and-paper OMR test with MCQs, held across 63 Indian cities."
+  - question: "What is the RMS CET 2026 application fee?"
+    answer: "₹1,000 for General/OBC/OBC-NCL candidates and ₹750 for SC/ST candidates and wards of armed forces personnel killed in action, payable online."
 categories: ["News"]
 aliases: ["/blog/rms-cet-2026-applications-open-nta-2026-09-27/"]
 ---
@@ -17,7 +26,7 @@ aliases: ["/blog/rms-cet-2026-applications-open-nta-2026-09-27/"]
 
 For parents eyeing a defence-school seat for their child, this is genuinely good news — and it landed quietly. On **23 September 2026**, the National Testing Agency opened applications for the **Rashtriya Military School Common Entrance Test (RMS CET) 2026** for admission to Class VI and Class IX in the five Rashtriya Military Schools for the 2027-28 academic session.
 
-If AISSEE 2027 is your main target, think of RMS CET as a serious parallel shot, not a distraction. Same audience, same exam style, similar syllabus DNA — and a three-week application window you should not sleep through.
+If AISSEE 2027 is your main target, think of RMS CET as a serious parallel shot, not a distraction. Same audience, same exam style, similar syllabus DNA — and a three-week application window you should not sleep through. The core preparation overlaps so heavily that one plan covers both — our [Sainik School vs RIMC vs Military School guide](/blog/sainik-school-vs-rimc-vs-rashtriya-military-school/) explains how to keep every eligible door open.
 
 ![School campus building where admissions are open](/images/inbody/rms-cet-2026-applications-open-nta-2026-09-27.webp)
 
@@ -45,13 +54,13 @@ General, OBC and OBC-NCL candidates pay **₹1,000**; SC, ST and wards of armed 
 
 ## The five schools
 
-Chail (Shimla Hills, Himachal Pradesh), Ajmer and Dholpur (Rajasthan), and Belgaum and Bengaluru (Karnataka). These are residential, English-medium schools run by the Ministry of Defence for Classes VI to XII — and founding members of the Indian Public Schools' Conference.
+Chail (Shimla Hills, Himachal Pradesh), Ajmer and Dholpur (Rajasthan), and Belgaum and Bengaluru (Karnataka). These are residential, English-medium schools run by the Ministry of Defence for Classes VI to XII — and founding members of the Indian Public Schools' Conference. Wondering how an RMS compares with a Sainik School before you decide where to apply? Our [Sainik School vs Military School comparison](/blog/sainik-school-vs-military-school/) lays out the real differences in exams, fees, seats and who should target which.
 
 ## What to do next
 
 Apply on the official portal — not on aggregator sites that just link to it. Keep scanned copies of the birth certificate, photograph, signature and category documents ready in the prescribed formats *before* you start the form, because the medical-examination hospital you select during registration cannot be changed later. And do not wait for 20 October: NTA portals get congested in the last 48 hours.
 
-One last thing — AISSEE 2027 (31 January 2027, per the NTA exam calendar) remains a separate exam with its own notification, which is still awaited. RMS CET and AISSEE are both defence-school routes, but you must apply for each separately.
+One last thing — AISSEE 2027 (31 January 2027, per the NTA exam calendar) remains a separate exam with its own notification, which is still awaited — track it on our [AISSEE 2027 notification watch](/news/aissee-2027-notification-october-watch-2026-09-27/). RMS CET and AISSEE are both defence-school routes, but you must apply for each separately.
 
 ## Frequently asked questions
 

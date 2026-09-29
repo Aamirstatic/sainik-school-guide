@@ -1,5 +1,5 @@
 ---
-title: "AISSEE Class 6 Study Plan: A Realistic 4-Month Week-by-Week Plan (26 Sept – 31 Jan 2027)"
+title: "AISSEE Class 6 Study Plan 2027"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -15,6 +15,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-study-plan-class-6.webp"
+faqs:
+  - question: "Is the Class 5 syllabus enough for AISSEE Class 6?"
+    answer: "The paper is set at roughly Class 5 level, but with more depth and trickier framing. NCERT Class 5 done thoroughly, plus the easier chapters of Class 6, is the ideal combination. Check the syllabus guide for the topic list."
+  - question: "Is coaching necessary?"
+    answer: "No. A clear plan, regular mocks, and disciplined revision work from home. Coaching helps mainly with routine and peer pressure — if your child studies sincerely at home, you don't need it."
+  - question: "English or Hindi for the Language section — which to choose?"
+    answer: "Whichever your child is stronger in. Both carry exactly 50 marks, and the choice doesn't affect anything else."
+  - question: "What score is safe for selection?"
+    answer: "Cut-offs change every year by school, category, and gender. As a working target, aim for 200+/300 in mocks — that's our suggestion, not an official figure. The only official bar is the qualifying rule: 25% per section and 40% aggregate ( Confirmed — 2026 bulletin; SC/ST exempt)."
+  - question: "How should we handle GK?"
+    answer: "Split it: static GK (states, capitals, rivers, national symbols, basic science) plus 2026 current affairs. A little every day from October — GK crammed in January doesn't stick."
+  - question: "What should we do the day before the exam?"
+    answer: "Nothing new. Keep documents ready (admit card, photograph, ID), visit the centre if it's unfamiliar, eat light, sleep early. Read our exam-day tips together that evening."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Exam pattern is from the AISSEE 2026 bulletin (✅ 150 minutes / 125 questions / 300 marks) — expected to repeat for 2027, but the 2027 bulletin hasn't been released yet. Exam date ✅ **31 January 2027 (tentative)** — NTA exam calendar, 16 September 2026.

@@ -1,5 +1,5 @@
 ---
-title: "How to Attempt the AISSEE Paper: A Question-Selection Strategy That Turns Knowledge Into Marks"
+title: "AISSEE Paper Attempt Strategy"
 date: 2026-09-28T07:15:00+05:30
 lastmod: 2026-09-28T07:15:00+05:30
 draft: false
@@ -130,7 +130,7 @@ Drill this into muscle memory:
 
 ## Practise It Like the Real Thing
 
-From October, do **one full mock every week** under real conditions: time limit, two-pass method, the plan above, the OMR endgame. The first two mocks will feel messy. By the fourth, the rhythm becomes automatic — and that's exactly when it matters, on 31 January.
+From October, do **one full mock every week** under real conditions: time limit, two-pass method, the plan above, the OMR endgame. And don't just score each mock — [analyse it with the error-log method]({{< relref "aissee-mock-test-analysis-error-log-method.md" >}}) the same evening. The first two mocks will feel messy. By the fourth, the rhythm becomes automatic — and that's exactly when it matters, on 31 January.
 
 For timed Maths drills and triage techniques: [How to Improve Speed in the AISSEE Maths Section]({{< relref "aissee-maths-speed-improvement-guide.md" >}}). On why you should attempt everything: [Is There Negative Marking in AISSEE? The Honest Answer]({{< relref "aissee-negative-marking-honest-answer.md" >}}). And for the day itself: [AISSEE Exam Day Tips 2027]({{< relref "aissee-exam-day-tips-2027.md" >}}).
 

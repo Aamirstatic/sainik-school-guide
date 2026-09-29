@@ -1,5 +1,5 @@
 ---
-title: "Sainik School vs RIMC vs Military School: A Three-Way Comparison for Defence-Aspiring Parents"
+title: "Sainik School vs RIMC vs RMS"
 date: 2026-07-05
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-vs-rimc-vs-rashtriya-military-school.webp"
+faqs:
+  - question: "Can my child join RIMC in Class 6?"
+    answer: "No. RIMC admits only in Class 8. If your child is in Class 5 or 6, your targets are Sainik School (AISSEE) and RMS (CET) — RIMC becomes relevant two years later."
+  - question: "Can we apply to all three exams in the same year?"
+    answer: "Yes, provided your child meets the age and class eligibility for each. The exams are held at different times, so dates rarely clash. Just track each notification separately."
+  - question: "Which of the three is the toughest to crack?"
+    answer: "In terms of selectivity, RIMC — one campus, a tiny intake, nationwide competition. But \"toughest\" is the wrong lens. The right lens is: which exams is my child eligible for, and which preparation can we sustain? A well-prepared child in the right exam beats a stressed child in the \"prestigious\" one."
+  - question: "What happens after RIMC?"
+    answer: "RIMC runs up to Class 12, after which cadets typically aim for the NDA — the same destination as Sainik School and RMS students. The path converges; only the starting gates differ."
+  - question: "Are girls eligible for RIMC and RMS?"
+    answer: "For Sainik Schools, a 10% girls quota in Class 6 (33 established schools) is confirmed. For RIMC and RMS, girls' admission policies have evolved — check their current official notifications rather than relying on old articles."
+  - question: "If I had to pick just one exam for a Class 5 child, which?"
+    answer: "AISSEE for Sainik School, Class 6. It's the practical answer: the most seats, the most schools, the most transparent process (NTA exam, online counselling, no fee). Dream of RIMC by all means — but build your plan on AISSEE."
 ---
 
 > **Last verified: 26 September 2026** — AISSEE 2027 facts below match our verified fact-sheet (exam date 31 January 2027, tentative). RIMC and RMS details reflect their established public frameworks — confirm current specifics in their official notifications before applying.

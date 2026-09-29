@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Admission Mistakes: 7 Errors Parents Make Every Year (and How to Fix Them)"
+title: "7 Sainik School Admission Mistakes"
 date: 2026-07-05
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

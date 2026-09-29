@@ -1,5 +1,5 @@
 ---
-title: "English Grammar Topics That Matter Most in AISSEE: Where Your Child's Marks Actually Come From"
+title: "AISSEE English Grammar Topics Guide"
 date: 2026-09-27T21:15:00+05:30
 lastmod: 2026-09-27T21:15:00+05:30
 draft: false
@@ -46,7 +46,7 @@ NTA has never released a topic-wise breakup of the English paper. Anyone quoting
 | 🟡 Medium | **Active–passive voice** | Regular appearance, particularly for Class 9; formula-driven, so it rewards drilling | ~10% |
 | 🟡 Medium | **Direct–indirect narration** | Regular for Class 9; a bit of tense-sequence logic and it's yours | ~10% |
 | 🟡 Medium | **Error spotting / sentence improvement** | Not a separate topic — it's the *format* the high-priority topics appear in. Practise topics through this format | ~10% |
-| 🟢 Lower | **Synonyms, antonyms, one-word substitution** | Appear, but are vocabulary, not grammar — prepare separately | ~5% |
+| 🟢 Lower | **Synonyms, antonyms, one-word substitution** | Appear, but are vocabulary, not grammar — prepare separately ([our 90-day vocabulary plan]({{< relref "aissee-english-vocabulary-90-day-plan.md" >}})) | ~5% |
 | 🟢 Lower | **Idioms and phrases** | A question or two, unpredictable; learn-as-you-go | ~5% |
 | 🟢 Lower | **Conjunctions, degrees of comparison** | Tested occasionally; cover once, revise once | ~5% |
 | 🟢 Lower | **Comprehension passages** | Usually included in the paper; needs reading practice, not rules | rest |

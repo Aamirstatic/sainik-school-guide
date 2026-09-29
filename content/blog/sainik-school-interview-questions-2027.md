@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Interview Questions 2027: 50-Question Bank with Answer Hints"
+title: "Sainik School Interview: 50 Q&A Bank"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

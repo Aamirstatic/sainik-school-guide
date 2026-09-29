@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Notification: Not Released Yet — Expected Timeline and What to Do Now"
+title: "AISSEE 2027 Notification Guide"
 date: 2026-08-23
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-notification-guide.webp"
+faqs:
+  - question: "Has the AISSEE 2027 notification been released?"
+    answer: "No. As of 26 September 2026, NTA has not released it. It is expected in October 2026, based on the 2026 cycle (applications ran 10-30 October 2025)."
+  - question: "What is the AISSEE 2027 exam date?"
+    answer: "31 January 2027, confirmed (tentative) in NTA's official exam calendar for 2026-27, released 16 September 2026 on nta.ac.in."
+  - question: "What will the application fee be?"
+    answer: "Not announced. Expected: Rs 850 (General/OBC-NCL/Defence wards) and Rs 700 (SC/ST), per the 2026 rates. Treat any final 2027 fee quoted before the bulletin as a guess."
+  - question: "What is the age limit for Sainik School Class 6 admission 2027?"
+    answer: "Projected: born between 1 April 2015 and 31 March 2017 (10-12 years on 31 March 2027). The bulletin will confirm the exact cutoffs, so check them carefully, because even a day's difference matters."
+  - question: "Where will the notification be published?"
+    answer: "On nta.ac.in and the official AISSEE portal. Do not trust WhatsApp forwards or third-party sites claiming early access."
+  - question: "How long is the application window usually?"
+    answer: "About three weeks (the 2026 window was 10-30 October 2025). That is short, so have documents ready before it opens."
 ---
 
 # AISSEE 2027 Notification: Not Released Yet — Here's the Real Picture

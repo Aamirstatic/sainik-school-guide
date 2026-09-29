@@ -1,5 +1,5 @@
 ---
-title: "Is There Negative Marking in AISSEE? The Honest Answer"
+title: "AISSEE Negative Marking Explained"
 date: 2026-09-27T07:15:00+05:30
 lastmod: 2026-09-27T07:15:00+05:30
 draft: false

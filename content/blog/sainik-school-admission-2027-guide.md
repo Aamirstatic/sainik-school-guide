@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Admission 2027: Complete AISSEE Guide — Exam Date, Eligibility, Fees & Application"
+title: "Sainik School Admission 2027 Guide"
 date: 2026-08-20
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

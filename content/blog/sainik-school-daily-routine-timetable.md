@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Daily Routine 2027: Full Timetable from 5:30 AM to Lights-Out"
+title: "Sainik School Daily Routine 2027"
 date: 2026-07-09
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

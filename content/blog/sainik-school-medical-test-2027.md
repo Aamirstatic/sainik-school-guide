@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Medical Test 2027: What Gets Checked and How to Prepare"
+title: "Sainik School Medical Test 2027 Guide"
 date: 2026-07-09
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

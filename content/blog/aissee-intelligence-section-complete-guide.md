@@ -1,5 +1,5 @@
 ---
-title: "AISSEE Intelligence Section: The Complete Preparation Guide"
+title: "AISSEE Intelligence Section Guide"
 date: 2026-09-27T12:40:00+05:30
 lastmod: 2026-09-27T12:40:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Sameer Khan"
 author_title: "Defence Career Counsellor"
 author_image: "/images/authors/sameer-khan.png"
 featured_image: "/images/thumbnails/aissee-intelligence-section-complete-guide.webp"
+faqs:
+  - question: "How many marks is the Intelligence section in AISSEE?"
+    answer: "In both Class 6 and Class 9, the Intelligence section carries 25 questions x 2 marks = 50 marks. That is one-sixth of the Class 6 paper (300 marks) and one-eighth of the Class 9 paper (400 marks)."
+  - question: "Is the Intelligence section difficult for Class 6 students?"
+    answer: "It is unfamiliar, not difficult. The questions need no memorised syllabus, only pattern recognition, which improves fast with daily 15-minute practice. Most children find it becomes their favourite section within a month."
+  - question: "Which book is best for AISSEE Intelligence preparation?"
+    answer: "A Class 5-6 mental ability/reasoning workbook plus previous-year AISSEE papers covers Class 6. Avoid books written for SSC/banking exams; the difficulty level is wrong for 10-12-year-olds."
+  - question: "How much time should my child spend on Intelligence daily?"
+    answer: "Fifteen focused minutes a day, following a weekly cycle of question families, beats long weekend sessions. Frequency matters more than duration for reasoning skills."
+  - question: "Should my child attempt all Intelligence questions in the exam?"
+    answer: "Yes. AISSEE has no negative marking, so every unattempted question is a wasted opportunity. Attempt all 25, starting with series and coding questions where confidence is highest."
+  - question: "Does the Class 9 Intelligence section differ from Class 6?"
+    answer: "The format is the same (25 questions, 50 marks) but Class 9 questions are set at a higher difficulty: more complex series, multi-step coding, and trickier spatial reasoning. Class 9 students should practise with RIMC and RMS reasoning papers too."
 ---
 
 > **🔄 Last verified: 27 September 2026** — Section weightage ✅ **CONFIRMED** from the AISSEE 2026 NTA bulletin: Class 6 — 25 questions × 2 marks = 50 marks (in a 150-minute, 125-question, 300-mark paper); Class 9 — 25 questions × 2 marks = 50 marks (in a 180-minute, 150-question, 400-mark paper). Exam ✅ **CONFIRMED** (tentative): 31 January 2027. No negative marking ✅ **CONFIRMED** (2026 pattern). Section split 🔶 **EXPECTED** to repeat for 2027.

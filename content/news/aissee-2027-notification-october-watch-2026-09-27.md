@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Notification: October Is the Month to Watch — What Past Cycles Reveal"
+title: "AISSEE 2027: October Watch"
 date: 2026-09-27T14:18:00+05:30
 lastmod: 2026-09-27T14:18:00+05:30
 draft: false
@@ -58,9 +58,9 @@ A word of caution from experience: every year, fake "AISSEE form released" posts
 
 Do not sit idle until October — use this window for the boring-but-critical prep that panics families later:
 
-- **Confirm eligibility now.** Class 6: born roughly 1 April 2015 – 31 March 2017 (🔶 projected from the 2026 bulletin pattern). Class 9: 1 April 2012 – 31 March 2014 (🔶 projected). Final cutoffs come with the bulletin.
-- **Keep documents handy.** The application is expected to be online like last year. Having your child's birth certificate, school records, and a recent photograph ready saves a last-week scramble.
-- **Keep studying.** The exam date is ✅ confirmed: 31 January 2027. That is a fixed target even while the form date floats. Every week of October spent waiting is a week of preparation you cannot get back.
+- **Confirm eligibility now.** Class 6: born roughly 1 April 2015 – 31 March 2017 (🔶 projected from the 2026 bulletin pattern). Class 9: 1 April 2012 – 31 March 2014 (🔶 projected). Final cutoffs come with the bulletin — [check the detailed age criteria]({{< relref "../blog/sainik-school-age-limit-2027-detailed-guide.md" >}}) for both classes.
+- **Keep documents handy.** The application is expected to be online like last year. Having your child's birth certificate, school records, and a recent photograph ready saves a last-week scramble — [our documents checklist]({{< relref "aissee-2027-documents-ready-before-notification-2026-09-28.md" >}}) lists exactly what to scan and in what format.
+- **Keep studying.** The exam date is ✅ confirmed: 31 January 2027. That is a fixed target even while the form date floats. Every week of October spent waiting is a week of preparation you cannot get back — a [five-month preparation plan]({{< relref "../blog/aissee-2027-last-5-months-strategy.md" >}}) maps the weeks between now and January.
 
 ## FAQs
 

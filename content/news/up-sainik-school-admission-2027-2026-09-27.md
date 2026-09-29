@@ -1,5 +1,5 @@
 ---
-title: "UP Sainik School Admission 2027-28: Applications Open — Apply by 25 October 2026"
+title: "UP Sainik School Admission 2027-28"
 date: 2026-09-27T12:40:00+05:30
 lastmod: 2026-09-27T12:40:00+05:30
 draft: false
@@ -9,15 +9,24 @@ author_name: "Nisha Sharma"
 author_title: "Education Writer"
 author_image: "/images/authors/nisha-sharma.png"
 featured_image: "/images/thumbnails/up-sainik-school-admission-2027-2026-09-27.webp"
+faqs:
+  - question: "Is the UP Sainik School exam the same as AISSEE?"
+    answer: "No. AISSEE is conducted by the NTA for the 33 central Sainik Schools and new Sainik Schools; its 2027 notification is not yet released. The UP Sainik School entrance is conducted by the UP Sainik Schools Society for its two UP schools. They are separate exams with separate forms, fees, and dates."
+  - question: "Can my child apply to both AISSEE and UP Sainik School?"
+    answer: "Yes — and you should, if eligible. The exams are months apart (UP exam: 20 December 2026; AISSEE 2027: tentatively 31 January 2027), so preparation for one directly helps the other."
+  - question: "What is the last date to apply for UP Sainik School 2027-28?"
+    answer: "25 October 2026 without late fee. You can still apply from 26 to 31 October 2026 by paying ₹2,000 (₹1,000 late fee included)."
+  - question: "Can girls apply to UP Sainik School?"
+    answer: "Yes. Girls can apply to UP Sainik School Gorakhpur for both Class 6 and Class 9, and to UP Sainik School Lucknow for Class 9. Lucknow Class 6 admits boys only."
 categories: ["News"]
 aliases: ["/blog/up-sainik-school-admission-2027-2026-09-27/"]
 ---
 
 > **🔄 Last verified: 27 September 2026** — Notification ✅ **CONFIRMED** released by the UP Sainik Schools Society on 10 September 2026; applications currently open on upsainikschool.org. All dates below are ✅ **CONFIRMED** from the official notification as reported across multiple independent portals. This exam is **separate from the NTA's AISSEE** — do not confuse the two.
 
-**The form is out — and the clock is already ticking.** The UP Sainik Schools Society has opened online applications for admission to Class 6 and Class 9 for the 2027-28 session at its two schools: Captain Manoj Kumar Pandey UP Sainik School, Lucknow and UP Sainik School, Gorakhpur. Applications opened on **10 September 2026** and close on **25 October 2026** — that's barely four weeks from today.
+**The form is out — and the clock is already ticking.** The UP Sainik Schools Society has opened online applications for admission to Class 6 and Class 9 for the 2027-28 session at its two schools: Captain Manoj Kumar Pandey UP Sainik School, Lucknow and UP Sainik School, Gorakhpur. These are state-run schools, separate from the three central Sainik Schools in UP (Mainpuri, Jhansi, Amethi) — see our [state-wise school directory](/blog/sainik-school-state-wise-complete-directory-2027/) for the full verified list. Applications opened on **10 September 2026** and close on **25 October 2026** — that's barely four weeks from today.
 
-If your family lives in Uttar Pradesh, this deserves your attention this week. Here's the thing most parents miss: this is **not** the AISSEE. UP Sainik Schools run their own entrance exam, on their own dates, with their own rules. A child can apply to both AISSEE and the UP Sainik School exam — they don't clash, and they double your child's chances.
+If your family lives in Uttar Pradesh, this deserves your attention this week. Here's the thing most parents miss: this is **not** the AISSEE. UP Sainik Schools run their own entrance exam, on their own dates, with their own rules. A child can apply to both AISSEE and the UP Sainik School exam — they don't clash, and they double your child's chances. Track the AISSEE side separately with our [AISSEE 2027 notification watch](/news/aissee-2027-notification-october-watch-2026-09-27/).
 
 ![Students on the playground of a Sainik School campus](/images/inbody/up-sainik-school-admission-2027-2026-09-27.webp)
 
@@ -45,6 +54,8 @@ The eligibility has one non-negotiable condition: **both the applicant and the a
 - **Class 6:** born between **2 July 2015 and 1 January 2018** (both dates inclusive); must have passed Class 5 from a recognised school.
 - **Class 9:** born between **2 July 2012 and 1 January 2015** (both dates inclusive); must have passed Class 8.
 - **Girls:** admitted at Gorakhpur for both Class 6 and 9, and at Lucknow for Class 9. Lucknow Class 6 is **boys only** — check this before choosing preferences.
+
+Note that these age windows are specific to the UP exam — the central Sainik Schools follow different age rules, explained in our [AISSEE age limit guide](/blog/sainik-school-age-limit-2027-detailed-guide/).
 
 ## Application fee and exam pattern
 

@@ -1,5 +1,5 @@
 ---
-title: "Sainik School vs Private Boarding School: Fees, Discipline and Real Value Compared"
+title: "Sainik School vs Private Boarding"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-vs-private-boarding-school.webp"
+faqs:
+  - question: "Can a private boarding school student clear the NDA?"
+    answer: "Yes, absolutely — the NDA exam doesn't care which school you attended. But be realistic: the school won't prepare you for it. The written exam prep, the physical conditioning, the SSB personality development — you'll be arranging all of that yourself, usually through outside coaching."
+  - question: "Is the academics weaker in Sainik Schools than in private schools?"
+    answer: "No. Sainik Schools follow the CBSE curriculum and their board results are consistently strong. The difference is in facilities and exposure, not in the quality of teaching or the syllabus."
+  - question: "Is there really no management quota in Sainik Schools?"
+    answer: "Correct — in the 33 established Sainik Schools, AISSEE merit followed by AISSAC counselling is the only route. Counselling is conducted online by the Sainik Schools Society, charges no fee, and runs for around six rounds. Nobody can buy a seat."
+  - question: "Do private boarding school fees really rise every year?"
+    answer: "In most cases, yes — an annual hike of roughly 5–10% is common across the sector. Over seven years, compounding makes the total far higher than \"annual fee × 7.\" Sainik School fees, by contrast, stay comparatively stable."
+  - question: "What about ragging and bullying in residential schools?"
+    answer: "Both types of schools have strict anti-ragging rules. In Sainik Schools, the senior-junior relationship is actually structured as mentorship through the house system — seniors are responsible for juniors, which changes the dynamic considerably. Visit the school and talk to parents of current students; that's worth more than any brochure."
+  - question: "My child is in Class 5 now. When do we apply?"
+    answer: "The AISSEE 2027 notification is expected in October 2026 (it hasn't been released as of 26 September 2026), with applications expected through October–November 2026. Start preparation now — our 3-month preparation plan and exam date guide will help you plan."
 ---
 
 > **Last verified: 26 September 2026** — AISSEE 2027 facts below match our verified fact-sheet (exam date 31 January 2027, tentative). Private boarding school fees vary widely by school and are revised often — figures below are clearly labelled estimates, not quotes; confirm exact fees with the school.

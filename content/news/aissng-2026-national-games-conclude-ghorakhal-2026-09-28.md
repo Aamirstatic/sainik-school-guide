@@ -1,5 +1,5 @@
 ---
-title: "All India Sainik Schools National Games 2026 Conclude: What the Ghorakhal Finale Shows AISSEE Aspirants"
+title: "Sainik Schools Games 2026 Conclude"
 date: 2026-09-28T18:15:00+05:30
 lastmod: 2026-09-28T18:15:00+05:30
 draft: false

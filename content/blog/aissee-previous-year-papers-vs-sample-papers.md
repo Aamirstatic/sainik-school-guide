@@ -1,5 +1,5 @@
 ---
-title: "AISSEE Previous Year Papers vs Sample Papers: Which One Actually Helps More?"
+title: "AISSEE: Previous vs Sample Papers"
 date: 2026-09-29T18:20:00+05:30
 lastmod: 2026-09-29T18:20:00+05:30
 draft: false

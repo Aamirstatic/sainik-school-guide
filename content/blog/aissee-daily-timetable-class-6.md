@@ -1,5 +1,5 @@
 ---
-title: "The Perfect Daily Timetable for AISSEE Class 6 Preparation"
+title: "AISSEE Class 6: Daily Timetable"
 date: 2026-09-27T11:10:00+05:30
 lastmod: 2026-09-27T11:10:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Nisha Sharma"
 author_title: "Education Writer"
 author_image: "/images/authors/nisha-sharma.png"
 featured_image: "/images/thumbnails/aissee-daily-timetable-class-6.webp"
+faqs:
+  - question: "How many hours should a Class 6 student study daily for AISSEE?"
+    answer: "About 3 focused hours a day, five to six days a week, plus one mock on Sunday. Consistency over four months matters far more than marathon sessions."
+  - question: "Should my child skip school homework to focus on AISSEE?"
+    answer: "No. School homework first, AISSEE prep second. The school syllabus overlaps heavily with the AISSEE paper anyway; homework done properly is hidden prep."
+  - question: "When should we start full-length mock tests?"
+    answer: "October 2026 at the latest, roughly four months before the tentative 31 January 2027 exam. Start with one section per Sunday if full papers feel too early."
+  - question: "Is the timetable different for Class 9 aspirants?"
+    answer: "The principle is the same (weight study time by marks), but the Class 9 paper has five sections and 400 marks with 50 Maths questions worth 4 marks each. Maths weightage is even heavier there."
+  - question: "What if my child can't finish the timetable every day?"
+    answer: "A missed day is fine; a missed week is the problem. On tight days, do just Slot 1 (Maths, 75 min) and the 20-minute GK diary. Protect the habit, not the hours."
+  - question: "Does GK really need daily study?"
+    answer: "Not daily study, daily collection. 20 minutes of writing 5 facts in a diary beats a monthly GK cram session. The diary review every Sunday is where the marks come from."
 ---
 
 > **🔄 Last verified: 27 September 2026** — ✅ **CONFIRMED** (tentative): AISSEE 2027 on 31 January 2027, per the NTA exam calendar 2026-27 (notice dated 16 Sept 2026). NTA information bulletin 🔶 **NOT released yet** — expected October 2026. Exam pattern below is the published AISSEE Class 6 pattern from the 2026 cycle.

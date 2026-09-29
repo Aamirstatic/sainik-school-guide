@@ -1,5 +1,5 @@
 ---
-title: "How to Improve Speed in the AISSEE Maths Section: 9 Drills That Actually Work"
+title: "AISSEE Maths Speed Improvement Tips"
 date: 2026-09-26T21:15:00+05:30
 lastmod: 2026-09-26T21:15:00+05:30
 draft: false
@@ -9,6 +9,17 @@ author_name: "Sameer Khan"
 author_title: "Defence Career Counsellor"
 author_image: "/images/authors/sameer-khan.png"
 featured_image: "/images/thumbnails/aissee-maths-speed-improvement-guide.webp"
+faqs:
+  - question: "How much time per maths question for Class 6?"
+    answer: "About 75-80 seconds: roughly 65 minutes for the 50 maths questions, 75 minutes for the other three sections, 10 minutes for review and OMR check."
+  - question: "Is there negative marking in AISSEE 2027?"
+    answer: "No (confirmed per NTA pattern). Attempt every question. A guess on an unanswered question costs nothing and can gain marks."
+  - question: "Accurate but slow: speed or accuracy first?"
+    answer: "Accuracy first, always. These drills protect accuracy while building pace: estimation as a safety net, the error log for repeat mistakes, a dedicated review block."
+  - question: "Which chapters matter most for maths speed?"
+    answer: "Number systems, fractions and decimals, percentages, profit and loss, simple interest, ratio and proportion, averages, speed-distance-time, mensuration, and for Class 9, algebra and basic geometry. High weightage and drill-friendly; they respond fastest to timed practice."
+  - question: "How many mocks before the exam?"
+    answer: "One full mock per week until 31 January 2027. What matters more is the review: analyse each mock as long as you took it, and update the error log."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Exam date ✅ **CONFIRMED**: 31 January 2027 (tentative, NTA calendar 2026-27, notice 16 Sept 2026). Notification 🔶 **NOT released yet**. Pattern figures below: ✅ **CONFIRMED** from the AISSEE 2026 bulletin, 🔶 **EXPECTED** to repeat for 2027.

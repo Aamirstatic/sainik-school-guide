@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Mock Test 2027: A Practical Plan That Actually Improves Scores"
+title: "Sainik School Mock Test Plan 2027"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

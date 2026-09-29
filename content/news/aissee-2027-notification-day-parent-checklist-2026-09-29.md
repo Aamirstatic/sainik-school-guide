@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Notification Day: The 10 Things Parents Must Check Before Submitting the Form"
+title: "AISSEE 2027: 10-Point Parent Checklist"
 date: 2026-09-29T21:15:00+05:30
 lastmod: 2026-09-29T21:15:00+05:30
 draft: false
@@ -31,7 +31,7 @@ Here are the ten things to check **before** you submit, not after.
 
 ## 1. Your child's age on the cut-off date
 
-**EXPECTED (2026 cycle):** 10–12 years for Class VI and 13–15 years for Class IX as of 31 March. Even a one-day miss disqualifies. Count from the official date of birth certificate — not the school diary, not memory.
+**EXPECTED (2026 cycle):** 10–12 years for Class VI and 13–15 years for Class IX as of 31 March. Even a one-day miss disqualifies. Count from the official date of birth certificate — not the school diary, not memory. Our [detailed age-limit guide]({{< relref "../blog/sainik-school-age-limit-2027-detailed-guide.md" >}}) walks through the exact cut-off calculation for both classes.
 
 ## 2. The qualifying class
 
@@ -39,7 +39,7 @@ Here are the ten things to check **before** you submit, not after.
 
 ## 3. Category certificate validity
 
-An OBC-NCL certificate older than the bulletin's specified cut-off is the most common rejection trigger. **EXPECTED:** the bulletin will name a date by which the certificate must be valid. If yours predates it, get it renewed *this week* — renewals take longer than you think.
+An OBC-NCL certificate older than the bulletin's specified cut-off is the most common rejection trigger. **EXPECTED:** the bulletin will name a date by which the certificate must be valid. If yours predates it, get it renewed *this week* — renewals take longer than you think. Our [SC/ST and defence quota guide]({{< relref "../blog/sainik-school-sc-st-defence-quota-2027.md" >}}) explains which certificate each reserved category needs.
 
 ## 4. Domicile and the home-state quota
 
@@ -47,7 +47,7 @@ An OBC-NCL certificate older than the bulletin's specified cut-off is the most c
 
 ## 5. The full school list
 
-The 2026 cycle covered existing Sainik Schools **and** approved New Sainik Schools, including the 40%/60% admission route ([afternoon update](https://sainikschooleastsiang.in/news/new-sainik-schools-40-60-route-explained-2026-09-29/)). Read the participating-schools list carefully — new schools get added every cycle.
+The 2026 cycle covered existing Sainik Schools **and** approved New Sainik Schools, including the 40%/60% admission route ([afternoon update](https://sainikschooleastsiang.in/news/new-sainik-schools-40-60-route-explained-2026-09-29/)). Read the participating-schools list carefully — new schools get added every cycle. Our [state-wise school directory]({{< relref "../blog/sainik-school-state-wise-complete-directory-2027.md" >}}) lists the existing Sainik Schools so you can shortlist options before the bulletin lands.
 
 ## 6. Photo, signature and thumb impression specs
 

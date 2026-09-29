@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Mock Test Guide: Practice Plan, Sample Questions and Smart Strategy"
+title: "AISSEE Mock Tests 2027: Free Practice"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-mock-test-free-practice-sets.webp"
+faqs:
+  - question: "When should my child start taking full mock tests?"
+    answer: "October for familiarisation, seriously from November. Starting full mocks too early (before the syllabus is covered) just produces demoralising scores. Topic-wise tests first, full papers later."
+  - question: "How many mock tests are enough?"
+    answer: "15-20 full-length papers between November and mid-January, each followed by proper analysis. More than 25 is usually counterproductive."
+  - question: "My child's mock scores aren't improving. What now?"
+    answer: "Look at the error classification. If most errors are silly mistakes, it is a focus or reading issue, so slow down slightly and add a 5-minute re-check. If they are concept gaps, stop mocking for a week and rebuild those topics. If it is time pressure, the attempt order needs fixing, not more studying."
+  - question: "Should mocks be online or on paper?"
+    answer: "On paper, with an OMR-style answer sheet. The real exam is offline pen-and-paper, and screen practice does not build bubbling skills or the same reading stamina."
+  - question: "Are free mock tests reliable?"
+    answer: "Some are, some are not. Verify the paper matches the official pattern: 125 questions/300 marks for Class 6, 150/400 for Class 9, no negative marking. A mock with the wrong pattern teaches the wrong instincts."
+  - question: "What should we do in the last 10 days?"
+    answer: "No full mocks. Light revision, the error notebook, and rest. A mock gone badly 5 days before the exam can do real damage to confidence, and confidence is part of the score."
 ---
 
 # AISSEE 2027 Mock Test Guide: How to Practise Like It Counts

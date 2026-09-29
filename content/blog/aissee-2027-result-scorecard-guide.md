@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Result: How to Check Your Scorecard, Cutoff and Counselling Process"
+title: "AISSEE 2027 Result & Scorecard Guide"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -17,6 +17,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-result-scorecard-guide.webp"
+faqs:
+  - question: "When exactly will the AISSEE 2027 result be declared?"
+    answer: "There is no official date yet. Based on the 2026 pattern (exam 18 Jan, result in February), the 2027 result is expected in February 2027, about 4-6 weeks after the 31 January exam. The confirmed part is the exam date; everything after that follows NTA's rhythm."
+  - question: "What details do I need to check the result?"
+    answer: "Your application number and your child's date of birth, as entered in the application form. Keep the application confirmation page saved."
+  - question: "My child qualified. Does that mean admission is confirmed?"
+    answer: "No. Qualifying (25% per section plus 40% aggregate) only makes your child eligible for counselling. Admission depends on merit rank, reservation category, and choice filling."
+  - question: "Where is counselling conducted?"
+    answer: "Online, through AISSAC at pesa.ncog.gov.in, run by the Sainik Schools Society. There is no counselling fee. Anyone asking you for money for a counselling seat is running a scam."
+  - question: "Can I change my school choices after submitting them?"
+    answer: "The choice-filling window allows edits only while it is open. Once locked and the round starts, you cannot change them for that round. So review the list with a calm head before locking."
+  - question: "What if we don't get a seat in the first round?"
+    answer: "Do not panic. There are multiple rounds (about six per the SOP), and seats open up as allotted candidates withdraw. Stay in the process, watch each round's schedule, and keep your documents ready."
 ---
 
 # AISSEE 2027 Result: Scorecard, Cutoff and What Comes After

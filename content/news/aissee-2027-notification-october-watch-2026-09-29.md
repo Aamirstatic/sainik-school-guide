@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Notification Watch: What the Last Three Cycles Tell Us as October Begins"
+title: "AISSEE 2027: What 3 Past Cycles Reveal"
 date: 2026-09-29T18:20:00+05:30
 lastmod: 2026-09-29T18:20:00+05:30
 draft: false
@@ -41,7 +41,7 @@ Read that carefully: October–December is a *trend*, **not** an official NTA pr
 
 When the bulletin drops, it will specify: application open and close dates, exam date and city intimation, eligibility and age criteria, the application fee, syllabus and exam pattern, the list of participating schools, reservation provisions, the correction window, the admit-card schedule, and result and counselling details.
 
-One caution: the previous cycle's age eligibility was **10–12 years for Class VI and 13–15 years for Class IX**. That **must be re-confirmed** in the 2027 bulletin — do not treat it as final until NTA says so.
+One caution: the previous cycle's age eligibility was **10–12 years for Class VI and 13–15 years for Class IX**. That **must be re-confirmed** in the 2027 bulletin — do not treat it as final until NTA says so. Our [detailed age-limit guide]({{< relref "../blog/sainik-school-age-limit-2027-detailed-guide.md" >}}) breaks down the exact cut-off math for both classes.
 
 ## The document checklist, ready before October
 

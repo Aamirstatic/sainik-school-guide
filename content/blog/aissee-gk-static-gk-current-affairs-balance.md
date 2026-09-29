@@ -1,5 +1,5 @@
 ---
-title: "AISSEE GK Preparation: How to Balance Static GK and Current Affairs (Class 6 & 9)"
+title: "AISSEE GK: Static vs Current Affairs"
 date: 2026-09-29T14:20:00+05:30
 lastmod: 2026-09-29T14:20:00+05:30
 draft: false

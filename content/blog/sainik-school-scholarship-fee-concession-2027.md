@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Scholarship 2027: The Full Truth About Fee Concessions — Who Can Get How Much Relief"
+title: "Sainik School Scholarship 2027 Guide"
 date: 2026-07-05
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-scholarship-fee-concession-2027.webp"
+faqs:
+  - question: "Does the scholarship come before admission?"
+    answer: "No. Your child first clears AISSEE and takes admission; only then do you apply for the scholarship. Budget for the first year's full fee so a delayed DBT doesn't catch you off guard."
+  - question: "Can a General-category child get any concession?"
+    answer: "Yes — through income-based state schemes, and through defence-linked provisions if the family has a defence background. Some states also run merit-based concessions."
+  - question: "When does the scholarship money actually arrive?"
+    answer: "Usually during the academic year, via DBT. In the first year it can take a while — which is exactly why you should have the first year's fee arranged independently."
+  - question: "Will the new PPP-mode schools offer scholarships too?"
+    answer: "That policy will be clarified in the 2027 bulletin. State schemes currently apply in the 33 established schools; the new schools' position isn't confirmed yet."
+  - question: "Can we take more than one scholarship?"
+    answer: "Generally no — you pick the single most beneficial scheme. Compare the state scheme, any defence-linked grant, and NSP options, then choose."
+  - question: "Are marks required for the scholarship?"
+    answer: "Category-based scholarships don't demand high marks (passing is enough); merit-based ones do. The two are different tracks — don't mix them up."
 ---
 
 > **🔄 Last verified: 26 September 2026** — Scholarship schemes run through state governments and can change every year. The framework below follows the Sainik Schools Society's established system. For your state's exact scheme, confirm with the school office or your Zila Sainik Welfare Office. The AISSEE 2027 bulletin is **not released yet** (as of 26 Sept 2026).

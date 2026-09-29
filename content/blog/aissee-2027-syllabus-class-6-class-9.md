@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Syllabus: Complete Class 6 & Class 9 Subject-Wise Marks Breakup"
+title: "AISSEE 2027 Syllabus: Class 6 & 9"
 date: 2026-08-22
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -17,6 +17,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-syllabus-class-6-class-9.webp"
+faqs:
+  - question: "Is the AISSEE 2027 syllabus officially released?"
+    answer: "Not yet. The NTA information bulletin for 2027 has not been published as of 26 September 2026. Everything in the article follows the verified 2026 pattern, which has been stable for years and is expected to repeat."
+  - question: "Which NCERT classes should we cover?"
+    answer: "Class 6 entry: NCERT Class 5 (all subjects in the paper) plus the start of Class 6 Maths. Class 9 entry: NCERT Class 8, thoroughly; the paper is built on it."
+  - question: "Is the Class 9 paper really only in English?"
+    answer: "Yes. Unlike Class 6 (13 mediums), the Class 9 paper is conducted in English only. Factor that into preparation: English comprehension matters beyond its own 50 marks."
+  - question: "How much of the paper is Maths?"
+    answer: "Half: 150 of 300 marks in Class 6, 200 of 400 in Class 9. It deserves roughly half of all study time."
+  - question: "Does GK include current affairs?"
+    answer: "Yes: roughly the last 6-12 months of major national events, sports, awards, and science news. Daily headlines plus a children's GK book covers it."
+  - question: "What happens if my child fails one section but scores high overall?"
+    answer: "The 25%-per-section rule applies (except for SC/ST candidates). A brilliant total with one section below 25% still does not qualify. That is why even the weakest section needs minimum preparation."
 ---
 
 # AISSEE 2027 Syllabus: Class 6 & Class 9, Explained Simply

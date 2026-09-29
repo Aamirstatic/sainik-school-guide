@@ -1,5 +1,5 @@
 ---
-title: "RIMCEE 2026: After the 30 September Deadline — Correction Window, Admit Card & the 6 December Plan"
+title: "RIMCEE 2026: After the Deadline"
 date: 2026-09-28T14:15:00+05:30
 lastmod: 2026-09-28T14:15:00+05:30
 draft: false
@@ -56,7 +56,7 @@ NTA's correction facility opens just two days after the late window closes — 9
 3. **Start December prep now.** English descriptive answers and Maths working steps can't be crammed in November. The GK paper rewards daily reading.
 4. **Watch the RIMCEE portal in early October** for the correction-window link rather than news blogs — NTA activates it silently.
 
-For Sainik School families doing both exams: RIMCEE is a separate exam from AISSEE (31 January 2027, per NTA's calendar). The calendars don't clash — which is exactly why doing both is smart, not overloaded.
+For Sainik School families doing both exams: RIMCEE is a separate exam from AISSEE (31 January 2027, per NTA's calendar). The calendars don't clash — which is exactly why doing both is smart, not overloaded. Pin it up: [all five NTA school-entrance dates, one calendar]({{< relref "nta-school-entrance-calendar-2026-27-2026-09-28.md" >}}).
 
 ## FAQs
 

@@ -1,5 +1,5 @@
 ---
-title: "RIMCEE 2026 Registration Closes in 3 Days: NTA's RIMC Class 8 Entrance — Apply by 30 September"
+title: "RIMCEE 2026: Apply by 30 September"
 date: 2026-09-27T21:15:00+05:30
 lastmod: 2026-09-27T21:15:00+05:30
 draft: false
@@ -45,7 +45,7 @@ The Stage-I written exam is pen-and-paper and runs for **4.5 hours** (reported b
 
 ## Why RIMC matters to Sainik School families
 
-Here's the thing — if you're reading this site, you're probably preparing for AISSEE 2027 too. RIMC isn't a rival to that plan; it's the sibling plan. RIMC Dehradun is the country's oldest military boarding school, and its alumni list reads like a Who's Who of the Armed Forces. The entrance exam tests written English and Mathematics (descriptive papers) plus General Knowledge — skills that overlap heavily with AISSEE preparation.
+Here's the thing — if you're reading this site, you're probably preparing for AISSEE 2027 too. RIMC isn't a rival to that plan; it's the sibling plan. RIMC Dehradun is the country's oldest military boarding school, and its alumni list reads like a Who's Who of the Armed Forces. The entrance exam tests written English and Mathematics (descriptive papers) plus General Knowledge — skills that overlap heavily with [AISSEE GK preparation]({{< relref "../blog/aissee-gk-static-gk-current-affairs-balance.md" >}}), so the same daily reading feeds both exams.
 
 The one big difference worth knowing: **RIMC selects purely on merit — there is no reservation system**, and admissions run on state-wise/zone-wise merit lists. And unlike AISSEE's single written stage followed by e-counselling, RIMC adds an in-person viva voce round. A child who's preparing for both gets more chances, not divided effort.
 

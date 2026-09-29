@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Hostel Life: The Real Story — From House System to Mess"
+title: "Sainik School Hostel Life Explained"
 date: 2026-07-09
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

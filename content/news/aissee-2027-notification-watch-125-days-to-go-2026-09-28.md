@@ -1,5 +1,5 @@
 ---
-title: "125 Days to AISSEE 2027: Notification Still Awaited — What to Finish This Week"
+title: "AISSEE 2027: 125-Day Weekly Plan"
 date: 2026-09-28T11:15:00+05:30
 lastmod: 2026-09-28T11:15:00+05:30
 draft: false
@@ -55,10 +55,10 @@ The other reason this week matters: **the OMR format punishes unpractised studen
 
 1. **Gather documents now** — birth certificate, domicile/state residence proof, category certificate (if applicable). Scan them; NTA forms typically need a recent photo and signature in specified formats.
 2. **Finish the syllabus first pass** — every chapter touched once, so the notification period can be pure revision and mocks.
-3. **Do one full OMR mock this week** — time it strictly: 150 minutes for Class VI, 180 for Class IX.
+3. **Do one full OMR mock this week** — time it strictly: 150 minutes for Class VI, 180 for Class IX. Then [analyse it with the error-log method]({{< relref "../blog/aissee-mock-test-analysis-error-log-method.md" >}}) the same evening — the marks come from the analysis, not the attempt.
 4. **Fix the weakest section** — for most students it is Intelligence (Class VI) or Social Science (Class IX). Twenty minutes a day beats a weekend cram.
 5. **Bookmark the official portals** — the AISSEE page on the NTA examination portal and nta.ac.in. Ignore WhatsApp forwards about dates.
-6. **Check the girls' quota reality** — 10% of seats (or 10 seats, whichever is higher) are reserved for girls in Class VI; plan school choices accordingly when the bulletin lists participating schools.
+6. **Check the girls' quota reality** — 10% of seats (or 10 seats, whichever is higher) are reserved for girls in Class VI; plan school choices accordingly when the bulletin lists participating schools. See our [Sainik Schools for girls guide]({{< relref "../blog/sainik-school-for-girls-2027.md" >}}) for which schools admit girls.
 7. **Set a weekly routine** — one mock per week now, two per week from December. Consistency over these 125 days is the whole game.
 
 ## FAQs

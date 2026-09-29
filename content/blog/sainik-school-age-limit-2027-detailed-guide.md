@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Age Limit 2027: Class 6 & 9 Age Criteria Explained with Examples"
+title: "Sainik School Age Limit 2027 Guide"
 date: 2026-08-21
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

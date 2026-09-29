@@ -1,5 +1,5 @@
 ---
-title: "NDA After Sainik School: The Complete Career Path from Class 6 to Commissioned Officer"
+title: "NDA After Sainik School: Full Guide"
 date: 2026-07-05
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

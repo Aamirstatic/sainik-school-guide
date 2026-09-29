@@ -1,5 +1,5 @@
 ---
-title: "New Sainik Schools Explained: How the 40% AISSEE Route and 60% School Route Actually Work"
+title: "New Sainik Schools 40/60 Route Guide"
 date: 2026-09-29T14:20:00+05:30
 lastmod: 2026-09-29T14:20:00+05:30
 draft: false

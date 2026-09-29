@@ -1,5 +1,5 @@
 ---
-title: "Silly OMR Mistakes That Cost Students Their Sainik School Seat"
+title: "AISSEE OMR Mistakes That Cost Seats"
 date: 2026-09-28T11:15:00+05:30
 lastmod: 2026-09-28T11:15:00+05:30
 draft: false

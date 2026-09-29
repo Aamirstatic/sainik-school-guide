@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Class 9 Admission 2027: Direct Entry Guide — Eligibility, Exam Pattern & Seats"
+title: "Sainik School Class 9 Admission 2027"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

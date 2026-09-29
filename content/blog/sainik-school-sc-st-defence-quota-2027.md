@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Reservation 2027: SC/ST/OBC & Defence Quota Rules, Documents and Category-Wise Seats"
+title: "Sainik School Reservation 2027 Rules"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-sc-st-defence-quota-2027.webp"
+faqs:
+  - question: "Does OBC reservation apply in Sainik Schools?"
+    answer: "Yes. OBC-NCL candidates get 27% reservation in the 33 established Sainik Schools, confirmed in the AISSAC SOP. Make sure your certificate is the Non-Creamy Layer variant and currently valid — creamy-layer candidates are counted as General."
+  - question: "Is there a defence quota in Sainik Schools for 2027?"
+    answer: "Yes — 25% of the remaining seats (after SC/ST/OBC allocation) are provisioned for wards of serving and ex-service personnel. You'll need a service certificate or PPO as proof."
+  - question: "Do SC/ST students need 40% aggregate to qualify in AISSEE?"
+    answer: "No — this is confirmed. The 25%-per-section and 40%-aggregate qualifying criteria from the 2026 bulletin do not apply to SC/ST candidates. They compete on the category merit list instead."
+  - question: "What is the 67/33 rule in Sainik School admission?"
+    answer: "67% of seats in each of the 33 established Sainik Schools are reserved for students domiciled in the school's home state; 33% are open to students from other states and UTs. Category quotas apply within these pools."
+  - question: "Can my daughter benefit from both the girls quota and SC/ST reservation?"
+    answer: "Yes. The girls quota (10% of vacancies or 10 seats, whichever is more, for Class 6) and the category reservation are separate provisions — a girl from a reserved category benefits from both."
+  - question: "When will the official 2027 reservation details be confirmed?"
+    answer: "When NTA releases the AISSEE 2027 information bulletin, expected around October 2026. The structure here follows the official 2026 SOP and is unlikely to change, but the bulletin is the final authority."
 ---
 
 > **🔄 Last verified: 26 September 2026** — The reservation rules below come from the AISSAC 2025 SOP, the Sainik Schools Society's official counselling document. The AISSEE 2027 information bulletin is **not released yet** (as of 26 Sept 2026); this page will be updated within 48 hours of its release.

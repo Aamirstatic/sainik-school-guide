@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 3 Month Study Plan: Your 12-Week Strategy Before 31 January"
+title: "AISSEE 2027 3-Month Study Plan"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

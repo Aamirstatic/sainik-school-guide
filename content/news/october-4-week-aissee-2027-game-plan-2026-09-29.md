@@ -1,5 +1,5 @@
 ---
-title: "124 Days to AISSEE 2027: Your 4-Week October Game Plan (Starts Thursday)"
+title: "AISSEE 2027: 4-Week October Game Plan"
 date: 2026-09-29T07:15:00+05:30
 lastmod: 2026-09-29T07:15:00+05:30
 draft: false

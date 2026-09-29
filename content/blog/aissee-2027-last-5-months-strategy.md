@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Final Months Strategy: September to January Study Plan (Class 6 & 9)"
+title: "AISSEE 2027 Final Months Strategy"
 date: 2026-08-02
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-2027-last-5-months-strategy.webp"
+faqs:
+  - question: "Is four months enough for AISSEE 2027 preparation?"
+    answer: "Yes, if the syllabus is mostly covered and the remaining time goes into practice and revision. If your child is starting from zero in late September, it is tight but doable for Class 6 with a strict daily routine; prioritise Maths and Intelligence, which are the most scoring."
+  - question: "How many mock tests should my child solve before 31 January?"
+    answer: "Aim for 15-20 full-length papers between November and mid-January. Quality of analysis matters more than quantity; one mock properly reviewed beats three rushed ones."
+  - question: "Which subject should get the most time?"
+    answer: "Maths, for both classes, since it is 50% of the Class 6 paper and 50% of the Class 9 paper by marks. After Maths, Class 6 students should prioritise Intelligence, and Class 9 students should prioritise General Science."
+  - question: "My child makes silly mistakes in every mock. What do I do?"
+    answer: "Use an error notebook: most silly mistakes are actually patterns like misreading questions, calculation slips, or OMR bubbling errors. Once your child sees their own pattern written down, they start self-correcting. Budget 5 minutes at the end of every paper for a deliberate re-check."
+  - question: "Should we stop school studies to focus on AISSEE?"
+    answer: "No. The AISSEE syllabus overlaps heavily with NCERT anyway, and dropping school creates stress without adding much study time. Two to three focused hours a day is plenty alongside school."
+  - question: "What should the last week look like?"
+    answer: "Light revision only. Admit card downloaded and checked, centre located, bag packed the night before. No new topics, no full mocks in the last 3-4 days, normal sleep."
 ---
 
 # AISSEE 2027 Final Months Strategy: September to January (Class 6 & 9)

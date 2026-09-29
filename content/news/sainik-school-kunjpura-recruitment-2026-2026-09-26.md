@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Kunjpura Recruitment 2026: 15 Teaching & Non-Teaching Posts, Apply by 31 October"
+title: "Kunjpura Sainik School: 15 Posts"
 date: 2026-09-26T21:15:00+05:30
 lastmod: 2026-09-26T21:15:00+05:30
 draft: false
@@ -28,7 +28,7 @@ faqs:
 
 ## What's happened — Sainik School Kunjpura hiring for 2026
 
-Sainik School Kunjpura, Karnal (Haryana) — run by the Sainik Schools Society under the Ministry of Defence — released its 2026 staff recruitment notification on **25 September 2026** (CONFIRMED). There are **15 teaching and non-teaching vacancies** (CONFIRMED), and this round is interesting because it isn't just classroom posts: alongside TGT teachers, the school is hiring a Horse Riding Instructor, a Band Master, a Nursing Sister, and five Ward Boys.
+[Sainik School Kunjpura]({{< relref "../schools/sainik-school-kunjpura.md" >}}), Karnal (Haryana) — run by the Sainik Schools Society under the Ministry of Defence — released its 2026 staff recruitment notification on **25 September 2026** (CONFIRMED). There are **15 teaching and non-teaching vacancies** (CONFIRMED), and this round is interesting because it isn't just classroom posts: alongside TGT teachers, the school is hiring a Horse Riding Instructor, a Band Master, a Nursing Sister, and five Ward Boys.
 
 ## Post-wise vacancies
 
@@ -74,6 +74,8 @@ Shortlisting of applications → written exam → practical/skill test (where ap
 ## What to do next
 
 Don't wait until the last week — postal delays have derailed many such applications in the past. Get your Demand Draft made early, keep self-attested photocopies of every certificate ready, and cross-check the official notification PDF for the exact TGT age band before posting your form. If the notification PDF is hard to find on the school site, check both reporting sources linked below, which carry the full vacancy and eligibility breakdown.
+
+*Note for parents: this is a staff recruitment notice, not student admissions. If you're looking for AISSEE admission, see our [Sainik School Admission 2027 guide]({{< relref "../blog/sainik-school-admission-2027-guide.md" >}}).* 
 
 ## FAQs
 

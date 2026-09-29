@@ -1,5 +1,5 @@
 ---
-title: "Sainik School vs Kendriya Vidyalaya: Fees, Admission, Career — Which Is Better?"
+title: "Sainik School vs Kendriya Vidyalaya"
 date: 2026-08-02
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/sainik-school-vs-kendriya-vidyalaya.webp"
+faqs:
+  - question: "Can a KV student clear the NDA?"
+    answer: "Absolutely. The preparation just isn't built into the school — you'll arrange coaching or self-study on the side."
+  - question: "Which has better academics?"
+    answer: "Both follow CBSE and both are solid. The real difference is environment and purpose, not syllabus quality."
+  - question: "Can girls join Sainik Schools?"
+    answer: "Yes — in the 33 established schools, Class 6 has a confirmed girls' quota of 10% of vacancies or 10 seats, whichever is more."
+  - question: "What are KV fees currently?"
+    answer: "Subsidised — roughly a few hundred rupees a month (indicative). Check the current schedule at kvsangathan.nic.in."
+  - question: "Can we apply to both?"
+    answer: "Yes — the processes are completely separate. AISSEE is a separate application from KV admission."
+  - question: "Can a child transfer between Sainik Schools?"
+    answer: "Generally no — admission is to one school. KVs do have a provision for admission in a new KV on transfer."
 ---
 
 > **Last verified: 26 September 2026** — AISSEE facts below follow our verified AISSEE 2027 fact-sheet. KV information follows KVS's public norms; verify current fee details at kvsangathan.nic.in.

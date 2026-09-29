@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Seats 2027: How Many Seats, Where They Are — The Complete Seat Matrix Explained"
+title: "Sainik School Seats 2027: Full Matrix"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-seats-2027-all-schools-matrix.webp"
+faqs:
+  - question: "How many total seats will there be in 2027?"
+    answer: "The final number comes with the bulletin. The 2026 baseline was 33 + 69 schools for Class 6 — expect 2027 to be at least that, possibly more."
+  - question: "Does every school admit in both Class 6 and Class 9?"
+    answer: "No. Class 6 entry ran in 102 schools in 2026; Class 9 in only 52. Check your target school's entry classes in the bulletin."
+  - question: "How do I get the home-state quota benefit?"
+    answer: "Fill the domicile correctly in the form and produce the domicile certificate at verification. A wrong state entry means losing the quota — see the admission mistakes guide."
+  - question: "Can I apply to more than one school?"
+    answer: "Yes — one AISSEE form lets you fill choices for multiple schools during counselling."
+  - question: "When will the seat matrix be released?"
+    answer: "With NTA's information bulletin — expected around October 2026."
+  - question: "Can girls apply to every school?"
+    answer: "The girls' quota is confirmed for the 33 established schools. For new schools, check the bulletin — and read our girls' guide for the full picture."
 ---
 
 > **🔄 Last verified: 26 September 2026** — The AISSEE 2027 information bulletin is **not released yet**, so the final 2027-28 school-wise seat matrix isn't available. Below is the official 2026-cycle baseline (HT, Oct 2025 + AISSAC SOP). This page will be updated within 48 hours of the bulletin's release.

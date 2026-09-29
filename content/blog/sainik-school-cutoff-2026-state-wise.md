@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Cutoff 2026–27: How Cutoffs Really Work & What a Safe Score Looks Like"
+title: "Sainik School Cutoff 2026 Explained"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Sainik School to NDA Roadmap: The 7-Year Path From Class 6 to Officer"
+title: "Sainik School to NDA: 7-Year Roadmap"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/sainik-school-to-nda-roadmap.webp"
+faqs:
+  - question: "Does a Sainik School give any reservation in the NDA?"
+    answer: "No. The NDA exam is identical for everyone. Sainik Schools give better preparation, not reserved seats."
+  - question: "Can girls go to the NDA?"
+    answer: "Yes — girls can now enter the NDA following the Supreme Court's decision. Check the UPSC notification for that cycle's details."
+  - question: "Which subjects are needed in Class 12 for NDA?"
+    answer: "Any stream works for the Army. The Air Force and Navy wings require PCM (Physics, Chemistry, Maths)."
+  - question: "What exactly is the SSB?"
+    answer: "A 5-day selection process — psychology tests, group tasks (GTO), a personal interview, and medicals. It assesses \"officer-like qualities,\" not bookish knowledge."
+  - question: "How many times can my child attempt the NDA?"
+    answer: "As long as they stay within the age limit (19.5 years) — that usually means 4–5 attempts."
+  - question: "What if the NDA doesn't work out after Sainik School?"
+    answer: "TES, NCC Special Entry, CDS after graduation, or strong civilian careers. The training is never wasted."
 ---
 
 > **Last verified: 26 September 2026** — AISSEE facts below follow our verified AISSEE 2027 fact-sheet. NDA eligibility and pattern follow UPSC's established norms; exact NDA dates come out in each year's UPSC notification.

@@ -1,5 +1,5 @@
 ---
-title: "The 30-Day Revision Plan Before AISSEE 2027: A Week-by-Week Countdown to 31 January"
+title: "AISSEE 2027 30-Day Revision Plan"
 date: 2026-09-28T14:15:00+05:30
 lastmod: 2026-09-28T14:15:00+05:30
 draft: false
@@ -65,7 +65,7 @@ Two mocks — on the 25th and the 28th — and nothing harder than that. Morning
 
 ## The error log: your secret weapon
 
-Buy a notebook on 1 January and label it **Mistakes I Will Not Repeat**. Every wrong answer from every mock goes in, with the *reason*. By the third week, patterns jump out — and patterns are fixable. Children who keep error logs almost always say the same thing after the exam: the paper felt familiar, because they'd already met every mistake before.
+Buy a notebook on 1 January and label it **Mistakes I Will Not Repeat**. Every wrong answer from every mock goes in, with the *reason*. By the third week, patterns jump out — and patterns are fixable. Children who keep error logs almost always say the same thing after the exam: the paper felt familiar, because they'd already met every mistake before. For the full routine — five mistake buckets, a topic tracker, and a 45-minute post-mock checklist — see our [error-log method guide]({{< relref "aissee-mock-test-analysis-error-log-method.md" >}}).
 
 ## What parents should do (and not do)
 

@@ -1,5 +1,5 @@
 ---
-title: "Career Options After Sainik School: Beyond NDA — Engineering, Medicine, Civil Services & More"
+title: "Career Options After Sainik School"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

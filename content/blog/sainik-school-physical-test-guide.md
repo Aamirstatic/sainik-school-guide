@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Physical Fitness Guide 2027: Get Fit in 4 Months"
+title: "Sainik School Fitness Guide 2027"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

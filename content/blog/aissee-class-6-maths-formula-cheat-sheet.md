@@ -1,5 +1,5 @@
 ---
-title: "AISSEE Class 6 Maths Formula Cheat Sheet: The Only List Your Child Needs to Memorise"
+title: "AISSEE Class 6 Maths Formula Sheet"
 date: 2026-09-29T07:15:00+05:30
 lastmod: 2026-09-29T07:15:00+05:30
 draft: false

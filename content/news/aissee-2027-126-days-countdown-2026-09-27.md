@@ -1,5 +1,5 @@
 ---
-title: "126 Days to AISSEE 2027: What to Finish Before the October Notification"
+title: "AISSEE 2027: 126-Day Checklist"
 date: 2026-09-27T07:15:00+05:30
 lastmod: 2026-09-27T07:15:00+05:30
 draft: false

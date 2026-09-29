@@ -1,5 +1,5 @@
 ---
-title: "Sainik School Admission 2028: Early Preparation Guide for Class 6 & 9 (15-Month Roadmap)"
+title: "AISSEE 2028: Early Prep Roadmap"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

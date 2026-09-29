@@ -1,5 +1,5 @@
 ---
-title: "From Sainik School to NDA: The Complete Path, Pattern and Preparation"
+title: "Sainik School to NDA: The Real Path"
 date: 2026-07-09
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Exam Day Tips: Time Management, Attempt Order and the 5 OMR Rules"
+title: "AISSEE 2027 Exam Day Tips"
 date: 2026-08-01
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -9,6 +9,19 @@ author_name: "Aamir Raza"
 author_title: "SEO & Digital Marketing Expert"
 author_image: "/images/authors/aamir.jpeg"
 featured_image: "/images/thumbnails/aissee-exam-day-tips-2027.webp"
+faqs:
+  - question: "How should my child manage time in the AISSEE exam?"
+    answer: "Fix a section-wise time budget before exam day and never spend more than 2 minutes on a single question. Practise the budget in mocks, not on 31 January."
+  - question: "Should my child attempt all questions?"
+    answer: "Yes. There is no negative marking in AISSEE, so every question should be attempted. A skipped question is a guaranteed zero; an educated guess always has a chance."
+  - question: "What if the OMR sheet gets a wrong bubble?"
+    answer: "A filled bubble cannot be undone, which is why you bubble carefully and keep the last 10-15 minutes for verification. Fill one bubble per question, completely."
+  - question: "Which section should be attempted first?"
+    answer: "It depends on your child's strength, but the order must be locked in during mock tests. Never experiment with a new order on exam day."
+  - question: "What if the paper turns out tough?"
+    answer: "Tough is tough for everyone, and cutoffs fall accordingly. Do not panic and do not leave the paper; steady attempting beats brilliance under stress."
+  - question: "Where should rough work be done?"
+    answer: "In the margins and blank spaces of the question paper. Never on the OMR sheet."
 ---
 
 # AISSEE 2027 Exam Day Tips: Manage the Paper, Don't Just Solve It

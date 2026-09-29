@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Notification Expected in October: 7 Documents to Keep Ready This Week"
+title: "AISSEE 2027: 7 Documents to Keep Ready"
 date: 2026-09-28T21:15:00+05:30
 lastmod: 2026-09-28T21:15:00+05:30
 draft: false

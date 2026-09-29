@@ -1,5 +1,5 @@
 ---
-title: "AISSEE 2027 Exam Day Guide: Admit Card, Checklist, and What to Do (and Avoid)"
+title: "AISSEE 2027 Exam Day Checklist"
 date: 2026-08-25
 lastmod: 2026-09-26T10:00:00+05:30
 draft: false
@@ -16,6 +16,19 @@ author_name: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
 author_image: "/images/authors/rifaul-hasan.jpeg"
 featured_image: "/images/thumbnails/aissee-admit-card-exam-day-2027.webp"
+faqs:
+  - question: "When will the AISSEE 2027 admit card be released?"
+    answer: "Not announced yet. Based on the 2026 pattern, expect it around mid-January 2027, roughly two weeks before the 31 January exam. Download it from the NTA AISSEE portal the day it releases."
+  - question: "What if there's an error on the admit card?"
+    answer: "Contact NTA immediately through the helpline/details on the portal. Do not wait until exam week; corrections take time, and an uncorrected name or photo mismatch can cause trouble at the gate."
+  - question: "What ID is accepted at the centre?"
+    answer: "A valid photo ID as specified on the admit card, typically Aadhaar or school ID. Carry exactly what the admit card asks for; do not improvise."
+  - question: "Can parents stay inside the centre?"
+    answer: "No. Parents wait outside the gate. Plan for this: carry water, and arrange your own waiting spot in advance."
+  - question: "What if we're running late?"
+    answer: "Gates close at the reporting time printed on the admit card, and late entry is not permitted. This is why the day-before centre visit matters; traffic surprises are the number one cause of exam-day panic."
+  - question: "Should my child revise on exam morning?"
+    answer: "Light formula or fact revision is fine if it calms them. Heavy new study is not. If your child is anxious, a short walk and a normal breakfast do more than any notes."
 ---
 
 # AISSEE 2027 Exam Day Guide: Admit Card, Checklist, and Calm Nerves

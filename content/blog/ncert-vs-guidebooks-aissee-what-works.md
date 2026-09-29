@@ -1,5 +1,5 @@
 ---
-title: "NCERT vs Guidebooks for AISSEE: What Actually Works"
+title: "NCERT vs Guidebooks for AISSEE"
 date: 2026-09-28T21:15:00+05:30
 lastmod: 2026-09-28T21:15:00+05:30
 draft: false
