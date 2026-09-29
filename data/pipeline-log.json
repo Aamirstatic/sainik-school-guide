@@ -1,6 +1,6 @@
 {
-  "blog_topic_cursor": 14,
-  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic.",
+  "blog_topic_cursor": 16,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16.",
   "published": [
     {
       "date": "2026-09-26",
@@ -286,6 +286,24 @@
       "type": "webstory",
       "slug": "previous-year-papers-vs-sample-papers-story",
       "title": "AISSEE Papers: Previous Year vs Sample Papers — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "aissee-2027-notification-day-parent-checklist-2026-09-29",
+      "title": "AISSEE 2027 Notification Day: The 10 Things Parents Must Check Before Submitting the Form"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-mock-test-analysis-error-log-method",
+      "title": "How to Analyse Your Mock Test the Right Way: The Error-Log Method for AISSEE 2027"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "aissee-mock-test-analysis-story",
+      "title": "Analyse Your Mock Test Like a Topper: 7 Slides"
     }
   ]
 }
