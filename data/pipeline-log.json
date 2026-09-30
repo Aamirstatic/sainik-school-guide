@@ -1,6 +1,6 @@
 {
-  "blog_topic_cursor": 16,
-  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16.",
+  "blog_topic_cursor": 17,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17.",
   "published": [
     {
       "date": "2026-09-26",
@@ -304,6 +304,19 @@
       "type": "webstory",
       "slug": "aissee-mock-test-analysis-story",
       "title": "Analyse Your Mock Test Like a Topper: 7 Slides"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "aissee-2027-september-roundup-2026-09-30",
+      "title": "AISSEE 2027 September Roundup"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "aissee-class-9-science-important-chapters",
+      "title": "AISSEE Class 9 Science: Key Chapters",
+      "topic_id": 17
     }
   ]
 }
