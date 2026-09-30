@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 17,
+  "blog_topic_cursor": 18,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17.",
   "published": [
     {
@@ -317,6 +317,18 @@
       "slug": "aissee-class-9-science-important-chapters",
       "title": "AISSEE Class 9 Science: Key Chapters",
       "topic_id": 17
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "aissee-2027-123-days-milestones-countdown-2026-09-30",
+      "title": "AISSEE 2027: 123 Days Left — 6 Milestones to Watch"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "map-work-tips-aissee-class-9-social-science",
+      "title": "Map Work Tips for AISSEE Class 9 Social Science"
     }
   ]
 }
