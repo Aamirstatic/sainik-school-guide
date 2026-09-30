@@ -1,6 +1,6 @@
 {
-  "blog_topic_cursor": 18,
-  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17.",
+  "blog_topic_cursor": 19,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429).",
   "published": [
     {
       "date": "2026-09-26",
@@ -329,6 +329,18 @@
       "type": "blog",
       "slug": "map-work-tips-aissee-class-9-social-science",
       "title": "Map Work Tips for AISSEE Class 9 Social Science"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "rimcee-2026-apply-by-5pm-today-2026-09-30",
+      "title": "RIMCEE 2026: Apply by 5 PM Today"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "how-11-year-olds-handle-exam-pressure",
+      "title": "Exam Pressure at 11: A Parent's Guide"
     }
   ]
 }
