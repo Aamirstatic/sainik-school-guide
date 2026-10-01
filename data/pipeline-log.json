@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 23,
+  "blog_topic_cursor": 24,
   "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22.",
   "published": [
     {
@@ -397,6 +397,18 @@
       "slug": "domicile-certificate-sainik-school-guide",
       "title": "Domicile Certificate for Sainik School",
       "blog_topic_id": 23
+    },
+    {
+      "date": "2026-10-01",
+      "type": "news",
+      "slug": "girls-quota-sainik-schools-aissee-2027-2026-10-01",
+      "title": "Girls in Sainik Schools: How the 10% Quota Works for AISSEE 2027"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "blog",
+      "slug": "caste-certificate-format-aissee-reservation-claims",
+      "title": "Caste Certificate Rules for AISSEE 2027"
     }
   ]
 }
