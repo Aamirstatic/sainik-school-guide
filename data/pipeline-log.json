@@ -1,6 +1,6 @@
 {
-  "blog_topic_cursor": 24,
-  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22.",
+  "blog_topic_cursor": 25,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22. [2026-10-01 evening] news: AISSEE 2027 notification status check (portal shows only 2026 items as of Oct 1; 122 days to 31 Jan 2027; exam-date angle rejected as duplicate of latenoon UP piece quoting 20 Dec); blog topic 25 (post-result steps: answer key/result/AISSAC/choice fill/allotment/spot round/verification/medical); cursor set 25.",
   "published": [
     {
       "date": "2026-09-26",
@@ -409,6 +409,18 @@
       "type": "blog",
       "slug": "caste-certificate-format-aissee-reservation-claims",
       "title": "Caste Certificate Rules for AISSEE 2027"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "news",
+      "slug": "aissee-2027-notification-still-not-out-2026-10-01",
+      "title": "AISSEE 2027: Notification Not Out Yet"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "blog",
+      "slug": "what-happens-after-aissee-result-guide",
+      "title": "AISSEE Result 2027: What Happens Next"
     }
   ]
 }
