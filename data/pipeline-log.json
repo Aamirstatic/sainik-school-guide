@@ -1,6 +1,6 @@
 {
-  "blog_topic_cursor": 29,
-  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22. [2026-10-01 evening] news: AISSEE 2027 notification status check (portal shows only 2026 items as of Oct 1; 122 days to 31 Jan 2027; exam-date angle rejected as duplicate of latenoon UP piece quoting 20 Dec); blog topic 25 (post-result steps: answer key/result/AISSAC/choice fill/allotment/spot round/verification/medical); cursor set 25. [2026-10-01 night] news: RIMCEE 2026 late-fee window open 1-7 Oct (regular window closed 30 Sep 5 PM; verified educationtimes+telegraphindia); blog topic 26 (AISSAC choice filling mistakes, evergreen bank -- no hot trending topic); cursor set 26. [2026-10-02 latenoon] news: application-fee explainer (no genuinely new 48h news; fee ₹850/₹700 verified via TOI citing NTA bulletin + Collegedunia opened this run); blog topic 29 (defence-quota documents, SOP-verified; topic 28 skipped — counselling/seat-allotment mechanics already covered by sainik-school-counselling-2027 + seats-matrix + preference-guide pieces; Trends fetch 429 again). cursor set 29.",
+  "blog_topic_cursor": 30,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22. [2026-10-01 evening] news: AISSEE 2027 notification status check (portal shows only 2026 items as of Oct 1; 122 days to 31 Jan 2027; exam-date angle rejected as duplicate of latenoon UP piece quoting 20 Dec); blog topic 25 (post-result steps: answer key/result/AISSAC/choice fill/allotment/spot round/verification/medical); cursor set 25. [2026-10-01 night] news: RIMCEE 2026 late-fee window open 1-7 Oct (regular window closed 30 Sep 5 PM; verified educationtimes+telegraphindia); blog topic 26 (AISSAC choice filling mistakes, evergreen bank -- no hot trending topic); cursor set 26. [2026-10-02 latenoon] news: application-fee explainer (no genuinely new 48h news; fee ₹850/₹700 verified via TOI citing NTA bulletin + Collegedunia opened this run); blog topic 29 (defence-quota documents, SOP-verified; topic 28 skipped — counselling/seat-allotment mechanics already covered by sainik-school-counselling-2027 + seats-matrix + preference-guide pieces; Trends fetch 429 again). cursor set 29. [2026-10-02 afternoon] news: October form-readiness checklist (notification not out; form expected Oct 2026 per buddy4study+collegedunia+aglasem; 7-item readiness list); blog topic 30 (change allotted school after counselling — Accept/Reconsider/Hold&Continue from AISSAC SOP; no post-counselling transfer); Trends fetch 429 again. cursor set 30.",
   "published": [
     {
       "date": "2026-09-26",
@@ -461,6 +461,18 @@
       "type": "blog",
       "slug": "defence-quota-documents-sainik-schools",
       "title": "Defence Quota: Documents You Need"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "news",
+      "slug": "aissee-2027-form-expected-october-readiness-checklist-2026-10-02",
+      "title": "AISSEE 2027 Form Expected This Month: Get These 7 Things Ready"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "blog",
+      "slug": "can-you-change-allotted-sainik-school-after-counselling",
+      "title": "Can You Change Your Allotted Sainik School After Counselling?"
     }
   ]
 }
