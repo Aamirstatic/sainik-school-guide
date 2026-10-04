@@ -15,7 +15,7 @@ faqs:
   - question: "Is skipping breakfast really that bad during exam prep?"
     answer: "It is the single worst food habit during study season. A child who skips breakfast runs out of energy mid-morning, which is exactly when schools schedule the hardest periods. A simple poha, upma or dalia breakfast is enough — the point is eating something with staying power, not cooking a feast."
   - question: "Are energy drinks or too much tea and coffee okay for studying late?"
-    answer: "No. Sugary energy drinks cause a quick spike followed by a crash, and too much caffeine in children leads to poor sleep, which ruins the next day's studying. One or two cups of milk tea is fine for most children; anything marketed as an energy drink is best avoided entirely."
+    answer: "No. Sugary energy drinks cause a quick spike followed by a crash, and too much caffeine in children leads to poor sleep, which ruins the next day's studying. A small cup of milk tea occasionally is fine for older children (caffeine is not recommended for younger kids); anything marketed as an energy drink is best avoided entirely."
   - question: "What is the best snack for late-evening study sessions?"
     answer: "Light and warm beats heavy and fried. A glass of warm milk with a small handful of roasted peanuts or almonds, a banana, or a bowl of vegetable soup keeps a child alert without overloading the stomach. Avoid maggi, chips and heavy parathas right before study time."
   - question: "How much water should a studying child drink?"
@@ -40,7 +40,7 @@ The result is predictable: a child who is sleepy at 11 AM (heavy breakfast or no
 
 ### 1. Breakfast is non-negotiable
 
-If you change exactly one thing, make it this. A hungry child cannot concentrate — attention is measurably worse on an empty stomach, and the crash lands right in the middle of morning study. The good news for Indian parents: our everyday breakfasts are already excellent. Vegetable poha, upma with peanuts, moong dal cheela, idli, vegetable dalia, or oats with nuts and fruit — all provide the slow-release energy a child needs. Add protein where you can (an egg, a bowl of dahi, paneer in the cheela), because protein digests slower than plain carbs and keeps a child full longer. This matches what dietitians consistently recommend: protein plus slow carbs at breakfast supports steadier attention through the morning.
+If you change exactly one thing, make it this. A hungry child cannot concentrate — studies link skipping breakfast with poorer attention in children, and the crash lands right in the middle of morning study. The good news for Indian parents: our everyday breakfasts are already excellent. Vegetable poha, upma with peanuts, moong dal cheela, idli, vegetable dalia, or oats with nuts and fruit — all provide the slow-release energy a child needs. Add protein where you can (an egg, a bowl of dahi, paneer in the cheela), because protein digests slower than plain carbs and keeps a child full longer. This matches what dietitians consistently recommend: protein plus slow carbs at breakfast supports steadier attention through the morning.
 
 ### 2. Smaller meals, more often
 
@@ -103,7 +103,7 @@ It is the single worst food habit during study season. A child who skips breakfa
 
 **Are energy drinks or too much tea and coffee okay for studying late?**
 
-No. Sugary energy drinks cause a quick spike followed by a crash, and too much caffeine in children leads to poor sleep, which ruins the next day's studying. One or two cups of milk tea is fine for most children; anything marketed as an energy drink is best avoided entirely.
+No. Sugary energy drinks cause a quick spike followed by a crash, and too much caffeine in children leads to poor sleep, which ruins the next day's studying. A small cup of milk tea occasionally is fine for older children (caffeine is not recommended for younger kids); anything marketed as an energy drink is best avoided entirely.
 
 **What is the best snack for late-evening study sessions?**
 
