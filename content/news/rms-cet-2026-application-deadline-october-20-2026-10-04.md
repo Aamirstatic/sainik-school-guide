@@ -52,6 +52,8 @@ Miss that, and the only way in is the late window from **21 to 25 October 2026**
 
 **Eligibility — Class 9:** must have passed Class 8 from a government or recognised school; age 13 to 16 years as on 31 March 2027, i.e. born between **1 April 2011 and 31 March 2014** (CONFIRMED).
 
+One extra detail worth knowing: wards of personnel Killed in Action get a **six-month relaxation in the upper age limit** on top of the reduced fee (CONFIRMED — NTA bulletin, live-verified tonight against the official PDF).
+
 Applications are online only at **exams.nta.nic.in/rmscet** (CONFIRMED). These details cannot be changed after the correction window — once it closes on 28 October, NTA accepts no further changes.
 
 ## Why this deadline matters more than the others
