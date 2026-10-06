@@ -1,6 +1,6 @@
 {
-  "blog_topic_cursor": 50,
-  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22. [2026-10-01 evening] news: AISSEE 2027 notification status check (portal shows only 2026 items as of Oct 1; 122 days to 31 Jan 2027; exam-date angle rejected as duplicate of latenoon UP piece quoting 20 Dec); blog topic 25 (post-result steps: answer key/result/AISSAC/choice fill/allotment/spot round/verification/medical); cursor set 25. [2026-10-01 night] news: RIMCEE 2026 late-fee window open 1-7 Oct (regular window closed 30 Sep 5 PM; verified educationtimes+telegraphindia); blog topic 26 (AISSAC choice filling mistakes, evergreen bank -- no hot trending topic); cursor set 26. [2026-10-02 latenoon] news: application-fee explainer (no genuinely new 48h news; fee ₹850/₹700 verified via TOI citing NTA bulletin + Collegedunia opened this run); blog topic 29 (defence-quota documents, SOP-verified; topic 28 skipped — counselling/seat-allotment mechanics already covered by sainik-school-counselling-2027 + seats-matrix + preference-guide pieces; Trends fetch 429 again). cursor set 29. [2026-10-02 afternoon] news: October form-readiness checklist (notification not out; form expected Oct 2026 per buddy4study+collegedunia+aglasem; 7-item readiness list); blog topic 30 (change allotted school after counselling — Accept/Reconsider/Hold&Continue from AISSAC SOP; no post-counselling transfer); Trends fetch 429 again. cursor set 30. [2026-10-03 morning] news: RMS CET 2026 17-days-left deadline explainer (closes 20 Oct 5 PM; late window 21-25 Oct +Rs500; exam 13 Dec; verified TOI/ET/NDTV/EdexLive/JagranJosh); blog topic 36 (motivate child without pressure, parent guide; no trending topic — Trends 429 pattern continues, no fresh 48h buzz beyond RMS dates already covered). cursor set 36. [2026-10-03 latenoon] news: RIMCEE late-fee final reminder (closes 7 Oct 11:50 PM; +Rs500; verified edexlive+telegraphindia opened pages; no genuinely new 48h news — notification watch covered); blog topic 37 (boarding readiness checklist, parent guide). cursor set 37. [2026-10-03 evening] news: AISSEE 2027 how-to-apply explainer (form not out as of 2 Oct portal check; 2026 steps CONFIRMED via TOI citing NTA bulletin); blog topic 39 (balancing homework + AISSEE prep, weekly planner table). cursor set 39. [2026-10-04 latenoon] news: AISSEE 2027 notification status year-vs-year explainer (not out as of Oct 4; last year dropped Oct 10; no genuinely new 48h news); blog topic 42 (nutrition during heavy study, evergreen bank). cursor set 42. [2026-10-04 evening] news: RIMCEE 2026 late window closes Oct 7 (genuinely new milestone; Rs.500 late fee; correction 9-11 Oct); blog topic 44 (homesickness); cursor set 44. [2026-10-05 evening] log repaired: afternoon run entries (news scam-alert, blog topic 47 sibling-fairness) were published but never logged; cursor was 46, set to 47. [2026-10-05 evening] news: notification-watch Oct 5 (October pattern + document readiness); blog topic 48 (mess food, official-menu sourced); cursor set 48.",
+  "blog_topic_cursor": 51,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback \u2014 no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback \u2014 no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback \u2014 no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited \u2014 notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback \u2014 no distinct hot topic beyond notification watch); cursor set 22. [2026-10-01 evening] news: AISSEE 2027 notification status check (portal shows only 2026 items as of Oct 1; 122 days to 31 Jan 2027; exam-date angle rejected as duplicate of latenoon UP piece quoting 20 Dec); blog topic 25 (post-result steps: answer key/result/AISSAC/choice fill/allotment/spot round/verification/medical); cursor set 25. [2026-10-01 night] news: RIMCEE 2026 late-fee window open 1-7 Oct (regular window closed 30 Sep 5 PM; verified educationtimes+telegraphindia); blog topic 26 (AISSAC choice filling mistakes, evergreen bank -- no hot trending topic); cursor set 26. [2026-10-02 latenoon] news: application-fee explainer (no genuinely new 48h news; fee \u20b9850/\u20b9700 verified via TOI citing NTA bulletin + Collegedunia opened this run); blog topic 29 (defence-quota documents, SOP-verified; topic 28 skipped \u2014 counselling/seat-allotment mechanics already covered by sainik-school-counselling-2027 + seats-matrix + preference-guide pieces; Trends fetch 429 again). cursor set 29. [2026-10-02 afternoon] news: October form-readiness checklist (notification not out; form expected Oct 2026 per buddy4study+collegedunia+aglasem; 7-item readiness list); blog topic 30 (change allotted school after counselling \u2014 Accept/Reconsider/Hold&Continue from AISSAC SOP; no post-counselling transfer); Trends fetch 429 again. cursor set 30. [2026-10-03 morning] news: RMS CET 2026 17-days-left deadline explainer (closes 20 Oct 5 PM; late window 21-25 Oct +Rs500; exam 13 Dec; verified TOI/ET/NDTV/EdexLive/JagranJosh); blog topic 36 (motivate child without pressure, parent guide; no trending topic \u2014 Trends 429 pattern continues, no fresh 48h buzz beyond RMS dates already covered). cursor set 36. [2026-10-03 latenoon] news: RIMCEE late-fee final reminder (closes 7 Oct 11:50 PM; +Rs500; verified edexlive+telegraphindia opened pages; no genuinely new 48h news \u2014 notification watch covered); blog topic 37 (boarding readiness checklist, parent guide). cursor set 37. [2026-10-03 evening] news: AISSEE 2027 how-to-apply explainer (form not out as of 2 Oct portal check; 2026 steps CONFIRMED via TOI citing NTA bulletin); blog topic 39 (balancing homework + AISSEE prep, weekly planner table). cursor set 39. [2026-10-04 latenoon] news: AISSEE 2027 notification status year-vs-year explainer (not out as of Oct 4; last year dropped Oct 10; no genuinely new 48h news); blog topic 42 (nutrition during heavy study, evergreen bank). cursor set 42. [2026-10-04 evening] news: RIMCEE 2026 late window closes Oct 7 (genuinely new milestone; Rs.500 late fee; correction 9-11 Oct); blog topic 44 (homesickness); cursor set 44. [2026-10-05 evening] log repaired: afternoon run entries (news scam-alert, blog topic 47 sibling-fairness) were published but never logged; cursor was 46, set to 47. [2026-10-05 evening] news: notification-watch Oct 5 (October pattern + document readiness); blog topic 48 (mess food, official-menu sourced); cursor set 48.",
   "published": [
     {
       "date": "2026-09-26",
@@ -18,7 +18,7 @@
       "date": "2026-09-26",
       "type": "webstory",
       "slug": "aissee-maths-speed-tricks-2026",
-      "title": "7 Maths Speed Tricks for AISSEE 2027 — Solve Faster, Score Higher"
+      "title": "7 Maths Speed Tricks for AISSEE 2027 \u2014 Solve Faster, Score Higher"
     },
     {
       "date": "2026-09-27",
@@ -61,7 +61,7 @@
       "date": "2026-09-27",
       "type": "news",
       "slug": "aissee-2027-notification-october-watch-2026-09-27",
-      "title": "AISSEE 2027 Notification: October Is the Month to Watch — What Past Cycles Reveal"
+      "title": "AISSEE 2027 Notification: October Is the Month to Watch \u2014 What Past Cycles Reveal"
     },
     {
       "date": "2026-09-27",
@@ -79,7 +79,7 @@
       "date": "2026-09-27",
       "type": "news",
       "slug": "up-sainik-school-admission-2027-2026-09-27",
-      "title": "UP Sainik School Admission 2027-28: Applications Open — Apply by 25 October 2026"
+      "title": "UP Sainik School Admission 2027-28: Applications Open \u2014 Apply by 25 October 2026"
     },
     {
       "date": "2026-09-27",
@@ -98,7 +98,7 @@
       "date": "2026-09-27",
       "type": "news",
       "slug": "rimcee-2026-registration-closes-september-30-2026-09-27",
-      "title": "RIMCEE 2026 Registration Closes in 3 Days: NTA's RIMC Class 8 Entrance — Apply by 30 September"
+      "title": "RIMCEE 2026 Registration Closes in 3 Days: NTA's RIMC Class 8 Entrance \u2014 Apply by 30 September"
     },
     {
       "date": "2026-09-27",
@@ -111,13 +111,13 @@
       "date": "2026-09-27",
       "type": "webstory",
       "slug": "rimcee-2026-deadline-countdown-2026",
-      "title": "RIMCEE 2026: Only 3 Days Left — 6 Things to Do Before the Form Closes"
+      "title": "RIMCEE 2026: Only 3 Days Left \u2014 6 Things to Do Before the Form Closes"
     },
     {
       "date": "2026-09-28",
       "type": "news",
       "slug": "nta-school-entrance-calendar-2026-27-2026-09-28",
-      "title": "NTA's School-Entrance Calendar 2026–27: RIMCEE, RMS CET, AISSEE — All 5 Dates in One Place"
+      "title": "NTA's School-Entrance Calendar 2026\u201327: RIMCEE, RMS CET, AISSEE \u2014 All 5 Dates in One Place"
     },
     {
       "date": "2026-09-28",
@@ -129,13 +129,13 @@
       "date": "2026-09-28",
       "type": "webstory",
       "slug": "nta-entrance-calendar-2026",
-      "title": "NTA Calendar 2026–27: 5 Defence School Exam Dates You Need Now"
+      "title": "NTA Calendar 2026\u201327: 5 Defence School Exam Dates You Need Now"
     },
     {
       "date": "2026-09-28",
       "type": "news",
       "slug": "aissee-2027-notification-watch-125-days-to-go-2026-09-28",
-      "title": "125 Days to AISSEE 2027: Notification Still Awaited — What to Finish This Week"
+      "title": "125 Days to AISSEE 2027: Notification Still Awaited \u2014 What to Finish This Week"
     },
     {
       "date": "2026-09-28",
@@ -154,7 +154,7 @@
       "slot": "afternoon",
       "type": "news",
       "slug": "rimcee-2026-after-deadline-what-happens-next-2026-09-28",
-      "title": "RIMCEE 2026: After the 30 September Deadline — Correction Window, Admit Card & the 6 December Plan",
+      "title": "RIMCEE 2026: After the 30 September Deadline \u2014 Correction Window, Admit Card & the 6 December Plan",
       "blog_topic_id": null
     },
     {
@@ -170,7 +170,7 @@
       "slot": "afternoon",
       "type": "webstory",
       "slug": "aissee-30-day-revision-countdown-story",
-      "title": "AISSEE 2027: The 30-Day Revision Countdown — Week by Week",
+      "title": "AISSEE 2027: The 30-Day Revision Countdown \u2014 Week by Week",
       "blog_topic_id": null
     },
     {
@@ -194,7 +194,7 @@
       "slot": "evening",
       "type": "webstory",
       "slug": "aissng-2026-national-games-story",
-      "title": "AISSNG 2026: Inside the National Games of Sainik Schools — 7 Slides",
+      "title": "AISSNG 2026: Inside the National Games of Sainik Schools \u2014 7 Slides",
       "blog_topic_id": null
     },
     {
@@ -213,7 +213,7 @@
       "date": "2026-09-28",
       "type": "webstory",
       "slug": "aissee-2027-documents-checklist-story",
-      "title": "AISSEE 2027: 7 Documents to Keep Ready Before the Notification — 7 Slides"
+      "title": "AISSEE 2027: 7 Documents to Keep Ready Before the Notification \u2014 7 Slides"
     },
     {
       "date": "2026-09-29",
@@ -231,13 +231,13 @@
       "date": "2026-09-29",
       "type": "webstory",
       "slug": "october-aissee-2027-game-plan-story",
-      "title": "AISSEE 2027: Your 4-Week October Game Plan — 7 Slides"
+      "title": "AISSEE 2027: Your 4-Week October Game Plan \u2014 7 Slides"
     },
     {
       "date": "2026-09-29",
       "type": "news",
       "slug": "rms-cet-2026-21-days-left-checklist-2026-09-29",
-      "title": "RMS CET 2026: 21 Days Left to Apply — Fees, Age Limits, Exam Pattern Explained"
+      "title": "RMS CET 2026: 21 Days Left to Apply \u2014 Fees, Age Limits, Exam Pattern Explained"
     },
     {
       "date": "2026-09-29",
@@ -249,7 +249,7 @@
       "date": "2026-09-29",
       "type": "webstory",
       "slug": "rms-cet-2026-deadline-reminder-story",
-      "title": "RMS CET 2026: 21 Days Left to Apply — 7 Slides"
+      "title": "RMS CET 2026: 21 Days Left to Apply \u2014 7 Slides"
     },
     {
       "date": "2026-09-29",
@@ -267,7 +267,7 @@
       "date": "2026-09-29",
       "type": "webstory",
       "slug": "aissee-gk-balance-story",
-      "title": "AISSEE GK: How to Balance Static GK and Current Affairs — 7 Slides"
+      "title": "AISSEE GK: How to Balance Static GK and Current Affairs \u2014 7 Slides"
     },
     {
       "date": "2026-09-29",
@@ -285,7 +285,7 @@
       "date": "2026-09-29",
       "type": "webstory",
       "slug": "previous-year-papers-vs-sample-papers-story",
-      "title": "AISSEE Papers: Previous Year vs Sample Papers — 7 Slides"
+      "title": "AISSEE Papers: Previous Year vs Sample Papers \u2014 7 Slides"
     },
     {
       "date": "2026-09-29",
@@ -322,7 +322,7 @@
       "date": "2026-09-30",
       "type": "news",
       "slug": "aissee-2027-123-days-milestones-countdown-2026-09-30",
-      "title": "AISSEE 2027: 123 Days Left — 6 Milestones to Watch"
+      "title": "AISSEE 2027: 123 Days Left \u2014 6 Milestones to Watch"
     },
     {
       "date": "2026-09-30",
@@ -508,14 +508,14 @@
       "date": "2026-10-03",
       "type": "blog",
       "slug": "motivate-child-aissee-without-pressure",
-      "title": "Motivate Your Child for AISSEE — Without Pressure"
+      "title": "Motivate Your Child for AISSEE \u2014 Without Pressure"
     },
     {
       "date": "2026-10-03",
       "slot": "latenoon",
       "type": "news",
       "slug": "rimcee-2026-late-fee-closes-october-7-final-reminder-2026-10-03",
-      "title": "RIMCEE 2026: 4 Days Left to Apply With Late Fee — Last Chance for RIMC Class 8"
+      "title": "RIMCEE 2026: 4 Days Left to Apply With Late Fee \u2014 Last Chance for RIMC Class 8"
     },
     {
       "date": "2026-10-03",
@@ -529,7 +529,7 @@
       "date": "2026-10-03",
       "type": "news",
       "slug": "defence-school-exam-calendar-2026-27-all-deadlines-2026-10-03",
-      "title": "Defence School Exam Calendar 2026–27: Every Deadline, One Page"
+      "title": "Defence School Exam Calendar 2026\u201327: Every Deadline, One Page"
     },
     {
       "date": "2026-10-03",
@@ -632,7 +632,7 @@
       "date": "2026-10-05",
       "type": "news",
       "slug": "aissee-2027-notification-october-pattern-what-parents-should-prepare-2026-10-05",
-      "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 — What the October Pattern Tells Parents"
+      "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 \u2014 What the October Pattern Tells Parents"
     },
     {
       "date": "2026-10-05",
@@ -659,7 +659,7 @@
       "run": "night",
       "type": "news",
       "slug": "rms-cet-2026-application-deadline-october-20-2026-10-04",
-      "title": "RMS CET 2026: 16 Days Left — Apply by October 20"
+      "title": "RMS CET 2026: 16 Days Left \u2014 Apply by October 20"
     },
     {
       "date": "2026-10-04",
@@ -674,7 +674,7 @@
       "run": "latenoon",
       "type": "news",
       "slug": "jnvst-class-6-exam-november-28-54-days-to-go-2026-10-05",
-      "title": "JNVST Class 6 Exam on 28 November: 54 Days Left — What AISSEE Parents Should Know"
+      "title": "JNVST Class 6 Exam on 28 November: 54 Days Left \u2014 What AISSEE Parents Should Know"
     },
     {
       "date": "2026-10-05",
@@ -699,7 +699,7 @@
       "date": "2026-10-05",
       "type": "news",
       "slug": "aissee-2027-notification-october-pattern-what-parents-should-prepare-2026-10-05",
-      "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 — What the October Pattern Tells Parents"
+      "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 \u2014 What the October Pattern Tells Parents"
     },
     {
       "date": "2026-10-05",
@@ -711,7 +711,7 @@
       "date": "2026-10-05",
       "type": "news",
       "slug": "rms-cet-2026-correction-window-opens-october-27-2026-10-05",
-      "title": "RMS CET Correction Window: 27–28 Oct"
+      "title": "RMS CET Correction Window: 27\u201328 Oct"
     },
     {
       "date": "2026-10-05",
@@ -730,6 +730,19 @@
       "type": "blog",
       "slug": "can-students-keep-mobile-phones-in-sainik-school",
       "title": "Can Students Keep Mobile Phones in Sainik School?"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "news",
+      "slug": "up-sainik-school-2027-exam-pattern-deadline-guide-2026-10-06",
+      "title": "UP Sainik School Exam: 200-Mark Paper Explained"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "blog",
+      "slug": "sainik-school-holidays-vacation-calendar-explained",
+      "title": "Sainik School Holidays: The Honest Calendar",
+      "blog_topic_id": 51
     }
   ]
 }
