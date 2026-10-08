@@ -54,7 +54,7 @@ The purpose of AISSEE is to select students for admission to **Class 6** and **C
 | **Exam Mode** | Pen-and-paper (OMR-based) |
 | **Exam Duration** | 2.5 hours (Class 6) / 3 hours (Class 9) |
 | **Medium** | English, Hindi, and regional languages |
-| **Official Website** | [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) |
+| **Official Website** | [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) |
 
 ---
 
@@ -276,7 +276,7 @@ Based on the Class 8 CBSE/NCERT curriculum:
 The AISSEE application process is entirely online through the NTA portal. Here is a step-by-step guide:
 
 ### Step 1: Visit the Official Portal
-Go to [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) when the application window opens (expected October–November 2026).
+Go to [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) when the application window opens (expected October–November 2026).
 
 ### Step 2: Register as a New User
 - Click on "New Registration" or "Apply for AISSEE 2027"
@@ -492,7 +492,7 @@ AISSEE stands for **All India Sainik School Entrance Exam**. It is a national-le
 
 ### 2. When will AISSEE 2027 be held?
 
-AISSEE 2027 is expected to be held in **January 2027** (typically the 2nd or 3rd week). The application form is expected to be available from **October–November 2026**. Official dates will be announced on [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE).
+AISSEE 2027 is expected to be held in **January 2027** (typically the 2nd or 3rd week). The application form is expected to be available from **October–November 2026**. Official dates will be announced on [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/).
 
 ### 3. What is the eligibility for AISSEE 2027?
 
@@ -543,4 +543,4 @@ There are currently **33 Sainik Schools** in India, spread across 26 states and 
 
 ---
 
-*This guide is updated regularly to reflect the latest AISSEE notifications and policy changes. Last updated: 9 July 2026. For official and the most up-to-date information, always refer to the [NTA AISSEE portal](https://exams.nta.ac.in/AISSEE).*
+*This guide is updated regularly to reflect the latest AISSEE notifications and policy changes. Last updated: 9 July 2026. For official and the most up-to-date information, always refer to the [NTA AISSEE portal](https://exams.nta.nic.in/sainik-school-society/).*

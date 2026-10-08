@@ -94,7 +94,7 @@ Solving a paper badly teaches almost nothing — run through this checklist befo
 
 ## A Word About "Free PDF" Offers
 
-Parents often ask where to download previous year papers for free. Be careful: many sites circulate PDFs labelled "AISSEE previous year paper" that are actually sample papers in disguise — a wrong "real" paper teaches the wrong pattern. Stick to NTA's official portal at [aissee.nta.nic.in](https://aissee.nta.nic.in/) for anything presented as official, and treat anonymous PDFs with healthy suspicion.
+Parents often ask where to download previous year papers for free. Be careful: many sites circulate PDFs labelled "AISSEE previous year paper" that are actually sample papers in disguise — a wrong "real" paper teaches the wrong pattern. Stick to NTA's official portal at [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) for anything presented as official, and treat anonymous PDFs with healthy suspicion.
 
 ## FAQs
 
@@ -124,6 +124,6 @@ Both, in sequence: theory first, then papers to expose gaps, then theory again t
 
 ## Sources
 
-- Official AISSEE portal (NTA) — pattern, information bulletin, updates: https://aissee.nta.nic.in/
+- Official AISSEE portal (NTA) — pattern, information bulletin, updates: https://exams.nta.nic.in/sainik-school-society/
 - "Saink School Exam AISSEE 2027: No dates yet, last three years' pattern" — EdexLive, 8 September 2026: https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
 - NTA Examination Calendar 2026–27 (released 16 September 2026) — AISSEE 2027 exam date 31 January 2027 (CONFIRMED tentative)

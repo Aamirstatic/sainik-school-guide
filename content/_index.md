@@ -28,7 +28,7 @@ layout: "home"
 | **Total Schools** | 33+ Sainik Schools across India |
 | **Total Applicants** | ~4 lakh annually |
 | **Exam Mode** | Pen-and-paper (OMR-based) |
-| **Official Website** | [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) |
+| **Official Website** | [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) |
 | **Language Medium** | English, Hindi, and regional languages |
 
 ---
@@ -124,7 +124,7 @@ There are **33+ Sainik Schools** located across India. Each school follows the C
 | Result Declaration | March–April 2027 |
 | Counselling & Admission | April–June 2027 |
 
-> **Note:** These dates are based on previous year patterns. Official dates will be announced on [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE).
+> **Note:** These dates are based on previous year patterns. Official dates will be announced on [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/).
 
 ---
 
@@ -195,7 +195,7 @@ The annual fee for Sainik Schools ranges from approximately ₹50,000 to ₹1,50
 
 ### 5. How can I apply for AISSEE 2027?
 
-To apply for AISSEE 2027, visit the official NTA website at [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) when the application window opens (expected October–November 2026). Fill in the online application form, upload required documents, pay the application fee, and submit. Keep a printout of the confirmation page for future reference.
+To apply for AISSEE 2027, visit the official NTA website at [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) when the application window opens (expected October–November 2026). Fill in the online application form, upload required documents, pay the application fee, and submit. Keep a printout of the confirmation page for future reference.
 
 ---
 

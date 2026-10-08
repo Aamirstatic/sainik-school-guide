@@ -144,7 +144,7 @@ No. There is no negative marking anywhere in the AISSEE (CONFIRMED). Your child 
 
 ## Sources
 
-- [NTA AISSEE official portal](https://aissee.nta.nic.in) — NTA (Tier 1; exam pattern, information bulletin when released — AISSEE 2027 notification not released yet)
+- [NTA AISSEE official portal](https://exams.nta.nic.in/sainik-school-society/) — NTA (Tier 1; exam pattern, information bulletin when released — AISSEE 2027 notification not released yet)
 - [National Testing Agency](https://nta.ac.in) — NTA (Tier 1; official notices and exam calendar)
 - [NTA Exam Calendar 2026-27](https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms) — Times of India, 16 September 2026 (exam date 31 January 2027)
 - [AISSEE 2026 application, exam pattern and schedule](https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms) — Times of India (Class 6: 125 questions, 300 marks; Class 9: 150 questions, 400 marks; no negative marking; language sections)

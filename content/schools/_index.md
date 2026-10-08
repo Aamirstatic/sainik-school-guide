@@ -164,7 +164,7 @@ All 33 Sainik Schools follow a centralized admission process through the All Ind
 - **Class 9:** Age 13–15 years as on 31 March of the admission year
 
 ### Step 2: Apply for AISSEE
-- Visit [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) when applications open (typically October–November)
+- Visit [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) when applications open (typically October–November)
 - Fill the online form and pay the application fee
 
 ### Step 3: Appear for the Exam

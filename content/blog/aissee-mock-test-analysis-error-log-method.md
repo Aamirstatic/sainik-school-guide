@@ -135,4 +135,4 @@ Quality beats quantity. One analysed mock per week from October to January, plus
 
 - NTA Examination Calendar 2026-27 (public notice, 16 September 2026): AISSEE 2027 tentatively on 31 January 2027
 - edexlive (8 September 2026): AISSEE 2027 notification pattern analysis — https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
-- NTA official portal: https://aissee.nta.nic.in
+- NTA official portal: https://exams.nta.nic.in/sainik-school-society/

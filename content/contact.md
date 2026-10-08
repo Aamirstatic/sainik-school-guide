@@ -12,7 +12,7 @@ type: "page"
 
 **Have questions about AISSEE 2027, Sainik School admissions, or anything related to the Sainik School system in India?** We are here to help. Reach out to the Sainik School East Siang Guide team through any of the channels listed below.
 
-> **Important:** We are an independent information portal and cannot process official admission applications or provide official counselling. For official AISSEE queries, please visit [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) or contact your preferred Sainik School directly.
+> **Important:** We are an independent information portal and cannot process official admission applications or provide official counselling. For official AISSEE queries, please visit [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) or contact your preferred Sainik School directly.
 
 ---
 
@@ -58,7 +58,7 @@ For official queries related to the All India Sainik School Entrance Exam, pleas
 
 | Authority | Contact |
 |---|---|
-| **NTA AISSEE Helpline** | [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) |
+| **NTA AISSEE Helpline** | [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) |
 | **Sainik Schools Society** | Ministry of Defence, Government of India |
 | **Individual School Offices** | Visit the respective school's official website |
 
@@ -68,7 +68,7 @@ For official queries related to the All India Sainik School Entrance Exam, pleas
 
 ### 1. Can you help me with my AISSEE application form?
 
-We provide detailed guides on how to fill the AISSEE application form, but we cannot process applications on your behalf. Please visit the official NTA portal at [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) to submit your application.
+We provide detailed guides on how to fill the AISSEE application form, but we cannot process applications on your behalf. Please visit the official NTA portal at [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) to submit your application.
 
 ### 2. I found incorrect information on your website. How do I report it?
 

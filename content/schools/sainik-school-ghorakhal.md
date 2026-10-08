@@ -308,7 +308,7 @@ Sainik School Ghorakhal is located in the Kumaon region of Uttarakhand, near the
 | **Instagram** | [@ssgkweb](https://www.instagram.com/ssgkweb/) |
 | **Facebook** | [Sainik School Ghorakhal](https://www.facebook.com/share/18DSUNTrTo/) |
 | **YouTube** | [Sainik School Ghorakhal](https://www.youtube.com/@SainikSchoolGhorakhal-x8c) |
-| **AISSEE Registration** | [issue.nta.nic.in](https://aissee.nta.nic.in/) |
+| **AISSEE Registration** | [exams.nta.nic.in](https://exams.nta.nic.in/sainik-school-society/) |
 
 ## Frequently Asked Questions (FAQ)
 

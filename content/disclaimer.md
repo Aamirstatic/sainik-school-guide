@@ -47,7 +47,7 @@ However, information on this website may become outdated due to changes in gover
 
 | Official Source | Website |
 |---|---|
-| NTA AISSEE Portal | [exams.nta.ac.in/AISSEE](https://exams.nta.ac.in/AISSEE) |
+| NTA AISSEE Portal | [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) |
 | Sainik Schools Society | Ministry of Defence, Government of India |
 | Individual Sainik Schools | Respective school official websites |
 
