@@ -1,1003 +1,1015 @@
 {
- "blog_topic_cursor": 67,
- "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22. [2026-10-01 evening] news: AISSEE 2027 notification status check (portal shows only 2026 items as of Oct 1; 122 days to 31 Jan 2027; exam-date angle rejected as duplicate of latenoon UP piece quoting 20 Dec); blog topic 25 (post-result steps: answer key/result/AISSAC/choice fill/allotment/spot round/verification/medical); cursor set 25. [2026-10-01 night] news: RIMCEE 2026 late-fee window open 1-7 Oct (regular window closed 30 Sep 5 PM; verified educationtimes+telegraphindia); blog topic 26 (AISSAC choice filling mistakes, evergreen bank -- no hot trending topic); cursor set 26. [2026-10-02 latenoon] news: application-fee explainer (no genuinely new 48h news; fee ₹850/₹700 verified via TOI citing NTA bulletin + Collegedunia opened this run); blog topic 29 (defence-quota documents, SOP-verified; topic 28 skipped — counselling/seat-allotment mechanics already covered by sainik-school-counselling-2027 + seats-matrix + preference-guide pieces; Trends fetch 429 again). cursor set 29. [2026-10-02 afternoon] news: October form-readiness checklist (notification not out; form expected Oct 2026 per buddy4study+collegedunia+aglasem; 7-item readiness list); blog topic 30 (change allotted school after counselling — Accept/Reconsider/Hold&Continue from AISSAC SOP; no post-counselling transfer); Trends fetch 429 again. cursor set 30. [2026-10-03 morning] news: RMS CET 2026 17-days-left deadline explainer (closes 20 Oct 5 PM; late window 21-25 Oct +Rs500; exam 13 Dec; verified TOI/ET/NDTV/EdexLive/JagranJosh); blog topic 36 (motivate child without pressure, parent guide; no trending topic — Trends 429 pattern continues, no fresh 48h buzz beyond RMS dates already covered). cursor set 36. [2026-10-03 latenoon] news: RIMCEE late-fee final reminder (closes 7 Oct 11:50 PM; +Rs500; verified edexlive+telegraphindia opened pages; no genuinely new 48h news — notification watch covered); blog topic 37 (boarding readiness checklist, parent guide). cursor set 37. [2026-10-03 evening] news: AISSEE 2027 how-to-apply explainer (form not out as of 2 Oct portal check; 2026 steps CONFIRMED via TOI citing NTA bulletin); blog topic 39 (balancing homework + AISSEE prep, weekly planner table). cursor set 39. [2026-10-04 latenoon] news: AISSEE 2027 notification status year-vs-year explainer (not out as of Oct 4; last year dropped Oct 10; no genuinely new 48h news); blog topic 42 (nutrition during heavy study, evergreen bank). cursor set 42. [2026-10-04 evening] news: RIMCEE 2026 late window closes Oct 7 (genuinely new milestone; Rs.500 late fee; correction 9-11 Oct); blog topic 44 (homesickness); cursor set 44. [2026-10-05 evening] log repaired: afternoon run entries (news scam-alert, blog topic 47 sibling-fairness) were published but never logged; cursor was 46, set to 47. [2026-10-05 evening] news: notification-watch Oct 5 (October pattern + document readiness); blog topic 48 (mess food, official-menu sourced); cursor set 48. [2026-10-07 morning] news: RIMCEE 2026 late-window day-of piece (closes TODAY 7 Oct; fee txn till 11:50 PM CONFIRMED via NDTV/EdexLive/JagranJosh; correction 9-11 Oct; exam Dec 6 in 60 days). AISSEE 2027 notification NOT out (portal re-check Oct 7 shows 2026 items only). blog topic 55 (first day at Sainik School, evergreen bank; no distinct trending topic beyond RIMCEE close already covered as news). cursor set 55. [2026-10-07 latenoon] news: RIMCEE 2026 correction window opens 9 Oct (window closed 7 Oct; correction 9-11 Oct verified Telegraph/JagranJosh/TSC/JobMitra; exam 6 Dec, 60 days; pattern 400 marks/50%-per-subject). blog topic 56 (alumni network, evergreen bank; Trends API 404, no distinct hot topic). cursor set 56. [2026-10-07 night] log repaired: morning/latenoon/afternoon/evening run entries (4 news + 4 blogs) were published+pushed but never logged; cursor 58. [2026-10-07 night] news: Diwali-season study plan explainer (no genuinely new 48h dev; NTA portal re-check tonight still 2026-only; Diwali 8 Nov verified via Wikipedia/almanac/ET; 116 days to 31 Jan). blog topic 59 (Sainik School to NDA real numbers; CAG/The Week 13.40%/10.57%/9.70% vs 20% target, Rajya Sabha 11% six-year, RM 7,000 officers, HT Lucknow 22 cadets). cursor set 59. [2026-10-08 evening] news: CBSE CwSN inclusive-education module explainer (circular TRG-20/2026 5 Oct, staff screening 7 Oct; Education Post opened + IE/TOI/Telegraph corroboration; no genuinely new 48h AISSEE news — RIMCEE/RMS/UP Sainik angles all covered); blog topic 63 (Sainik School to IIT — honest rare-but-possible angle; no fabricated alumni). cursor set 63. [2026-10-08 night] news: Diwali-break study-plan explainer (no genuinely new 48h news; Diwali 8 Nov confirmed via almanac/acadcalendar/hindutone, 115 days to 31 Jan exam, two-phase plan); blog topic 64 (UPSC after Sainik School, evergreen fallback — Google Trends fetch 429); cursor set 64. [2026-10-09 morning] news: RMS CET final-week countdown explainer (regular window closes 20 Oct 5 PM, fee till 11:50 PM; late window 21-25 Oct +Rs 500, verified TOI/ET/EdexLive/HT/JagranJosh; distinct angle from Oct 3 '17 days' piece — late-fee mechanics focus); blog topic 65 (Merchant Navy vs Defence Services comparison table; no distinct hot trending topic). cursor set 65. [2026-10-09 latenoon] news: UP Sainik School normal-fee deadline countdown (16 days, fee doubles Rs 1,000->Rs 2,000 after 25 Oct 5 PM; late window 26-31 Oct; correction 3-5 Nov; exam 20 Dec, 72 days; verified buddy4study + aisseesainikschool.in + sainikschool360.in; distinct angle from Oct 1 24-days piece); blog topic 66 (Sainik vs private CBSE comparison table; Google Trends 429 again -> evergreen fallback). cursor set 66. [2026-10-09 afternoon] news: RIMCEE correction window NOW OPEN (9-11 Oct, closes 11:50 PM 11 Oct, one-time) — live-window angle distinct from 10-07/10-08 pre-open pieces; blog topic 67 (AISSEE vs RMS CET toughness); cursor set 67.",
- "published": [
-  {
-   "date": "2026-09-26",
-   "type": "news",
-   "slug": "sainik-school-kunjpura-recruitment-2026-2026-09-26",
-   "title": "Sainik School Kunjpura Recruitment 2026: 15 Teaching & Non-Teaching Posts, Apply by 31 October"
-  },
-  {
-   "date": "2026-09-26",
-   "type": "blog",
-   "slug": "aissee-maths-speed-improvement-guide",
-   "title": "How to Improve Speed in the AISSEE Maths Section: 9 Drills That Actually Work"
-  },
-  {
-   "date": "2026-09-26",
-   "type": "webstory",
-   "slug": "aissee-maths-speed-tricks-2026",
-   "title": "7 Maths Speed Tricks for AISSEE 2027 — Solve Faster, Score Higher"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "news",
-   "slug": "aissee-2027-126-days-countdown-2026-09-27",
-   "title": "126 Days to AISSEE 2027: What to Finish Before the October Notification"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "blog",
-   "slug": "aissee-negative-marking-honest-answer",
-   "title": "Is There Negative Marking in AISSEE? The Honest Answer"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "webstory",
-   "slug": "aissee-no-negative-marking-attempt-rules-2026",
-   "title": "No Negative Marking in AISSEE: 7 Attempt Rules That Win Marks"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "news",
-   "slug": "rms-cet-2026-applications-open-nta-2026-09-27",
-   "title": "NTA Opens RMS CET 2026 Applications: Class 6 & 9 Military School Admissions Begin"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "blog",
-   "slug": "aissee-daily-timetable-class-6",
-   "title": "The Perfect Daily Timetable for AISSEE Class 6 Preparation",
-   "topic_id": 3
-  },
-  {
-   "date": "2026-09-27",
-   "type": "webstory",
-   "slug": "rms-cet-2026-applications-2026",
-   "title": "RMS CET 2026 Applications Open: 6 Things to Do Before 20 October"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "news",
-   "slug": "aissee-2027-notification-october-watch-2026-09-27",
-   "title": "AISSEE 2027 Notification: October Is the Month to Watch — What Past Cycles Reveal"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "blog",
-   "slug": "aissee-how-many-study-hours-class-6",
-   "title": "How Many Hours Should a Class 6 Student Study for AISSEE? The Honest Answer"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "webstory",
-   "slug": "aissee-study-hours-guide-2026",
-   "title": "How Many Hours Should You Study for AISSEE? 6 Rules That Actually Work"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "news",
-   "slug": "up-sainik-school-admission-2027-2026-09-27",
-   "title": "UP Sainik School Admission 2027-28: Applications Open — Apply by 25 October 2026"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "blog",
-   "slug": "aissee-intelligence-section-complete-guide",
-   "title": "AISSEE Intelligence Section: The Complete Preparation Guide",
-   "topic_id": 5
-  },
-  {
-   "date": "2026-09-27",
-   "type": "webstory",
-   "slug": "up-sainik-school-admission-2026",
-   "title": "UP Sainik School 2027: Form Out! 7 Things UP Parents Must Do Now"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "news",
-   "slug": "rimcee-2026-registration-closes-september-30-2026-09-27",
-   "title": "RIMCEE 2026 Registration Closes in 3 Days: NTA's RIMC Class 8 Entrance — Apply by 30 September"
-  },
-  {
-   "date": "2026-09-27",
-   "type": "blog",
-   "slug": "aissee-english-grammar-topics-that-matter-most",
-   "title": "English Grammar Topics That Matter Most in AISSEE: Where Your Child's Marks Actually Come From",
-   "topic_id": 6
-  },
-  {
-   "date": "2026-09-27",
-   "type": "webstory",
-   "slug": "rimcee-2026-deadline-countdown-2026",
-   "title": "RIMCEE 2026: Only 3 Days Left — 6 Things to Do Before the Form Closes"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "news",
-   "slug": "nta-school-entrance-calendar-2026-27-2026-09-28",
-   "title": "NTA's School-Entrance Calendar 2026–27: RIMCEE, RMS CET, AISSEE — All 5 Dates in One Place"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "blog",
-   "slug": "aissee-paper-attempt-strategy",
-   "title": "How to Attempt the AISSEE Paper: A Question-Selection Strategy That Turns Knowledge Into Marks"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "webstory",
-   "slug": "nta-entrance-calendar-2026",
-   "title": "NTA Calendar 2026–27: 5 Defence School Exam Dates You Need Now"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "news",
-   "slug": "aissee-2027-notification-watch-125-days-to-go-2026-09-28",
-   "title": "125 Days to AISSEE 2027: Notification Still Awaited — What to Finish This Week"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "blog",
-   "slug": "silly-omr-mistakes-cost-sainik-school-seat",
-   "title": "Silly OMR Mistakes That Cost Students Their Sainik School Seat"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "webstory",
-   "slug": "omr-mistakes-aissee-2026",
-   "title": "OMR Mistakes That Cost Sainik School Seats: 7 Errors to Fix in 2 Weeks"
-  },
-  {
-   "date": "2026-09-28",
-   "slot": "afternoon",
-   "type": "news",
-   "slug": "rimcee-2026-after-deadline-what-happens-next-2026-09-28",
-   "title": "RIMCEE 2026: After the 30 September Deadline — Correction Window, Admit Card & the 6 December Plan",
-   "blog_topic_id": null
-  },
-  {
-   "date": "2026-09-28",
-   "slot": "afternoon",
-   "type": "blog",
-   "slug": "30-day-revision-plan-aissee-2027",
-   "title": "The 30-Day Revision Plan Before AISSEE 2027: A Week-by-Week Countdown to 31 January",
-   "blog_topic_id": 9
-  },
-  {
-   "date": "2026-09-28",
-   "slot": "afternoon",
-   "type": "webstory",
-   "slug": "aissee-30-day-revision-countdown-story",
-   "title": "AISSEE 2027: The 30-Day Revision Countdown — Week by Week",
-   "blog_topic_id": null
-  },
-  {
-   "date": "2026-09-28",
-   "slot": "evening",
-   "type": "news",
-   "slug": "aissng-2026-national-games-conclude-ghorakhal-2026-09-28",
-   "title": "All India Sainik Schools National Games 2026 Conclude: What the Ghorakhal Finale Shows AISSEE Aspirants",
-   "blog_topic_id": null
-  },
-  {
-   "date": "2026-09-28",
-   "slot": "evening",
-   "type": "blog",
-   "slug": "aissee-preparation-without-coaching",
-   "title": "How to Prepare for AISSEE Without Coaching: A Self-Study Roadmap That Actually Works",
-   "blog_topic_id": 10
-  },
-  {
-   "date": "2026-09-28",
-   "slot": "evening",
-   "type": "webstory",
-   "slug": "aissng-2026-national-games-story",
-   "title": "AISSNG 2026: Inside the National Games of Sainik Schools — 7 Slides",
-   "blog_topic_id": null
-  },
-  {
-   "date": "2026-09-28",
-   "type": "news",
-   "slug": "aissee-2027-documents-ready-before-notification-2026-09-28",
-   "title": "AISSEE 2027 Notification Expected in October: 7 Documents to Keep Ready This Week"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "blog",
-   "slug": "ncert-vs-guidebooks-aissee-what-works",
-   "title": "NCERT vs Guidebooks for AISSEE: What Actually Works"
-  },
-  {
-   "date": "2026-09-28",
-   "type": "webstory",
-   "slug": "aissee-2027-documents-checklist-story",
-   "title": "AISSEE 2027: 7 Documents to Keep Ready Before the Notification — 7 Slides"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "news",
-   "slug": "october-4-week-aissee-2027-game-plan-2026-09-29",
-   "title": "124 Days to AISSEE 2027: Your 4-Week October Game Plan (Starts Thursday)"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "blog",
-   "slug": "aissee-class-6-maths-formula-cheat-sheet",
-   "title": "AISSEE Class 6 Maths Formula Cheat Sheet: The Only List Your Child Needs to Memorise"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "webstory",
-   "slug": "october-aissee-2027-game-plan-story",
-   "title": "AISSEE 2027: Your 4-Week October Game Plan — 7 Slides"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "news",
-   "slug": "rms-cet-2026-21-days-left-checklist-2026-09-29",
-   "title": "RMS CET 2026: 21 Days Left to Apply — Fees, Age Limits, Exam Pattern Explained"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "blog",
-   "slug": "aissee-english-vocabulary-90-day-plan",
-   "title": "How to Build Vocabulary for AISSEE English in 90 Days: A Daily Plan That Actually Works"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "webstory",
-   "slug": "rms-cet-2026-deadline-reminder-story",
-   "title": "RMS CET 2026: 21 Days Left to Apply — 7 Slides"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "news",
-   "slug": "new-sainik-schools-40-60-route-explained-2026-09-29",
-   "title": "New Sainik Schools Explained: How the 40% AISSEE Route and 60% School Route Actually Work"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "blog",
-   "slug": "aissee-gk-static-gk-current-affairs-balance",
-   "title": "AISSEE GK Preparation: How to Balance Static GK and Current Affairs (Class 6 & 9)"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "webstory",
-   "slug": "aissee-gk-balance-story",
-   "title": "AISSEE GK: How to Balance Static GK and Current Affairs — 7 Slides"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "news",
-   "slug": "aissee-2027-notification-october-watch-2026-09-29",
-   "title": "AISSEE 2027 Notification Watch: What the Last Three Cycles Tell Us as October Begins"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "blog",
-   "slug": "aissee-previous-year-papers-vs-sample-papers",
-   "title": "AISSEE Previous Year Papers vs Sample Papers: Which One Actually Helps More?"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "webstory",
-   "slug": "previous-year-papers-vs-sample-papers-story",
-   "title": "AISSEE Papers: Previous Year vs Sample Papers — 7 Slides"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "news",
-   "slug": "aissee-2027-notification-day-parent-checklist-2026-09-29",
-   "title": "AISSEE 2027 Notification Day: The 10 Things Parents Must Check Before Submitting the Form"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "blog",
-   "slug": "aissee-mock-test-analysis-error-log-method",
-   "title": "How to Analyse Your Mock Test the Right Way: The Error-Log Method for AISSEE 2027"
-  },
-  {
-   "date": "2026-09-29",
-   "type": "webstory",
-   "slug": "aissee-mock-test-analysis-story",
-   "title": "Analyse Your Mock Test Like a Topper: 7 Slides"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "news",
-   "slug": "aissee-2027-september-roundup-2026-09-30",
-   "title": "AISSEE 2027 September Roundup"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "blog",
-   "slug": "aissee-class-9-science-important-chapters",
-   "title": "AISSEE Class 9 Science: Key Chapters",
-   "topic_id": 17
-  },
-  {
-   "date": "2026-09-30",
-   "type": "news",
-   "slug": "aissee-2027-123-days-milestones-countdown-2026-09-30",
-   "title": "AISSEE 2027: 123 Days Left — 6 Milestones to Watch"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "blog",
-   "slug": "map-work-tips-aissee-class-9-social-science",
-   "title": "Map Work Tips for AISSEE Class 9 Social Science"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "news",
-   "slug": "rimcee-2026-apply-by-5pm-today-2026-09-30",
-   "title": "RIMCEE 2026: Apply by 5 PM Today"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "blog",
-   "slug": "how-11-year-olds-handle-exam-pressure",
-   "title": "Exam Pressure at 11: A Parent's Guide"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "news",
-   "slug": "aissee-2026-20-day-form-window-2026-09-30",
-   "title": "AISSEE 2026: The 20-Day Form Window"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "blog",
-   "slug": "aissee-2028-when-to-start-preparing",
-   "title": "AISSEE 2028: When to Start Preparing"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "news",
-   "slug": "october-2026-defence-school-forms-map-2026-09-30",
-   "title": "4 Defence-School Forms Open in October 2026"
-  },
-  {
-   "date": "2026-09-30",
-   "type": "blog",
-   "slug": "aissee-application-form-photo-signature-requirements",
-   "title": "AISSEE Form Photo & Signature Specs"
-  },
-  {
-   "date": "2026-10-01",
-   "slot": "morning",
-   "type": "news",
-   "slug": "aissee-2027-exam-city-choices-guide-2026-10-01",
-   "title": "AISSEE 2027 Exam Cities: How to Choose Your 4 Preferences on the Form",
-   "blog_topic_id": null
-  },
-  {
-   "date": "2026-10-01",
-   "slot": "morning",
-   "type": "blog",
-   "slug": "how-to-choose-school-preferences-aissac-counselling",
-   "title": "How to Choose School Preferences in AISSAC Counselling: Home State vs Dream School",
-   "blog_topic_id": 22
-  },
-  {
-   "date": "2026-10-01",
-   "slot": "latenoon",
-   "type": "news",
-   "slug": "up-sainik-school-deadline-24-days-left-2026-10-01",
-   "title": "UP Sainik School: 24 Days to Apply",
-   "blog_topic_id": null
-  },
-  {
-   "date": "2026-10-01",
-   "slot": "latenoon",
-   "type": "blog",
-   "slug": "domicile-certificate-sainik-school-guide",
-   "title": "Domicile Certificate for Sainik School",
-   "blog_topic_id": 23
-  },
-  {
-   "date": "2026-10-01",
-   "type": "news",
-   "slug": "girls-quota-sainik-schools-aissee-2027-2026-10-01",
-   "title": "Girls in Sainik Schools: How the 10% Quota Works for AISSEE 2027"
-  },
-  {
-   "date": "2026-10-01",
-   "type": "blog",
-   "slug": "caste-certificate-format-aissee-reservation-claims",
-   "title": "Caste Certificate Rules for AISSEE 2027"
-  },
-  {
-   "date": "2026-10-01",
-   "type": "news",
-   "slug": "aissee-2027-notification-still-not-out-2026-10-01",
-   "title": "AISSEE 2027: Notification Not Out Yet"
-  },
-  {
-   "date": "2026-10-01",
-   "type": "blog",
-   "slug": "what-happens-after-aissee-result-guide",
-   "title": "AISSEE Result 2027: What Happens Next"
-  },
-  {
-   "date": "2026-10-01",
-   "type": "news",
-   "slug": "rimcee-2026-late-fee-window-open-october-1-7-2026-10-01",
-   "title": "RIMCEE Late-Fee Window: Apply Till 7 Oct"
-  },
-  {
-   "date": "2026-10-01",
-   "type": "blog",
-   "topic_id": 26,
-   "slug": "aissac-choice-filling-mistakes-cost-seats",
-   "title": "AISSAC Choice Filling: 7 Mistakes That Cost Seats"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "news",
-   "slug": "121-days-to-aissee-2027-countdown-checklist-2026-10-02",
-   "title": "AISSEE 2027 Countdown: 121 Days Left",
-   "run": "morning"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "blog",
-   "slug": "aissee-correction-window-what-you-can-cannot-edit",
-   "title": "AISSEE Correction Window: Full Guide",
-   "topic_id": 27,
-   "run": "morning"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "news",
-   "slug": "aissee-2027-application-fee-explained-2026-10-02",
-   "title": "AISSEE 2027 Application Fee Explained"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "blog",
-   "slug": "defence-quota-documents-sainik-schools",
-   "title": "Defence Quota: Documents You Need"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "news",
-   "slug": "aissee-2027-form-expected-october-readiness-checklist-2026-10-02",
-   "title": "AISSEE 2027 Form Expected This Month: Get These 7 Things Ready"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "blog",
-   "slug": "can-you-change-allotted-sainik-school-after-counselling",
-   "title": "Can You Change Your Allotted Sainik School After Counselling?"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "news",
-   "slug": "aissee-2027-notification-not-out-portal-check-2026-10-02",
-   "title": "AISSEE 2027 Form Not Out Yet (Verified)"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "blog",
-   "slug": "aissee-fee-payment-failed-what-to-do",
-   "title": "AISSEE Fee Payment Failed? Do This"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "news",
-   "slug": "rimcee-2026-dec-6-exam-pattern-vs-aissee-2026-10-02",
-   "title": "RIMCEE 2026 Exam on Dec 6: How the RIMC Paper Differs (Explainer)"
-  },
-  {
-   "date": "2026-10-02",
-   "type": "blog",
-   "slug": "sainik-school-waiting-list-how-it-works",
-   "title": "Sainik School Waiting List: How It Actually Works"
-  },
-  {
-   "date": "2026-10-03",
-   "type": "news",
-   "slug": "rms-cet-2026-17-days-left-apply-before-october-20-2026-10-03",
-   "title": "RMS CET 2026 Deadline: 17 Days Left"
-  },
-  {
-   "date": "2026-10-03",
-   "type": "blog",
-   "slug": "motivate-child-aissee-without-pressure",
-   "title": "Motivate Your Child for AISSEE — Without Pressure"
-  },
-  {
-   "date": "2026-10-03",
-   "slot": "latenoon",
-   "type": "news",
-   "slug": "rimcee-2026-late-fee-closes-october-7-final-reminder-2026-10-03",
-   "title": "RIMCEE 2026: 4 Days Left to Apply With Late Fee — Last Chance for RIMC Class 8"
-  },
-  {
-   "date": "2026-10-03",
-   "slot": "latenoon",
-   "type": "blog",
-   "slug": "is-your-child-ready-for-sainik-school-boarding-life",
-   "title": "Is Your Child Emotionally Ready for Boarding School? A Honest Readiness Checklist",
-   "topic_id": 37
-  },
-  {
-   "date": "2026-10-03",
-   "type": "news",
-   "slug": "defence-school-exam-calendar-2026-27-all-deadlines-2026-10-03",
-   "title": "Defence School Exam Calendar 2026–27: Every Deadline, One Page"
-  },
-  {
-   "date": "2026-10-03",
-   "type": "blog",
-   "slug": "how-to-talk-to-your-child-if-they-dont-clear-aissee",
-   "title": "How to Talk to Your Child If They Don't Clear AISSEE"
-  },
-  {
-   "date": "2026-10-03",
-   "type": "news",
-   "slug": "aissee-2027-how-to-apply-step-by-step-2026-10-03",
-   "title": "AISSEE 2027 Form: How to Apply"
-  },
-  {
-   "date": "2026-10-03",
-   "type": "blog",
-   "slug": "balancing-homework-and-aissee-prep",
-   "title": "Balancing Homework and AISSEE Prep"
-  },
-  {
-   "date": "2026-10-03",
-   "type": "news",
-   "slug": "aissee-2027-qualifying-marks-25-percent-rule-2026-10-03",
-   "title": "AISSEE 2027: Qualifying Marks, 25% Rule"
-  },
-  {
-   "date": "2026-10-03",
-   "type": "blog",
-   "slug": "should-you-hire-aissee-tutor-honest-take",
-   "title": "Should You Hire an AISSEE Tutor?"
-  },
-  {
-   "date": "2026-10-04",
-   "run": "morning",
-   "type": "news",
-   "slug": "rms-cet-2026-70-days-to-december-13-exam-2026-10-04",
-   "title": "RMS CET 2026: 70 Days to Exam Day"
-  },
-  {
-   "date": "2026-10-04",
-   "run": "morning",
-   "type": "blog",
-   "slug": "screen-time-rules-that-work-during-exam-prep",
-   "title": "Screen Time Rules That Actually Work During Exam Prep",
-   "blog_topic_id": 41
-  },
-  {
-   "date": "2026-10-04",
-   "run": "latenoon",
-   "type": "news",
-   "slug": "aissee-2027-notification-oct-4-year-vs-year-2026-10-04",
-   "title": "AISSEE 2027 Notification: Oct 4 Status"
-  },
-  {
-   "date": "2026-10-04",
-   "run": "latenoon",
-   "type": "blog",
-   "slug": "nutrition-tips-heavy-study-phases",
-   "title": "Nutrition Tips for Heavy Study Phases",
-   "blog_topic_id": 42
-  },
-  {
-   "date": "2026-10-04",
-   "type": "news",
-   "slug": "aissee-2027-rumours-vs-facts-2026-10-04",
-   "title": "AISSEE 2027: 5 Rumours vs Facts Parents Must Know"
-  },
-  {
-   "date": "2026-10-04",
-   "type": "blog",
-   "slug": "how-often-can-parents-visit-sainik-school",
-   "title": "How Often Can Parents Visit a Sainik School?",
-   "topic_id": 43
-  },
-  {
-   "date": "2026-10-04",
-   "type": "news",
-   "slug": "rimcee-2026-late-window-closes-october-7-2026-10-04",
-   "title": "RIMCEE 2026: Late Window Closes October 7"
-  },
-  {
-   "date": "2026-10-04",
-   "type": "blog",
-   "slug": "homesickness-in-sainik-school-how-parents-can-help",
-   "title": "Homesickness in Sainik School: How Parents Can Help"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "news",
-   "slug": "aissee-2027-fake-websites-guaranteed-seat-scams-alert-2026-10-05",
-   "title": "AISSEE 2027 Alert: Fake Websites and \"Guaranteed Seat\" Scams Targeting Parents"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "blog",
-   "slug": "when-one-sibling-prepares-for-aissee-and-the-other-doesnt",
-   "title": "When One Sibling Prepares for AISSEE and the Other Doesn't"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "news",
-   "slug": "aissee-2027-notification-october-pattern-what-parents-should-prepare-2026-10-05",
-   "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 — What the October Pattern Tells Parents"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "blog",
-   "slug": "what-food-is-served-in-a-sainik-school-mess",
-   "title": "What Food Is Served in a Sainik School Mess?"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "news",
-   "slug": "aissee-2027-117-days-to-exam-what-to-finish-2026-10-06",
-   "title": "AISSEE 2027: 117 Days to the Exam"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "blog",
-   "slug": "can-students-keep-mobile-phones-in-sainik-school",
-   "title": "Can Students Keep Mobile Phones in Sainik School?"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "news",
-   "slug": "rimcee-2026-late-window-closes-today-2026-10-07",
-   "title": "RIMCEE 2026 Form Closes Today"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "news",
-   "slug": "rimcee-2026-correction-window-opens-october-9-guide-2026-10-07",
-   "title": "RIMCEE 2026 Correction Window Opens 9 October"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "news",
-   "slug": "up-sainik-school-admission-timeline-official-portal-2026-10-07",
-   "title": "UP Sainik School 2027: Official Portal Confirms Full Admission Timeline"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "news",
-   "slug": "up-sainik-school-vs-aissee-which-form-to-fill-2026-10-07",
-   "title": "UP's Five 'Sainik Schools', Two Different Exams: Which Form Should Your Child Fill?"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "blog",
-   "slug": "first-day-at-sainik-school-what-to-expect-2026-10-07",
-   "title": "First Day at Sainik School: A Guide"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "blog",
-   "slug": "sainik-school-alumni-network-why-it-matters",
-   "title": "The Sainik School Alumni Network: Why It Matters"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "blog",
-   "slug": "a-typical-weekend-in-a-sainik-school-2026-10-07",
-   "title": "A Typical Weekend in a Sainik School: Saturday to Sunday"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "blog",
-   "slug": "nda-vs-cds-vs-afcat-which-officer-route-fits",
-   "title": "NDA vs CDS vs AFCAT: Which Officer Route Actually Fits Your Child?"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "news",
-   "slug": "aissee-2027-diwali-season-study-plan-2026-10-07",
-   "title": "AISSEE 2027: Diwali-Season Study Plan"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "blog",
-   "slug": "sainik-school-to-nda-the-real-numbers",
-   "title": "Sainik School to NDA: The Real Numbers"
-  },
-  {
-   "date": "2026-10-08",
-   "run": "afternoon",
-   "type": "news",
-   "slug": "rimcee-2026-correction-window-editable-fields-nta-notice-2026-10-08",
-   "title": "RIMCEE 2026 Correction Window Opens Tomorrow: NTA Notice Reveals Exactly What You Can Edit"
-  },
-  {
-   "date": "2026-10-08",
-   "run": "afternoon",
-   "type": "blog",
-   "slug": "girls-in-nda-complete-2027-guide-2026-10-08",
-   "title": "Girls in NDA: The Complete 2027 Guide",
-   "topic_id": 62
-  },
-  {
-   "date": "2026-10-09",
-   "run": "morning",
-   "type": "news",
-   "slug": "rms-cet-2026-11-days-left-late-fee-window-2026-10-09",
-   "title": "RMS CET 2026: 11 Days Left to Apply, and the Rs 500 Late-Fee Safety Net"
-  },
-  {
-   "date": "2026-10-09",
-   "run": "morning",
-   "type": "blog",
-   "slug": "merchant-navy-vs-defence-services-honest-comparison-2026-10-09",
-   "title": "Merchant Navy vs Defence Services: An Honest Comparison",
-   "blog_topic_id": 65
-  },
-  {
-   "date": "2026-10-09",
-   "type": "news",
-   "slug": "rimcee-2026-correction-window-live-closes-october-11-2026-10-09",
-   "title": "RIMCEE 2026 Correction Window Open: Fix Mistakes by Oct 11"
-  },
-  {
-   "date": "2026-10-09",
-   "type": "blog",
-   "slug": "aissee-vs-rms-cet-which-exam-is-tougher-2026-10-09",
-   "title": "AISSEE vs RMS CET: Which Exam Is Tougher?"
-  }
- ],
- "items": [
-  {
-   "date": "2026-10-04",
-   "run": "night",
-   "type": "news",
-   "slug": "rms-cet-2026-application-deadline-october-20-2026-10-04",
-   "title": "RMS CET 2026: 16 Days Left — Apply by October 20"
-  },
-  {
-   "date": "2026-10-04",
-   "run": "night",
-   "type": "blog",
-   "slug": "building-discipline-at-home-before-sainik-school-admission",
-   "title": "Building Discipline at Home Before Sainik School Admission",
-   "blog_topic_id": 45
-  },
-  {
-   "date": "2026-10-05",
-   "run": "latenoon",
-   "type": "news",
-   "slug": "jnvst-class-6-exam-november-28-54-days-to-go-2026-10-05",
-   "title": "JNVST Class 6 Exam on 28 November: 54 Days Left — What AISSEE Parents Should Know"
-  },
-  {
-   "date": "2026-10-05",
-   "run": "latenoon",
-   "type": "blog",
-   "slug": "what-if-your-child-doesnt-want-to-join-sainik-school",
-   "title": "What If Your Child Doesn't Want to Join a Sainik School?"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "news",
-   "slug": "aissee-2027-fake-websites-guaranteed-seat-scams-alert-2026-10-05",
-   "title": "AISSEE 2027 Alert: Fake Websites and \"Guaranteed Seat\" Scams Targeting Parents"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "blog",
-   "slug": "when-one-sibling-prepares-for-aissee-and-the-other-doesnt",
-   "title": "When One Sibling Prepares for AISSEE and the Other Doesn't"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "news",
-   "slug": "aissee-2027-notification-october-pattern-what-parents-should-prepare-2026-10-05",
-   "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 — What the October Pattern Tells Parents"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "blog",
-   "slug": "what-food-is-served-in-a-sainik-school-mess",
-   "title": "What Food Is Served in a Sainik School Mess?"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "news",
-   "slug": "rms-cet-2026-correction-window-opens-october-27-2026-10-05",
-   "title": "RMS CET Correction Window: 27–28 Oct"
-  },
-  {
-   "date": "2026-10-05",
-   "type": "blog",
-   "slug": "sainik-school-uniform-complete-guide-new-parents",
-   "title": "Sainik School Uniform: Full Kit Guide"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "news",
-   "slug": "aissee-2027-117-days-to-exam-what-to-finish-2026-10-06",
-   "title": "AISSEE 2027: 117 Days to the Exam"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "blog",
-   "slug": "can-students-keep-mobile-phones-in-sainik-school",
-   "title": "Can Students Keep Mobile Phones in Sainik School?"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "news",
-   "slug": "up-sainik-school-2027-exam-pattern-deadline-guide-2026-10-06",
-   "title": "UP Sainik School Exam: 200-Mark Paper Explained"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "blog",
-   "slug": "sainik-school-holidays-vacation-calendar-explained",
-   "title": "Sainik School Holidays: The Honest Calendar",
-   "blog_topic_id": 51
-  },
-  {
-   "date": "2026-10-06",
-   "type": "news",
-   "slug": "december-exam-gauntlet-rimcee-rms-up-sainik-2026-10-06",
-   "title": "December Exam Rush: 3 Defence Papers in 15 Days"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "blog",
-   "slug": "how-strict-is-discipline-in-sainik-school",
-   "title": "How Strict Is Discipline in Sainik School, Really?",
-   "topic_id": 52
-  },
-  {
-   "date": "2026-10-06",
-   "type": "news",
-   "slug": "up-sainik-school-nda-bond-fine-print-2026-10-06",
-   "title": "UP Sainik School 2027: The NDA Bond Parents Must Read"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "blog",
-   "slug": "bullying-boarding-schools-parents-guide-2026-10-06",
-   "title": "Bullying in Boarding Schools: A Parent's Honest Guide"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "news",
-   "slug": "aissee-2027-application-documents-checklist-2026-10-06",
-   "title": "AISSEE 2027 Form Watch: 5 Documents to Keep Ready Before the Notification Drops"
-  },
-  {
-   "date": "2026-10-06",
-   "type": "blog",
-   "slug": "sainik-school-medical-facilities-mi-room-guide-2026-10-06",
-   "title": "Medical Facilities Inside Sainik Schools: What Parents Should Know",
-   "topic_id": 54
-  },
-  {
-   "date": "2026-10-07",
-   "run": "morning",
-   "type": "news",
-   "slug": "rimcee-2026-late-window-closes-today-2026-10-07",
-   "title": "RIMCEE 2026 Form Closes Today"
-  },
-  {
-   "date": "2026-10-07",
-   "run": "morning",
-   "type": "blog",
-   "slug": "first-day-at-sainik-school-what-to-expect-2026-10-07",
-   "title": "First Day at Sainik School: A Guide",
-   "topic_id": 55
-  },
-  {
-   "date": "2026-10-07",
-   "type": "news",
-   "slug": "rimcee-2026-correction-window-opens-october-9-guide-2026-10-07",
-   "title": "RIMCEE 2026 Correction Window Opens 9 October"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "blog",
-   "slug": "sainik-school-alumni-network-why-it-matters",
-   "title": "The Sainik School Alumni Network: Why It Matters"
-  },
-  {
-   "date": "2026-10-07",
-   "run": "afternoon",
-   "type": "news",
-   "slug": "up-sainik-school-admission-timeline-official-portal-2026-10-07",
-   "title": "UP Sainik School 2027: Official Portal Confirms Full Admission Timeline"
-  },
-  {
-   "date": "2026-10-07",
-   "run": "afternoon",
-   "type": "blog",
-   "slug": "a-typical-weekend-in-a-sainik-school-2026-10-07",
-   "title": "A Typical Weekend in a Sainik School: Saturday to Sunday",
-   "topic_id": 57
-  },
-  {
-   "date": "2026-10-07",
-   "type": "news",
-   "slug": "up-sainik-school-vs-aissee-which-form-to-fill-2026-10-07",
-   "title": "UP's Five 'Sainik Schools', Two Different Exams: Which Form Should Your Child Fill?"
-  },
-  {
-   "date": "2026-10-07",
-   "type": "blog",
-   "slug": "nda-vs-cds-vs-afcat-which-officer-route-fits",
-   "title": "NDA vs CDS vs AFCAT: Which Officer Route Actually Fits Your Child? (topic 58)"
-  },
-  {
-   "date": "2026-10-08",
-   "type": "news",
-   "slug": "aissee-2027-notification-not-out-115-days-2026-10-08",
-   "title": "AISSEE 2027 Form Not Out Yet: 115 Days"
-  },
-  {
-   "date": "2026-10-08",
-   "type": "blog",
-   "slug": "careers-after-sainik-school-beyond-defence-2026-10-08",
-   "title": "Sainik School Grads Beyond Defence"
-  },
-  {
-   "date": "2026-10-08",
-   "type": "news",
-   "slug": "aissee-2027-qualifying-marks-25-40-rule-2026-10-08",
-   "title": "AISSEE 2027 Qualifying Marks Explained"
-  },
-  {
-   "date": "2026-10-08",
-   "type": "blog",
-   "slug": "how-sainik-school-life-helps-ssb-interview",
-   "title": "Sainik School Life and SSB Interview",
-   "topic_id": 61
-  },
-  {
-   "date": "2026-10-08",
-   "type": "news",
-   "slug": "cbse-cwsn-inclusive-education-module-2026-10-08",
-   "title": "CBSE Orders Inclusive-Education Session for All School Staff"
-  },
-  {
-   "date": "2026-10-08",
-   "type": "blog",
-   "slug": "from-sainik-school-to-iit-is-it-possible-2026-10-08",
-   "title": "From Sainik School to IIT: Is It Possible?"
-  },
-  {
-   "date": "2026-10-08",
-   "type": "news",
-   "slug": "diwali-break-aissee-2027-study-plan-2026-10-08",
-   "title": "Diwali Break AISSEE 2027 Study Plan"
-  },
-  {
-   "date": "2026-10-08",
-   "type": "blog",
-   "slug": "upsc-after-sainik-school-natural-fit-2026-10-08",
-   "title": "UPSC After Sainik School: A Natural Fit?"
-  },
-  {
-   "date": "2026-10-09",
-   "type": "news",
-   "slug": "up-sainik-school-2027-16-days-left-normal-fee-deadline-2026-10-09",
-   "title": "UP Sainik School 2027: 16 Days Left, Fee Doubles After 25 Oct"
-  },
-  {
-   "date": "2026-10-09",
-   "type": "blog",
-   "slug": "sainik-school-vs-private-cbse-school-honest-comparison",
-   "title": "Sainik School vs a Good Private CBSE School: Honest Comparison"
-  }
- ]
+  "blog_topic_cursor": 68,
+  "notes": "Append every published item here: {date, type: news|blog|webstory, slug, title}. blog_topic_cursor = id of last used blog topic. [2026-09-29 night] topic 15 consumed by evening blog (previous-year-papers-vs-sample-papers); cursor set 16. [2026-09-30 morning] news: September roundup explainer (no new 48h news); blog topic 17 (Class 9 science chapters, evergreen fallback — no hot topic); cursor set 17. [2026-09-30 afternoon] news: RIMCEE deadline-day piece (closes 5 PM today, late-fee window 1-7 Oct); blog topic 19 (exam pressure guide, evergreen fallback — no distinct hot topic; Trends fetch 429). [2026-09-30 night] news: October defence-school forms map explainer (RIMCEE late window 1-7 Oct, RMS CET till 20 Oct, UP Sainik till 25 Oct, AISSEE 2027 notification awaited); blog topic 21 (photo/signature requirements, next-bank-topic fallback — no distinct hot topic beyond notification watch already covered); cursor set 21. [2026-10-01 morning] news: exam-city-choice explainer (no new 48h news; notification still awaited — notification-watch angle already covered); blog topic 22 (AISSAC school preference, evergreen fallback — no distinct hot topic beyond notification watch); cursor set 22. [2026-10-01 evening] news: AISSEE 2027 notification status check (portal shows only 2026 items as of Oct 1; 122 days to 31 Jan 2027; exam-date angle rejected as duplicate of latenoon UP piece quoting 20 Dec); blog topic 25 (post-result steps: answer key/result/AISSAC/choice fill/allotment/spot round/verification/medical); cursor set 25. [2026-10-01 night] news: RIMCEE 2026 late-fee window open 1-7 Oct (regular window closed 30 Sep 5 PM; verified educationtimes+telegraphindia); blog topic 26 (AISSAC choice filling mistakes, evergreen bank -- no hot trending topic); cursor set 26. [2026-10-02 latenoon] news: application-fee explainer (no genuinely new 48h news; fee ₹850/₹700 verified via TOI citing NTA bulletin + Collegedunia opened this run); blog topic 29 (defence-quota documents, SOP-verified; topic 28 skipped — counselling/seat-allotment mechanics already covered by sainik-school-counselling-2027 + seats-matrix + preference-guide pieces; Trends fetch 429 again). cursor set 29. [2026-10-02 afternoon] news: October form-readiness checklist (notification not out; form expected Oct 2026 per buddy4study+collegedunia+aglasem; 7-item readiness list); blog topic 30 (change allotted school after counselling — Accept/Reconsider/Hold&Continue from AISSAC SOP; no post-counselling transfer); Trends fetch 429 again. cursor set 30. [2026-10-03 morning] news: RMS CET 2026 17-days-left deadline explainer (closes 20 Oct 5 PM; late window 21-25 Oct +Rs500; exam 13 Dec; verified TOI/ET/NDTV/EdexLive/JagranJosh); blog topic 36 (motivate child without pressure, parent guide; no trending topic — Trends 429 pattern continues, no fresh 48h buzz beyond RMS dates already covered). cursor set 36. [2026-10-03 latenoon] news: RIMCEE late-fee final reminder (closes 7 Oct 11:50 PM; +Rs500; verified edexlive+telegraphindia opened pages; no genuinely new 48h news — notification watch covered); blog topic 37 (boarding readiness checklist, parent guide). cursor set 37. [2026-10-03 evening] news: AISSEE 2027 how-to-apply explainer (form not out as of 2 Oct portal check; 2026 steps CONFIRMED via TOI citing NTA bulletin); blog topic 39 (balancing homework + AISSEE prep, weekly planner table). cursor set 39. [2026-10-04 latenoon] news: AISSEE 2027 notification status year-vs-year explainer (not out as of Oct 4; last year dropped Oct 10; no genuinely new 48h news); blog topic 42 (nutrition during heavy study, evergreen bank). cursor set 42. [2026-10-04 evening] news: RIMCEE 2026 late window closes Oct 7 (genuinely new milestone; Rs.500 late fee; correction 9-11 Oct); blog topic 44 (homesickness); cursor set 44. [2026-10-05 evening] log repaired: afternoon run entries (news scam-alert, blog topic 47 sibling-fairness) were published but never logged; cursor was 46, set to 47. [2026-10-05 evening] news: notification-watch Oct 5 (October pattern + document readiness); blog topic 48 (mess food, official-menu sourced); cursor set 48. [2026-10-07 morning] news: RIMCEE 2026 late-window day-of piece (closes TODAY 7 Oct; fee txn till 11:50 PM CONFIRMED via NDTV/EdexLive/JagranJosh; correction 9-11 Oct; exam Dec 6 in 60 days). AISSEE 2027 notification NOT out (portal re-check Oct 7 shows 2026 items only). blog topic 55 (first day at Sainik School, evergreen bank; no distinct trending topic beyond RIMCEE close already covered as news). cursor set 55. [2026-10-07 latenoon] news: RIMCEE 2026 correction window opens 9 Oct (window closed 7 Oct; correction 9-11 Oct verified Telegraph/JagranJosh/TSC/JobMitra; exam 6 Dec, 60 days; pattern 400 marks/50%-per-subject). blog topic 56 (alumni network, evergreen bank; Trends API 404, no distinct hot topic). cursor set 56. [2026-10-07 night] log repaired: morning/latenoon/afternoon/evening run entries (4 news + 4 blogs) were published+pushed but never logged; cursor 58. [2026-10-07 night] news: Diwali-season study plan explainer (no genuinely new 48h dev; NTA portal re-check tonight still 2026-only; Diwali 8 Nov verified via Wikipedia/almanac/ET; 116 days to 31 Jan). blog topic 59 (Sainik School to NDA real numbers; CAG/The Week 13.40%/10.57%/9.70% vs 20% target, Rajya Sabha 11% six-year, RM 7,000 officers, HT Lucknow 22 cadets). cursor set 59. [2026-10-08 evening] news: CBSE CwSN inclusive-education module explainer (circular TRG-20/2026 5 Oct, staff screening 7 Oct; Education Post opened + IE/TOI/Telegraph corroboration; no genuinely new 48h AISSEE news — RIMCEE/RMS/UP Sainik angles all covered); blog topic 63 (Sainik School to IIT — honest rare-but-possible angle; no fabricated alumni). cursor set 63. [2026-10-08 night] news: Diwali-break study-plan explainer (no genuinely new 48h news; Diwali 8 Nov confirmed via almanac/acadcalendar/hindutone, 115 days to 31 Jan exam, two-phase plan); blog topic 64 (UPSC after Sainik School, evergreen fallback — Google Trends fetch 429); cursor set 64. [2026-10-09 morning] news: RMS CET final-week countdown explainer (regular window closes 20 Oct 5 PM, fee till 11:50 PM; late window 21-25 Oct +Rs 500, verified TOI/ET/EdexLive/HT/JagranJosh; distinct angle from Oct 3 '17 days' piece — late-fee mechanics focus); blog topic 65 (Merchant Navy vs Defence Services comparison table; no distinct hot trending topic). cursor set 65. [2026-10-09 latenoon] news: UP Sainik School normal-fee deadline countdown (16 days, fee doubles Rs 1,000->Rs 2,000 after 25 Oct 5 PM; late window 26-31 Oct; correction 3-5 Nov; exam 20 Dec, 72 days; verified buddy4study + aisseesainikschool.in + sainikschool360.in; distinct angle from Oct 1 24-days piece); blog topic 66 (Sainik vs private CBSE comparison table; Google Trends 429 again -> evergreen fallback). cursor set 66. [2026-10-09 afternoon] news: RIMCEE correction window NOW OPEN (9-11 Oct, closes 11:50 PM 11 Oct, one-time) — live-window angle distinct from 10-07/10-08 pre-open pieces; blog topic 67 (AISSEE vs RMS CET toughness); cursor set 67.",
+  "published": [
+    {
+      "date": "2026-09-26",
+      "type": "news",
+      "slug": "sainik-school-kunjpura-recruitment-2026-2026-09-26",
+      "title": "Sainik School Kunjpura Recruitment 2026: 15 Teaching & Non-Teaching Posts, Apply by 31 October"
+    },
+    {
+      "date": "2026-09-26",
+      "type": "blog",
+      "slug": "aissee-maths-speed-improvement-guide",
+      "title": "How to Improve Speed in the AISSEE Maths Section: 9 Drills That Actually Work"
+    },
+    {
+      "date": "2026-09-26",
+      "type": "webstory",
+      "slug": "aissee-maths-speed-tricks-2026",
+      "title": "7 Maths Speed Tricks for AISSEE 2027 — Solve Faster, Score Higher"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "aissee-2027-126-days-countdown-2026-09-27",
+      "title": "126 Days to AISSEE 2027: What to Finish Before the October Notification"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-negative-marking-honest-answer",
+      "title": "Is There Negative Marking in AISSEE? The Honest Answer"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "aissee-no-negative-marking-attempt-rules-2026",
+      "title": "No Negative Marking in AISSEE: 7 Attempt Rules That Win Marks"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "rms-cet-2026-applications-open-nta-2026-09-27",
+      "title": "NTA Opens RMS CET 2026 Applications: Class 6 & 9 Military School Admissions Begin"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-daily-timetable-class-6",
+      "title": "The Perfect Daily Timetable for AISSEE Class 6 Preparation",
+      "topic_id": 3
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "rms-cet-2026-applications-2026",
+      "title": "RMS CET 2026 Applications Open: 6 Things to Do Before 20 October"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "aissee-2027-notification-october-watch-2026-09-27",
+      "title": "AISSEE 2027 Notification: October Is the Month to Watch — What Past Cycles Reveal"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-how-many-study-hours-class-6",
+      "title": "How Many Hours Should a Class 6 Student Study for AISSEE? The Honest Answer"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "aissee-study-hours-guide-2026",
+      "title": "How Many Hours Should You Study for AISSEE? 6 Rules That Actually Work"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "up-sainik-school-admission-2027-2026-09-27",
+      "title": "UP Sainik School Admission 2027-28: Applications Open — Apply by 25 October 2026"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-intelligence-section-complete-guide",
+      "title": "AISSEE Intelligence Section: The Complete Preparation Guide",
+      "topic_id": 5
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "up-sainik-school-admission-2026",
+      "title": "UP Sainik School 2027: Form Out! 7 Things UP Parents Must Do Now"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "news",
+      "slug": "rimcee-2026-registration-closes-september-30-2026-09-27",
+      "title": "RIMCEE 2026 Registration Closes in 3 Days: NTA's RIMC Class 8 Entrance — Apply by 30 September"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "blog",
+      "slug": "aissee-english-grammar-topics-that-matter-most",
+      "title": "English Grammar Topics That Matter Most in AISSEE: Where Your Child's Marks Actually Come From",
+      "topic_id": 6
+    },
+    {
+      "date": "2026-09-27",
+      "type": "webstory",
+      "slug": "rimcee-2026-deadline-countdown-2026",
+      "title": "RIMCEE 2026: Only 3 Days Left — 6 Things to Do Before the Form Closes"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "news",
+      "slug": "nta-school-entrance-calendar-2026-27-2026-09-28",
+      "title": "NTA's School-Entrance Calendar 2026–27: RIMCEE, RMS CET, AISSEE — All 5 Dates in One Place"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "blog",
+      "slug": "aissee-paper-attempt-strategy",
+      "title": "How to Attempt the AISSEE Paper: A Question-Selection Strategy That Turns Knowledge Into Marks"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "webstory",
+      "slug": "nta-entrance-calendar-2026",
+      "title": "NTA Calendar 2026–27: 5 Defence School Exam Dates You Need Now"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "news",
+      "slug": "aissee-2027-notification-watch-125-days-to-go-2026-09-28",
+      "title": "125 Days to AISSEE 2027: Notification Still Awaited — What to Finish This Week"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "blog",
+      "slug": "silly-omr-mistakes-cost-sainik-school-seat",
+      "title": "Silly OMR Mistakes That Cost Students Their Sainik School Seat"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "webstory",
+      "slug": "omr-mistakes-aissee-2026",
+      "title": "OMR Mistakes That Cost Sainik School Seats: 7 Errors to Fix in 2 Weeks"
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "afternoon",
+      "type": "news",
+      "slug": "rimcee-2026-after-deadline-what-happens-next-2026-09-28",
+      "title": "RIMCEE 2026: After the 30 September Deadline — Correction Window, Admit Card & the 6 December Plan",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "afternoon",
+      "type": "blog",
+      "slug": "30-day-revision-plan-aissee-2027",
+      "title": "The 30-Day Revision Plan Before AISSEE 2027: A Week-by-Week Countdown to 31 January",
+      "blog_topic_id": 9
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "afternoon",
+      "type": "webstory",
+      "slug": "aissee-30-day-revision-countdown-story",
+      "title": "AISSEE 2027: The 30-Day Revision Countdown — Week by Week",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "evening",
+      "type": "news",
+      "slug": "aissng-2026-national-games-conclude-ghorakhal-2026-09-28",
+      "title": "All India Sainik Schools National Games 2026 Conclude: What the Ghorakhal Finale Shows AISSEE Aspirants",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "evening",
+      "type": "blog",
+      "slug": "aissee-preparation-without-coaching",
+      "title": "How to Prepare for AISSEE Without Coaching: A Self-Study Roadmap That Actually Works",
+      "blog_topic_id": 10
+    },
+    {
+      "date": "2026-09-28",
+      "slot": "evening",
+      "type": "webstory",
+      "slug": "aissng-2026-national-games-story",
+      "title": "AISSNG 2026: Inside the National Games of Sainik Schools — 7 Slides",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "type": "news",
+      "slug": "aissee-2027-documents-ready-before-notification-2026-09-28",
+      "title": "AISSEE 2027 Notification Expected in October: 7 Documents to Keep Ready This Week"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "blog",
+      "slug": "ncert-vs-guidebooks-aissee-what-works",
+      "title": "NCERT vs Guidebooks for AISSEE: What Actually Works"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "webstory",
+      "slug": "aissee-2027-documents-checklist-story",
+      "title": "AISSEE 2027: 7 Documents to Keep Ready Before the Notification — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "october-4-week-aissee-2027-game-plan-2026-09-29",
+      "title": "124 Days to AISSEE 2027: Your 4-Week October Game Plan (Starts Thursday)"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-class-6-maths-formula-cheat-sheet",
+      "title": "AISSEE Class 6 Maths Formula Cheat Sheet: The Only List Your Child Needs to Memorise"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "october-aissee-2027-game-plan-story",
+      "title": "AISSEE 2027: Your 4-Week October Game Plan — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "rms-cet-2026-21-days-left-checklist-2026-09-29",
+      "title": "RMS CET 2026: 21 Days Left to Apply — Fees, Age Limits, Exam Pattern Explained"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-english-vocabulary-90-day-plan",
+      "title": "How to Build Vocabulary for AISSEE English in 90 Days: A Daily Plan That Actually Works"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "rms-cet-2026-deadline-reminder-story",
+      "title": "RMS CET 2026: 21 Days Left to Apply — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "new-sainik-schools-40-60-route-explained-2026-09-29",
+      "title": "New Sainik Schools Explained: How the 40% AISSEE Route and 60% School Route Actually Work"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-gk-static-gk-current-affairs-balance",
+      "title": "AISSEE GK Preparation: How to Balance Static GK and Current Affairs (Class 6 & 9)"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "aissee-gk-balance-story",
+      "title": "AISSEE GK: How to Balance Static GK and Current Affairs — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "aissee-2027-notification-october-watch-2026-09-29",
+      "title": "AISSEE 2027 Notification Watch: What the Last Three Cycles Tell Us as October Begins"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-previous-year-papers-vs-sample-papers",
+      "title": "AISSEE Previous Year Papers vs Sample Papers: Which One Actually Helps More?"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "previous-year-papers-vs-sample-papers-story",
+      "title": "AISSEE Papers: Previous Year vs Sample Papers — 7 Slides"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "news",
+      "slug": "aissee-2027-notification-day-parent-checklist-2026-09-29",
+      "title": "AISSEE 2027 Notification Day: The 10 Things Parents Must Check Before Submitting the Form"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "blog",
+      "slug": "aissee-mock-test-analysis-error-log-method",
+      "title": "How to Analyse Your Mock Test the Right Way: The Error-Log Method for AISSEE 2027"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "webstory",
+      "slug": "aissee-mock-test-analysis-story",
+      "title": "Analyse Your Mock Test Like a Topper: 7 Slides"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "aissee-2027-september-roundup-2026-09-30",
+      "title": "AISSEE 2027 September Roundup"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "aissee-class-9-science-important-chapters",
+      "title": "AISSEE Class 9 Science: Key Chapters",
+      "topic_id": 17
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "aissee-2027-123-days-milestones-countdown-2026-09-30",
+      "title": "AISSEE 2027: 123 Days Left — 6 Milestones to Watch"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "map-work-tips-aissee-class-9-social-science",
+      "title": "Map Work Tips for AISSEE Class 9 Social Science"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "rimcee-2026-apply-by-5pm-today-2026-09-30",
+      "title": "RIMCEE 2026: Apply by 5 PM Today"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "how-11-year-olds-handle-exam-pressure",
+      "title": "Exam Pressure at 11: A Parent's Guide"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "aissee-2026-20-day-form-window-2026-09-30",
+      "title": "AISSEE 2026: The 20-Day Form Window"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "aissee-2028-when-to-start-preparing",
+      "title": "AISSEE 2028: When to Start Preparing"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "news",
+      "slug": "october-2026-defence-school-forms-map-2026-09-30",
+      "title": "4 Defence-School Forms Open in October 2026"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "blog",
+      "slug": "aissee-application-form-photo-signature-requirements",
+      "title": "AISSEE Form Photo & Signature Specs"
+    },
+    {
+      "date": "2026-10-01",
+      "slot": "morning",
+      "type": "news",
+      "slug": "aissee-2027-exam-city-choices-guide-2026-10-01",
+      "title": "AISSEE 2027 Exam Cities: How to Choose Your 4 Preferences on the Form",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-10-01",
+      "slot": "morning",
+      "type": "blog",
+      "slug": "how-to-choose-school-preferences-aissac-counselling",
+      "title": "How to Choose School Preferences in AISSAC Counselling: Home State vs Dream School",
+      "blog_topic_id": 22
+    },
+    {
+      "date": "2026-10-01",
+      "slot": "latenoon",
+      "type": "news",
+      "slug": "up-sainik-school-deadline-24-days-left-2026-10-01",
+      "title": "UP Sainik School: 24 Days to Apply",
+      "blog_topic_id": null
+    },
+    {
+      "date": "2026-10-01",
+      "slot": "latenoon",
+      "type": "blog",
+      "slug": "domicile-certificate-sainik-school-guide",
+      "title": "Domicile Certificate for Sainik School",
+      "blog_topic_id": 23
+    },
+    {
+      "date": "2026-10-01",
+      "type": "news",
+      "slug": "girls-quota-sainik-schools-aissee-2027-2026-10-01",
+      "title": "Girls in Sainik Schools: How the 10% Quota Works for AISSEE 2027"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "blog",
+      "slug": "caste-certificate-format-aissee-reservation-claims",
+      "title": "Caste Certificate Rules for AISSEE 2027"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "news",
+      "slug": "aissee-2027-notification-still-not-out-2026-10-01",
+      "title": "AISSEE 2027: Notification Not Out Yet"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "blog",
+      "slug": "what-happens-after-aissee-result-guide",
+      "title": "AISSEE Result 2027: What Happens Next"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "news",
+      "slug": "rimcee-2026-late-fee-window-open-october-1-7-2026-10-01",
+      "title": "RIMCEE Late-Fee Window: Apply Till 7 Oct"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "blog",
+      "topic_id": 26,
+      "slug": "aissac-choice-filling-mistakes-cost-seats",
+      "title": "AISSAC Choice Filling: 7 Mistakes That Cost Seats"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "news",
+      "slug": "121-days-to-aissee-2027-countdown-checklist-2026-10-02",
+      "title": "AISSEE 2027 Countdown: 121 Days Left",
+      "run": "morning"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "blog",
+      "slug": "aissee-correction-window-what-you-can-cannot-edit",
+      "title": "AISSEE Correction Window: Full Guide",
+      "topic_id": 27,
+      "run": "morning"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "news",
+      "slug": "aissee-2027-application-fee-explained-2026-10-02",
+      "title": "AISSEE 2027 Application Fee Explained"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "blog",
+      "slug": "defence-quota-documents-sainik-schools",
+      "title": "Defence Quota: Documents You Need"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "news",
+      "slug": "aissee-2027-form-expected-october-readiness-checklist-2026-10-02",
+      "title": "AISSEE 2027 Form Expected This Month: Get These 7 Things Ready"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "blog",
+      "slug": "can-you-change-allotted-sainik-school-after-counselling",
+      "title": "Can You Change Your Allotted Sainik School After Counselling?"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "news",
+      "slug": "aissee-2027-notification-not-out-portal-check-2026-10-02",
+      "title": "AISSEE 2027 Form Not Out Yet (Verified)"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "blog",
+      "slug": "aissee-fee-payment-failed-what-to-do",
+      "title": "AISSEE Fee Payment Failed? Do This"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "news",
+      "slug": "rimcee-2026-dec-6-exam-pattern-vs-aissee-2026-10-02",
+      "title": "RIMCEE 2026 Exam on Dec 6: How the RIMC Paper Differs (Explainer)"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "blog",
+      "slug": "sainik-school-waiting-list-how-it-works",
+      "title": "Sainik School Waiting List: How It Actually Works"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "news",
+      "slug": "rms-cet-2026-17-days-left-apply-before-october-20-2026-10-03",
+      "title": "RMS CET 2026 Deadline: 17 Days Left"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "blog",
+      "slug": "motivate-child-aissee-without-pressure",
+      "title": "Motivate Your Child for AISSEE — Without Pressure"
+    },
+    {
+      "date": "2026-10-03",
+      "slot": "latenoon",
+      "type": "news",
+      "slug": "rimcee-2026-late-fee-closes-october-7-final-reminder-2026-10-03",
+      "title": "RIMCEE 2026: 4 Days Left to Apply With Late Fee — Last Chance for RIMC Class 8"
+    },
+    {
+      "date": "2026-10-03",
+      "slot": "latenoon",
+      "type": "blog",
+      "slug": "is-your-child-ready-for-sainik-school-boarding-life",
+      "title": "Is Your Child Emotionally Ready for Boarding School? A Honest Readiness Checklist",
+      "topic_id": 37
+    },
+    {
+      "date": "2026-10-03",
+      "type": "news",
+      "slug": "defence-school-exam-calendar-2026-27-all-deadlines-2026-10-03",
+      "title": "Defence School Exam Calendar 2026–27: Every Deadline, One Page"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "blog",
+      "slug": "how-to-talk-to-your-child-if-they-dont-clear-aissee",
+      "title": "How to Talk to Your Child If They Don't Clear AISSEE"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "news",
+      "slug": "aissee-2027-how-to-apply-step-by-step-2026-10-03",
+      "title": "AISSEE 2027 Form: How to Apply"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "blog",
+      "slug": "balancing-homework-and-aissee-prep",
+      "title": "Balancing Homework and AISSEE Prep"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "news",
+      "slug": "aissee-2027-qualifying-marks-25-percent-rule-2026-10-03",
+      "title": "AISSEE 2027: Qualifying Marks, 25% Rule"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "blog",
+      "slug": "should-you-hire-aissee-tutor-honest-take",
+      "title": "Should You Hire an AISSEE Tutor?"
+    },
+    {
+      "date": "2026-10-04",
+      "run": "morning",
+      "type": "news",
+      "slug": "rms-cet-2026-70-days-to-december-13-exam-2026-10-04",
+      "title": "RMS CET 2026: 70 Days to Exam Day"
+    },
+    {
+      "date": "2026-10-04",
+      "run": "morning",
+      "type": "blog",
+      "slug": "screen-time-rules-that-work-during-exam-prep",
+      "title": "Screen Time Rules That Actually Work During Exam Prep",
+      "blog_topic_id": 41
+    },
+    {
+      "date": "2026-10-04",
+      "run": "latenoon",
+      "type": "news",
+      "slug": "aissee-2027-notification-oct-4-year-vs-year-2026-10-04",
+      "title": "AISSEE 2027 Notification: Oct 4 Status"
+    },
+    {
+      "date": "2026-10-04",
+      "run": "latenoon",
+      "type": "blog",
+      "slug": "nutrition-tips-heavy-study-phases",
+      "title": "Nutrition Tips for Heavy Study Phases",
+      "blog_topic_id": 42
+    },
+    {
+      "date": "2026-10-04",
+      "type": "news",
+      "slug": "aissee-2027-rumours-vs-facts-2026-10-04",
+      "title": "AISSEE 2027: 5 Rumours vs Facts Parents Must Know"
+    },
+    {
+      "date": "2026-10-04",
+      "type": "blog",
+      "slug": "how-often-can-parents-visit-sainik-school",
+      "title": "How Often Can Parents Visit a Sainik School?",
+      "topic_id": 43
+    },
+    {
+      "date": "2026-10-04",
+      "type": "news",
+      "slug": "rimcee-2026-late-window-closes-october-7-2026-10-04",
+      "title": "RIMCEE 2026: Late Window Closes October 7"
+    },
+    {
+      "date": "2026-10-04",
+      "type": "blog",
+      "slug": "homesickness-in-sainik-school-how-parents-can-help",
+      "title": "Homesickness in Sainik School: How Parents Can Help"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "news",
+      "slug": "aissee-2027-fake-websites-guaranteed-seat-scams-alert-2026-10-05",
+      "title": "AISSEE 2027 Alert: Fake Websites and \"Guaranteed Seat\" Scams Targeting Parents"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "blog",
+      "slug": "when-one-sibling-prepares-for-aissee-and-the-other-doesnt",
+      "title": "When One Sibling Prepares for AISSEE and the Other Doesn't"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "news",
+      "slug": "aissee-2027-notification-october-pattern-what-parents-should-prepare-2026-10-05",
+      "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 — What the October Pattern Tells Parents"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "blog",
+      "slug": "what-food-is-served-in-a-sainik-school-mess",
+      "title": "What Food Is Served in a Sainik School Mess?"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "news",
+      "slug": "aissee-2027-117-days-to-exam-what-to-finish-2026-10-06",
+      "title": "AISSEE 2027: 117 Days to the Exam"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "blog",
+      "slug": "can-students-keep-mobile-phones-in-sainik-school",
+      "title": "Can Students Keep Mobile Phones in Sainik School?"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "news",
+      "slug": "rimcee-2026-late-window-closes-today-2026-10-07",
+      "title": "RIMCEE 2026 Form Closes Today"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "news",
+      "slug": "rimcee-2026-correction-window-opens-october-9-guide-2026-10-07",
+      "title": "RIMCEE 2026 Correction Window Opens 9 October"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "news",
+      "slug": "up-sainik-school-admission-timeline-official-portal-2026-10-07",
+      "title": "UP Sainik School 2027: Official Portal Confirms Full Admission Timeline"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "news",
+      "slug": "up-sainik-school-vs-aissee-which-form-to-fill-2026-10-07",
+      "title": "UP's Five 'Sainik Schools', Two Different Exams: Which Form Should Your Child Fill?"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "blog",
+      "slug": "first-day-at-sainik-school-what-to-expect-2026-10-07",
+      "title": "First Day at Sainik School: A Guide"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "blog",
+      "slug": "sainik-school-alumni-network-why-it-matters",
+      "title": "The Sainik School Alumni Network: Why It Matters"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "blog",
+      "slug": "a-typical-weekend-in-a-sainik-school-2026-10-07",
+      "title": "A Typical Weekend in a Sainik School: Saturday to Sunday"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "blog",
+      "slug": "nda-vs-cds-vs-afcat-which-officer-route-fits",
+      "title": "NDA vs CDS vs AFCAT: Which Officer Route Actually Fits Your Child?"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "news",
+      "slug": "aissee-2027-diwali-season-study-plan-2026-10-07",
+      "title": "AISSEE 2027: Diwali-Season Study Plan"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "blog",
+      "slug": "sainik-school-to-nda-the-real-numbers",
+      "title": "Sainik School to NDA: The Real Numbers"
+    },
+    {
+      "date": "2026-10-08",
+      "run": "afternoon",
+      "type": "news",
+      "slug": "rimcee-2026-correction-window-editable-fields-nta-notice-2026-10-08",
+      "title": "RIMCEE 2026 Correction Window Opens Tomorrow: NTA Notice Reveals Exactly What You Can Edit"
+    },
+    {
+      "date": "2026-10-08",
+      "run": "afternoon",
+      "type": "blog",
+      "slug": "girls-in-nda-complete-2027-guide-2026-10-08",
+      "title": "Girls in NDA: The Complete 2027 Guide",
+      "topic_id": 62
+    },
+    {
+      "date": "2026-10-09",
+      "run": "morning",
+      "type": "news",
+      "slug": "rms-cet-2026-11-days-left-late-fee-window-2026-10-09",
+      "title": "RMS CET 2026: 11 Days Left to Apply, and the Rs 500 Late-Fee Safety Net"
+    },
+    {
+      "date": "2026-10-09",
+      "run": "morning",
+      "type": "blog",
+      "slug": "merchant-navy-vs-defence-services-honest-comparison-2026-10-09",
+      "title": "Merchant Navy vs Defence Services: An Honest Comparison",
+      "blog_topic_id": 65
+    },
+    {
+      "date": "2026-10-09",
+      "type": "news",
+      "slug": "rimcee-2026-correction-window-live-closes-october-11-2026-10-09",
+      "title": "RIMCEE 2026 Correction Window Open: Fix Mistakes by Oct 11"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "blog",
+      "slug": "aissee-vs-rms-cet-which-exam-is-tougher-2026-10-09",
+      "title": "AISSEE vs RMS CET: Which Exam Is Tougher?"
+    }
+  ],
+  "items": [
+    {
+      "date": "2026-10-04",
+      "run": "night",
+      "type": "news",
+      "slug": "rms-cet-2026-application-deadline-october-20-2026-10-04",
+      "title": "RMS CET 2026: 16 Days Left — Apply by October 20"
+    },
+    {
+      "date": "2026-10-04",
+      "run": "night",
+      "type": "blog",
+      "slug": "building-discipline-at-home-before-sainik-school-admission",
+      "title": "Building Discipline at Home Before Sainik School Admission",
+      "blog_topic_id": 45
+    },
+    {
+      "date": "2026-10-05",
+      "run": "latenoon",
+      "type": "news",
+      "slug": "jnvst-class-6-exam-november-28-54-days-to-go-2026-10-05",
+      "title": "JNVST Class 6 Exam on 28 November: 54 Days Left — What AISSEE Parents Should Know"
+    },
+    {
+      "date": "2026-10-05",
+      "run": "latenoon",
+      "type": "blog",
+      "slug": "what-if-your-child-doesnt-want-to-join-sainik-school",
+      "title": "What If Your Child Doesn't Want to Join a Sainik School?"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "news",
+      "slug": "aissee-2027-fake-websites-guaranteed-seat-scams-alert-2026-10-05",
+      "title": "AISSEE 2027 Alert: Fake Websites and \"Guaranteed Seat\" Scams Targeting Parents"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "blog",
+      "slug": "when-one-sibling-prepares-for-aissee-and-the-other-doesnt",
+      "title": "When One Sibling Prepares for AISSEE and the Other Doesn't"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "news",
+      "slug": "aissee-2027-notification-october-pattern-what-parents-should-prepare-2026-10-05",
+      "title": "AISSEE 2027 Notification: Still Awaited on Oct 5 — What the October Pattern Tells Parents"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "blog",
+      "slug": "what-food-is-served-in-a-sainik-school-mess",
+      "title": "What Food Is Served in a Sainik School Mess?"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "news",
+      "slug": "rms-cet-2026-correction-window-opens-october-27-2026-10-05",
+      "title": "RMS CET Correction Window: 27–28 Oct"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "blog",
+      "slug": "sainik-school-uniform-complete-guide-new-parents",
+      "title": "Sainik School Uniform: Full Kit Guide"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "news",
+      "slug": "aissee-2027-117-days-to-exam-what-to-finish-2026-10-06",
+      "title": "AISSEE 2027: 117 Days to the Exam"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "blog",
+      "slug": "can-students-keep-mobile-phones-in-sainik-school",
+      "title": "Can Students Keep Mobile Phones in Sainik School?"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "news",
+      "slug": "up-sainik-school-2027-exam-pattern-deadline-guide-2026-10-06",
+      "title": "UP Sainik School Exam: 200-Mark Paper Explained"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "blog",
+      "slug": "sainik-school-holidays-vacation-calendar-explained",
+      "title": "Sainik School Holidays: The Honest Calendar",
+      "blog_topic_id": 51
+    },
+    {
+      "date": "2026-10-06",
+      "type": "news",
+      "slug": "december-exam-gauntlet-rimcee-rms-up-sainik-2026-10-06",
+      "title": "December Exam Rush: 3 Defence Papers in 15 Days"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "blog",
+      "slug": "how-strict-is-discipline-in-sainik-school",
+      "title": "How Strict Is Discipline in Sainik School, Really?",
+      "topic_id": 52
+    },
+    {
+      "date": "2026-10-06",
+      "type": "news",
+      "slug": "up-sainik-school-nda-bond-fine-print-2026-10-06",
+      "title": "UP Sainik School 2027: The NDA Bond Parents Must Read"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "blog",
+      "slug": "bullying-boarding-schools-parents-guide-2026-10-06",
+      "title": "Bullying in Boarding Schools: A Parent's Honest Guide"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "news",
+      "slug": "aissee-2027-application-documents-checklist-2026-10-06",
+      "title": "AISSEE 2027 Form Watch: 5 Documents to Keep Ready Before the Notification Drops"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "blog",
+      "slug": "sainik-school-medical-facilities-mi-room-guide-2026-10-06",
+      "title": "Medical Facilities Inside Sainik Schools: What Parents Should Know",
+      "topic_id": 54
+    },
+    {
+      "date": "2026-10-07",
+      "run": "morning",
+      "type": "news",
+      "slug": "rimcee-2026-late-window-closes-today-2026-10-07",
+      "title": "RIMCEE 2026 Form Closes Today"
+    },
+    {
+      "date": "2026-10-07",
+      "run": "morning",
+      "type": "blog",
+      "slug": "first-day-at-sainik-school-what-to-expect-2026-10-07",
+      "title": "First Day at Sainik School: A Guide",
+      "topic_id": 55
+    },
+    {
+      "date": "2026-10-07",
+      "type": "news",
+      "slug": "rimcee-2026-correction-window-opens-october-9-guide-2026-10-07",
+      "title": "RIMCEE 2026 Correction Window Opens 9 October"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "blog",
+      "slug": "sainik-school-alumni-network-why-it-matters",
+      "title": "The Sainik School Alumni Network: Why It Matters"
+    },
+    {
+      "date": "2026-10-07",
+      "run": "afternoon",
+      "type": "news",
+      "slug": "up-sainik-school-admission-timeline-official-portal-2026-10-07",
+      "title": "UP Sainik School 2027: Official Portal Confirms Full Admission Timeline"
+    },
+    {
+      "date": "2026-10-07",
+      "run": "afternoon",
+      "type": "blog",
+      "slug": "a-typical-weekend-in-a-sainik-school-2026-10-07",
+      "title": "A Typical Weekend in a Sainik School: Saturday to Sunday",
+      "topic_id": 57
+    },
+    {
+      "date": "2026-10-07",
+      "type": "news",
+      "slug": "up-sainik-school-vs-aissee-which-form-to-fill-2026-10-07",
+      "title": "UP's Five 'Sainik Schools', Two Different Exams: Which Form Should Your Child Fill?"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "blog",
+      "slug": "nda-vs-cds-vs-afcat-which-officer-route-fits",
+      "title": "NDA vs CDS vs AFCAT: Which Officer Route Actually Fits Your Child? (topic 58)"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "news",
+      "slug": "aissee-2027-notification-not-out-115-days-2026-10-08",
+      "title": "AISSEE 2027 Form Not Out Yet: 115 Days"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "blog",
+      "slug": "careers-after-sainik-school-beyond-defence-2026-10-08",
+      "title": "Sainik School Grads Beyond Defence"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "news",
+      "slug": "aissee-2027-qualifying-marks-25-40-rule-2026-10-08",
+      "title": "AISSEE 2027 Qualifying Marks Explained"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "blog",
+      "slug": "how-sainik-school-life-helps-ssb-interview",
+      "title": "Sainik School Life and SSB Interview",
+      "topic_id": 61
+    },
+    {
+      "date": "2026-10-08",
+      "type": "news",
+      "slug": "cbse-cwsn-inclusive-education-module-2026-10-08",
+      "title": "CBSE Orders Inclusive-Education Session for All School Staff"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "blog",
+      "slug": "from-sainik-school-to-iit-is-it-possible-2026-10-08",
+      "title": "From Sainik School to IIT: Is It Possible?"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "news",
+      "slug": "diwali-break-aissee-2027-study-plan-2026-10-08",
+      "title": "Diwali Break AISSEE 2027 Study Plan"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "blog",
+      "slug": "upsc-after-sainik-school-natural-fit-2026-10-08",
+      "title": "UPSC After Sainik School: A Natural Fit?"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "news",
+      "slug": "up-sainik-school-2027-16-days-left-normal-fee-deadline-2026-10-09",
+      "title": "UP Sainik School 2027: 16 Days Left, Fee Doubles After 25 Oct"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "blog",
+      "slug": "sainik-school-vs-private-cbse-school-honest-comparison",
+      "title": "Sainik School vs a Good Private CBSE School: Honest Comparison"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "news",
+      "slug": "nta-portal-no-aissee-2027-link-evening-check-2026-10-09",
+      "title": "No AISSEE 2027 Link on NTA Portal Yet"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "blog",
+      "slug": "sainik-school-vs-rimc-which-to-pick",
+      "title": "Sainik School vs RIMC: Which to Pick?"
+    }
+  ]
 }
