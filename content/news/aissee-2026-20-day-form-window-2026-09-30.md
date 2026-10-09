@@ -12,7 +12,7 @@ featured_image: "/images/thumbnails/aissee-2026-20-day-form-window-2026-09-30.we
 categories: ["News"]
 faqs:
   - question: "Has the AISSEE 2027 notification been released?"
-    answer: "No. As of 30 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on aissee.nta.nic.in. It is expected in October 2026 based on past cycles."
+    answer: "No. As of 30 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on exams.nta.nic.in/sainik-school-society (portal migrated from aissee.nta.nic.in in October 2026). It is expected in October 2026 based on past cycles."
   - question: "How long was the AISSEE 2026 application window?"
     answer: "Twenty days. Applications opened on 10 October 2025 and closed on 30 October 2025, with fee payment accepted till 31 October 2025."
   - question: "Was there a correction window in the AISSEE 2026 cycle?"
@@ -53,12 +53,12 @@ The pattern from the last three cycles, documented by edexlive, shows the notifi
 - **Gather documents this week**, not when the portal opens: photograph (JPEG, right size), signature, birth certificate, domicile and category certificates.
 - **Match names and dates of birth** across every document against the birth certificate. Mismatches are the classic last-minute discovery.
 - **Keep ₹850 / ₹700 handy** (expected 2027 fee based on 2026 rates; re-confirm in the bulletin) for online payment.
-- **Bookmark the official portal** — aissee.nta.nic.in — and check it directly. Ignore "form is out" claims from unofficial sites until the bulletin is on the NTA site.
+- **Bookmark the official portal** — [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) (NTA migrated it from the old aissee.nta.nic.in domain in October 2026) — and check it directly. Ignore "form is out" claims from unofficial sites until the bulletin is on the NTA site.
 
 ## FAQs
 
 **Has the AISSEE 2027 notification been released?**
-No. As of 30 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on aissee.nta.nic.in. It is expected in October 2026 based on past cycles.
+No. As of 30 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on exams.nta.nic.in/sainik-school-society (portal migrated from aissee.nta.nic.in in October 2026). It is expected in October 2026 based on past cycles.
 
 **How long was the AISSEE 2026 application window?**
 Twenty days. Applications opened on 10 October 2025 and closed on 30 October 2025, with fee payment accepted till 31 October 2025.

@@ -12,7 +12,7 @@ featured_image: "/images/thumbnails/aissee-2027-notification-october-watch-2026-
 categories: ["News"]
 faqs:
   - question: "Has the AISSEE 2027 notification been released?"
-    answer: "No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on aissee.nta.nic.in. Keep checking the official portal and get your documents ready now."
+    answer: "No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on exams.nta.nic.in/sainik-school-society (portal migrated from aissee.nta.nic.in in October 2026). Keep checking the official portal and get your documents ready now."
   - question: "When is the AISSEE 2027 notification expected?"
     answer: "Expected in October 2026 based on the pattern of the last three cycles, when notifications arrived several weeks before the January exam. This is a trend, not an official NTA announcement."
   - question: "Is 31 January 2027 the confirmed AISSEE 2027 exam date?"
@@ -23,7 +23,7 @@ faqs:
 
 > **Last verified: 29 September 2026, 6:20 PM IST.** This is an **explainer**, not breaking news — no AISSEE 2027 notification has been released as of today. Here is what the last three NTA cycles reveal, so your family enters October fully prepared.
 
-October begins tomorrow, and for Sainik School aspirant families this is the month that decides whether the admission process starts calmly or in a last-week panic. **CONFIRMED:** NTA has not released the AISSEE 2027 notification or information bulletin as of today. The only portal that matters is [aissee.nta.nic.in](https://aissee.nta.nic.in) — anything appearing anywhere else first is a rumour, not a release.
+October begins tomorrow, and for Sainik School aspirant families this is the month that decides whether the admission process starts calmly or in a last-week panic. **CONFIRMED:** NTA has not released the AISSEE 2027 notification or information bulletin as of today. The only portal that matters is [exams.nta.nic.in/sainik-school-society](https://exams.nta.nic.in/sainik-school-society/) — anything appearing anywhere else first is a rumour, not a release. (Note: NTA migrated the portal from the old aissee.nta.nic.in domain in October 2026.)
 
 ![Students writing a written examination in a classroom](/images/inbody/aissee-2027-notification-october-watch-2026-09-29.webp)
 
@@ -55,7 +55,7 @@ AISSEE 2027 is the single entrance test for **Class VI and Class IX** admission 
 
 **Has the AISSEE 2027 notification been released?**
 
-No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on aissee.nta.nic.in. Keep checking the official portal and get your documents ready now.
+No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on exams.nta.nic.in/sainik-school-society (portal migrated from aissee.nta.nic.in in October 2026). Keep checking the official portal and get your documents ready now.
 
 **When is the AISSEE 2027 notification expected?**
 
@@ -73,4 +73,4 @@ Very short. In the 2026 cycle, applications opened on 10 October and closed on 3
 
 - edexlive (8 September 2026): previous-three-cycles pattern analysis — https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
 - EntranceZone: Sainik School Admission overview — https://www.entrancezone.com/admissions/sainik-school-admission/
-- NTA official portal: https://aissee.nta.nic.in (checked 29 September 2026 — no AISSEE 2027 bulletin published)
+- NTA official portal: https://exams.nta.nic.in/sainik-school-society/ (checked 29 September 2026 — no AISSEE 2027 bulletin published; portal migrated from aissee.nta.nic.in in October 2026)

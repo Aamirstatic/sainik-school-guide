@@ -12,7 +12,7 @@ featured_image: "/images/thumbnails/aissee-2027-notification-day-parent-checklis
 categories: ["News"]
 faqs:
   - question: "Has the AISSEE 2027 notification been released?"
-    answer: "No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on aissee.nta.nic.in. The checks in this article are for the day it drops."
+    answer: "No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on exams.nta.nic.in/sainik-school-society (portal migrated from aissee.nta.nic.in in October 2026). The checks in this article are for the day it drops."
   - question: "What was the AISSEE application fee in the last cycle?"
     answer: "In the 2026 cycle, the fee was Rs 850 for General candidates and Rs 700 for SC and ST candidates. The 2027 fee must be re-confirmed in the new information bulletin."
   - question: "What happens if I make a mistake in the AISSEE form?"
@@ -73,7 +73,7 @@ After submission, download and **print** the confirmation page — it is the onl
 
 **Has the AISSEE 2027 notification been released?**
 
-No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on aissee.nta.nic.in. The checks in this article are for the day it drops.
+No. As of 29 September 2026, NTA has not released the AISSEE 2027 notification or information bulletin on exams.nta.nic.in/sainik-school-society (portal migrated from aissee.nta.nic.in in October 2026). The checks in this article are for the day it drops.
 
 **What was the AISSEE application fee in the last cycle?**
 
@@ -92,4 +92,4 @@ Very short. In the 2026 cycle it ran from 10 October to 30 October 2025 — just
 - edexlive (8 September 2026): AISSEE 2027 notification pattern analysis — https://www.edexlive.com/exams/saink-school-exam-aissee-2027-no-dates-yet-but-the-previous-three-cycles-reveal-a-pattern
 - News18 (30 October 2025): AISSEE 2026 registration deadline extended to 9 November — https://www.news18.com/education-career/aissee-2026-registration-deadline-extended-till-november-9-check-exam-schedule-9670238.html
 - EntranceZone: Sainik School Admission overview — https://www.entrancezone.com/admissions/sainik-school-admission/
-- NTA official portal: https://aissee.nta.nic.in (checked 29 September 2026 — no AISSEE 2027 bulletin published)
+- NTA official portal: https://exams.nta.nic.in/sainik-school-society/ (checked 29 September 2026 — no AISSEE 2027 bulletin published; portal migrated from aissee.nta.nic.in in October 2026)
