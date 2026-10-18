@@ -65,6 +65,8 @@ One caution straight from TOI's report: the official portal also hosts a **sampl
 - **Already applied?** Mark 3–5 November on the calendar for the correction window, and keep the documents you uploaded — you will need the same files at verification.
 - **Studying for AISSEE 2027 instead?** The national notification is still not out — we rechecked the NTA portals this evening (18 Oct) and found AISSEE 2026/2025 material only. The 31 January 2027 exam date stands as the one CONFIRMED anchor (NTA exam calendar, tentative).
 
+*Photo: Pexels*
+
 ## FAQs
 
 **What is the last date to apply for UP Sainik School admission 2027-28?**

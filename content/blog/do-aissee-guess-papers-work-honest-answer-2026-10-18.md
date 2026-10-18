@@ -84,6 +84,8 @@ If one is already in the house — the PDF, the book, the forwards:
 3. **Don't pay for certainty.** What you're buying is someone's mock test. Decide if the mock test itself is worth the price — the "prediction" part is worth zero.
 4. **Trust the boring route.** Full syllabus, past papers, timed mocks, error log. It has no marketing budget, and it is the one that works.
 
+*Photo: Pexels*
+
 ## FAQs
 
 **Do AISSEE guess papers actually predict the exam?**
