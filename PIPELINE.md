@@ -42,7 +42,7 @@ and the pre-publish checklist (§9).
   `blog_topic_cursor`. Otherwise fall back to the evergreen bank:
   read `data/blog-topics.yaml`; take the topic with the lowest `id`
   greater than `blog_topic_cursor` in the log; set cursor to that id.
-  If all 90 are used, restart at id 1 with a visibly fresh angle
+  If every topic in the bank is used, restart at id 1 with a visibly fresh angle
   (new examples, new FAQs, updated year references).
   Hot topic ≠ unverified: CONTENT-SYSTEM.md §2 applies fully — one Tier-1
   source or two independent Tier-2 sources per hard fact, EXPECTED label

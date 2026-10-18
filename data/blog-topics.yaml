@@ -452,3 +452,126 @@ topics:
     keyword: "sainik school toughest cutoff state"
     category: "Regional"
     angle: "Honest analysis: why UP/Bihar/Rajasthan trend higher; no fake numbers."
+
+# --- Third-cycle extension (added 2026-10-18): ids 91-114, fresh evergreen topics ---
+# Checked against content/blog/ slugs and the existing 90 titles; no duplicates.
+  - id: 91
+    title: "The Last 10 Days Before AISSEE 2027: A Taper Plan That Works"
+    keyword: "AISSEE last 10 days preparation"
+    category: "Exam Prep"
+    angle: "Reduce load, protect sleep, light revision cadence; what to stop doing in the final stretch."
+  - id: 92
+    title: "How to Revise NCERT Class 5 Maths for the AISSEE Class 6 Paper"
+    keyword: "NCERT class 5 maths AISSEE"
+    category: "Exam Prep"
+    angle: "Chapter-by-chapter mapping of the Class 6 syllabus back to Class 5 NCERT foundations."
+  - id: 93
+    title: "Do AISSEE Guess Papers Ever Work? An Honest Answer"
+    keyword: "AISSEE guess paper"
+    category: "Exam Prep"
+    angle: "Why prediction lists fail; what to do with past papers instead."
+  - id: 94
+    title: "AISSEE Class 9 English: Reading Comprehension Strategy"
+    keyword: "AISSEE class 9 English preparation"
+    category: "Exam Prep"
+    angle: "Passage types, time allocation, and elimination technique for the comprehension section."
+  - id: 95
+    title: "How to Use Past Cutoff Trends to Set Your AISSEE Target Score"
+    keyword: "AISSEE target score"
+    category: "Exam Prep"
+    angle: "Methodology: reading officially published closing marks to set section-wise targets. No invented numbers."
+  - id: 96
+    title: "What to Do While Waiting for the AISSEE 2027 Notification"
+    keyword: "AISSEE 2027 notification delay preparation"
+    category: "Exam Prep"
+    angle: "Productive prep that does not depend on form dates, plus a document-readiness checklist."
+  - id: 97
+    title: "AISSEE 2027 Registration: A First-Timer's Step-by-Step Walkthrough"
+    keyword: "AISSEE registration step by step"
+    category: "Admission"
+    angle: "Every screen of the NTA application explained before the parent opens it."
+  - id: 98
+    title: "AISSAC Spot Rounds: How Vacant Sainik School Seats Get Filled"
+    keyword: "AISSAC spot round"
+    category: "Admission"
+    angle: "When spot rounds happen, who is eligible, and what to keep ready."
+  - id: 99
+    title: "OBC-NCL Certificate for AISSEE: The Validity Rule Parents Miss"
+    keyword: "OBC NCL certificate AISSEE"
+    category: "Admission"
+    angle: "The issued-within-one-year norm and what happens with an older certificate."
+  - id: 100
+    title: "EWS Quota in Sainik Schools: Eligibility and Documents"
+    keyword: "EWS quota sainik school"
+    category: "Admission"
+    angle: "Income criteria, issuing authority, and common rejection reasons."
+  - id: 101
+    title: "Reporting Day at Your Allotted Sainik School: Joining Formalities"
+    keyword: "sainik school joining formalities"
+    category: "Admission"
+    angle: "What to carry, medicals, fee payment, and the first-week schedule."
+  - id: 102
+    title: "How to Talk About the NDA Dream Without Pressuring Your Child"
+    keyword: "NDA dream child pressure"
+    category: "Parenting"
+    angle: "Keeping the aspiration alive while protecting the child's mental space."
+  - id: 103
+    title: "When Your Child Wants a Non-Defence Career: A Parent's Guide"
+    keyword: "child doesn't want defence career"
+    category: "Parenting"
+    angle: "Respecting the choice; where a Sainik School education still pays off."
+  - id: 104
+    title: "Helping Your Child Bounce Back After a Bad Mock Test"
+    keyword: "child bad mock test AISSEE"
+    category: "Parenting"
+    angle: "Same-day conversation script, error-log routine, and when to skip the next mock."
+  - id: 105
+    title: "The First Month at Sainik School: How New Students Adjust"
+    keyword: "first month sainik school"
+    category: "School Life"
+    angle: "Beyond first-day nerves: the homesickness curve, routine settling, when parents should and shouldn't intervene."
+  - id: 106
+    title: "Laundry, Haircuts, Pocket Money: Daily-Life Logistics Parents Ask About"
+    keyword: "sainik school daily life logistics"
+    category: "School Life"
+    angle: "The unglamorous details new parents actually worry about, answered plainly."
+  - id: 107
+    title: "PT, Drill and Games: The Physical Routine at Sainik School"
+    keyword: "sainik school physical training routine"
+    category: "School Life"
+    angle: "Morning PT to evening games; how unfit beginners cope and catch up."
+  - id: 108
+    title: "TES Entry After Class 12: The Sainik School Advantage"
+    keyword: "TES entry after sainik school"
+    category: "Careers"
+    angle: "The 10+2 Technical Entry Scheme explained; why Sainik School alumni do well in it."
+  - id: 109
+    title: "Agniveer vs NDA After Sainik School: Which Path Fits Whom"
+    keyword: "Agniveer vs NDA"
+    category: "Careers"
+    angle: "Honest comparison of entry routes, service terms, and who each suits."
+  - id: 110
+    title: "The 10% Girls Quota in Sainik Schools, Explained"
+    keyword: "girls quota sainik school"
+    category: "Careers"
+    angle: "How the quota works in practice, which schools admit girls, and what it changes for aspirants."
+  - id: 111
+    title: "Coaching Hostel vs Sainik School: The Real Cost Comparison"
+    keyword: "sainik school vs coaching hostel cost"
+    category: "Compare"
+    angle: "Fees plus hostel plus hidden costs of Kota-style coaching hostels vs all-inclusive Sainik School fees; math parents can redo."
+  - id: 112
+    title: "Sainik School vs Military School (RMS): Beyond the Exam"
+    keyword: "sainik school vs military school"
+    category: "Compare"
+    angle: "Daily life, fees, and outcomes compared; the exam-level comparison lives in topic 67."
+  - id: 113
+    title: "Scholarship Application Timeline After Sainik School Admission"
+    keyword: "sainik school scholarship application"
+    category: "Documents"
+    angle: "State and MoD scholarships: when to apply, documents needed, renewal rules."
+  - id: 114
+    title: "Sainik Schools in Bihar: The Complete 2027 Guide"
+    keyword: "sainik schools in Bihar"
+    category: "Regional"
+    angle: "Nalanda and Gopalganj focus; the competition reality for Bihar-domicile applicants."
