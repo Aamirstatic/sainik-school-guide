@@ -89,4 +89,4 @@ Expected: ₹850 for General/OBC-NCL/Defence wards and ₹700 for SC/ST, online 
 
 - AISSEE 2026 application window (TOI, citing NTA bulletin): https://timesofindia.indiatimes.com/education/news/aissee-2026-application-open-at-exams-nta-nic-in-entrance-exam-scheduled-for-january/articleshow/124477058.cms
 - NTA exam calendar 2026-27 notice (AISSEE 2027 tentative exam date): https://timesofindia.indiatimes.com/education/news/nta-exam-calendar-2026-27-released-ugc-net-from-december-14-jee-main-2027-session-1-from-january-22-cuet-pg-in-march/articleshow/134303333.cms
-- NTA AISSEE portal (https://exams.nta.ac.in/AISSEE) — no AISSEE 2027 notice or registration link appears in any public reporting as of 18 Oct 2026; the official bulletin remains pending.
+- NTA AISSEE portal (https://exams.nta.nic.in/sainik-school-society/) — checked 18 Oct 2026: no AISSEE 2027 notice, information bulletin or registration link; portal carries only AISSEE-2026 material. (Note: exams.nta.ac.in/AISSEE currently returns 404 — this is the working official portal URL.)
