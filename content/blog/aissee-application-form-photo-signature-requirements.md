@@ -1,7 +1,7 @@
 ---
 title: "AISSEE Form Photo & Signature Specs"
 date: 2026-09-30T21:15:00+05:30
-lastmod: 2026-09-30T21:15:00+05:30
+lastmod: 2026-11-26T07:15:00+05:30
 draft: false
 description: "AISSEE 2027 application form photo, signature and thumb impression specifications: exact file sizes, formats, and the home-photo method that passes NTA's checks first time. Plus a pre-upload checklist."
 keywords: ["AISSEE application form photo", "AISSEE photo size specification", "AISSEE signature requirements", "AISSEE thumb impression", "sainik school form photo rejection"]
@@ -13,7 +13,7 @@ faqs:
   - question: "What is the photo size required for the AISSEE application form?"
     answer: "10 KB to 200 KB in JPG or JPEG format, passport-size with a white background. This is the 2026-cycle specification from NTA's information bulletin; the 2027 bulletin is expected to keep the same limits."
   - question: "What are the signature specifications for AISSEE?"
-    answer: "4 KB to 30 KB in JPG or JPEG format, full signature in running handwriting on a white background. Block letters and initials-only signatures are the most common reason for rejection at upload."
+    answer: "10 KB to 50 KB in JPG format, full signature in running handwriting on a white background. Block letters and initials-only signatures are the most common reason for rejection at upload. (2027 bulletin; the 2026 limit was 4 to 30 KB.)"
   - question: "Is a thumb impression required for the AISSEE form?"
     answer: "Yes — the candidate's left-hand thumb impression, 10 KB to 50 KB in JPG or JPEG format. If the left thumb is unavailable, the right-hand thumb impression may be used."
   - question: "Can I use a phone camera photo for the AISSEE application?"
@@ -24,7 +24,7 @@ faqs:
 
 # AISSEE Application Form: Photo and Signature Requirements
 
-> **🔄 Last verified: 30 September 2026** — Specs below are ✅ **CONFIRMED** from NTA's AISSEE information bulletins (2026 and earlier cycles), cross-checked across four independent sources. The AISSEE 2027 bulletin is 🔶 **NOT released yet** — the 2027 specs are 🔶 **EXPECTED** to match, but verify against the new bulletin the day it drops.
+> **Last verified: 26 November 2026.** Specs below are ✅ **CONFIRMED** from the NTA AISSEE 2027 information bulletin (3 November 2026), section 7.1.5, read directly from the official bulletin document. One change from the 2026 cycle: the signature limit is now 10–50 KB (was 4–30 KB). Photo, thumb impression and certificate limits are unchanged.
 
 Every year, a small number of AISSEE applications die for the most avoidable reason of all: a photo that was too big, a signature drawn in block letters, a thumb impression nobody thought to prepare. Not a tough paper. Not a missed cutoff. A JPEG.
 
@@ -39,11 +39,11 @@ This table is the heart of the article. Save it, screenshot it, stick it on the 
 | Upload | File size | Format | Key rule |
 |--------|-----------|--------|----------|
 | Candidate's photograph | **10 KB – 200 KB** | JPG / JPEG | Passport size, white background, face clearly visible |
-| Candidate's signature | **4 KB – 30 KB** | JPG / JPEG | Full signature in running handwriting, white background |
+| Candidate's signature | **10 KB – 50 KB** | JPG | Full signature in running handwriting, white background |
 | Left-hand thumb impression | **10 KB – 50 KB** | JPG / JPEG | Blue ink on white paper; right thumb allowed only if left is unavailable |
 | Certificates (birth, domicile, caste/category, service) | **50 KB – 300 KB** | PDF | Must match the originals you'll show at document verification |
 
-Two things to note honestly. First, these are the 2026-cycle bulletin specs — NTA has kept them stable for several years, so the 2027 bulletin will very likely repeat them, but treat the numbers as 🔶 **EXPECTED** until the new bulletin confirms them. Second, the certificate size range has varied slightly between cycles (some years 100–400 KB), so prepare your PDFs in the middle of the range and you'll be safe either way.
+Two things to note honestly. First, these are the 2027-cycle bulletin specs, confirmed from the bulletin itself on 26 November 2026 — the only change from 2026 is the signature range, now 10–50 KB instead of 4–30 KB. Second, the certificate size range has varied slightly between cycles (some years 100–400 KB), so prepare your PDFs in the middle of the range and you'll be safe either way.
 
 For the full form-filling walkthrough — registration steps, fee payment, and the complete document list — see our [AISSEE 2027 application form guide](/blog/aissee-application-form-2027-guide/).
 
@@ -65,7 +65,7 @@ This is where Class 6 applicants stumble most. NTA wants the **candidate's own s
 
 - Practice on white paper with a black or blue pen until the child has one consistent signature. It should look the same every time — the exam-day attendance sheet will carry this same signature.
 - Sign inside a box roughly 4 cm × 2 cm, then scan or photograph just that area on a white background.
-- Keep it between **4 KB and 30 KB**. This is a small file — signatures compress well because they're mostly white space. If yours is over 30 KB, you're scanning at too high a resolution; rescan at 150 DPI or photograph from slightly further away.
+- Keep it between **10 KB and 50 KB**. This is a small file — signatures compress well because they're mostly white space. If yours is over 50 KB, you're scanning at too high a resolution; rescan at 150 DPI or photograph from slightly further away.
 
 One more thing parents get wrong: the signature must be the **child's**, even for a 10-year-old whose signature is wobbly. A parent's confident signature on a child's form is a mismatch the system is designed to catch.
 
@@ -104,12 +104,12 @@ If you're also tracking the notification itself, our [AISSEE 2027 notification g
 Run through this the evening before you fill the form — not during:
 
 - [ ] Photograph: JPG/JPEG, 10–200 KB, white background, recent, no cap/goggles
-- [ ] Signature: JPG/JPEG, 4–30 KB, child's own running handwriting, white background
+- [ ] Signature: JPG, 10–50 KB, child's own running handwriting, white background
 - [ ] Thumb impression: JPG/JPEG, 10–50 KB, left thumb, blue ink, ridges visible
 - [ ] Certificates: PDF, 50–300 KB each, matching the originals exactly
 - [ ] Child's name and date of birth match the birth certificate letter-for-letter
 - [ ] One active email ID and mobile number (the parents') for all NTA communication
-- [ ] Fee amount ready: 🔶 expected ₹850 (General/OBC-NCL/defence wards) or ₹700 (SC/ST) — 2026 rates, confirm in the 2027 bulletin
+- [ ] Fee amount ready: ₹850 (General/OBC-NCL/defence wards) or ₹700 (SC/ST) — confirmed in the 2027 bulletin
 - [ ] After payment: confirmation page downloaded, printed, and filed
 
 ## FAQs
@@ -118,7 +118,7 @@ Run through this the evening before you fill the form — not during:
 10 KB to 200 KB in JPG or JPEG format, passport-size with a white background. This is the 2026-cycle specification from NTA's information bulletin; the 2027 bulletin is expected to keep the same limits.
 
 **What are the signature specifications for AISSEE?**
-4 KB to 30 KB in JPG or JPEG format, full signature in running handwriting on a white background. Block letters and initials-only signatures are the most common reason for rejection at upload.
+10 KB to 50 KB in JPG format, full signature in running handwriting on a white background. Block letters and initials-only signatures are the most common reason for rejection at upload. (2027 bulletin; the 2026 limit was 4 to 30 KB.)
 
 **Is a thumb impression required for the AISSEE form?**
 Yes — the candidate's left-hand thumb impression, 10 KB to 50 KB in JPG or JPEG format. If the left thumb is unavailable, the right-hand thumb impression may be used.
