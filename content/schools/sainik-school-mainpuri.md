@@ -2,15 +2,15 @@
 title: "Sainik School Mainpuri UP - Admission Process, Fees & Facilities"
 date: 2026-07-05
 draft: false
-description: "Sainik School Mainpuri in Uttar Pradesh — est. 2019. Western UP's Sainik School. CBSE affiliated. Admission, fees, NDA results."
+description: "Sainik School Mainpuri in Uttar Pradesh — functional since 22 July 2019. Western UP's Sainik School. CBSE affiliated. Admission, fees, NDA results."
 keywords: ["sainik school mainpuri", "sainik school uttar pradesh", "sainik school mainpuri admission", "sainik school mainpuri fees", "sainik school western UP"]
 state: "Uttar Pradesh"
-established: "2019"
+established: "22 July 2019"
 ---
 
 # Sainik School Mainpuri — Western UP's Military Academy
 
-Mainpuri district in western Uttar Pradesh is agricultural heartland — flat, fertile, and deeply connected to the land. The region's Jat and Yadav communities have a strong tradition of military service, with many families having multiple generations in the Indian Army. Sainik School Mainpuri, established in 2019, was created to serve this community, offering structured NDA preparation to a region that was previously underserved by the Sainik Schools network.
+Mainpuri district in western Uttar Pradesh is agricultural heartland — flat, fertile, and deeply connected to the land. The region's Jat and Yadav communities have a strong tradition of military service, with many families having multiple generations in the Indian Army. Sainik School Mainpuri, established in 2019 (became functional 22 July 2019, first batch of Class 6), was created to serve this community, offering structured NDA preparation to a region that was previously underserved by the Sainik Schools network.
 
 The school is one of four Sainik Schools in Uttar Pradesh, alongside Lucknow, Jhansi, and Amethi. Its establishment in 2019 was part of the Government of India's expansion of the Sainik Schools network, targeting regions with strong military recruitment traditions but limited military-oriented educational infrastructure.
 
@@ -18,7 +18,7 @@ The school is one of four Sainik Schools in Uttar Pradesh, alongside Lucknow, Jh
 
 | Detail | Info |
 |--------|------|
-| Established | 2019 |
+| Established | 22 July 2019 (functional; MoA signed 30 April 2015) — 30th Sainik School in India |
 | Location | Mainpuri, Uttar Pradesh |
 | CBSE Affiliation | Yes |
 | Classes | VI to XII |
@@ -36,7 +36,9 @@ Sainik School Mainpuri was established in 2019 to formalize this tradition. The 
 
 ## Location & Contact
 
-- **Address:** Sainik School Mainpuri, Uttar Pradesh
+- **Address:** Sainik School Mainpuri, Vill. Nauner Kharra, PO Tinddoli, Agra–Mainpuri Road, Mainpuri, Uttar Pradesh – 205119 (about 12 km from Mainpuri railway station and bus stand)
+- **Phone:** +91 952 0489 824
+- **Email:** ssmainpuri@sainikschoolsociety.in
 - **Website:** [sainikschoolmainpuri.com](https://www.sainikschoolmainpuri.com/)
 - **Nearest City:** Mainpuri
 - **Nearest Railway:** Mainpuri Railway Station
