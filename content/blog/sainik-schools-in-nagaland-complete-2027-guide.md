@@ -3,7 +3,7 @@ title: "Sainik Schools in Nagaland: The Complete 2027 Guide"
 date: 2026-11-22T11:15:00+05:30
 lastmod: 2026-11-22T11:15:00+05:30
 draft: false
-description: "Nagaland has one Sainik School — Punglwa, the Northeast's first, founded in 1970. The Chief Minister says 10–20 of its Nagaland-quota seats go vacant every year. Here is the complete 2027 picture: admission route, 67% home-state quota, girls' quota, NDA record, and what Nagaland parents should do before the AISSEE form closes on 2 December."
+description: "Nagaland has one Sainik School — Punglwa, founded in 2007. The Chief Minister says 10–20 of its Nagaland-quota seats go vacant every year. Here is the complete 2027 picture: admission route, 67% home-state quota, girls' quota, NDA record, and what Nagaland parents should do before the AISSEE form closes on 2 December."
 keywords: ["sainik schools in Nagaland", "Sainik School Punglwa admission 2027", "AISSEE 2027 Nagaland", "Sainik School Punglwa fees", "Nagaland Sainik School quota"]
 author: "Rifaul Hasan"
 author_title: "Principal, JGPS | Senior Education Expert"
@@ -14,7 +14,7 @@ categories: ["Blog"]
 tags: ["Nagaland", "Sainik School Punglwa", "AISSEE 2027", "Regional Guide"]
 faqs:
   - question: "How many Sainik Schools are there in Nagaland?"
-    answer: "One: Sainik School Punglwa in Peren district, established in 1970. It is the Northeast's first Sainik School and the only one in Nagaland. Admission is only through the AISSEE conducted by NTA."
+    answer: "One: Sainik School Punglwa in Peren district, established in 2007. It is the only Sainik School in Nagaland. Admission is only through the AISSEE conducted by NTA."
   - question: "What is the home-state quota at Sainik School Punglwa?"
     answer: "67% of seats at Punglwa are reserved for Nagaland-domicile candidates; 33% go to other-state candidates. The Chief Minister said in November 2026 that around 10 to 20 Nagaland-quota seats go vacant every year and are then filled by out-of-state students."
   - question: "Can girls apply to Sainik School Punglwa?"
@@ -27,7 +27,7 @@ faqs:
     answer: "No scheme has been announced yet. In November 2026 the Chief Minister proposed a committee to study financial assistance and entrance-exam coaching for deserving students from economically weaker families. Treat any person offering a Punglwa seat or fee concession for payment as a scam — admission is only through the AISSEE."
 ---
 
-> **Last verified: 22 November 2026.** School facts (established 1970, Peren district, classes VI–XII, CBSE, English medium) are ✅ **CONFIRMED** from our Sainik School Punglwa profile, compiled from Sainik Schools Society records. The Chief Minister's statements (₹50 lakh pledge, 10–20 vacant seats a year, committee proposal) are ✅ **CONFIRMED** from the Nagaland Post report of 22 November 2026. AISSEE 2027 dates, fees, age limits and exam pattern are ✅ **CONFIRMED** from the NTA public notice and information bulletin of 3 November 2026. The school's fee structure and seat count are not published in sources we could verify — we do not quote them here.
+> **Last verified: 22 November 2026 (founding year corrected 28 November 2026).** School facts (established 2007, Peren district, classes VI–XII, CBSE, English medium) are ✅ **CONFIRMED** from the Press Information Bureau release of 11 May 2007, the school's own website and the CBSE affiliation record — an earlier version of this article wrongly said 1970, which has been corrected. The Chief Minister's statements (₹50 lakh pledge, 10–20 vacant seats a year, committee proposal) are ✅ **CONFIRMED** from the Nagaland Post report of 22 November 2026. AISSEE 2027 dates, fees, age limits and exam pattern are ✅ **CONFIRMED** from the NTA public notice and information bulletin of 3 November 2026. The school's fee structure and seat count are not published in sources we could verify — we do not quote them here.
 
 ![A Sainik School campus building in the morning light](/images/inbody/sainik-schools-in-nagaland-complete-2027-guide.webp)
 *Photo: Pexels*
@@ -40,14 +40,14 @@ If your child is in Class 5 or Class 8 in Nagaland right now, this guide is the 
 
 | | **Sainik School Punglwa** |
 |---|---|
-| Established | 1970 — the Northeast's first Sainik School |
+| Established | 2007 — Nagaland's only Sainik School |
 | Location | Punglwa, Peren district, Nagaland |
 | Classes | VI to XII, residential, CBSE, English medium |
 | Nearest town | Dimapur, about 50 km away |
 | Nearest airport / railway | Dimapur |
 | Admission | Only through the AISSEE (NTA) — no other route |
 
-Punglwa was founded in 1970, alongside Sainik School Imphal, to give Naga youth a structured military-oriented education in a region that had none. It sits in Peren district, close to the Myanmar border — remote by mainland standards, but reachable: Dimapur, with its airport and railway station, is about 50 km away. Full profile: [Sainik School Punglwa](/schools/sainik-school-punglwa/).
+Punglwa was founded in 2007 to give Naga youth a structured military-oriented education in a region that had none. It sits in Peren district, close to the Myanmar border — remote by mainland standards, but reachable: Dimapur, with its airport and railway station, is about 50 km away. Full profile: [Sainik School Punglwa](/schools/sainik-school-punglwa/).
 
 A word on distance, because every Nagaland parent asks it. Yes, Punglwa is residential, and your child will live away from home from Class 6 — that is the deal at every Sainik School. What is different here is that the school is *in* your state, not a thousand kilometres away. For most Naga families, Punglwa is the closest residential military school there is.
 
@@ -108,4 +108,4 @@ One last thing. The Chief Minister is a Sainik School alumnus himself — Puruli
 - The Assam Tribune, "Rs 336 cr, 30 months: Assam begins work on second Sainik School in Karbi Anglong" (18 November 2026): https://assamtribune.com/assam/rs-336-cr-30-months-assam-begins-work-on-second-sainik-school-in-karbi-anglong-1622953
 - The Times of India, "AISSEE 2027 registration begins" (application window 3 November–2 December 2026, exam 31 January 2027): https://timesofindia.indiatimes.com/education/news/aissee-2027-registration-begins-nta-opens-application-window-for-sainik-schools-admissions-exam-on-january-31-check-complete-details-here/articleshow/135503477.cms
 - News18, "AISSEE 2027: NTA Opens Registration For Classes 6 And 9" (fee ₹850 / ₹700, late fee ₹500, correction window 7–9 December): https://www.news18.com/education-career/aissee-2027-nta-opens-registration-for-classes-6-and-9-check-full-schedule-here-10411922.html
-- Sainik School Punglwa profile (established 1970, Peren district, Dimapur ~50 km): /schools/sainik-school-punglwa/
+- Sainik School Punglwa profile (established 2007, Peren district, Dimapur ~50 km): /schools/sainik-school-punglwa/
