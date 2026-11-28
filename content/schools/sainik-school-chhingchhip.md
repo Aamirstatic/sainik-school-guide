@@ -5,20 +5,20 @@ draft: false
 description: "Sainik School Chhingchhip in Mizoram — history-making girl cadets since 2018. Northeast India's military school. Admission, fees, NDA results."
 keywords: ["sainik school chhingchhip", "sainik school mizoram", "sainik school chhingchhip admission", "sainik school chhingchhip fees", "sainik school northeast india"]
 state: "Mizoram"
-established: "2018"
+established: "2017"
 ---
 
 # Sainik School Chhingchhip — Where Girls Made History Before the Nation Caught Up
 
 On 4th June 2018, six girls walked through the gates of Sainik School Chhingchhip in Mizoram and made national headlines. "History was created on June 4 when six girls joined the Sainik School Chhingchhip in Mizoram," reported the Times of India. This was three years before the Government of India officially directed all Sainik Schools to admit girls in 2021. Mizoram's Sainik School was already there.
 
-Sainik School Chhingchhip, established on 21st January 2018, is the youngest Sainik School in the Northeast. Located in Chhingchhip village in the Serchhip district of Mizoram, the school serves the Mizo community — a predominantly Christian, tribal society with a strong tradition of discipline and community service. The school's campus has been "suitably developed to provide a congenial environment for training the Cadets."
+Sainik School Chhingchhip, established on 21st April 2017 and inaugurated on 17th May 2017 by the Chief Minister of Mizoram, is the 26th Sainik School in India. Located in Chhingchhip village in the Serchhip district of Mizoram, the school serves the Mizo community — a predominantly Christian, tribal society with a strong tradition of discipline and community service. The school's campus has been "suitably developed to provide a congenial environment for training the Cadets."
 
 ## Quick Facts
 
 | Detail | Info |
 |--------|------|
-| Established | 21 January 2018 |
+| Established | 21 April 2017 (inaugurated 17 May 2017 by the Chief Minister of Mizoram) |
 | Location | Chhingchhip, Serchhip District, Mizoram |
 | CBSE Affiliation | Yes |
 | Classes | VI to XII |
@@ -33,7 +33,7 @@ Sainik School Chhingchhip, established on 21st January 2018, is the youngest Sai
 
 Mizoram is one of India's most peaceful states — a remarkable transformation from the insurgency-ridden 1960s-80s. The Mizo community's transition from rebellion to peace was facilitated by the 1986 Mizo Peace Accord, and the state's military identity has evolved from conflict to service. The Assam Rifles, in particular, has deep ties to Mizoram, and many Mizo youth serve in the armed forces.
 
-Sainik School Chhingchhip was established in 2018 to formalize this military pathway. The school provides structured preparation for the NDA, something that was previously unavailable in Mizoram.
+Sainik School Chhingchhip was established in 2017 to formalize this military pathway. The school provides structured preparation for the NDA, something that was previously unavailable in Mizoram.
 
 ### The Girl Cadet Pioneer
 
@@ -41,14 +41,14 @@ The school's decision to admit girls in 2018 — three years before the national
 
 ### The Serchhip District
 
-Chhingchhip is in Serchhip district, one of Mizoram's smaller districts. The school's rural location provides a focused residential environment, away from the distractions of Aizawl (the state capital, approximately 120 km away).
+Chhingchhip is in Serchhip district, one of Mizoram's smaller districts. The school's rural location provides a focused residential environment, away from the distractions of Aizawl (the state capital, approximately 92 km away).
 
 ## Location & Contact
 
 - **Address:** Sainik School Chhingchhip, Serchhip District, Mizoram
 - **Website:** [sschhingchhip.mizoram.gov.in](https://sschhingchhip.mizoram.gov.in/)
-- **Nearest City:** Serchhip (district HQ)
-- **Nearest Airport:** Lengpui Airport, Aizawl (approx. 170 km)
+- **Nearest City:** Serchhip (district HQ, about 30 km)
+- **Nearest Airport:** Lengpui Airport, Aizawl
 - **Nearest Railway:** No railway in Mizoram; nearest is in Assam
 
 ## Admission Details
@@ -79,7 +79,7 @@ Fee details are available through the school administration. Scholarships from t
 
 ## Academic & NDA Performance
 
-As a school established in 2018, Chhingchhip is building its NDA track record. The school's contribution to military education in Mizoram — a state with no prior Sainik School — is its primary achievement.
+As a school established in 2017, Chhingchhip is building its NDA track record. The school's contribution to military education in Mizoram — a state with no prior Sainik School — is its primary achievement.
 
 ## FAQs
 

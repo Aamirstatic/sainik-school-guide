@@ -1,7 +1,7 @@
 ---
 title: "Sainik Schools in Mizoram: The Complete 2027 Guide"
 date: 2026-11-23T18:15:00+05:30
-lastmod: 2026-11-23T18:15:00+05:30
+lastmod: 2026-11-28T18:18:00+05:30
 draft: false
 description: "Mizoram has one Sainik School — Chhingchhip, in Serchhip district — and it is the most historic school in the chain: the first Sainik School in India to admit girls. Here are the 2027 seats, fees, quotas and how to apply through AISSEE 2027."
 keywords: ["Sainik School Mizoram", "Sainik School Chhingchhip", "AISSEE 2027 Mizoram seats", "Sainik School Chhingchhip fees", "girls Sainik School Mizoram"]
@@ -20,14 +20,14 @@ faqs:
   - question: "Can girls apply to Sainik School Chhingchhip?"
     answer: "Yes. Chhingchhip was the first Sainik School in India to admit girls — six girl cadets joined in 2018 as a pilot project. Girls now get 10 percent of the Class 6 vacancies at the school, and girls have been admitted to all 33 Sainik Schools since the 2021-22 session."
   - question: "What are the fees at Sainik School Chhingchhip?"
-    answer: "The annual fee was reported at around Rs 1.85 lakh per student in 2022. That figure is from a 2022 official briefing and may have changed, so confirm the current fee with the school before you apply. Scholarships and fee concessions exist for eligible families."
+    answer: "A new Class 6 cadet pays Rs 2,49,866 for 2026-27 (Rs 2,48,366 for SC/ST), as per the school's official fee document: tuition Rs 1,28,615, dietary charges Rs 78,175, term deductions Rs 18,000, security money Rs 3,000 (Rs 1,500 SC/ST) and clothing up to Rs 22,076. Fees rise every year, so confirm the 2027-28 figure with the school before paying. The Mizoram Scholarship Board also runs a scheme for Chhingchhip cadets."
   - question: "How do I apply to Sainik School Chhingchhip for 2027?"
     answer: "Through the AISSEE 2027 entrance exam, on the NTA portal at exams.nta.nic.in/sainik-school-society. The form closes on 2 December 2026 at 11:50 PM, the fee is Rs 850 (Rs 700 for SC/ST), and the exam is on Sunday, 31 January 2027."
   - question: "What is the home-state quota at Sainik School Chhingchhip?"
     answer: "67 percent of seats are reserved for Mizoram-domicile candidates and 33 percent for candidates from other states, with SC, ST, OBC-NCL and defence-ward reservations inside those pools. A domicile certificate is what proves the home-state claim."
 ---
 
-> **Last verified: 23 November 2026.** The school's founding date, the girls' pilot project and the 2027 seat figures below are ✅ **CONFIRMED** — the founding and the first girl cadets from the school's 2019-20 prospectus and Careers360's reporting; the 2027 seat matrix from the AISSEE 2027 bulletin as reproduced in our seat-matrix explainer and the bulletin-based school-wise matrix. The fee figure (around Rs 1.85 lakh) is 🔶 **REPORTED** — from an official briefing in September 2022, not a current fee circular, so confirm it with the school before you apply. The Class 9 intake is 🔶 **REPORTED** from the same 2022 briefing; check the 2027 bulletin for the current figure.
+> **Last verified: 28 November 2026.** The school's founding date, the girls' pilot project and the 2027 seat figures below are ✅ **CONFIRMED** — the founding and the first girl cadets from the school's 2019-20 prospectus and Careers360's reporting; the 2027 seat matrix verified directly from the NTA AISSEE 2027 information bulletin PDF (Appendices VI-A and VI-A1). **Corrected 28 November 2026:** the Class 9 intake is **90 seats** (55 Mizoram boys, 25 other-state boys, 10 girls) — the largest Class 9 intake of any Sainik School — not 10 as this guide previously said from a 2022 briefing. The fee figure is now **Rs 2,49,866 for a new Class 6 cadet (2026-27)** 🔶 **REPORTED** from the school's official fee document as quoted by The Speedy Brains (checked 28 October 2026), replacing the out-of-date "around Rs 1.85 lakh" from 2022.
 
 ![Children playing in a school playground — Sainik School Chhingchhip, Mizoram's only Sainik School](/images/inbody/sainik-schools-in-mizoram-complete-2027-guide.webp)
 *Photo: Pexels*
@@ -54,7 +54,7 @@ The school is young — nine years old this year — and it grew up fast. When t
 
 ## The girls' story: why Chhingchhip matters beyond Mizoram
 
-Here is the part of the story that belongs in the national record, not just in a state guide. In 2018, the Ministry of Defence chose Chhingchhip for a pilot project: induct girl cadets into a Sainik School for the first time. Six girls were selected from 22 applicants and joined the second batch — 54 boys and 6 girls in Class VI. Their names were Elizabeth Malsawmtluangi, Alicia Lalmuanpuii, Malsawnthari, Lalhmunghluii, Jurisa Chakma and Zonunpuii.
+Here is the part of the story that belongs in the national record, not just in a state guide. In 2018, the Ministry of Defence chose Chhingchhip for a pilot project: induct girl cadets into a Sainik School for the first time. Six girls were selected — 31 girls from across Mizoram applied, 21 were called for interview — and joined the second batch — 54 boys and 6 girls in Class VI. Their names were Elizabeth Malsawmtluangi, Alicia Lalmuanpuii, Malsawnthari, Lalhmunghluii, Jurisa Chakma and Zonunpuii.
 
 The pilot worked. Seeing its success, the government opened girls' admission to all 33 Sainik Schools from the **2021-22 academic session**, and 312 girl cadets were admitted across the country that year. The Governor said it plainly during his 2022 visit: Chhingchhip is the first Sainik School in the country where girl students are admitted — and the rest of the chain followed its example.
 
@@ -70,15 +70,15 @@ The AISSEE 2027 bulletin seat matrix is tentative — it can change before e-cou
 | Class 6 — boys, Mizoram domicile | 75 |
 | Class 6 — boys, other states | 33 |
 | Class 6 — girls | 12 |
-| Class 9 — boys | 10 (as reported in 2022; confirm against the 2027 bulletin) |
+| Class 9 — total | **90** (55 Mizoram boys, 25 other-state boys, 10 girls) — the largest Class 9 intake of any Sainik School |
 
 Two things jump out. First, Chhingchhip is one of the bigger Class 6 intakes in the chain — 120 seats puts it near the top, behind only the largest schools like Tilaiya. Second, the **67 percent home-state quota** is doing real work here: 75 of the 108 boys' seats are reserved for Mizoram-domicile boys. A child from Mizoram is not competing against the whole country for most of the seats — only for the 33 other-state seats does the competition go national. That is exactly why the [domicile certificate](/blog/domicile-certificate-sainik-school-guide/) matters so much: without it, your child falls into the smaller, harder pool.
 
-Honestly, the Class 9 route is a different story. Ten seats, boys only as reported, and the competition for them is fierce — Class 9 has only 732 seats across all 33 schools, against 3,160 in Class 6. If your child is in Class 5 now, Class 6 is the realistic door. If your child is already in Class 8, apply for Class 9 by all means — but know the odds going in.
+Honestly, the Class 9 route is the opposite story here. Ninety seats — the largest Class 9 intake of any Sainik School in India — with 55 for Mizoram boys, 25 for other-state boys and 10 for girls. Class 9 has only 731 seats across all 33 schools, against 3,160 in Class 6, so a 90-seat intake is remarkable. If your child is in Class 8 now, this is the widest Class 9 door in the country.
 
 ## Fees: the number to confirm before you apply
 
-The annual fee was reported at **around Rs 1.85 lakh per student** in an official briefing in September 2022. Treat that as a guide, not a quote — four years have passed, and the current figure may differ. Confirm it with the school before you plan around it.
+A new Class 6 cadet pays **Rs 2,49,866 for 2026-27** (Rs 2,48,366 for SC/ST), as per the school's official fee document: tuition Rs 1,28,615, dietary charges Rs 78,175 (Rs 265 × 295 days), term deductions Rs 18,000, security money Rs 3,000 (Rs 1,500 SC/ST) and clothing up to Rs 22,076. Existing cadets pay Rs 2,24,790. Fees rise every year, so confirm the 2027-28 figure with the school before you pay.
 
 What is worth knowing now is that the fee is not the end of the story. Sainik Schools have scholarship schemes and fee concessions for eligible families — defence wards, SC/ST students and low-income families can get real help. Our [scholarship and fee-concession guide](/blog/sainik-school-scholarship-fee-concession-2027/) explains the routes, and the school's own prospectus lists the schemes it administers. Do not let the headline fee decide the question before you have checked the concessions.
 
@@ -145,4 +145,4 @@ Through the AISSEE 2027 entrance exam, on the NTA portal at exams.nta.nic.in/sai
 - Sainik School seat matrix 2027, Class 6 (Chhingchhip: 108 boys, 75 home-state, 33 other-state; 120 total): https://sainikschoolcadet.in/sainik-school-seat-matrix-class-6-boys/
 - List of Sainik Schools — Wikipedia (Chhingchhip, 21 April 2017): https://en.wikipedia.org/wiki/Sainik_Schools
 - NTA AISSEE 2027 Information Bulletin (dates, fee, age limits): https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/11/202611031403322790.pdf
-- Our seat-matrix explainer (3,160 Class 6 seats, 732 Class 9 seats, 2027): /news/aissee-2027-seat-matrix-3160-class-6-seats-2026-11-14/
+- Our seat-matrix explainer (3,160 Class 6 seats, 731 Class 9 seats, 2027): /news/aissee-2027-seat-matrix-3160-class-6-seats-2026-11-14/
